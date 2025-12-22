@@ -1,0 +1,540 @@
+@import "tailwindcss";
+
+/* 
+  Global design tokens – LIGHT LUXE THEME
+  Target aesthetic:
+  - Bone / ivory surface with a satin reflection
+  - Deep charcoal copy
+  - Brass accent with warmth, never neon
+  - Calm, understated, interior-architect premium
+*/
+:root {
+  /* Core surfaces */
+  --background: #faf9f6;          /* warm bone background for page sections */
+  --background-muted: #f2f1ed;    /* slightly darker band / footer rows */
+
+  --surface: #ffffff;             /* card / button surface */
+  --surface-light: #f8f7f4;       /* hover surface, very light warm grey */
+
+  /* Header surface specifically:
+     Slight vertical sheen so the nav bar looks like a matte anodized faceplate,
+     not flat white. This is what you saw on Sonus Faber / Devialet style bars.
+  */
+  --header-surface-gradient: linear-gradient(
+    to bottom,
+    #fdfcf9 0%,
+    #f8f6f2 40%,
+    #f6f4f0 100%
+  );
+
+  /* Typography */
+  --foreground: #1a1a1a;          /* near-black for primary text */
+  --secondary: #4d4f52;           /* relaxed grey for body text, nav idle */
+
+  /* Accent metal (champagne / brushed brass) */
+  --accent: #b68a4a;
+  --accent-soft: rgba(182, 138, 74, 0.12);
+
+  /* Hairlines / rings / borders */
+  --ring-warm: rgba(182, 138, 74, 0.4); /* focus halo / pressed brass */
+  --ring-dim: rgba(0, 0, 0, 0.05);      /* quiet "machined edge" outline */
+
+  --border-color: rgba(0, 0, 0, 0.12);      /* standard card stroke */
+  --border-color-soft: rgba(0, 0, 0, 0.06); /* faint divider, dropdown rows */
+
+  /* Depth systems
+     We split different shadow types so we stop overusing big black glows.
+     - card: small depth for cards, logo tile
+     - header: subtle downward falloff from nav bar
+     - focus: warm glow used on brass hover states
+  */
+  --shadow-card: 0 12px 24px rgba(0, 0, 0, 0.12);
+  --shadow-card-soft: 0 6px 16px rgba(0, 0, 0, 0.06);
+  --shadow-header: 0 10px 30px rgba(0, 0, 0, 0.08);
+  --shadow-focus-warm:
+    0 16px 32px rgba(182, 138, 74, 0.25),
+    0 0 24px rgba(182, 138, 74, 0.18);
+
+  /* Inset / bevel hint */
+  --shadow-inset: 0 2px 4px rgba(0, 0, 0, 0.04) inset;
+
+  /* Hero spotlight background:
+     A quiet champagne wash + subtle top vignette.
+     Apply to <body> or hero wrapper.
+  */
+  --brand-gradient:
+    radial-gradient(
+      120% 120% at 20% 0%,
+      rgba(182, 138, 74, 0.07) 0%,
+      rgba(255, 255, 255, 0) 55%
+    ),
+    radial-gradient(
+      circle at 50% 0%,
+      rgba(0, 0, 0, 0.05) 0%,
+      rgba(0, 0, 0, 0) 70%
+    ),
+    radial-gradient(
+      circle at 50% 80%,
+      #faf9f6 0%,
+      #faf9f6 60%,
+      #faf9f6 100%
+    );
+
+  /* Typography families:
+     We keep Geist (or Inter/GeistSans) for interface,
+     and introduce a serif display for premium hero headings / brand marks.
+     You will set these vars from next/font in layout.tsx.
+  */
+  --font-sans: var(--font-geist-sans, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif);
+  --font-mono: var(--font-geist-mono, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace);
+  --font-serif: var(--font-fraunces, "Fraunces", "Playfair Display", Georgia, serif);
+
+  /* Radii */
+  --radius-pill: 2rem;
+  --radius-card: 0.75rem;
+  --radius-button: 1.25rem; /* for CTA pill refinement */
+}
+
+/* Tailwind CSS variable mapping
+   So you can still do text-[var(--foreground)], bg-[var(--surface)], etc.
+*/
+@theme inline {
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-foreground: var(--foreground);
+  --color-secondary: var(--secondary);
+  --color-accent: var(--accent);
+
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+}
+
+/* ========================= */
+/* Global element defaults   */
+/* ========================= */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+   background: var(--background);  /* fallback */
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+input[type="search"] {
+  -moz-appearance: textfield;
+}
+/* ========================= */
+/* Link behavior / readability */
+/* ========================= */
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.15s linear, text-shadow 0.15s linear;
+}
+
+a:hover {
+  color: var(--accent);
+  text-decoration: none;
+  text-shadow: 0 0 6px rgba(182, 138, 74, 0.25);
+}
+
+/* Improve menu link contrast explicitly.
+   Usage in nav: className="nav-link"
+*/
+.nav-link {
+  color: var(--secondary);
+}
+
+.nav-link:hover,
+.nav-link[aria-current="page"] {
+  color: var(--foreground);
+  text-shadow: 0 0 6px rgba(182, 138, 74, 0.25);
+}
+
+/* the tiny underline below nav labels */
+.nav-underline {
+  background-color: var(--border-color-soft);
+  border-radius: 9999px;
+  height: 2px;
+  width: 2rem;
+  transition: all 0.25s ease;
+  transform-origin: center;
+}
+
+.nav-underline-active {
+  background-color: var(--accent);
+  box-shadow:
+    0 0 10px rgba(182, 138, 74, 0.6),
+    0 0 30px rgba(182, 138, 74, 0.25);
+}
+
+.nav-underline:hover {
+  animation: smoothSlide 0.3s ease forwards;
+  background-color: var(--accent);
+  box-shadow:
+    0 0 6px rgba(182, 138, 74, 0.45),
+    0 0 16px rgba(182, 138, 74, 0.2);
+}
+
+@keyframes smoothSlide {
+  0%   { transform: scaleX(0); opacity: 0.4; }
+  100% { transform: scaleX(1); opacity: 1;  }
+}
+
+/* ========================= */
+/* Selection                 */
+/* ========================= */
+
+::selection {
+  background: rgba(182, 138, 74, 0.14);
+  color: var(--foreground);
+}
+
+/* ========================= */
+/* High-end surface helpers  */
+/* ========================= */
+
+/* Fine film grain over feature areas (hero band, large card).
+   Gives tactile physicality instead of flat SaaS.
+*/
+.noise-overlay {
+  pointer-events: none;
+  position: absolute;
+  inset: 0;
+  opacity: 0.06; /* dialed back slightly for subtlety */
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='300' height='300' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: cover;
+}
+
+/* Soft hero spotlight / stage lighting.
+   Apply on hero wrapper: className="hero-stage"
+   This creates that "product reveal on plinth" lighting.
+*/
+.hero-stage {
+  background:
+    radial-gradient(circle at 50% 0%, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0) 70%),
+    var(--background);
+  position: relative;
+  box-shadow: 0 40px 120px rgba(0,0,0,0.08) inset;
+}
+
+.hero-premium-photo {
+  background:
+    radial-gradient(circle at 30% 10%, rgba(255,255,255,0.45) 0%, transparent 45%),
+    radial-gradient(circle at 70% 40%, rgba(255,255,255,0.25) 0%, transparent 38%),
+    rgba(10, 7, 5, 0.45);
+  mix-blend-mode: screen;
+  animation: hero-lustre 12s ease-in-out infinite;
+  opacity: 0.85;
+  pointer-events: none;
+}
+
+.hero-premium-text {
+  opacity: 0;
+  transform: translateY(18px) scale(0.98);
+  animation: hero-text-rise 1.2s ease forwards;
+  letter-spacing: -0.02em;
+}
+
+.hero-premium-subtext {
+  opacity: 0;
+  transform: translateY(6px) scale(0.99);
+  animation: hero-text-rise 1.2s ease forwards;
+  animation-delay: 0.2s;
+  letter-spacing: 0.32em;
+}
+
+@keyframes hero-lustre {
+  0% {
+    opacity: 0.6;
+    transform: scale(0.95);
+  }
+  50% {
+    opacity: 0.9;
+    transform: scale(1.02);
+  }
+  100% {
+    opacity: 0.7;
+    transform: scale(0.98);
+  }
+}
+
+@keyframes hero-text-rise {
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.project-premium-section {
+  position: relative;
+  isolation: isolate;
+}
+
+.project-premium-section *,
+.project-premium-section::after {
+  opacity: 0;
+  animation: premium-fade 1.2s ease forwards;
+}
+
+.project-premium-section .premium-hero-copy * {
+  animation-delay: 0.15s;
+}
+
+.project-premium-section .project-premium-content * {
+  animation-delay: 0.25s;
+}
+
+.project-premium-section .premium-body-copy * {
+  animation-delay: 0.35s;
+}
+
+@keyframes premium-fade {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+}
+
+.premium-anim {
+  opacity: 0;
+  transform: translateY(12px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.premium-anim.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Card shell helper for dropdowns, feature callouts, etc.
+   Subtle border, soft shadow. NO thick black ring.
+*/
+.card-shell {
+  background-color: var(--surface);
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(255,255,255,0.6) 0%,
+    rgba(255,255,255,0) 60%
+  );
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-card);
+  box-shadow: var(--shadow-card);
+}
+
+/* ========================= */
+/* CTA Pill - "Arrange a Demo" */
+/* ========================= */
+
+/* High-end CTAs should feel like a machined control surface,
+   not a bubbly iOS button. Softer gradient, crisp outline, brass hover.
+*/
+.btn-pill {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: var(--radius-button);
+  padding: 1rem 1.5rem;
+
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+
+  color: var(--foreground);
+
+  background: linear-gradient(
+    145deg,
+    #ffffff 0%,
+    #f3f2ef 100%
+  );
+  border: 1px solid rgba(182,138,74,0.35);
+  box-shadow:
+    var(--shadow-card),
+    var(--shadow-inset);
+
+  outline: 1px solid var(--ring-dim);
+  outline-offset: -1px;
+
+  transition: all 0.25s ease;
+}
+
+/* Subtle brushed highlight strip, like polished edge */
+.btn-pill::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    circle at 50% 0%,
+    rgba(255,255,255,0.55) 0%,
+    rgba(255,255,255,0) 60%
+  );
+  opacity: 0.4;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+
+/* Hover = brass activation.
+   Goes warmer, lifts off the page, but stays tasteful.
+*/
+.btn-pill:hover {
+  color: #000;
+  background: var(--accent);
+  border-color: var(--accent);
+  box-shadow:
+    var(--shadow-focus-warm),
+    0 2px 4px rgba(0,0,0,0.04) inset;
+  text-shadow: none;
+}
+
+/* ========================= */
+/* Social / icon badge block */
+/* ========================= */
+
+.social-badge {
+  position: relative;
+  display: flex;
+  height: 2.5rem;
+  width: 2.5rem;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 0.5rem;
+  background-color: var(--surface);
+  background-image:
+    linear-gradient(
+      145deg,
+      rgba(255,255,255,0.6) 0%,
+      rgba(255,255,255,0) 60%
+    );
+  border: 1px solid var(--border-color);
+  box-shadow:
+    var(--shadow-card-soft),
+    0 2px 3px rgba(0,0,0,0.08) inset;
+
+  color: var(--foreground);
+  line-height: 1;
+
+  outline: 1px solid var(--ring-dim);
+  outline-offset: -1px;
+  transition: all 0.16s linear;
+}
+
+.social-badge::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: radial-gradient(
+    circle at 50% 0%,
+    rgba(255,255,255,0.55) 0%,
+    rgba(255,255,255,0) 60%
+  );
+  opacity: 0.35;
+  mix-blend-mode: screen;
+  pointer-events: none;
+}
+
+.social-badge:hover {
+  color: var(--accent);
+  border-color: var(--ring-warm);
+  box-shadow:
+    0 16px 32px rgba(182,138,74,0.22),
+    0 32px 72px rgba(0,0,0,0.12),
+    0 2px 3px rgba(0,0,0,0.08) inset;
+}
+/* ========================= */
+/* SCROLLBAR UTILITIES - Only for specific components */
+/* ========================= */
+
+/* Utility class for components that need no scrollbar (like lightbox) */
+.no-scrollbar::-webkit-scrollbar { display: none !important; }
+.no-scrollbar { 
+  -ms-overflow-style: none !important; 
+  scrollbar-width: none !important;
+}
+
+/* Hide horizontal overflow globally to prevent layout issues */
+html, body {
+  overflow-x: hidden;
+}
+
+/* If you only wanted to avoid scroll chaining on the page itself */
+body {
+  overscroll-behavior-y: none;
+}
+@keyframes fadeDrawer {
+  0% {
+    opacity: 0;
+    transform: translateY(40px) scale(0.98);
+  }
+  60% {
+    opacity: 1;
+    transform: translateY(0) scale(1.02);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.gallery-drawer {
+  animation: fadeDrawer 1.4s cubic-bezier(0.19, 1, 0.22, 1);
+  animation-fill-mode: both;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.custom-scrollbar {
+  scrollbar-width: thin; /* Firefox */
+  scrollbar-color: rgba(20,20,20,0.22) transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  height: 6px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(20,20,20,0.22);
+  border-radius: 999px;
+}
+
+.custom-scrollbar:hover::-webkit-scrollbar-thumb {
+  background: rgba(196,167,119,0.55); /* champagne hover */
+}

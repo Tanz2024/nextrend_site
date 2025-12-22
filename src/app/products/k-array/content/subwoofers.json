@@ -1,0 +1,1440 @@
+[
+  {
+    "slug": "firenze-ks7p-i",
+    "name": "K-array Firenze KS7P I",
+    "headline": "Passive dual 21\" engine for Firenze grids",
+    "description": "KS7P I is the passive low-frequency backbone for Firenze touring systems, coupling dual 21-inch woofers to external DSP amplification for stadium-scale bass.",
+    "story": "Paired with Firenze KH7P I line arrays and KA208LIVE amplification, KS7P I lets system designers park enormous low-end headroom beneath compact, steerable tops while keeping everything in a visually minimal footprint.",
+    "definition": "Dual 21\" passive Firenze subwoofer for touring and large-format installs.",
+    "series": "Firenze",
+    "category": "Subwoofers",
+    "finish": "Touring black polyurea on steel frame",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Dual 21\" passive subwoofer",
+    "drivers": "2 x 21\" neodymium long-excursion cone drivers",
+    "keyStats": [
+      "Dual 21\" engine",
+      "Optimised for KA208LIVE",
+      "Firenze array voicing"
+    ],
+    "frequency": [
+      25,
+      120
+    ],
+    "coverage": "Omnidirectional (array-shape dependent)",
+    "weightKg": 110,
+    "ipRating": "IP44",
+    "image": "Firenze-KS7P I_main.png",
+    "lifestyle": [
+      {
+        "src": "Firenze-KS7P I_1.png",
+        "alt": "Firenze KS7P I subwoofers under touring array"
+      },
+      {
+        "src": "Firenze-KS7P I_2.png",
+        "alt": "Side view of stacked Firenze KS7P I modules"
+      },
+      {
+        "src": "Firenze-KS7P I_3.png",
+        "alt": "Firenze KS7P I rigged in touring configuration"
+      }
+    ],
+    "specs": [
+      "Format: dual 21\" passive subwoofer for Firenze touring systems",
+      "Transducers: 2 x 21\" neodymium cone drivers with long-excursion motor",
+      "Optimised to be driven by Firenze-series Kommander amplifiers with FIR processing",
+      "Frequency response 25 Hz \u2013 120 Hz (-6 dB) with system presets",
+      "Large, symmetrical ports and closed architecture minimise turbulence and noise",
+      "Rigging interfaces match Firenze line-array frames for neat grids"
+    ]
+  },
+  {
+    "slug": "firenze-ks7",
+    "name": "K-array Firenze KS7",
+    "headline": "Self-powered dual 21\" sub for arenas and stadiums",
+    "description": "KS7 is a self-powered Firenze subwoofer voiced for long-throw arenas, arenas, and outdoor stages where extended, controlled low end is non-negotiable.",
+    "story": "With dual 21-inch drivers, integrated Class D power and Firenze DSP, KS7 locks seamlessly to KH7 and KH8 arrays to create a single, steerable acoustic system that stays precise even at festival SPL.",
+    "definition": "Self-powered dual 21\" Firenze subwoofer for extreme SPL venues.",
+    "series": "Firenze",
+    "category": "Subwoofers",
+    "finish": "Touring black polyurea",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered dual 21\" subwoofer",
+    "drivers": "2 x 21\" neodymium drivers with high-power voice coils",
+    "keyStats": [
+      "Self-powered",
+      "2 x 21\" drivers",
+      "Firenze DSP onboard"
+    ],
+    "frequency": [
+      25,
+      120
+    ],
+    "coverage": "Omnidirectional with array control options",
+    "weightKg": 120,
+    "ipRating": "IP45",
+    "image": "Firenze-KS7_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Firenze-KS7_1.jpg",
+        "alt": "Firenze KS7 touring stack front view"
+      },
+      {
+        "src": "Firenze-KS7_2.jpg",
+        "alt": "Firenze KS7 side profile"
+      },
+      {
+        "src": "Firenze-KS7_3.jpg",
+        "alt": "Firenze KS7 deployed under main line array"
+      }
+    ],
+    "specs": [
+      "Format: self-powered dual 21\" Firenze subwoofer",
+      "High-power Class D amplification with advanced DSP presets",
+      "Frequency response 25 Hz \u2013 120 Hz (-6 dB) with Firenze processing",
+      "Optimised to anchor KH7 and KH8 arrays in large-format systems",
+      "Weather-resistant touring enclosure with integrated handles",
+      "Networkable control for delay, EQ and array optimisation"
+    ]
+  },
+  {
+    "slug": "firenze-ks8",
+    "name": "K-array Firenze KS8",
+    "headline": "Compact self-powered IPAL sub with straight line array geometry",
+    "description": "KS8 is a compact, self-powered subwoofer using IPAL\u00ae technology for precise, high-headroom low frequencies in touring rigs and large-scale events.",
+    "story": "With dual 21\" IPAL transducers, zero-latency DSP and powerful onboard amplification, KS8 can be flown or ground-stacked under Firenze arrays to deliver astonishingly tight, long-throw bass with sophisticated beam control options.",
+    "definition": "Self-powered straight line array subwoofer using IPAL\u00ae technology.",
+    "series": "Firenze",
+    "category": "Subwoofers",
+    "finish": "Touring black polyurea",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered straight line array subwoofer",
+    "drivers": "2 x 21\" IPAL high-efficiency transducers",
+    "keyStats": [
+      "IPAL\u00ae engine",
+      "Self-powered",
+      "Weather resistant"
+    ],
+    "frequency": [
+      28,
+      120
+    ],
+    "coverage": "Omnidirectional; controllable in arrays",
+    "weightKg": 130,
+    "ipRating": "IP45",
+    "image": "Firenze-KS8_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Firenze-KS8_2.jpg",
+        "alt": "Firenze KS8 flown beneath Firenze line arrays"
+      },
+      {
+        "src": "Firenze-KS8_3.jpg",
+        "alt": "Side view of Firenze KS8 enclosure"
+      },
+      {
+        "src": "Firenze-KS8_4.jpg",
+        "alt": "Firenze KS8 stacked in touring configuration"
+      }
+    ],
+    "specs": [
+      "Format: self-powered straight line array subwoofer with dual 21\" drivers",
+      "Integrated IPAL\u00ae amplifier module with differential pressure sensing",
+      "Zero-latency DSP for precise phase and amplitude control",
+      "Frequency response 28 Hz \u2013 120 Hz (-6 dB) with Firenze presets",
+      "Weather-resistant design suitable for outdoor festivals",
+      "EASE Focus integration for cardioid and virtual arc configurations"
+    ]
+  },
+  {
+    "slug": "firenze-kh7p-i",
+    "name": "K-array Firenze KH7P I",
+    "headline": "Passive 3D steerable slim line array element",
+    "description": "KH7P I is the passive Firenze line-array element that brings 3D beam steering to large-format touring systems when paired with dedicated amplification.",
+    "story": "Leveraging Firenze Slim Array Technology and external DSP, KH7P I lets system engineers sculpt coverage vertically and horizontally while keeping a minimal visual footprint and rock-solid mechanical frames.",
+    "definition": "Passive digitally steerable line-array module for Firenze systems.",
+    "series": "Firenze",
+    "category": "Subwoofers",
+    "finish": "Black Firenze frame with stainless steel grille",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Passive slim line array element",
+    "drivers": "4 x 12\" coaxial neodymium woofers",
+    "keyStats": [
+      "Slim Array Technology",
+      "3D beam steering (with DSP)",
+      "High power density"
+    ],
+    "frequency": [
+      70,
+      18000
+    ],
+    "coverage": "Digitally steerable vertical and horizontal coverage",
+    "weightKg": 46,
+    "ipRating": "IP45",
+    "image": "Firenze-KH7P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Firenze-KH7P I_1.jpg",
+        "alt": "Firenze KH7P I line array in arena deployment"
+      },
+      {
+        "src": "Firenze-KH7P I_2.jpg",
+        "alt": "Front view of Firenze KH7P I elements"
+      },
+      {
+        "src": "Firenze-KH7P I_3.jpg",
+        "alt": "Side detail of Firenze KH7P I frame"
+      },
+      {
+        "src": "Firenze-KH7P I_4.jpg",
+        "alt": "Firenze KH7P I stacked for transport"
+      }
+    ],
+    "specs": [
+      "Format: passive slim line-array element for Firenze touring grids",
+      "Transducers: 4 x 12\" coaxial neodymium woofers in SAT configuration",
+      "Designed for external multi-channel DSP amplification and beam steering",
+      "High peak SPL with compact frontal area and shallow depth",
+      "Compatible with Firenze rigging frames for fast straight or curved hangs",
+      "Ideal companion to KS7/KS7P I and KS8 low-frequency modules"
+    ]
+  },
+  {
+    "slug": "firenze-kh8",
+    "name": "K-array Firenze KH8",
+    "headline": "Top-of-the-line self-powered touring array",
+    "description": "KH8 is Firenze\u2019s flagship touring element, a self-powered, weather-resistant line array with electronic beam steering and extraordinary output.",
+    "story": "With integrated multi-channel amplification and onboard DSP, KH8 flies in perfectly straight hangs while still sculpting coverage, dramatically reducing rigging time compared to traditional curved arrays.",
+    "definition": "Self-powered, digitally steerable touring line-array element.",
+    "series": "Firenze",
+    "category": "Subwoofers",
+    "finish": "Black touring enclosure",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered slim touring array",
+    "drivers": "Multi-way array with 8 discrete amplifier channels",
+    "keyStats": [
+      "Electronic Beam Steering",
+      "Self-powered",
+      "Weather resistant"
+    ],
+    "frequency": [
+      70,
+      18000
+    ],
+    "coverage": "Digitally steered vertical coverage, wide horizontal dispersion",
+    "weightKg": 52,
+    "ipRating": "IP45",
+    "image": "Firenze-KH8_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Firenze-KH8_1.jpg",
+        "alt": "Firenze KH8 stack front angle"
+      },
+      {
+        "src": "Firenze-KH8_2.jpg",
+        "alt": "Firenze KH8 side detail"
+      },
+      {
+        "src": "Firenze-KH8_3.jpg",
+        "alt": "Firenze KH8 flown cluster"
+      }
+    ],
+    "specs": [
+      "Format: self-powered touring line-array element with 8-channel onboard amplification",
+      "Slim Array Technology (SAT) for tight impulse response and clarity",
+      "Electronic Beam Steering for focused coverage and reduced spill",
+      "Frequency response 70 Hz \u2013 18 kHz (-6 dB) with Firenze presets",
+      "Weather-resistant enclosure with integrated rigging system",
+      "Perfect partner to Firenze KS8 and KS7 low-frequency modules"
+    ]
+  },
+  {
+    "slug": "firenze-kx12f-i",
+    "name": "K-array Firenze KX12F I",
+    "headline": "Coaxial 12\" array element to complement Firenze low-end",
+    "description": "KX12F I is a stainless-steel coaxial point-source element that slots into Firenze systems as a compact, high-impact mid-high box.",
+    "story": "Its rotatable waveguide and 12\" + compression driver format let designers tighten coverage over dance floors, terraces and infill zones while keeping the visual story in line with the Firenze sub arrays.",
+    "definition": "12\" coaxial stainless-steel array element for Firenze ecosystems.",
+    "series": "Firenze",
+    "category": "Subwoofers",
+    "finish": "Stainless steel cabinet with wide-mesh grille",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Coaxial point-source / array element",
+    "drivers": "12\" woofer + 1.7\" compression driver (coaxial)",
+    "keyStats": [
+      "Adjustable waveguide",
+      "12\" coaxial format",
+      "Firenze voicing"
+    ],
+    "frequency": [
+      120,
+      18000
+    ],
+    "coverage": "User-selectable 30\u00b0\u201390\u00b0 vertical/horizontal patterns",
+    "weightKg": 23,
+    "ipRating": "IP43",
+    "image": "Firenze-KX12F I_main.png",
+    "lifestyle": [
+      {
+        "src": "Firenze-KX12F I_1.png",
+        "alt": "Firenze KX12F I flown above stage"
+      },
+      {
+        "src": "Firenze-KX12F I_2.png",
+        "alt": "Firenze KX12F I close-up of grille and waveguide"
+      },
+      {
+        "src": "Firenze-KX12F I_3.png",
+        "alt": "Firenze KX12F I in side-hung array"
+      }
+    ],
+    "specs": [
+      "Format: coaxial point-source / array element for Firenze systems",
+      "Transducers: 12\" woofer + 1.7\" compression driver on shared axis",
+      "Adjustable waveguide for 30\u00b0\u201390\u00b0 vertical or horizontal dispersion",
+      "Frequency response ~120 Hz \u2013 18 kHz (-6 dB) with system processing",
+      "Stainless steel cabinet with discreet wide-mesh grille",
+      "Dual NL4 connectors for pass-through and flexible wiring"
+    ]
+  },
+  {
+    "slug": "rumble-ku26",
+    "name": "K-array Rumble KU26",
+    "headline": "Slim dual 6\" sub for invisible bass under walls and benches",
+    "description": "KU26 is an ultra-compact passive subwoofer with a 6\" woofer and 6\" passive radiator, designed to hide in millwork while still extending small systems down into true sub-bass.",
+    "story": "Used alongside Lyzard, Vyper, Tornado or Anakonda columns, the stainless-steel KU26 tucks into coves and risers so designers get full-range response without a visible, boxy subwoofer anywhere in sight.",
+    "definition": "Ultra-slim passive subwoofer with 6\" driver and radiator.",
+    "series": "Rumble",
+    "category": "Subwoofers",
+    "finish": "Stainless steel with textured paint or custom RAL",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Ultra-thin passive subwoofer",
+    "drivers": "1 x 6\" neodymium woofer + 1 x 6\" passive radiator",
+    "keyStats": [
+      "Ultra-slim profile",
+      "Selectable impedance",
+      "Weather resistant"
+    ],
+    "frequency": [
+      45,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 7,
+    "ipRating": "IP64",
+    "image": "Rumble-KU26_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Rumble-KU26_1.jpg",
+        "alt": "Rumble KU26 front view"
+      },
+      {
+        "src": "Rumble-KU26_2.jpg",
+        "alt": "Rumble KU26 low-profile install"
+      },
+      {
+        "src": "Rumble-KU26_3.jpg",
+        "alt": "Rumble KU26 hidden under seating"
+      },
+      {
+        "src": "Rumble-KU26_4.jpg",
+        "alt": "Rumble KU26 bracket detail"
+      },
+      {
+        "src": "Rumble-KU26_5.jpg",
+        "alt": "Rumble KU26 side profile"
+      },
+      {
+        "src": "Rumble-KU26_6.jpg",
+        "alt": "Rumble KU26 in wall niche"
+      },
+      {
+        "src": "Rumble-KU26_7.jpg",
+        "alt": "Rumble KU26 close-up of grille"
+      },
+      {
+        "src": "Rumble-KU26_8.jpg",
+        "alt": "Rumble KU26 under-step mounting"
+      }
+    ],
+    "specs": [
+      "Format: ultra-slim passive subwoofer companion for small column systems",
+      "Transducers: 6\" neodymium woofer + 6\" passive radiator",
+      "Frequency response 45 Hz \u2013 150 Hz (-6 dB) with KA presets",
+      "Selectable impedance for daisy-chaining multiple KU26 on a single channel",
+      "Fully sealed stainless-steel chassis for demanding environments",
+      "Ideal for bars, lounges, galleries and discreet residential bass"
+    ]
+  },
+  {
+    "slug": "rumble-ku44-i",
+    "name": "K-array Rumble KU44 I",
+    "headline": "Array-able 4x4\" bass element for slender low-end columns",
+    "description": "KU44 I is a stainless-steel, line-source subwoofer with four 4-inch transducers arranged for slim column bass that can be flown beside mid-high arrays.",
+    "story": "Stack KU44 I modules behind or beside Kobra, Kayman or Vyper columns to build a truly invisible full-range line source that still carries serious LF energy to the back rows.",
+    "definition": "Ultra-thin, array-able passive bass element.",
+    "series": "Rumble",
+    "category": "Subwoofers",
+    "finish": "Brushed stainless steel or custom RAL",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Array-able line source subwoofer",
+    "drivers": "2 x 4\" neodymium woofers + 2 x 4\" passive radiators",
+    "keyStats": [
+      "Line-source bass",
+      "Selectable 8/32 \u03a9",
+      "Marine-ready steel"
+    ],
+    "frequency": [
+      50,
+      150
+    ],
+    "coverage": "Omnidirectional line source",
+    "weightKg": 9,
+    "ipRating": "IP64",
+    "image": "Rumble-KU44 I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Rumble-KU44 I_1.jpg",
+        "alt": "Rumble KU44 I compact line-source sub"
+      },
+      {
+        "src": "Rumble-KU44 I_2.jpg",
+        "alt": "Rumble KU44 I column close-up"
+      },
+      {
+        "src": "Rumble-KU44 I_3.jpg",
+        "alt": "Rumble KU44 I rear connections"
+      },
+      {
+        "src": "Rumble-KU44 I_4.jpg",
+        "alt": "Rumble KU44 I mounted vertically"
+      },
+      {
+        "src": "Rumble-KU44 I_5.jpg",
+        "alt": "Rumble KU44 I with matching columns"
+      },
+      {
+        "src": "Rumble-KU44 I_6.jpg",
+        "alt": "Rumble KU44 I close grille texture"
+      },
+      {
+        "src": "Rumble-KU44 I_7.jpg",
+        "alt": "Rumble KU44 I in hospitality venue"
+      },
+      {
+        "src": "Rumble-KU44 I_8.jpg",
+        "alt": "Rumble KU44 I side angle"
+      }
+    ],
+    "specs": [
+      "Format: ultra-thin array-able bass element for line-source systems",
+      "Transducers: 2 x 4\" neodymium woofers + 2 x 4\" passive radiators",
+      "Frequency response 50 Hz \u2013 150 Hz (-6 dB) with KA-series amplification",
+      "Selectable 8/32 \u03a9 impedance for long strings of KU44 on a single channel",
+      "All-steel construction, fully sealed and marine compliant",
+      "Discreet visual profile for worship spaces, galleries and hospitality"
+    ]
+  },
+  {
+    "slug": "rumble-ku210",
+    "name": "K-array Rumble KU210",
+    "headline": "Ultra-thin 10\" sub that disappears into architecture",
+    "description": "KU210 is a high-power passive subwoofer combining a 10\" neodymium driver with a 10\" passive radiator in an ultra-shallow steel box.",
+    "story": "It slides behind banquettes, under stages or along walls, extending K-array Installed Sound systems down into true sub-bass while remaining visually invisible and immune to dust, sand and spray.",
+    "definition": "Ultra-thin, high-performance 10\" subwoofer module.",
+    "series": "Rumble",
+    "category": "Subwoofers",
+    "finish": "Stainless steel with black or white finish",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Ultra-thin passive subwoofer",
+    "drivers": "1 x 10\" neodymium woofer + 1 x 10\" passive radiator",
+    "keyStats": [
+      "Slim 10\" chassis",
+      "40\u2013150 Hz response",
+      "IP-rated steel"
+    ],
+    "frequency": [
+      40,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 11,
+    "ipRating": "IP54",
+    "image": "Rumble-KU210_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Rumble-KU210_1.jpg",
+        "alt": "Rumble KU210 installed under seating"
+      },
+      {
+        "src": "Rumble-KU210_2.jpg",
+        "alt": "Rumble KU210 wall-mounted"
+      },
+      {
+        "src": "Rumble-KU210_3.jpg",
+        "alt": "Rumble KU210 close-up front grille"
+      },
+      {
+        "src": "Rumble-KU210_4.jpg",
+        "alt": "Rumble KU210 side profile"
+      },
+      {
+        "src": "Rumble-KU210_5.jpg",
+        "alt": "Rumble KU210 in lounge application"
+      },
+      {
+        "src": "Rumble-KU210_6.jpg",
+        "alt": "Rumble KU210 under stage lip"
+      },
+      {
+        "src": "Rumble-KU210_7.jpg",
+        "alt": "Rumble KU210 detail of connectors"
+      },
+      {
+        "src": "Rumble-KU210_8.jpg",
+        "alt": "Rumble KU210 with partner columns"
+      }
+    ],
+    "specs": [
+      "Format: ultra-thin passive subwoofer for Installed Sound Series",
+      "Transducers: 10\" neodymium woofer + 10\" passive radiator in sealed cabinet",
+      "Frequency response 40 Hz \u2013 150 Hz (-6 dB) with KA presets",
+      "Rated power ~320 W with peak SPL around 127 dB",
+      "All-steel, fully sealed chassis suitable for harsh environments",
+      "Selectable low-impedance operation for flexible amplifier loading"
+    ]
+  },
+  {
+    "slug": "rumble-ku212",
+    "name": "K-array Rumble KU212",
+    "headline": "Dual 12\" ultra-slim sub for medium and large projects",
+    "description": "KU212 doubles the driver complement to a 12\" woofer and 12\" passive radiator, creating a stainless steel subwoofer suited to clubs, cinemas and live rooms.",
+    "story": "Designed as a companion to K-array Installed Sound tops, KU212 hides along walls and under platforms while delivering the extended 35 Hz\u2013150 Hz response needed for premium hospitality and live venues.",
+    "definition": "Ultra-thin, high-power passive subwoofer with 12\" engine.",
+    "series": "Rumble",
+    "category": "Subwoofers",
+    "finish": "Stainless steel with black or white finishes",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Ultra-thin high-power passive subwoofer",
+    "drivers": "1 x 12\" neodymium woofer + 1 x 12\" passive radiator",
+    "keyStats": [
+      "Extended 35 Hz bottom",
+      "Slim 12\" format",
+      "Omni coverage"
+    ],
+    "frequency": [
+      35,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 20,
+    "ipRating": "IP64",
+    "image": "Rumble-KU212_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Rumble-KU212_1.jpg",
+        "alt": "Rumble KU212 front view"
+      },
+      {
+        "src": "Rumble-KU212_2.jpg",
+        "alt": "Rumble KU212 in club install"
+      },
+      {
+        "src": "Rumble-KU212_3.jpg",
+        "alt": "Rumble KU212 mounted under balcony"
+      },
+      {
+        "src": "Rumble-KU212_4.jpg",
+        "alt": "Rumble KU212 side profile"
+      },
+      {
+        "src": "Rumble-KU212_5.jpg",
+        "alt": "Rumble KU212 grille close-up"
+      },
+      {
+        "src": "Rumble-KU212_6.jpg",
+        "alt": "Rumble KU212 array of subs"
+      },
+      {
+        "src": "Rumble-KU212_7.jpg",
+        "alt": "Rumble KU212 rear connections"
+      },
+      {
+        "src": "Rumble-KU212_8.jpg",
+        "alt": "Rumble KU212 in cinema application"
+      }
+    ],
+    "specs": [
+      "Format: ultra-thin passive subwoofer with 12\" transducer and passive radiator",
+      "Frequency response 35 Hz \u2013 150 Hz (-6 dB) with KA amplifier presets",
+      "Rated for medium and large-format projects such as clubs and cinemas",
+      "Sealed stainless-steel enclosure with high environmental resistance",
+      "Selectable impedance to allow multiple KU212 units per amplifier channel",
+      "Ideal low-frequency partner for K-array Installed Sound tops"
+    ]
+  },
+  {
+    "slug": "rumble-ku315",
+    "name": "K-array Rumble KU315",
+    "headline": "Flagship 3x15\" Rumble sub for outdoor and large venues",
+    "description": "KU315 is the most powerful passive Rumble subwoofer, combining a 15\" neodymium woofer with two 15\" passive radiators in a shallow polyurea-coated cabinet.",
+    "story": "Certified for marine and outdoor installs, KU315 brings true large-format low end to terraces, arenas and auditoria while still keeping a surprisingly slim frontal profile and simple SpeakON connectivity.",
+    "definition": "Ultra-thin, high-power 15\" subwoofer with dual passive radiators.",
+    "series": "Rumble",
+    "category": "Subwoofers",
+    "finish": "Polyurea-coated birch plywood",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "High-power passive subwoofer",
+    "drivers": "1 x 15\" neodymium woofer + 2 x 15\" passive radiators",
+    "keyStats": [
+      "Most powerful Rumble",
+      "2000 W @ 4 \u03a9",
+      "Marine-capable enclosure"
+    ],
+    "frequency": [
+      35,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 40,
+    "ipRating": "IP64",
+    "image": "Rumble-KU315_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Rumble-KU315_1.jpg",
+        "alt": "Rumble KU315 front view"
+      },
+      {
+        "src": "Rumble-KU315_2.jpg",
+        "alt": "Rumble KU315 side view"
+      },
+      {
+        "src": "Rumble-KU315_3.jpg",
+        "alt": "Rumble KU315 in outdoor install"
+      },
+      {
+        "src": "Rumble-KU315_4.jpg",
+        "alt": "Rumble KU315 grille and port detail"
+      },
+      {
+        "src": "Rumble-KU315_5.jpg",
+        "alt": "Rumble KU315 rear connections"
+      },
+      {
+        "src": "Rumble-KU315_6.jpg",
+        "alt": "Rumble KU315 side angle"
+      },
+      {
+        "src": "Rumble-KU315_7.jpg",
+        "alt": "Rumble KU315 stacked pair"
+      }
+    ],
+    "specs": [
+      "Format: ultra-thin, high-power passive subwoofer with 15\" driver + dual 15\" passive radiators",
+      "Frequency response ~35 Hz \u2013 150 Hz (-6 dB) with KA presets",
+      "Nominal power handling around 2000 W @ 4 \u03a9 with up to ~137 dB peak SPL",
+      "Polyurea-coated birch plywood cabinet certified for outdoor and marine use",
+      "Sealed alignment with passive radiators for low noise and full environmental sealing",
+      "Ideal for large clubs, theatres, auditoria and outdoor terraces"
+    ]
+  },
+  {
+    "slug": "truffle-ktr24",
+    "name": "K-array Truffle KTR24",
+    "headline": "Pocket-sized aluminium subwoofer for ultra-discreet installs",
+    "description": "Truffle KTR24 is a tiny aluminium subwoofer designed to sit under furniture, steps or millwork, extending compact systems down to real 45 Hz low end.",
+    "story": "Paired with ultra-small Lyzard or Tornado satellites, KTR24 turns high-design spaces and hotel suites into full-range listening rooms without any visible sub cabinets.",
+    "definition": "Passive micro subwoofer with 4\" driver and passive radiator.",
+    "series": "Truffle",
+    "category": "Subwoofers",
+    "finish": "Black powder-coated aluminium",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Concealable micro subwoofer",
+    "drivers": "4\" woofer + 4\" passive radiator",
+    "keyStats": [
+      "Concealable form factor",
+      "45\u2013150 Hz range",
+      "Omni bass bubble"
+    ],
+    "frequency": [
+      45,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 1.5,
+    "ipRating": "IP54",
+    "image": "Truffle-KTR24_main.png",
+    "lifestyle": [
+      {
+        "src": "Truffle-KTR24_1.png",
+        "alt": "Truffle KTR24 under console"
+      },
+      {
+        "src": "Truffle-KTR24_2.png",
+        "alt": "Truffle KTR24 front grille detail"
+      },
+      {
+        "src": "Truffle-KTR24_3.png",
+        "alt": "Truffle KTR24 hidden beside furniture"
+      },
+      {
+        "src": "Truffle-KTR24_4.png",
+        "alt": "Truffle KTR24 on display stand"
+      },
+      {
+        "src": "Truffle-KTR24_5.png",
+        "alt": "Truffle KTR24 rear connector view"
+      }
+    ],
+    "specs": [
+      "Format: compact passive aluminium subwoofer",
+      "Transducers: 4\" woofer paired with 4\" passive radiator",
+      "Frequency response 45 Hz \u2013 150 Hz (-6 dB) when processed with KA amplifiers",
+      "Tiny footprint ideal for hospitality suites and residential joinery",
+      "2-pin Euroblock connector for neat architectural wiring",
+      "Available in black as standard with optional custom finishes"
+    ]
+  },
+  {
+    "slug": "truffle-ktr25",
+    "name": "K-array Truffle KTR25",
+    "headline": "Cylindrical sub that hides in joinery and risers",
+    "description": "Truffle KTR25 uses a short cylindrical enclosure with a 5.25\" active driver and matching passive radiator to create a compact omnidirectional low-frequency source.",
+    "story": "Originally voiced to underpin Azimut KAMUT2L systems, KTR25 is equally at home nested in plinths, walls and steps, providing warm, controlled low end wherever interior designers want sound but not boxes.",
+    "definition": "Passive cylindrical subwoofer with 5.25\" active + passive drivers.",
+    "series": "Truffle",
+    "category": "Subwoofers",
+    "finish": "Black painted aluminium cylinder",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Cylindrical architectural subwoofer",
+    "drivers": "5.25\" active driver + 5.25\" passive radiator",
+    "keyStats": [
+      "Cylindrical form",
+      "Omni low-end field",
+      "Azimut-voiced"
+    ],
+    "frequency": [
+      45,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 2.5,
+    "ipRating": "IP54",
+    "image": "Truffle-KTR25_main.png",
+    "lifestyle": [
+      {
+        "src": "Truffle-KTR25_1.png",
+        "alt": "Truffle KTR25 hidden in step"
+      },
+      {
+        "src": "Truffle-KTR25_2.png",
+        "alt": "Truffle KTR25 installed in wall niche"
+      },
+      {
+        "src": "Truffle-KTR25_3.png",
+        "alt": "Truffle KTR25 close-up cylinder body"
+      },
+      {
+        "src": "Truffle-KTR25_4.png",
+        "alt": "Truffle KTR25 in living room installation"
+      },
+      {
+        "src": "Truffle-KTR25_5.png",
+        "alt": "Rear connectors of Truffle KTR25"
+      }
+    ],
+    "specs": [
+      "Format: passive cylindrical subwoofer for hidden low-frequency reinforcement",
+      "Transducers: 5.25\" active driver with matching 5.25\" passive radiator",
+      "Frequency response around 45 Hz \u2013 150 Hz (-6 dB) when paired with KA processing",
+      "Designed to remain unseen in plinths, risers and cabinetry",
+      "Provides the low end for Azimut-KAMUT2L14 and similar systems",
+      "Aluminium cylinder with discreet finish for architectural integration"
+    ]
+  },
+  {
+    "slug": "truffle-ktr26",
+    "name": "K-array Truffle KTR26",
+    "headline": "Largest compact Truffle for sustained low-end in bigger rooms",
+    "description": "KTR26 is the largest compact Truffle, using a 6.5\" active driver plus passive radiators in a longer cylinder to provide deeper, more sustained bass for premium spaces.",
+    "story": "For high-end lounges, restaurants and villas that need low-end presence but refuse visible subs, KTR26 disappears into architecture while filling the room with effortless 45 Hz weight.",
+    "definition": "Passive 6.5\" cylindrical subwoofer with omnidirectional output.",
+    "series": "Truffle",
+    "category": "Subwoofers",
+    "finish": "Black anodised aluminium cylinder",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Compact cylindrical subwoofer",
+    "drivers": "1 x 6.5\" active driver + passive radiators",
+    "keyStats": [
+      "Largest compact Truffle",
+      "45\u2013150 Hz range",
+      "Omnidirectional"
+    ],
+    "frequency": [
+      45,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 3.5,
+    "ipRating": "IP54",
+    "image": "Truffle-KTR26_main.png",
+    "lifestyle": [
+      {
+        "src": "Truffle-KTR26_1.png",
+        "alt": "Truffle KTR26 hidden behind wall panel"
+      },
+      {
+        "src": "Truffle-KTR26_2.png",
+        "alt": "Truffle KTR26 cabinet detail"
+      },
+      {
+        "src": "Truffle-KTR26_3.png",
+        "alt": "Truffle KTR26 in hotel lounge"
+      },
+      {
+        "src": "Truffle-KTR26_4.png",
+        "alt": "Truffle KTR26 side profile of cylinder"
+      },
+      {
+        "src": "Truffle-KTR26_5.png",
+        "alt": "Truffle KTR26 close-up of grille"
+      }
+    ],
+    "specs": [
+      "Format: passive cylindrical subwoofer for high-end architectural installs",
+      "Transducers: 6.5\" active driver with symmetrical passive radiator loading",
+      "Frequency response 45 Hz \u2013 150 Hz (-6 dB) with KA amplifier presets",
+      "Omnidirectional low-frequency dispersion from cylindrical form factor",
+      "Aluminium-alloy cylinder designed to be concealed in structure",
+      "Ideal for lounges, restaurants and premium residential theatres"
+    ]
+  },
+  {
+    "slug": "thunder-ks1-i",
+    "name": "K-array Thunder KS1 I",
+    "headline": "Ultra-compact 4\" installation sub for tight spaces",
+    "description": "Thunder KS1 I is the smallest Thunder installation subwoofer, built around a long-throw 4\" driver to provide surprising bass from an enclosure that disappears into joinery.",
+    "story": "Think boutique hotel rooms, lounges and galleries where a full Thunder stack would be overkill but the client still wants K-array definition and punch under 80 Hz.",
+    "definition": "Ultra-compact passive installation subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black satin with installation hardware",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "4\" long-throw installation subwoofer",
+    "drivers": "1 x 4\" long-throw neodymium driver",
+    "keyStats": [
+      "Smallest Thunder model",
+      "Surprising output",
+      "Install accessories included"
+    ],
+    "frequency": [
+      70,
+      200
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 3,
+    "ipRating": "IP54",
+    "image": "Thunder-KS1 I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS1 I_1.jpg",
+        "alt": "Thunder KS1 I hidden in cabinet"
+      },
+      {
+        "src": "Thunder-KS1 I_2.jpg",
+        "alt": "Thunder KS1 I flush wall install"
+      },
+      {
+        "src": "Thunder-KS1 I_3.jpg",
+        "alt": "Thunder KS1 I grille detail"
+      },
+      {
+        "src": "Thunder-KS1 I_4.jpg",
+        "alt": "Thunder KS1 I rear connection panel"
+      },
+      {
+        "src": "Thunder-KS1 I_5.jpg",
+        "alt": "Thunder KS1 I under counter"
+      }
+    ],
+    "specs": [
+      "Format: ultra-compact passive installation subwoofer",
+      "Transducer: 4\" long-throw neodymium driver in optimised bandpass alignment",
+      "Frequency response ~70 Hz \u2013 200 Hz (-6 dB) with matched processing",
+      "Lightweight enclosure that hides in small cavities and joinery",
+      "Supplied with installation brackets for wall or ceiling mounting",
+      "Ideal for premium hospitality and residential background systems"
+    ]
+  },
+  {
+    "slug": "thunder-ks1p-i",
+    "name": "K-array Thunder KS1P I",
+    "headline": "Active 4\" installation sub with built-in DSP",
+    "description": "KS1P I takes the tiny KS1 I form factor and adds integrated amplification and DSP for plug-and-play installation projects.",
+    "story": "For design offices and hospitality rooms that need a simple, single-box low-end solution, KS1P I offers Thunder voicing and control without external amps or racks.",
+    "definition": "Ultra-compact active installation subwoofer with DSP.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black satin installation finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered compact installation subwoofer",
+    "drivers": "1 x 4\" long-throw neodymium driver",
+    "keyStats": [
+      "Built-in amplifier",
+      "Onboard DSP",
+      "Ultra-compact"
+    ],
+    "frequency": [
+      70,
+      200
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 4,
+    "ipRating": "IP54",
+    "image": "Thunder-KS1P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS1P I_1.jpg",
+        "alt": "Thunder KS1P I wall mount"
+      },
+      {
+        "src": "Thunder-KS1P I_2.jpg",
+        "alt": "Thunder KS1P I connector detail"
+      },
+      {
+        "src": "Thunder-KS1P I_3.jpg",
+        "alt": "Thunder KS1P I on shelf"
+      },
+      {
+        "src": "Thunder-KS1P I_4.jpg",
+        "alt": "Thunder KS1P I in hotel room"
+      },
+      {
+        "src": "Thunder-KS1P I_5.jpg",
+        "alt": "Thunder KS1P I front grille close-up"
+      }
+    ],
+    "specs": [
+      "Format: ultra-compact active installation subwoofer",
+      "Transducer: 4\" long-throw neodymium driver with internal amplification",
+      "Onboard DSP presets to match K-array installation satellites",
+      "Frequency response ~70 Hz \u2013 200 Hz (-6 dB) for compact systems",
+      "Simplified connectivity for integrators (mains + line level in)",
+      "Perfect for hotel rooms, lounges and office fit-outs"
+    ]
+  },
+  {
+    "slug": "thunder-ks2-i",
+    "name": "K-array Thunder KS2 I",
+    "headline": "Medium-format 12\" Thunder sub for full-range installs",
+    "description": "KS2 I is the workhorse Thunder installation subwoofer, centred on a 12\" driver for club-level output in a still-compact box.",
+    "story": "From restaurant main rooms to smaller clubs and theatres, KS2 I delivers proper chest hit and extension while staying slim enough to integrate cleanly into interiors.",
+    "definition": "12\" passive installation subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured installation paint",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "12\" installation subwoofer",
+    "drivers": "1 x 12\" long-throw neodymium driver",
+    "keyStats": [
+      "12\" driver",
+      "High output",
+      "Installation-focused"
+    ],
+    "frequency": [
+      38,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 24,
+    "ipRating": "IP43",
+    "image": "Thunder-KS2 I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS2 I_1.jpg",
+        "alt": "Thunder KS2 I in club installation"
+      },
+      {
+        "src": "Thunder-KS2 I_2.jpg",
+        "alt": "Thunder KS2 I side profile"
+      },
+      {
+        "src": "Thunder-KS2 I_3.jpg",
+        "alt": "Thunder KS2 I low-frequency stack"
+      },
+      {
+        "src": "Thunder-KS2 I_4.jpg",
+        "alt": "Thunder KS2 I grille detail"
+      },
+      {
+        "src": "Thunder-KS2 I_5.jpg",
+        "alt": "Thunder KS2 I under stage"
+      }
+    ],
+    "specs": [
+      "Format: medium-format passive installation subwoofer",
+      "Transducer: 12\" long-throw driver tuned for musical punch and extension",
+      "Frequency response ~38 Hz \u2013 150 Hz (-6 dB) with Thunder presets",
+      "Multiple rigging and mounting options for installation flexibility",
+      "Compatible with Kommander amplifiers and Thunder processing",
+      "Ideal for clubs, bars and performance venues needing strong LF foundation"
+    ]
+  },
+  {
+    "slug": "thunder-ks2p-i",
+    "name": "K-array Thunder KS2P I",
+    "headline": "Active 12\" Thunder install sub with built-in power",
+    "description": "KS2P I wraps the KS2 I acoustic platform with internal amplification and DSP, making it a self-contained low-frequency solution.",
+    "story": "For projects where external amps are undesirable or rack space is tight, KS2P I brings serious Thunder punch with a direct mains + signal hook-up.",
+    "definition": "12\" self-powered Thunder installation subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured installation paint",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered installation subwoofer",
+    "drivers": "1 x 12\" long-throw neodymium driver",
+    "keyStats": [
+      "Built-in amp/DSP",
+      "12\" driver",
+      "Install-tuned presets"
+    ],
+    "frequency": [
+      38,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 26,
+    "ipRating": "IP43",
+    "image": "Thunder-KS2P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS2P I_1.jpg",
+        "alt": "Thunder KS2P I rack-free install"
+      },
+      {
+        "src": "Thunder-KS2P I_2.jpg",
+        "alt": "Thunder KS2P I rear amp plate"
+      },
+      {
+        "src": "Thunder-KS2P I_3.jpg",
+        "alt": "Thunder KS2P I wall-mounted"
+      },
+      {
+        "src": "Thunder-KS2P I_4.jpg",
+        "alt": "Thunder KS2P I grille close-up"
+      },
+      {
+        "src": "Thunder-KS2P I_5.jpg",
+        "alt": "Thunder KS2P I under balcony"
+      }
+    ],
+    "specs": [
+      "Format: 12\" self-powered installation subwoofer",
+      "Transducer: 12\" long-throw driver with integrated amplification and DSP",
+      "Frequency response ~38 Hz \u2013 150 Hz (-6 dB) using factory presets",
+      "Onboard control for level, crossover and basic EQ",
+      "Simplified cabling \u2013 only mains power and audio feed required",
+      "Ideal for bars, lounges and venues without central amp racks"
+    ]
+  },
+  {
+    "slug": "thunder-ks3-i",
+    "name": "K-array Thunder KS3 I",
+    "headline": "High-output 15\" Thunder sub for live and club installs",
+    "description": "KS3 I scales Thunder up to a 15\" driver, ready for modern club and live performance SPL from a compact but muscular enclosure.",
+    "story": "It forms the backbone of many Thunder-based systems, pairing with Vyper, Kayman or Mugello tops to create coherent, high-impact front-of-house rigs.",
+    "definition": "High-output 15\" passive installation subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured touring/installation paint",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "15\" installation/touring subwoofer",
+    "drivers": "1 x 15\" long-throw neodymium driver",
+    "keyStats": [
+      "15\" Thunder platform",
+      "High SPL",
+      "Install/touring crossover"
+    ],
+    "frequency": [
+      32,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 33,
+    "ipRating": "IP43",
+    "image": "Thunder-KS3 I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS3 I_1.jpg",
+        "alt": "Thunder KS3 I front view"
+      },
+      {
+        "src": "Thunder-KS3 I_2.jpg",
+        "alt": "Thunder KS3 I top panel detail"
+      },
+      {
+        "src": "Thunder-KS3 I_3.jpg",
+        "alt": "Thunder KS3 I in live venue"
+      },
+      {
+        "src": "Thunder-KS3 I_4.jpg",
+        "alt": "Thunder KS3 I stack of subs"
+      },
+      {
+        "src": "Thunder-KS3 I_5.jpg",
+        "alt": "Thunder KS3 I grille close-up"
+      }
+    ],
+    "specs": [
+      "Format: 15\" high-output passive subwoofer",
+      "Transducer: 15\" long-throw neodymium driver with high power handling",
+      "Frequency response ~32 Hz \u2013 150 Hz (-6 dB) with Thunder presets",
+      "Compact yet powerful footprint suited to clubs and live rooms",
+      "Multiple rigging points for flown or ground-stacked deployments",
+      "Pairs with Thunder KS series and K-array tops for full-range systems"
+    ]
+  },
+  {
+    "slug": "thunder-ks3p-i",
+    "name": "K-array Thunder KS3P I",
+    "headline": "Self-powered 15\" Thunder sub with serious headroom",
+    "description": "KS3P I adds internal amplification and DSP to the KS3 I platform, turning it into a fully self-contained 15\" Thunder engine.",
+    "story": "When integrators need big-club energy without external amp racks, KS3P I provides plug-and-play low end that can be tuned on board or via matching K-array control.",
+    "definition": "Self-powered 15\" Thunder installation/touring subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured paint",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "15\" self-powered subwoofer",
+    "drivers": "1 x 15\" long-throw neodymium driver",
+    "keyStats": [
+      "Self-powered",
+      "15\" Thunder voice",
+      "DSP presets"
+    ],
+    "frequency": [
+      32,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 35,
+    "ipRating": "IP43",
+    "image": "Thunder-KS3P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS3P I_1.jpg",
+        "alt": "Thunder KS3P I input panel"
+      },
+      {
+        "src": "Thunder-KS3P I_2.jpg",
+        "alt": "Thunder KS3P I front grille"
+      },
+      {
+        "src": "Thunder-KS3P I_3.jpg",
+        "alt": "Thunder KS3P I ground stack"
+      },
+      {
+        "src": "Thunder-KS3P I_4.jpg",
+        "alt": "Thunder KS3P I in theatre install"
+      },
+      {
+        "src": "Thunder-KS3P I_5.jpg",
+        "alt": "Thunder KS3P I branding detail"
+      }
+    ],
+    "specs": [
+      "Format: 15\" self-powered installation/touring subwoofer",
+      "Transducer: 15\" driver with integrated Class D amplification",
+      "Frequency response ~32 Hz \u2013 150 Hz (-6 dB) via Thunder presets",
+      "Onboard DSP with selectable crossover and alignment presets",
+      "Ideal for clubs and performance spaces needing amp-less LF solutions",
+      "Compatible with K-array remote control and monitoring ecosystems"
+    ]
+  },
+  {
+    "slug": "thunder-ks4-i",
+    "name": "K-array Thunder KS4 I",
+    "headline": "Large-format Thunder sub to anchor sizeable rooms",
+    "description": "KS4 I is a large-format Thunder installation subwoofer, voiced to handle the heavy lifting in theatres, larger clubs and performance halls.",
+    "story": "It provides deep extension and high SPL capability while maintaining the controlled, musical character Thunder subs are known for, making it a natural anchor in multi-way systems.",
+    "definition": "Large-format passive Thunder installation subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured paint",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Large-format installation subwoofer",
+    "drivers": "High-excursion LF driver in optimised enclosure",
+    "keyStats": [
+      "Large-format Thunder",
+      "High SPL",
+      "Install-focused"
+    ],
+    "frequency": [
+      30,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 38,
+    "ipRating": "IP43",
+    "image": "Thunder-KS4 I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS4 I_1.jpg",
+        "alt": "Thunder KS4 I in theatre"
+      },
+      {
+        "src": "Thunder-KS4 I_2.jpg",
+        "alt": "Thunder KS4 I close-up"
+      },
+      {
+        "src": "Thunder-KS4 I_3.jpg",
+        "alt": "Thunder KS4 I sub array"
+      },
+      {
+        "src": "Thunder-KS4 I_4.jpg",
+        "alt": "Thunder KS4 I stage edge install"
+      },
+      {
+        "src": "Thunder-KS4 I_5.jpg",
+        "alt": "Thunder KS4 I grille detail"
+      }
+    ],
+    "specs": [
+      "Format: large-format passive Thunder subwoofer",
+      "High-excursion LF platform optimised for deep extension and impact",
+      "Frequency response ~30 Hz \u2013 150 Hz (-6 dB) with Thunder processing",
+      "Designed for theatres, performance spaces and large clubs",
+      "Multiple rigging and placement options for installation flexibility",
+      "Matches visually and sonically with Thunder KS series tops and subs"
+    ]
+  },
+  {
+    "slug": "thunder-ks4p-i",
+    "name": "K-array Thunder KS4P I",
+    "headline": "Self-powered large-format Thunder install sub",
+    "description": "KS4P I brings active electronics to the KS4 I platform, offering large-room Thunder performance from a single powered enclosure.",
+    "story": "Ideal where you want serious low-end headroom but minimal rack hardware, KS4P I covers theatres and big hospitality spaces with controlled, musical bass.",
+    "definition": "Large-format active Thunder installation subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured paint",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered large-format installation subwoofer",
+    "drivers": "High-excursion LF driver with onboard amplification",
+    "keyStats": [
+      "Self-powered",
+      "Large Thunder platform",
+      "Install-ready DSP"
+    ],
+    "frequency": [
+      30,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 40,
+    "ipRating": "IP43",
+    "image": "Thunder-KS4P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS4P I_1.jpg",
+        "alt": "Thunder KS4P I front view"
+      },
+      {
+        "src": "Thunder-KS4P I_2.jpg",
+        "alt": "Thunder KS4P I rear amp panel"
+      },
+      {
+        "src": "Thunder-KS4P I_3.jpg",
+        "alt": "Thunder KS4P I on stage"
+      },
+      {
+        "src": "Thunder-KS4P I_4.jpg",
+        "alt": "Thunder KS4P I stacked pair"
+      },
+      {
+        "src": "Thunder-KS4P I_5.jpg",
+        "alt": "Thunder KS4P I detail of cooling vents"
+      }
+    ],
+    "specs": [
+      "Format: self-powered large-format Thunder subwoofer",
+      "High-power amplifier module with matched DSP onboard",
+      "Frequency response ~30 Hz \u2013 150 Hz (-6 dB) with Thunder presets",
+      "Simplified cabling, with power and audio only",
+      "Perfect for large hospitality, theatres and performance venues",
+      "Integrates into Thunder / Kommander control ecosystems"
+    ]
+  },
+  {
+    "slug": "thunder-ks5p-i",
+    "name": "K-array Thunder KS5P I",
+    "headline": "Flagship self-powered Thunder sub for extreme installs",
+    "description": "KS5P I sits at the top of the Thunder range, a self-powered installation subwoofer voiced for the most demanding live and club environments.",
+    "story": "When very large rooms, EDM clubs or show venues need uncompromising Thunder low end from an installation-grade enclosure, KS5P I delivers the headroom and control expected of a flagship model.",
+    "definition": "Flagship self-powered Thunder installation subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured paint",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "High-output self-powered installation subwoofer",
+    "drivers": "High-displacement LF platform with large motor structure",
+    "keyStats": [
+      "Flagship Thunder",
+      "Self-powered",
+      "Installation grade"
+    ],
+    "frequency": [
+      28,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 45,
+    "ipRating": "IP43",
+    "image": "Thunder-KS5P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KS5P I_1.jpg",
+        "alt": "Thunder KS5P I in large club"
+      },
+      {
+        "src": "Thunder-KS5P I_2.jpg",
+        "alt": "Thunder KS5P I side profile"
+      },
+      {
+        "src": "Thunder-KS5P I_3.jpg",
+        "alt": "Thunder KS5P I input panel"
+      }
+    ],
+    "specs": [
+      "Format: flagship self-powered Thunder installation subwoofer",
+      "High-displacement LF engine designed for extreme SPL applications",
+      "Frequency response ~28 Hz \u2013 150 Hz (-6 dB) with Thunder presets",
+      "Onboard DSP for crossover, delay and voicing options",
+      "Engineered for large clubs, show venues and special event spaces",
+      "Matches other Thunder KS series aesthetics for cohesive stacks"
+    ]
+  },
+  {
+    "slug": "thunder-ksc12p",
+    "name": "K-array Thunder KSC12P",
+    "headline": "Compact 12\" Thunder cube for tight-footprint bass",
+    "description": "KSC12P is a compact 12\" Thunder subwoofer in a cube-like cabinet, ideal where the footprint needs to stay small but low frequencies still matter.",
+    "story": "Slide KSC12P under low stages, inside furniture or beneath DJ consoles to give systems a proper 12\" foundation without visually dominating the space.",
+    "definition": "Compact 12\" passive Thunder subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured cube cabinet",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Compact passive 12\" subwoofer",
+    "drivers": "1 x 12\" long-throw driver",
+    "keyStats": [
+      "Compact cube",
+      "12\" driver",
+      "Thunder voicing"
+    ],
+    "frequency": [
+      32,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 22,
+    "ipRating": "IP43",
+    "image": "Thunder-KSC12P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KSC12P_1.jpg",
+        "alt": "Thunder KSC12P under DJ console"
+      },
+      {
+        "src": "Thunder-KSC12P_2.jpg",
+        "alt": "Thunder KSC12P cube detail"
+      },
+      {
+        "src": "Thunder-KSC12P_3.jpg",
+        "alt": "Thunder KSC12P side view"
+      }
+    ],
+    "specs": [
+      "Format: compact passive Thunder subwoofer with 12\" driver",
+      "Frequency response ~32 Hz \u2013 150 Hz (-6 dB) with Thunder presets",
+      "Cube-like footprint ideal for hiding in tight spaces",
+      "Compatible with Kommander amplifiers for voicing and protection",
+      "Used in club fills, DJ booths and compact live rigs",
+      "Rugged cabinet with Thunder-series styling"
+    ]
+  },
+  {
+    "slug": "thunder-ksc18p",
+    "name": "K-array Thunder KSC18P",
+    "headline": "Compact 18\" Thunder cube for deep, room-filling bass",
+    "description": "KSC18P scales the KSC concept up to an 18\" driver, delivering deep, room-filling bass from a still-manageable cube enclosure.",
+    "story": "For premium lounges, theatre underbalconies and immersive rooms that demand serious low-end yet minimal visual presence, KSC18P is the natural Thunder choice.",
+    "definition": "Compact 18\" passive Thunder subwoofer.",
+    "series": "Thunder",
+    "category": "Subwoofers",
+    "finish": "Black textured cube cabinet",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Compact passive 18\" subwoofer",
+    "drivers": "1 x 18\" long-throw driver",
+    "keyStats": [
+      "18\" Thunder cube",
+      "Deep extension",
+      "Compact footprint"
+    ],
+    "frequency": [
+      28,
+      150
+    ],
+    "coverage": "Omnidirectional",
+    "weightKg": 30,
+    "ipRating": "IP43",
+    "image": "Thunder-KSC18P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Thunder-KSC18P_1.jpg",
+        "alt": "Thunder KSC18P in theatre"
+      },
+      {
+        "src": "Thunder-KSC18P_2.jpg",
+        "alt": "Thunder KSC18P cube detail"
+      },
+      {
+        "src": "Thunder-KSC18P_3.jpg",
+        "alt": "Thunder KSC18P stacked pair"
+      }
+    ],
+    "specs": [
+      "Format: compact passive Thunder subwoofer with 18\" driver",
+      "Frequency response ~28 Hz \u2013 150 Hz (-6 dB) with Thunder presets",
+      "Compact cube-like design to tuck under stages and platforms",
+      "Designed for use with Kommander amplifiers and Thunder processing",
+      "Ideal for clubs, immersive rooms and under-balcony reinforcement",
+      "Matches KSC and KS aesthetics for cohesive system design"
+    ]
+  }
+]

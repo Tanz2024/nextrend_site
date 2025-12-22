@@ -1,0 +1,512 @@
+{
+  "brionvegaProducts": [
+   {
+  "family": "radiofonografo-rr226",
+  "slug": "radiofonografo",
+  "name": "Radiofonografo",
+  "headline": "Radiofonografo",
+  "series": "RR226 FO-ST",
+  "collaboration": "",
+  "image": "Radiofonografo_White_main.jpeg",
+  "description": "A sculptural console that glides beside a low sofa — cubes swung in for late-evening vinyl, opened wide for room-filling stereo.",
+  "heroCopy": "Open the cubes, shape the soundstage, and let vinyl fill the room.",
+  "story": "Designed by Achille and Pier Giacomo Castiglioni.\n\nThe production process of each Radiofonografo requires at least eight weeks to be completed, following a rigorous, entirely handcrafted procedure. As a special service for Art Products Brionvega enthusiasts, only one Radiofonografo per month is available for immediate delivery — a unique opportunity to purchase this iconic product and receive it at home within a few days.",
+  "specs": [
+    "Integrated radio + turntable playback: AM/FM tuner, Pro-Ject turntable, and Ortofon stylus.",
+    "High-power performance: 125W + 125W self-limited amplification, designed for confident, room-filling listening.",
+    "Connectivity for a complete system: 2× RCA line inputs for external sources, 1× RCA line output for connection to an external amplification system, and 1× RCA line output for connecting an external subwoofer.",
+    "Private listening: dedicated 6.3 mm stereo headphone output.",
+    "Construction + power: forged aluminium pedestal with castors for easy transportation, power supply 220V 50Hz (on request 110V 60Hz, 220V 60Hz), and a 5V USB port (power only). Colours: white, orange, red, blue and ciliegio (limited edition)."
+  ],
+  "features": [
+    "Iconic console format combining radio and turntable.",
+    "Swivelling speaker cubes to shape the stereo image.",
+    "Tactile, analog control layout — designed to be used, not hidden.",
+    "A statement piece that reads as furniture and a hi-fi system."
+  ],
+  "applications": [
+    "Private listening rooms and lounges.",
+    "Hospitality suites, lobbies, and design-led residences.",
+    "Galleries / studios where the system is part of the interior.",
+    "Showrooms and premium retail environments."
+  ],
+  "finishes": [
+    {
+      "key": "white",
+      "name": "White",
+      "hex": "#EDEDED",
+      "order": 1,
+      "image": "Radiofonografo_White_main.jpeg",
+      "gallery": [
+        {
+          "src": "Radiofonografo_White_main.jpeg",
+          "alt": "Radiofonografo — White"
+        }
+      ],
+      "lifestyle": []
+    },
+    {
+      "key": "red",
+      "name": "Red",
+      "hex": "#B3132B",
+      "order": 2,
+      "image": "Radiofonografo_Red_2.jpeg",
+      "gallery": [
+        {
+          "src": "Radiofonografo_Red_2.jpeg",
+          "alt": "Radiofonografo — Red"
+        }
+      ],
+      "lifestyle": []
+    },
+    {
+      "key": "blue",
+      "name": "Blue",
+      "hex": "#1E4E8C",
+      "order": 3,
+      "image": "Radiofonografo_Blue_1.jpeg",
+      "gallery": [
+        {
+          "src": "Radiofonografo_Blue_1.jpeg",
+          "alt": "Radiofonografo — Blue"
+        }
+      ],
+      "lifestyle": []
+    },
+    {
+      "key": "orange",
+      "name": "Orange",
+      "hex": "#E56A1B",
+      "order": 4,
+      "image": "Radiofonografo_Orange_3.jpeg",
+      "gallery": [
+        {
+          "src": "Radiofonografo_Orange_3.jpeg",
+          "alt": "Radiofonografo — Orange"
+        }
+      ],
+      "lifestyle": []
+    }
+  ],
+  "gallery": [],
+  "lifestyle": [
+    {
+      "src": "Radiofonografo_lifestyle_main.jpg",
+      "alt": "A calm presence in the room, designed as furniture and built for great sound.",
+      "caption": "A sculptural presence in the room: poised like furniture, performing like a serious hi-fi system."
+    },
+    {
+      "src": "Radiofonografo_lifestyle3.jpg",
+      "alt": "Clear controls and fine details, made to be touched and enjoyed.",
+      "caption": "Detail and control: an analog interface designed to be touched, adjusted, and enjoyed."
+    },
+    {
+      "src": "Radiofonografo_lifestyle4.jpg",
+  "alt": "Sound you can shape",
+  "caption": "Move and open the cubes to adjust how the sound fills the room."
+}
+
+  ],
+  "resources": [
+    {
+      "label": "User manual (RR226 FO-ST)",
+      "href": "rr226fost_UserManual_IT_EN.pdf"
+    },
+    {
+      "label": "Product drawing",
+      "href": "radiofonografo_drawing.pdf"
+    }
+  ]
+},
+  
+    {
+      "family": "radiofonografo-60th",
+      "slug": "radiofonografo-60th-anniversary",
+      "name": "Radiofonografo — 60th Anniversary",
+      "headline": "60th Anniversary Edition",
+      "series": "RR226 FO-ST",
+      "collaboration": "60th Anniversary",
+      "image": "radiofonografo_60_main.jpg",
+      "description": "A commemorative edition of the icon — conceived as a collectible object that opens into a complete high-fidelity system.",
+      "heroCopy": "A numbered anniversary edition — the icon, refined in a new green finish.",
+      "story": "Designed by Achille and Pier Giacomo Castiglioni.\n\nAn icon of Italian design, reinterpreted to celebrate 60 years of history, vision, and timeless style. This exclusive edition introduces a brand-new green finish, balanced by tobacco-toned edges and black detailing for a sober, contemporary presence. Available as a limited edition of 60 individually numbered pieces.",
+      "specs": [
+    "Integrated radio + turntable playback: AM/FM tuner, Pro-Ject turntable, and Ortofon stylus.",
+    "High-power performance: 125W + 125W self-limited amplification, designed for confident, room-filling listening.",
+    "Connectivity for a complete system: 2× RCA line inputs for external sources, 1× RCA line output for connection to an external amplification system, and 1× RCA line output for connecting an external subwoofer.",
+    "Private listening: dedicated 6.3 mm stereo headphone output.",
+    "Construction + power: forged aluminium pedestal with castors for easy transportation, power supply 220V 50Hz (on request 110V 60Hz, 220V 60Hz), and a 5V USB port (power only). Colours: white, orange, red, blue and ciliegio (limited edition)."
+  ],
+      "features": [
+        "60th Anniversary edition of the Radiofonografo icon",
+        "Brand-new green finish with tobacco-toned edges and black details",
+        "Swivelling cubes to shape the stereo image and soundstage",
+        "Designed as a furniture-grade object that reveals a hi-fi system"
+      ],
+      "applications": [
+        "Private listening rooms and lounges",
+        "Hospitality suites, lobbies, and design-led residences",
+        "Galleries / studios where the system is part of the interior",
+        "Showrooms and premium retail environments"
+      ],
+      "finishes": [],
+      "gallery": [
+        {
+          "src": "radiofonografo_60_main.jpg",
+          "alt": "Radiofonografo 60th — hero main"
+        },
+        {
+          "src": "radiofonografo_60_1.jpg",
+          "alt": "Radiofonografo 60th — view 1"
+        },
+        {
+          "src": "radiofonografo_60_2.jpg",
+          "alt": "Radiofonografo 60th — view 2"
+        },
+        {
+          "src": "radiofonografo_60_3.jpg",
+          "alt": "Radiofonografo 60th — view 3"
+        }
+      ],
+      "lifestyle": [
+  {
+    "src": "radiofonografo_60_lifestyles.jpg",
+    "alt": "Top view of the system",
+    "caption": "A clear view of the anniversary edition showing its form, color, and layout."
+  },
+  {
+    "src": "radiofonografo_60_lifestyles1.jpg",
+    "alt": "Control panel detail",
+    "caption": "Close details of the buttons and controls, designed to feel simple and precise."
+  },
+  {
+    "src": "radiofonografo_60_lifestyle2.jpg",
+    "alt": "Surface and logo detail",
+    "caption": "A quiet moment that highlights the finish, texture, and character of the piece."
+  }
+]
+      ,
+      "resources": [
+        {
+          "label": "User manual (RR226 FO-ST)",
+          "href": "rr226fost_UserManual_IT_EN.pdf"
+        },
+        {
+          "label": "Product drawing",
+          "href": "radiofonografo_drawing.pdf"
+        }
+      ]
+    },
+    {
+      "family": "radiofonografo-cherry-limited",
+      "slug": "radiofonografo-cherry-limited-edition",
+      "name": "Radiofonografo — Cherry (Limited Edition)",
+      "headline": "Cherry Limited Edition",
+      "series": "RR226 FO-ST",
+      "collaboration": "Limited Edition",
+      "image": "radiofonografo ciliegio main.jpg",
+      "description": "A warmer, crafted-wood interpretation of the icon — the same opening ritual and swivelling cubes, now expressed in cherry’s quiet, architectural character.",
+      "heroCopy": "A warm cherry finish for the icon — the same opening ritual, expressed in crafted wood.",
+      "story": "Designed by Achille and Pier Giacomo Castiglioni.\n\nCherry is the newest finish introduced for Brionvega’s famous Radiofonografo — a warm-coloured wood whose nuances range from golden brown to reddish, with a fine texture and straight, regular grain. Strong yet elegant, the cherry tree is also known for its delicate white and pink blossoms, often associated with spring and rebirth. This coexistence of robust material and poetic delicacy mirrors the Radiofonografo itself: an Art Product of acoustic reliability encased in an expressive design object. Available in an exclusive limited edition of 100 pieces.",
+   "specs": [
+    "Integrated radio + turntable playback: AM/FM tuner, Pro-Ject turntable, and Ortofon stylus.",
+    "High-power performance: 125W + 125W self-limited amplification, designed for confident, room-filling listening.",
+    "Connectivity for a complete system: 2× RCA line inputs for external sources, 1× RCA line output for connection to an external amplification system, and 1× RCA line output for connecting an external subwoofer.",
+    "Private listening: dedicated 6.3 mm stereo headphone output.",
+    "Construction + power: forged aluminium pedestal with castors for easy transportation, power supply 220V 50Hz (on request 110V 60Hz, 220V 60Hz), and a 5V USB port (power only). Colours: white, orange, red, blue and ciliegio (limited edition)."
+  ],
+      "features": [
+        "Limited-edition cherry wood cabinet — warm, furniture-led, and refined",
+        "Cherry grain ranges from golden brown to deep reddish tones",
+        "A design duality: robust wood paired with the symbolism of cherry blossoms",
+        "Swivelling speaker cubes to tune the stereo image and soundstage"
+      ],
+      "applications": [
+        "Private listening rooms and lounges",
+        "Hospitality suites, lobbies, and design-led residences",
+        "Galleries / studios where the system is part of the interior",
+        "Showrooms and premium retail environments"
+      ],
+      "heroVideo": {
+        "src": "radiofonografo ciliegio_lifestylevideo.mp4",
+        "poster": "radiofonografo ciliegio_lifestyle.jpg",
+        "alt": "Radiofonografo Cherry — lifestyle film"
+      },
+      "finishes": [],
+      "gallery": [
+        {
+          "src": "radiofonografo ciliegio main.jpg",
+          "alt": "Radiofonografo Cherry — hero main"
+        },
+        {
+          "src": "radiofonografo ciliegio_1.jpg",
+          "alt": "Radiofonografo Cherry — view 1"
+        },
+        {
+          "src": "radiofonografo ciliegio_2.jpg",
+          "alt": "Radiofonografo Cherry — view 2"
+        },
+        {
+          "src": "radiofonografo ciliegio_3.jpg",
+          "alt": "Radiofonografo Cherry — view 3"
+        }
+      ],
+      "lifestyle": [
+  {
+    "src": "radiofonografo ciliegio_lifestyle.jpg",
+    "alt": "Living room centerpiece",
+    "caption": "Placed at the heart of the room, it feels balanced, warm, and easy to live with."
+  },
+  {
+    "src": "radiofonografo ciliegio_lifestyle1.jpg",
+    "alt": "Calm interior setting",
+    "caption": "The system sits quietly in the space, adding character without demanding attention."
+  },
+  {
+    "src": "radiofonografo ciliegio_lifestyle2.jpg",
+    "alt": "Evening room mood",
+    "caption": "Soft light and rich tones create a relaxed atmosphere for listening."
+  }
+]
+      ,
+      "resources": [
+        {
+          "label": "User manual (RR226 FO-ST)",
+          "href": "rr226fost_UserManual_IT_EN.pdf"
+        },
+        {
+          "label": "Product drawing",
+          "href": "radiofonografo_drawing.pdf"
+        }
+      ]
+    },
+    {
+      "family": "radiocubo-ts522d",
+      "slug": "radiocubo",
+      "name": "Radiocubo",
+      "headline": "Radiocubo",
+      "series": "50° Anniversario",
+      "collaboration": "Modern",
+      "image": "radio.cubo/Brionvega_Radiocubo-black_main.png",
+      "description": "A compact cube radio that opens into a stereo-ready object — Bluetooth and DAB listening for kitchens, bedrooms, shelves, and studios.",
+      "heroCopy": "A compact cube that opens into sound — radio, Bluetooth, and DAB for everyday spaces.",
+     "story": "Designed by Marco Zanuso and Richard Sapper, this piece is a modern remake of a cult object of Italian design: the legendary Radio Cubo TS502.\n\nIt uses the same materials and care as the original. The ZAMAK metal alloy, a series of precise production steps, carefully chosen plastics, and considered packaging all contribute to its refined character. The result is an object that feels precious, solid, and timeless.\n\nA small piece of architecture for everyday listening, it is made to be opened, placed, and lived with. Designed to sit naturally on side tables and shelves, it works as both a sound system and a design object, created to keep its function and its ability to decorate the home for many years to come."
+      ,
+      "specs": [
+        "FM stereo and digital DAB / DAB+ radio with Bluetooth wireless playback",
+        "Integrated alarm clock, LCD display, and intuitive everyday controls",
+        "Rechargeable lithium battery providing up to 6 hours of portable listening",
+        "High-performance 4” super-bass loudspeaker with 3.5 mm auxiliary input",
+        "Includes remote control and dedicated power supply / charger"
+      ],
+      "features": [
+        "Iconic cube form that opens into a stereo object",
+        "Bluetooth + radio in a single sculptural body",
+        "Battery-powered listening for flexible placement",
+        "Simple controls designed for everyday rooms"
+      ],
+      "applications": [
+        "Kitchen, bedroom, and home office",
+        "Nearfield listening on shelves or side tables",
+        "Apartments and studios where space matters",
+        "Gift-worthy design audio for lifestyle spaces"
+      ],
+      "finishes": [
+        {
+          "key": "black",
+          "name": "Black",
+          "hex": "#1F1F1F",
+          "order": 1,
+          "image": "radio.cubo/Brionvega_Radiocubo-black_main.png",
+          "gallery": [
+            {
+              "src": "radio.cubo/Brionvega_Radiocubo-black_main.png",
+              "alt": "Radiocubo — Black"
+            }
+          ],
+          "lifestyle": []
+        },
+        {
+          "key": "white",
+          "name": "White",
+          "hex": "#F2F2F2",
+          "order": 2,
+          "image": "radio.cubo/Brionvega_Radiocubo-white_4.jpg",
+          "gallery": [
+            {
+              "src": "radio.cubo/Brionvega_Radiocubo-white_4.jpg",
+              "alt": "Radiocubo — White"
+            }
+          ],
+          "lifestyle": []
+        },
+        {
+          "key": "red",
+          "name": "Red",
+          "hex": "#C3162F",
+          "order": 3,
+          "image": "radio.cubo/Brionvega_Radiocubo-red_3.png",
+          "gallery": [
+            {
+              "src": "radio.cubo/Brionvega_Radiocubo-red_3.png",
+              "alt": "Radiocubo — Red"
+            }
+          ],
+          "lifestyle": []
+        },
+        {
+          "key": "orange",
+          "name": "Orange",
+          "hex": "#E56A1B",
+          "order": 4,
+          "image": "radio.cubo/Brionvega_Radiocubo-orange_2.png",
+          "gallery": [
+            {
+              "src": "radio.cubo/Brionvega_Radiocubo-orange_2.png",
+              "alt": "Radiocubo — Orange"
+            }
+          ],
+          "lifestyle": []
+        },
+        {
+          "key": "yellow",
+          "name": "Yellow",
+          "hex": "#E3B32F",
+          "order": 5,
+          "image": "radio.cubo/Brionvega_Radiocubo-yellow-0.jpg",
+          "gallery": [
+            {
+              "src": "radio.cubo/Brionvega_Radiocubo-yellow-0.jpg",
+              "alt": "Radiocubo — Yellow"
+            }
+          ],
+          "lifestyle": []
+        }
+      ],
+      "gallery": [],
+      "lifestyle": [
+        {
+          "src": "radio.cubo/Brionvega_Radiocubo_lifestyle1.jpg",
+          "alt": "Radiocubo on a low table",
+          "caption": "Placed on a low table, it becomes part of the room — open, ready, and quietly present during everyday moments."
+        },
+        {
+          "src": "radio.cubo/Brionvega_Radiocubo-lifestyle2.jpg",
+          "alt": "Radiocubo in a design-led interior",
+          "caption": "A small piece of architecture in the living space — compact in form, confident in presence, designed to be seen."
+        },
+        {
+          "src": "radio.cubo/Brionvega_Radiocubolifestyle_3.jpg",
+          "alt": "Radiocubo colour range",
+          "caption": "A palette of finishes that reads like décor — each colour a different mood, the same unmistakable silhouette."
+        }
+      ],
+      "resources": [
+        {
+          "label": "User manual Radiocubo 50",
+          "href": "radiocubo50_UserManual.pdf"
+        },
+        {
+          "label": "Product drawing",
+          "href": "radiocubo_drawing.pdf"
+        }
+      ]
+    },
+{
+  "family": "totem-rr231",
+  "slug": "totem",
+  "name": "Totem",
+  "headline": "Totem",
+  "series": "RR231",
+  "collaboration": "",
+  "image": "totem nero_main.png",
+  "description": "A simple cuboid that opens into a complete listening machine, part sculpture and part hi fi system.",
+  "heroCopy": "A quiet object that opens into music.",
+  "story": "Designed in 1971 by Mario Bellini, Totem is a celebration of the primary and simple forms that shape our world. It is an ode to clean geometry that comes from a long study of form and function.\n\nClosed, it reads as a pure cuboid. Opened, it becomes a complete listening machine. The two speakers unfold and the body opens to reveal the stereo module, radio, and turntable. A timeless design that keeps its function while also decorating the home for years to come.",
+  "specs": [
+    "Radio playback with AM, FM, and DAB plus.",
+    "Turntable system with a Pro Ject turntable and Ortofon stylus.",
+    "Power and sound control with 125W plus 125W self limited amplification and an amplified 6.3 mm stereo headphone output.",
+    "Connections for external sources and system expansion with 2 RCA line inputs, 1 RCA line output for an external amplification system, and 1 RCA line output for an external subwoofer.",
+    "Power supply 220V 50Hz with optional 110V 60Hz or 220V 60Hz on request."
+  ],
+  "features": [
+    "A solid form that opens into a full listening system.",
+    "Integrated radio, turntable, and amplification.",
+    "Speakers unfold to reveal the stereo module.",
+    "Designed as a design object first, then revealed as a machine."
+  ],
+  "applications": [
+    "Galleries, studios, and statement interiors.",
+    "High end lounges and design led hospitality.",
+    "Showrooms as a centerpiece listening object.",
+    "Large spaces where the form becomes the feature."
+  ],
+  "finishes": [
+    {
+      "key": "white",
+      "name": "White",
+      "hex": "#F2F2F2",
+      "order": 1,
+      "image": "totem nero_main.png",
+      "gallery": [
+        {
+          "src": "totem_white13.png",
+          "alt": "White finish detail"
+        }
+      ],
+      "lifestyle": []
+    },
+    {
+      "key": "black",
+      "name": "Black",
+      "hex": "#1F1F1F",
+      "order": 2,
+      "image": "totem_b_1.jpg",
+      "gallery": [
+        {
+          "src": "totem_b_4.jpg",
+          "alt": "Black finish view"
+        }
+      ],
+      "lifestyle": []
+    }
+  ],
+  "gallery": [],
+  "lifestyle": [
+    {
+      "src": "totem nero_lifestyle.png",
+      "alt": "Open form in the room",
+      "caption": "A calm object that changes the space when it opens."
+    },
+    {
+      "src": "totem nero_lifestyle1.png",
+      "alt": "Side angle view",
+      "caption": "The speakers swing out to shape the sound around you."
+    },
+    {
+      "src": "totem nero_lifestyle2.png",
+      "alt": "Control and surface detail",
+      "caption": "Simple controls and clean surfaces made for everyday use."
+    },
+    {
+      "src": "totem nero_lifestyle3.jpg",
+      "alt": "Living room setting",
+      "caption": "A design piece that belongs in the home, not hidden away."
+    }
+  ],
+  
+
+      "resources": [
+        {
+          "label": "User manual (RR231)",
+          "href": "rr231_UserManual_IT_EN.pdf"
+        },
+        {
+          "label": "In the box",
+          "href": "Totem_Accessories_inthebox-1.pdf"
+        }
+      ]
+    }
+  ]
+}

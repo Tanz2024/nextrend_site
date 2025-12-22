@@ -1,0 +1,484 @@
+{
+  "summaries": [
+    {
+      "slug": "k-array-gdm",
+      "category": "Global Summit",
+      "title": "K-array Global Distributor Meeting",
+      "shortDescription": "Against the rolling hills of Tuscany, sixty-four distributors from forty-three countries gathered at K-array's headquarters for an exclusive three-day summit. This intimate gathering showcased 2025's groundbreaking innovations, fostering partnerships that will shape the future of architectural audio across global markets.",
+      "location": "Scarperia e San Piero, Florence, Italy",
+      "dateLabel": "13-15 Oct 2024",
+      "narrative": "At K-array headquarters we joined distributors from across 43 countries, sharing new product insights and architectural integration training ahead of the 2025 roadmap.",
+      "heroMedia": {
+        "kind": "image",
+        "src": "K-array GDM_event2_image.jpg",
+        "alt": "Delegates at the K-array Global Distributor Meeting"
+      },
+      "gallery": [
+        "K-array GDM_event2_image.jpg",
+        "K-array GDM_event2_2image.jpg",
+        "K-array GDM_event2_3image.jpg"
+      ],
+      "highlights": [
+        "Hands-on labs with Anakonda, Thunder, and Pinnacle systems",
+        "Strategic sessions aligning global partners on innovation"
+      ]
+    },
+    {
+      "slug": "suara-festival",
+      "category": "Festival",
+      "title": "Suara Festival Bali",
+      "shortDescription": "Where the cliffs of Nyanyi Beach meet the Balinese sky, nine thousand souls from sixty countries converged for three transformative days. Seven immersive stages wove together music, art, culinary excellence, and wellness programming, all enhanced by K-array's invisible yet powerful acoustic presence.",
+      "location": "Nyanyi Beach, Bali, Indonesia",
+      "dateLabel": "2024 Edition",
+      "narrative": "Suara welcomed more than nine thousand guests from sixty countries, intertwining music, thought leadership, art, culinary, and wellness programming along the cliffs of Nyanyi beach.",
+      "heroMedia": {
+        "kind": "video",
+        "src": "event_title_video.mp4",
+        "poster": "Suara_Festival_Bali_1.jpg"
+      },
+      "gallery": [
+        "Suara_Festival_Bali_1.jpg",
+        "Suara_Festival_Bali_2.jpg",
+        "Suara_Festival_Bali_3.jpg"
+      ],
+      "highlights": [
+        "Seven immersive stages across the Balinese coastline",
+        "Flexible Anakonda arrays delivering powerful yet discreet sound"
+      ]
+    },
+    {
+      "slug": "reka-rix",
+      "category": "Design Week",
+      "title": "REKA Interiors Exhibition (RiX)",
+      "shortDescription": "Within the CURIOS Pavilion at Malaysia's premier design showcase, architectural audio met Italian heritage. K-array's precision systems created immersive soundscapes while iconic Brionvega pieces—each with fifty years of design history—introduced visitors to the marriage of form and function.",
+      "location": "Kuala Lumpur Convention Centre, Malaysia",
+      "dateLabel": "31 Oct-3 Nov 2024",
+      "narrative": "RiX gathered Malaysia's interior design community for showcases, forums, and installations; we delivered the total sound solution for the CURIOS Pavilion and SoundPod rooms.",
+      "heroMedia": {
+        "kind": "image",
+        "src": "REKA Interiors Exhibition – RiX_event3_image.jpg",
+        "alt": "CURIOS Pavilion at REKA Interiors Exhibition"
+      },
+      "gallery": [
+        "REKA Interiors Exhibition – RiX_event3_image.jpg",
+        "REKA Interiors Exhibition – RiX_event3_image2.jpg",
+        "REKA Interiors Exhibition – RiX_event3_image3.jpg"
+      ],
+      "highlights": [
+        "Anakonda-lined walkways delivering immersive ambience",
+        "SoundPod micro-theatre driven by K-array Lyzard KZ14"
+      ]
+    },
+    {
+      "slug": "crossover-asics",
+      "category": "Product Premiere",
+      "title": "Crossover x Asics Gel-Nimbus 10.1",
+      "shortDescription": "At Crossover's concept flagship in The Exchange TRX, retail space transformed into reactive laboratory. Projection mapping danced across walls while sensor-enabled sneakers triggered responsive soundscapes through exposed Amina Invisible Speakers, creating an installation where fashion met technology in beautiful chaos.",
+      "location": "Crossover, The Exchange TRX, Malaysia",
+      "dateLabel": "4 Oct 2024",
+      "narrative": "Projection mapping, a reactive sound lab, and a sensor-driven sneaker installation introduced the Gel-Nimbus 10.1 collaboration at Crossover's concept flagship.",
+      "heroMedia": {
+        "kind": "image",
+        "src": "Crossover Asics Gel-Nimbus 10.1 Launch Event_event4_image1.jpg",
+        "alt": "Crossover Asics Gel-Nimbus 10.1 launch sound lab"
+      },
+      "gallery": [
+        "Crossover Asics Gel-Nimbus 10.1 Launch Event_event4_image1.jpg",
+        "Crossover Asics Gel-Nimbus 10.1 Launch Event4_image2.jpg",
+        "Crossover Asics Gel-Nimbus 10.1 Launch Event4_image3.jpg"
+      ],
+      "highlights": [
+        "Amina Invisible Speakers showcased as sculptural elements",
+        "Sensor-enabled sneakers triggering responsive sound cues"
+      ]
+    },
+    {
+      "slug": "brionvega-find",
+      "category": "Design Fair",
+      "title": "Brionvega at FIND Design Fair Asia",
+      "shortDescription": "In Singapore's Marina Bay Sands, Italian craftsmanship took center stage at Asia's premier design fair. The vibrant Radiocubo, sculptural Totem, and elegant Radiofonografo drew collectors into conversations about six decades of innovation, where industrial design becomes functional sculpture.",
+      "location": "Marina Bay Sands, Singapore",
+      "dateLabel": "26-28 Sep 2024",
+      "narrative": "Designers, collectors, and partners explored Brionvega's modern classics - merging Italian craftsmanship with premium audio at FIND Design Fair Asia.",
+      "heroMedia": {
+        "kind": "image",
+        "src": "Brionvega at FIND Design Fair Asia 2024 in Singapore_event_image1.jpg",
+        "alt": "Brionvega showcase at FIND Design Fair Asia"
+      },
+      "gallery": [
+        "Brionvega at FIND Design Fair Asia 2024 in Singapore_event_image1.jpg",
+        "Brionvega at FIND Design Fair Asia 2024 in Singapore_event5_image.jpg",
+        "Brionvega at FIND Design Fair Asia 2024 in Singapore_event5_image2.jpg"
+      ],
+      "highlights": [
+        "Radiocubo, Totem RR231, and Radiofonografo centrepieces",
+        "Curated storytelling on six decades of Italian industrial design"
+      ]
+    },
+    {
+      "slug": "forest-furniture-roche-bobois",
+      "category": "Launch Gala",
+      "title": "Forest Furniture x Roche Bobois",
+      "shortDescription": "In Bangsar's Forest Furniture showroom, French couture met Malaysian hospitality in an evening that redefined luxury retail. Multi-zone K-array systems created seamless acoustic journeys while Brionvega centerpieces complemented world-class furnishings, establishing new standards for experiential retail.",
+      "location": "Forest Furniture, Bangsar, Malaysia",
+      "dateLabel": "17 Jul 2024",
+      "narrative": "Forest Furniture's launch paired couture furnishings with a precision-tuned audio journey, reinforcing the brand's reputation for world-class service.",
+      "heroMedia": {
+        "kind": "image",
+        "src": "Forest Furniture Roche Bobois Launching Event6_image1.jpg",
+        "alt": "Forest Furniture Roche Bobois launch event"
+      },
+      "gallery": [
+        "Forest Furniture Roche Bobois Launching Event6_image1.jpg",
+        "Forest Furniture Roche Bobois Launching Event6_image2.jpg",
+        "Forest Furniture Roche Bobois Launching Event6_image3.jpg"
+      ],
+      "highlights": [
+        "Multi-zone coverage with K-array Vyper and Anakonda arrays",
+        "Brionvega centrepieces complementing couture furnishings"
+      ]
+    },
+    {
+      "slug": "robb-report-aham",
+      "category": "Collector Salon",
+      "title": "Robb Report x AHAM Capital",
+      "shortDescription": "Along the tranquil shores of Anantara Desaru, Robb Report Malaysia and AHAM Capital hosted an intimate salon for discerning collectors. Seamless indoor-outdoor sound design created atmospheric continuity as curated tastings and conversations unfolded beneath the Malaysian sunset.",
+      "location": "Anantara Desaru Coast Resort & Villas, Malaysia",
+      "dateLabel": "8 Nov 2024",
+      "narrative": "Robb Report Malaysia and AHAM Capital hosted high-net-worth guests for a seaside evening where curated listening lounges and tastings unfolded in sync.",
+      "heroMedia": {
+        "kind": "image",
+        "src": "Robb Report x AHAM Capital_event_10image.jpg",
+        "alt": "Robb Report x AHAM Capital private salon"
+      },
+      "gallery": [
+        "Robb Report x AHAM Capital_event_1image.jpg",
+        "Robb Report x AHAM Capital_event_2image.jpg",
+        "Robb Report x AHAM Capital_event_3image.jpg"
+      ],
+      "highlights": [
+        "Linked terraces and lounges tuned as one atmosphere",
+        "Discreet K-array arrays matching the resort's tranquil design"
+      ]
+    },
+    {
+      "slug": "brionvega-iconic-collection",
+      "category": "Icon Showcase",
+      "title": "Brionvega Iconic Audio Collection",
+      "shortDescription": "A traveling celebration of Italian design mastery across the Asia Pacific, where the legendary Radiofonografo, vibrant Radiocubo, and sculptural Totem tell the story of six decades at the intersection of art and audio.",
+      "location": "Asia Pacific Roadshow",
+      "dateLabel": "2024 Series",
+      "narrative": "Collectors experienced the craftsmanship behind Brionvega's design icons, each presented as functional sculpture marrying form and sound.",
+      "heroMedia": {
+        "kind": "image",
+        "src": "Brionvega, Iconic Italian Design Sound Technologyevent7_image1.jpg",
+        "alt": "Brionvega iconic design showcase"
+      },
+      "gallery": [
+        "Brionvega, Iconic Italian Design Sound Technologyevent7_image1.jpg",
+        "Brionvega, Iconic Italian Design Sound Technologyevent7_image3.jpg",
+        "Brionvega, Iconic Italian Design Sound Technology_event7_image4.jpg"
+      ],
+      "highlights": [
+        "Radiofonografo RR226, Radiocubo 50, and Totem RR231 centrepieces",
+        "Design storytelling on more than six decades of Italian heritage"
+      ]
+    }
+  ],
+  "details": {
+    "k-array-gdm": {
+      "slug": "k-array-gdm",
+      "category": "Global Summit",
+      "title": "K-array Global Distributor Meeting",
+      "location": "Scarperia e San Piero, Florence, Italy",
+      "dateRange": "13-15 October 2024",
+      "overview": "K-array hosted its annual Global Distributor Meeting at the Tuscan headquarters, welcoming sixty-four distributors from forty-three countries for three days of strategy, training, and product immersion.",
+      "profile": [
+        "K-array Audio Solutions is globally recognised for high-technology professional loudspeakers engineered in Italy since 1990.",
+        "The summit aligned distributors on innovation, architectural integration, and premium customer experiences."
+      ],
+      "eventNarrative": [
+        "Hands-on workshops explored the Anakonda flexible arrays, Thunder subwoofers, and Pinnacle systems, giving partners direct access to the 2025 release roadmap.",
+        "Roundtables and regional presentations enabled every distributor to share successes and insights that elevate projects worldwide."
+      ],
+      "keyProducts": [
+        "K-array Anakonda flexible line array ecosystem",
+        "K-array Thunder and Pinnacle solutions",
+        "K-array Kommander amplification and DSP control"
+      ],
+      "gallery": [
+        "K-array GDM_event2_image.jpg",
+        "K-array GDM_event2_2image.jpg",
+        "K-array GDM_event2_3image.jpg",
+        "K-array GDM_event2_4image.jpg",
+        "K-array GDM_event2_5image.jpg",
+        "K-array GDM_event2_6image.jpg",
+        "K-array GDM_event2_7image.jpg"
+      ],
+      "heroMedia": {
+        "kind": "image",
+        "src": "K-array GDM_event2_image.jpg",
+        "alt": "Delegates overlooking the Tuscan hills during the K-array summit"
+      }
+    },
+    "suara-festival": {
+      "slug": "suara-festival",
+      "category": "Festival",
+      "title": "Suara Festival Bali",
+      "location": "Nyanyi Beach, Bali, Indonesia",
+      "dateRange": "2024 Edition",
+      "overview": "We are proud to be invited to the Suara Festival in Bali, Indonesia. Suara is an international event welcoming guests across seven seaside stages that blend music, thought leadership, art, culinary, wellness, and traditional Balinese performances on the cliffs of Nyanyi beach.",
+      "profile": [
+        "Suara Festival is Indonesia's premier boutique festival, curating immersive experiences that seamlessly blend electronic music, wellness programming, culinary artistry, and Balinese culture.",
+        "Founded with a vision to create meaningful connections through music and mindfulness, Suara has become Southeast Asia's most sought-after festival destination, attracting conscious travelers and music enthusiasts from around the globe.",
+        "The festival's commitment to sustainability and cultural preservation has established it as a model for responsible event production in the region."
+      ],
+      "eventNarrative": [
+        "This third edition welcomed more than nine thousand fans from over sixty countries during three incredible days. \"This past weekend was undoubtedly one of the highlights of my 27-year career in curating and producing events worldwide,\" shared Suara Co-Founder, CEO, and Creative Director Jason Swamy.",
+        "K-array loudspeakers played a vital role. Producer Alexander Solonin and Sound Engineer Semen Chumanikhin said, \"We had heard the power of K-array's flexible Anakonda line array system and Thunder-KS2 subwoofer at Nuanu recording studio, which sounded truly amazing.\" That confidence translated into a flawless festival experience."
+      ],
+      "additionalNotes": [
+        "We are thrilled to have contributed to such a successful edition, enhancing every moment with K-array products. We look forward to partnering again for the fourth Suara Festival."
+      ],
+      "keyProducts": [
+        "K-array Anakonda flexible line arrays across seven stages",
+        "K-array Thunder-KS2 subwoofers delivering powerful low end",
+        "Distributed control for seamless transitions between performances"
+      ],
+      "gallery": [
+        "Suara_Festival_Bali_1.jpg",
+        "Suara_Festival_Bali_2.jpg",
+        "Suara_Festival_Bali_3.jpg",
+        "Suara_Festival_Bali_4.jpg",
+        "Suara_Festival_Bali_5.jpg"
+      ],
+      "heroMedia": {
+        "kind": "video",
+        "src": "event_title_video.mp4",
+        "poster": "Suara_Festival_Bali_1.jpg"
+      }
+    },
+    "reka-rix": {
+      "slug": "reka-rix",
+      "category": "Design Week",
+      "title": "REKA Interiors Exhibition (RiX)",
+      "location": "Kuala Lumpur Convention Centre, Malaysia",
+      "dateRange": "31 October-3 November 2024",
+      "overview": "RiX is presented by C.I.S under REKA Design Week as the annual gathering for Malaysia's interior design community, curated by the Malaysian Institute of Interior Designers.",
+      "profile": [
+        "The exhibition showcases only the best of each exhibitor's collections, tapping into Malaysia's interior design industry with conferences, forums, talks, networking, and workshops."
+      ],
+      "role": [
+        "Nextrend Systems was invited to design the total sound solution for the CURIOS Pavilion and to speak on the topic \"Design Senses - Sound.\""
+      ],
+      "eventNarrative": [
+        "We selected the K-array Anakonda flexible system to line the pavilion walkway, delivering a balanced, immersive experience while respecting the pavilion's refined design.",
+        "Iconic Brionvega Radiofonografo RR126 and Totem RR231 pieces, each with more than fifty years of heritage, introduced museum-grade design and audio to the installation.",
+        "Inside the SoundPod Room, compact yet powerful K-array Lyzard KZ14 speakers in each corner created an enveloping soundscape that encouraged visitors to linger.",
+        "A discreet K-array Vyper KV102 installation anchored the final station, maintaining a refined atmosphere for tasting and conversation, while the Pinnacle KR402 powered live talks and performances on stage."
+      ],
+      "keyProducts": [
+        "K-array Lyzard KZ14 micro line arrays",
+        "K-array Anakonda KAN200+8 flexible arrays",
+        "K-array Vyper KV102",
+        "K-array Pinnacle KR402",
+        "K-array Truffle KTR25 and Rumble KU210",
+        "K-array Kommander KA28 amplification",
+        "Brionvega Radiofonografo RR126 and Totem RR231",
+        "Midas MR18, Frog-is Fi-WP2V, Shure microphones"
+      ],
+      "videos": [
+        {
+          "title": "RiX CURIOS Pavilion walkthrough",
+          "url": "https://youtube.com/shorts/BXDaLOBlsqY?si=9z-tN_WngAr9br5A"
+        },
+        {
+          "title": "RiX SoundPod immersion",
+          "url": "https://youtube.com/shorts/ZTZeLTZOG7c?si=NYJecN5JTyiLdHsW"
+        }
+      ],
+      "gallery": [
+        "REKA Interiors Exhibition – RiX_event3_image.jpg",
+        "REKA Interiors Exhibition – RiX_event3_image2.jpg",
+        "REKA Interiors Exhibition – RiX_event3_image3.jpg",
+        "REKA Interiors Exhibition – RiX_event3_image4.jpg",
+        "REKA Interiors Exhibition – RiX_event3_image5.jpg"
+      ],
+      "heroMedia": {
+        "kind": "image",
+        "src": "REKA Interiors Exhibition – RiX_event3_image.jpg",
+        "alt": "Design Senses pavilion at RiX"
+      }
+    },
+    "crossover-asics": {
+      "slug": "crossover-asics",
+      "category": "Product Premiere",
+      "title": "Crossover x Asics Gel-Nimbus 10.1 Launch Event",
+      "location": "Crossover, The Exchange TRX, Malaysia",
+      "dateRange": "4 October 2024",
+      "overview": "Crossover at The Exchange TRX is a multi-label concept flagship known for installation-style merchandising and curated pop-ups. For the Gel-Nimbus 10.1 debut the space evolved into a reactive sound lab.",
+      "profile": [
+        "Crossover houses top Japanese and European labels, blending high and low fashion in what the founder calls \"beautiful chaos.\"",
+        "The retail space is recognised for creative visual merchandising inspired by the Japanese notion of tachiagari, meaning beginning."
+      ],
+      "role": [
+        "Nextrend Systems delivered a sound solution that merged seamlessly with Kaito's Liquid Mirror installation, choosing to showcase the raw form of the Amina Invisible Speaker to complement the lab's exposed aesthetic.",
+        "A tailor-made sensor inside the sneaker responded to touch and movement, shifting sound in sync with the invisible speaker array."
+      ],
+      "keyProducts": [
+        "Amina Invisible Speaker x5",
+        "Frog-is FI-SUB6P subwoofer",
+        "Frog-is FI-Amp4D amplification x2"
+      ],
+      "gallery": [
+        "Crossover Asics Gel-Nimbus 10.1 Launch Event_event4_image1.jpg",
+        "Crossover Asics Gel-Nimbus 10.1 Launch Event4_image2.jpg",
+        "Crossover Asics Gel-Nimbus 10.1 Launch Event4_image3.jpg",
+        "Crossover Asics Gel-Nimbus 10.1 Launch Event4_image5.jpg"
+      ],
+      "heroMedia": {
+        "kind": "image",
+        "src": "Crossover Asics Gel-Nimbus 10.1 Launch Event_event4_image1.jpg",
+        "alt": "Sensor-driven sound lab at Crossover TRX"
+      }
+    },
+    "brionvega-find": {
+      "slug": "brionvega-find",
+      "category": "Design Fair",
+      "title": "Brionvega at FIND Design Fair Asia",
+      "location": "Marina Bay Sands, Singapore",
+      "dateRange": "26-28 September 2024",
+      "overview": "We showcased Brionvega's iconic products at FIND Design Fair Asia, the region's premier trade show presenting curated furniture, interiors, and design brands.",
+      "eventNarrative": [
+        "Guests were captivated by Brionvega's craftsmanship and timeless style, exploring pieces that define premium Italian design.",
+        "From the vibrant Radiocubo 50 by Zanuso and Sapper, to the sculptural Totem RR231 by Mario Bellini, and the elegant Radiofonografo RR226 by the Castiglioni brothers, each story sparked conversations about innovation and cultural significance.",
+        "The exhibit highlighted how Brionvega's audio icons continue to inspire through a synthesis of form, function, and lasting elegance."
+      ],
+      "keyProducts": [
+        "Brionvega Radiocubo 50 by Marco Zanuso and Richard Sapper",
+        "Brionvega Totem RR231 by Mario Bellini",
+        "Brionvega Radiofonografo RR226 by Achille and Pier Giacomo Castiglioni"
+      ],
+      "gallery": [
+        "Brionvega at FIND Design Fair Asia 2024 in Singapore_event_image1.jpg",
+        "Brionvega at FIND Design Fair Asia 2024 in Singapore_event5_image.jpg",
+        "Brionvega at FIND Design Fair Asia 2024 in Singapore_event5_image2.jpg",
+        "Brionvega at FIND Design Fair Asia 2024 in Singapore_event5_image4.jpg",
+        "Brionvega at FIND Design Fair Asia 2024 in Singapore_event5_image5.jpg"
+      ],
+      "heroMedia": {
+        "kind": "image",
+        "src": "Brionvega at FIND Design Fair Asia 2024 in Singapore_event_image1.jpg",
+        "alt": "Brionvega lounge at FIND Design Fair Asia"
+      }
+    },
+    "forest-furniture-roche-bobois": {
+      "slug": "forest-furniture-roche-bobois",
+      "category": "Launch Gala",
+      "title": "Forest Furniture x Roche Bobois Launching Event",
+      "location": "Forest Furniture Malaysia, Jalan Maarof, Bangsar",
+      "dateRange": "17 July 2024",
+      "overview": "Forest Furniture's launch underscored its commitment to world-class service, presenting couture furnishings alongside an immersive audio journey.",
+      "profile": [
+        "Forest delivers premium consultation and authentic craftsmanship for discerning clients, representing world-renowned brands."
+      ],
+      "role": [
+        "We were tasked with delivering an exceptional audio experience using K-array systems for seamless coverage, while Brionvega installations echoed the premium furniture vignettes."
+      ],
+      "keyProducts": [
+        "K-array Vyper KV102 x2",
+        "K-array Anakonda KAN200+8 x2",
+        "K-array KS1P, KU210, KU212 subwoofers",
+        "K-array KA34 and KA104 amplification",
+        "Frog-is Mix8 and FI-WP2V wireless microphones",
+        "Brionvega Radiofonografo centrepiece"
+      ],
+      "gallery": [
+        "Forest Furniture Roche Bobois Launching Event6_image1.jpg",
+        "Forest Furniture Roche Bobois Launching Event6_image2.jpg",
+        "Forest Furniture Roche Bobois Launching Event6_image3.jpg"
+      ],
+      "heroMedia": {
+        "kind": "image",
+        "src": "Forest Furniture Roche Bobois Launching Event6_image1.jpg",
+        "alt": "Forest Furniture Roche Bobois showcase"
+      }
+    },
+    "robb-report-aham": {
+      "slug": "robb-report-aham",
+      "category": "Collector Salon",
+      "title": "Robb Report x AHAM Capital Private Salon",
+      "location": "Anantara Desaru Coast Resort & Villas, Malaysia",
+      "dateRange": "8 November 2024",
+      "overview": "Robb Report Malaysia and AHAM Capital gathered high-net-worth guests for an exclusive seaside salon where curated tastings and performances unfolded across indoor and outdoor suites.",
+      "profile": [
+        "Robb Report Malaysia is a leading luxury lifestyle publication connecting readers with curated experiences and craftsmanship.",
+        "AHAM Asset Management Berhad is an institutionally owned firm serving corporates, pension funds, government-linked companies, and high-net-worth clients since 2001."
+      ],
+      "role": [
+        "Nextrend designed a sound system that moves seamlessly between terraces and lounges, using sleek architectural speakers that complement Anantara's ambience.",
+        "The goal was to deliver an immersive, captivating experience that enhanced every conversation and performance while remaining visually discreet."
+      ],
+      "keyProducts": [
+        "K-array Vyper KV102 x2",
+        "K-array Vyper KV52 x2",
+        "K-array Rumble KU210 x2",
+        "K-array Pinnacle KR402 x2",
+        "K-array Kommander KA28",
+        "Nano M16 Mixer",
+        "Brionvega Radiofonografo RR126"
+      ],
+      "gallery": [
+        "Robb Report x AHAM Capital_event_1image.jpg",
+        "Robb Report x AHAM Capital_event_2image.jpg",
+        "Robb Report x AHAM Capital_event_3image.jpg",
+        "Robb Report x AHAM Capital_event_4image.jpg",
+        "Robb Report x AHAM Capital_event_5image.jpg",
+        "Robb Report x AHAM Capital_event_6image.jpg",
+        "Robb Report x AHAM Capital_event_7image.jpg",
+        "Robb Report x AHAM Capital_event_8image.jpg",
+        "Robb Report x AHAM Capital_event_9image.jpg",
+        "Robb Report x AHAM Capital_event_10image.jpg"
+      ],
+      "heroMedia": {
+        "kind": "image",
+        "src": "Robb Report x AHAM Capital_event_10image.jpg",
+        "alt": "Seaside salon at Anantara Desaru"
+      }
+    },
+    "brionvega-iconic-collection": {
+      "slug": "brionvega-iconic-collection",
+      "category": "Icon Showcase",
+      "title": "Brionvega Iconic Audio Collection",
+      "location": "Asia Pacific Roadshow",
+      "dateRange": "2024 Series",
+      "overview": "Brionvega is an Italian manufacturer of iconic audio objects established in 1960, collaborating with celebrated architects and designers to produce timeless pieces.",
+      "profile": [
+        "Founded in 1960, Brionvega revolutionised the audio industry by treating sound systems as architectural objects, collaborating with legendary designers to create pieces that transcend functionality.",
+        "The brand's philosophy centers on the belief that technology should serve beauty, resulting in audio products that have earned places in prestigious museums worldwide, including MoMA and the Metropolitan Museum of Art.",
+        "Each Brionvega piece represents a perfect marriage of Italian craftsmanship and innovative engineering, maintaining relevance across generations while preserving their original design integrity."
+      ],
+      "eventNarrative": [
+        "The Radiofonografo by Achille and Pier Giacomo Castiglioni remains globally recognised for its uniqueness, exclusivity, and craftsmanship. Revitalised with modern technology, it continues to deliver a stimulating listening experience.",
+        "Radiocubo by Marco Zanuso and Richard Sapper captures the vibrant spirit of the 1960s, designed to be proudly displayed as a centrepiece that blends nostalgia with contemporary living.",
+        "Totem by Mario Bellini, first introduced in 1971, transforms from a minimal cube into a modular hi-fi system, proving that industrial design can be both sculptural and sonically exceptional."
+      ],
+      "keyProducts": [
+        "Brionvega Radiofonografo RR226",
+        "Brionvega Radiocubo 50",
+        "Brionvega Totem RR231"
+      ],
+      "gallery": [
+        "Brionvega, Iconic Italian Design Sound Technologyevent7_image1.jpg",
+        "Brionvega, Iconic Italian Design Sound Technology event_event7_image2.png",
+        "Brionvega, Iconic Italian Design Sound Technologyevent7_image3.jpg",
+        "Brionvega, Iconic Italian Design Sound Technology_event7_image4.jpg"
+      ],
+      "heroMedia": {
+        "kind": "image",
+        "src": "Brionvega, Iconic Italian Design Sound Technologyevent7_image1.jpg",
+        "alt": "Brionvega iconic audio collection"
+      }
+    }
+  }
+}

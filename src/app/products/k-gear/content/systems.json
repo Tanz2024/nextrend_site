@@ -1,0 +1,530 @@
+[
+  {
+    "slug": "gp8a",
+    "name": "KGEAR GP8A",
+    "headline": "Portable column PA with integrated 8-inch sub",
+    "description": "A compact column system that combines four 2.5-inch drivers with an 8-inch subwoofer in a single carry-ready enclosure, voiced for speech, background music and small live sets.",
+    "story": "GP8A stacks a slim column on top of an 8-inch sub in a travel-friendly footprint, delivering up to 113 dB with the controlled vertical pattern you expect from a true line-source. The built-in player, Bluetooth link and combo inputs mean you can cover a lounge, caf\u00e9 or pop-up stage with minimal external gear.",
+    "definition": "Self-powered column PA with 8-inch sub, four 2.5-inch drivers and onboard Bluetooth / media player for portable sound reinforcement.",
+    "series": "GP Portable Systems",
+    "category": "Systems",
+    "finish": "Column Stack",
+    "collaboration": "Active",
+    "power": "Active",
+    "type": "Powered 8\" sub + column system",
+    "drivers": "8\" subwoofer + 4 x 2.5\" PATr modules",
+    "applications": [
+      "Pop-up gigs",
+      "Corporate hospitality",
+      "Boutique retail activations"
+    ],
+    "specs": [
+      "Type: Powered 8\" sub + column module stack",
+      "Transducers: 8\" subwoofer with four 2.5\" ferrite drivers",
+      "Frequency response 45 Hz - 16 kHz (-6 dB)",
+      "Max SPL 113 dB with 40 deg V x 100 deg H coverage",
+      "Class-D amplifier delivers 200 W with onboard Bluetooth, USB, and SD playback",
+      "I/O: dual combo XLR, 3.5 mm aux, USB charge, SD slot, Bluetooth TWS link",
+      "Weight 14.5 kg, IP41 sub / IP54 column, 317 x 1863 x 400 mm footprint"
+    ],
+    "keyStats": [
+      "113 dB max SPL",
+      "45 Hz - 16 kHz",
+      "40 deg x 100 deg pattern"
+    ],
+    "frequency": [
+      45,
+      16000
+    ],
+    "coverage": "40 deg V x 100 deg H",
+    "weightKg": 14.5,
+    "ipRating": "IP41 sub / IP54 top",
+    "image": "Systems/GP8A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GP8A_1.jpg",
+        "alt": "GP8A column system set up beside a small stage"
+      },
+      {
+        "src": "Systems/GP8A_2.jpg",
+        "alt": "GP8A base section showing the subwoofer and connection panel"
+      },
+      {
+        "src": "Systems/GP8A_3.jpg",
+        "alt": "Close-up of the GP8A column highlighting the 2.5-inch drivers"
+      }
+    ]
+  },
+  {
+    "slug": "gp12a",
+    "name": "KGEAR GP12A",
+    "headline": "Active 12-inch column system with network DSP",
+    "description": "An elegant 12-inch sub and column system that brings touring-grade output into design-led rooms, balancing power, control and discreet visuals.",
+    "story": "GP12A couples a birch 12-inch subwoofer with two PATr columns for genuine line-source behaviour in medium-size venues. A four-channel Class-D platform, paired with ArmoniaPlus-ready DSP over Ethernet, lets you tune voicings, delays and system protection from the rack or a network drop while keeping hardware on the floor clean and minimal.",
+    "definition": "Active 12-inch sub plus dual-column system with 4 x 750 W Class-D amplification and networkable DSP for medium-venue coverage.",
+    "series": "GP Portable Systems",
+    "category": "Systems",
+    "finish": "Column Stack",
+    "collaboration": "Active",
+    "power": "Active",
+    "type": "Active 12\" sub + 16-driver column",
+    "drivers": "12\" subwoofer + 2 x 8 x 2\" PATr modules",
+    "applications": [
+      "Design-forward hospitality",
+      "Houses of worship",
+      "AV rental lounges"
+    ],
+    "specs": [
+      "Type: Active 12\" subwoofer with modular PATr column",
+      "Transducers: 12\" sub plus two modules of eight 2\" drivers",
+      "Frequency response 45 Hz - 20 kHz (-6 dB)",
+      "Max SPL 123 dB with 25 deg V x 140 deg H dispersion",
+      "4-channel Class-D amplifier (4 x 750 W @ 4 ohm) with DSP over RJ45",
+      "Nominal impedance: sub 4 ohm / column 16 ohm",
+      "20 kg system, 405 x 2080 x 430 mm, IP41 sub / IP54 column"
+    ],
+    "keyStats": [
+      "123 dB headroom",
+      "25 deg x 140 deg throw",
+      "Networkable DSP"
+    ],
+    "frequency": [
+      45,
+      20000
+    ],
+    "coverage": "25 deg V x 140 deg H",
+    "weightKg": 20,
+    "ipRating": "IP41 sub / IP54 top",
+    "image": "Systems/GP12A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GP12A_1.jpg",
+        "alt": "GP12A column system set up in a medium-sized venue"
+      },
+      {
+        "src": "Systems/GP12A_2.jpg",
+        "alt": "Rear panel of the GP12A subwoofer with I/O and network ports"
+      },
+      {
+        "src": "Systems/GP12A_3.jpg",
+        "alt": "Close view of the GP12A column drivers and grille"
+      },
+      {
+        "src": "Systems/GP12A_4.jpg",
+        "alt": "GP12A columns stacked on the sub in full performance configuration"
+      }
+    ]
+  },
+  {
+    "slug": "gp18a",
+    "name": "KGEAR GP18A",
+    "headline": "Flagship 18-inch active column for large rooms",
+    "description": "An 18-inch flagship column system that delivers cinema-scale dynamics in lounges, small theatres and live restaurants while remaining visually unobtrusive.",
+    "story": "GP18A scales the GP concept with extended 30 Hz low-end, 125 dB of headroom and four channels of 1500 W Class-D power to drive the sub and column modules. Ethernet control simplifies commissioning, while the slim column aesthetic disappears into architectural details so the focus stays on the room and the performance.",
+    "definition": "Large-format active column stack combining an 18-inch subwoofer with three PATr columns and 4 x 1500 W Class-D amplification.",
+    "series": "GP Portable Systems",
+    "category": "Systems",
+    "finish": "Column Stack",
+    "collaboration": "Active",
+    "power": "Active",
+    "type": "Powered 18\" sub + column stack",
+    "drivers": "18\" subwoofer + 3 x 8 x 2\" PATr modules",
+    "applications": [
+      "Luxury lounges",
+      "Small theaters",
+      "Live music restaurants"
+    ],
+    "specs": [
+      "Type: Powered 18\" sub paired with three PATr columns",
+      "Transducers: 18\" subwoofer plus three 8 x 2\" driver modules",
+      "Frequency response 30 Hz - 20 kHz (-6 dB)",
+      "Max SPL 125 dB with 20 deg V x 140 deg H coverage",
+      "4-channel Class-D engine rated 4 x 1500 W @ 4 ohm",
+      "Nominal impedance: sub 8 ohm / column modules 16 ohm each",
+      "43 kg system, 545 x 600 x 2230 mm, IP41 sub / IP54 top"
+    ],
+    "keyStats": [
+      "125 dB peak",
+      "30 Hz low extension",
+      "4 x 1500 W drive"
+    ],
+    "frequency": [
+      30,
+      20000
+    ],
+    "coverage": "20 deg V x 140 deg H",
+    "weightKg": 43,
+    "ipRating": "IP41 sub / IP54 top",
+    "image": "Systems/GP18A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GP18A_1.jpg",
+        "alt": "GP18A full column system assembled on the floor"
+      },
+      {
+        "src": "Systems/GP18A_2.jpg",
+        "alt": "Close-up of the GP18A sub and column hardware connection"
+      },
+      {
+        "src": "Systems/GP18A_3.jpg",
+        "alt": "Three PATr columns of the GP18A viewed from the front"
+      },
+      {
+        "src": "Systems/GP18A_4.jpg",
+        "alt": "GP18A system staged on transport hardware ready for deployment"
+      }
+    ]
+  },
+  {
+    "slug": "gpx",
+    "name": "KGEAR GPX",
+    "headline": "Dual 18-inch performance stack for high-SPL venues",
+    "description": "A dual 18-inch and slim-array performance stack that condenses arena-style authority into a refined, architecturally aware silhouette.",
+    "story": "GPX brings K-array\u2019s slim touring language to spaces that demand serious headroom without a wall of boxes. Dual 18-inch subs support four stainless-steel coaxial arrays, delivering up to 140 dB with a controlled 25 by 90 degree pattern that keeps intelligibility on the audience and off reflective surfaces.",
+    "definition": "Passive dual 18-inch sub plus four slim 12-inch coaxial arrays for large-format installs and touring applications.",
+    "series": "GP Performance Systems",
+    "category": "Systems",
+    "finish": "Performance Stack",
+    "collaboration": "Passive",
+    "power": "Passive",
+    "type": "Dual 18\" sub + 4 x 12\" coax arrays",
+    "drivers": "2 x 18\" subs + 4 x 12\" coax with compression drivers",
+    "applications": [
+      "Large venues",
+      "Touring rigs",
+      "High-SPL installs"
+    ],
+    "specs": [
+      "Type: System stack with dual 18\" subs and four 12\" coax arrays",
+      "Transducers: 2 x 18\" woofers + 4 x 12\" coax with compression drivers",
+      "Frequency response 30 Hz - 20 kHz (-6 dB)",
+      "Max SPL 140 dB with 25 deg V x 90 deg H coverage",
+      "Power handling: sub 3000 W, tops 1600 W",
+      "Nominal impedance: sub 4 ohm / tops 8 ohm",
+      "Chassis weighs 115.6 kg with IP43 sub / IP54 top rating"
+    ],
+    "keyStats": [
+      "140 dB max",
+      "25 deg x 90 deg throw",
+      "Dual 18\" foundation"
+    ],
+    "frequency": [
+      30,
+      20000
+    ],
+    "coverage": "25 deg V x 90 deg H",
+    "weightKg": 115.6,
+    "ipRating": "IP43 sub / IP54 top",
+    "image": "Systems/GPX_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GPX_1.jpg",
+        "alt": "GPX system viewed from the front with dual subs and slim arrays"
+      },
+      {
+        "src": "Systems/GPX_2.jpg",
+        "alt": "Close-up of a GPX slim array loudspeaker module"
+      },
+      {
+        "src": "Systems/GPX_3.jpg",
+        "alt": "Side elevation of the GPX stack showing overall height and depth"
+      },
+      {
+        "src": "Systems/GPX_4.jpg",
+        "alt": "Angled view of a complete GPX performance stack in a venue"
+      }
+    ]
+  },
+  {
+    "slug": "gp12",
+    "name": "KGEAR GP12",
+    "headline": "Passive 12\" column system for medium venues",
+    "description": "A passive 12-inch sub and column system that pairs gracefully with external amplification for refined, medium-venue coverage.",
+    "story": "GP12 brings the same modular column concept as GP12A but in a passive configuration, offering flexibility for custom amplification setups.",
+    "definition": "Passive 12\" column system with modular PATr elements for medium venue applications.",
+    "series": "GP Performance Systems",
+    "category": "Systems",
+    "finish": "Column Stack",
+    "collaboration": "Passive",
+    "power": "Passive",
+    "type": "Passive 12\" sub + 16-driver column",
+    "drivers": "12\" subwoofer + 2 x 8 x 2\" PATr modules",
+    "applications": [
+      "Houses of worship",
+      "Theater installs",
+      "Corporate venues"
+    ],
+    "specs": [
+      "Type: Passive 12\" subwoofer with modular PATr column",
+      "Transducers: 12\" sub plus two modules of eight 2\" drivers",
+      "Frequency response 45 Hz - 20 kHz (-6 dB)",
+      "Max SPL 121 dB with 25 deg V x 140 deg H dispersion",
+      "Power handling: sub 1000 W, column 800 W",
+      "Nominal impedance: sub 8 ohm / column 16 ohm",
+      "18 kg system, 405 x 2080 x 430 mm, IP41 sub / IP54 column"
+    ],
+    "keyStats": [
+      "121 dB max",
+      "25 deg x 140 deg throw",
+      "Passive design"
+    ],
+    "frequency": [
+      45,
+      20000
+    ],
+    "coverage": "25 deg V x 140 deg H",
+    "weightKg": 18,
+    "ipRating": "IP41 sub / IP54 top",
+    "image": "Systems/GP12_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GP12_2.jpg",
+        "alt": "GP12 system profile"
+      },
+      {
+        "src": "Systems/GP12_3.jpg",
+        "alt": "GP12 installation view"
+      },
+      {
+        "src": "Systems/GP12_4.jpg",
+        "alt": "GP12 driver detail"
+      }
+    ]
+  },
+  {
+    "slug": "gp18",
+    "name": "KGEAR GP18",
+    "headline": "Passive 18\" flagship column for large venues",
+    "description": "A passive 18-inch flagship column stack that lets system designers choose their own engines while keeping the signature GP presence.",
+    "story": "GP18 delivers the flagship column experience in a passive configuration, offering maximum flexibility for custom amplification and processing setups.",
+    "definition": "Passive flagship GP column with 18\" sub and three PATr modules for large venue installations.",
+    "series": "GP Performance Systems",
+    "category": "Systems",
+    "finish": "Column Stack",
+    "collaboration": "Passive",
+    "power": "Passive",
+    "type": "Passive 18\" sub + column stack",
+    "drivers": "18\" subwoofer + 3 x 8 x 2\" PATr modules",
+    "applications": [
+      "Concert venues",
+      "Large theaters",
+      "Premium installs"
+    ],
+    "specs": [
+      "Type: Passive 18\" sub paired with three PATr columns",
+      "Transducers: 18\" subwoofer plus three 8 x 2\" driver modules",
+      "Frequency response 30 Hz - 20 kHz (-6 dB)",
+      "Max SPL 123 dB with 20 deg V x 140 deg H coverage",
+      "Power handling: sub 1500 W, columns 1200 W total",
+      "Nominal impedance: sub 8 ohm / column modules 16 ohm each",
+      "38 kg system, 545 x 600 x 2230 mm, IP41 sub / IP54 top"
+    ],
+    "keyStats": [
+      "123 dB peak",
+      "30 Hz extension",
+      "Passive design"
+    ],
+    "frequency": [
+      30,
+      20000
+    ],
+    "coverage": "20 deg V x 140 deg H",
+    "weightKg": 38,
+    "ipRating": "IP41 sub / IP54 top",
+    "image": "Systems/GP18_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GP18_1.jpg",
+        "alt": "GP18 full system"
+      },
+      {
+        "src": "Systems/GP18_2.jpg",
+        "alt": "GP18 column detail"
+      },
+      {
+        "src": "Systems/GP18_3.jpg",
+        "alt": "GP18 installation"
+      },
+      {
+        "src": "Systems/GP18_4.jpg",
+        "alt": "GP18 perspective"
+      }
+    ]
+  },
+  {
+    "slug": "gp1812a",
+    "name": "KGEAR GP1812A",
+    "headline": "Dual 18\" + 12\" active touring system",
+    "description": "An active dual 18-inch plus 12-inch performance system that brings festival-scale authority and control to modern touring and large rooms.",
+    "story": "GP1812A combines dual 18\" subwoofers with a 12\" mid-high column for ultimate touring and large venue performance.",
+    "definition": "Active dual 18\" + 12\" system for professional touring and large venue applications.",
+    "series": "GP Performance Systems",
+    "category": "Systems",
+    "finish": "Performance Stack",
+    "collaboration": "Active",
+    "power": "Active",
+    "type": "Active dual 18\" + 12\" system",
+    "drivers": "2 x 18\" subs + 12\" mid-high array",
+    "applications": [
+      "Professional touring",
+      "Large venues",
+      "Festival systems"
+    ],
+    "specs": [
+      "Type: Active dual 18\" subwoofers with 12\" mid-high array",
+      "Transducers: 2 x 18\" woofers + 12\" coax with compression driver",
+      "Frequency response 28 Hz - 20 kHz (-6 dB)",
+      "Max SPL 142 dB with 30 deg V x 120 deg H coverage",
+      "Multi-channel Class-D amplification with DSP control",
+      "Power handling: 4000 W system power",
+      "125 kg system, touring-grade construction"
+    ],
+    "keyStats": [
+      "142 dB max",
+      "28 Hz floor",
+      "4000 W system"
+    ],
+    "frequency": [
+      28,
+      20000
+    ],
+    "coverage": "30 deg V x 120 deg H",
+    "weightKg": 125,
+    "ipRating": "IP43 sub / IP54 top",
+    "image": "Systems/GP1812A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GP1812A_1.jpg",
+        "alt": "GP1812A system stack"
+      },
+      {
+        "src": "Systems/GP1812A_2.jpg",
+        "alt": "GP1812A touring setup"
+      },
+      {
+        "src": "Systems/GP1812A_3.jpg",
+        "alt": "GP1812A detail view"
+      },
+      {
+        "src": "Systems/GP1812A_5.jpg",
+        "alt": "GP1812A performance"
+      }
+    ]
+  },
+  {
+    "slug": "gp1812",
+    "name": "KGEAR GP1812",
+    "headline": "Passive dual 18\" + 12\" touring system",
+    "description": "A passive dual 18-inch plus 12-inch stack that hands full control to the rack while preserving the GP1812 silhouette and dynamics.",
+    "story": "GP1812 provides the same impressive dual 18\" + 12\" configuration in a passive format for ultimate amplification flexibility.",
+    "definition": "Passive dual 18\" + 12\" system for professional applications requiring custom amplification.",
+    "series": "GP Performance Systems",
+    "category": "Systems",
+    "finish": "Performance Stack",
+    "collaboration": "Passive",
+    "power": "Passive",
+    "type": "Passive dual 18\" + 12\" system",
+    "drivers": "2 x 18\" subs + 12\" mid-high array",
+    "applications": [
+      "Professional touring",
+      "Custom installs",
+      "Large venues"
+    ],
+    "specs": [
+      "Type: Passive dual 18\" subwoofers with 12\" mid-high array",
+      "Transducers: 2 x 18\" woofers + 12\" coax with compression driver",
+      "Frequency response 28 Hz - 20 kHz (-6 dB)",
+      "Max SPL 140 dB with 30 deg V x 120 deg H coverage",
+      "Power handling: sub 3000 W, tops 2000 W",
+      "Nominal impedance: configurable",
+      "118 kg system, professional construction"
+    ],
+    "keyStats": [
+      "140 dB max",
+      "28 Hz extension",
+      "Passive design"
+    ],
+    "frequency": [
+      28,
+      20000
+    ],
+    "coverage": "30 deg V x 120 deg H",
+    "weightKg": 118,
+    "ipRating": "IP43 sub / IP54 top",
+    "image": "Systems/GP1812_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GP1812_1.jpg",
+        "alt": "GP1812 stack view"
+      },
+      {
+        "src": "Systems/GP1812_2.jpg",
+        "alt": "GP1812 system detail"
+      },
+      {
+        "src": "Systems/GP1812_3.jpg",
+        "alt": "GP1812 installation"
+      },
+      {
+        "src": "Systems/GP1812_4.jpg",
+        "alt": "GP1812 perspective"
+      }
+    ]
+  },
+  {
+    "slug": "gp8ab",
+    "name": "KGEAR GP8AB",
+    "headline": "Dual 8\" active column with enhanced bass",
+    "description": "An enhanced GP8 column with dual 8-inch subs that adds deeper, more confident bass to portable corporate and event setups.",
+    "story": "GP8AB features dual 8\" subwoofers for enhanced low-frequency performance while maintaining the portable column format.",
+    "definition": "Portable column system with dual 8-inch subwoofers and enhanced low-frequency performance.",
+    "series": "GP Portable Systems",
+    "category": "Systems",
+    "finish": "Column Stack",
+    "collaboration": "Active",
+    "power": "Active",
+    "type": "Active dual 8\" sub + column",
+    "drivers": "2 x 8\" subwoofers + 4 x 2.5\" PATr modules",
+    "applications": [
+      "Corporate events",
+      "Medium venues",
+      "Portable sound"
+    ],
+    "specs": [
+      "Type: Active dual 8\" sub with column module stack",
+      "Transducers: 2 x 8\" subwoofers with four 2.5\" ferrite drivers",
+      "Frequency response 42 Hz - 16 kHz (-6 dB)",
+      "Max SPL 116 dB with 40 deg V x 100 deg H coverage",
+      "Class-D amplifier delivers 300 W with DSP control",
+      "I/O: combo XLR, 3.5 mm aux, Bluetooth connectivity",
+      "Weight 18.5 kg, IP41 sub / IP54 column"
+    ],
+    "keyStats": [
+      "116 dB max SPL",
+      "42 Hz floor",
+      "Dual 8\" design"
+    ],
+    "frequency": [
+      42,
+      16000
+    ],
+    "coverage": "40 deg V x 100 deg H",
+    "weightKg": 18.5,
+    "ipRating": "IP41 sub / IP54 top",
+    "image": "Systems/GP8AB_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Systems/GP8AB_1.jpg",
+        "alt": "GP8AB system view"
+      },
+      {
+        "src": "Systems/GP8AB_2.jpg",
+        "alt": "GP8AB dual sub detail"
+      },
+      {
+        "src": "Systems/GP8AB_3.jpg",
+        "alt": "GP8AB column setup"
+      }
+    ]
+  }
+]

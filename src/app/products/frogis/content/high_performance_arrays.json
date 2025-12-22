@@ -1,0 +1,269 @@
+[
+  {
+    "slug": "fa-x4t",
+    "name": "Frogis FA-X4T",
+    "headline": "Two way 4 inch Mini Line Array Speaker System",
+    "description": "A compact two-way mini line-array module with an aluminum die-cast enclosure, built for clear speech and controlled coverage in tight spaces and AV installs.",
+    "story": "FA-X4T combines a rugged all-weather aluminum body with neodymium transducers for a high performance-to-size ratio. It is designed for small theatres, workshops, auditoriums and audio-visual installations where controlled directivity and tidy rigging matter.",
+    "definition": "Two-way 4-inch mini line-array speaker module with neodymium tweeters and neodymium woofer in an aluminum die-cast enclosure.",
+    "series": "High Performance array speaker systems",
+    "category": "High Performance array speaker systems",
+    "finish": "Aluminum die-cast enclosure",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Mini line array module",
+    "drivers": "1×4” neodymium woofer + 3× neodymium tweeters",
+    "features": [
+      "Good ratio of performance to product size",
+      "Flat Amplitude and Phase Response",
+      "Aluminum die casting shell suitable for all-weather and outdoor use",
+      "Waterproof grade IPX6"
+    ],
+    "applications": [
+      "Clubs",
+      "Churches",
+      "School",
+      "Sound reinforcement for tight space",
+      "Small size theaters",
+      "Concerts",
+      "Auditoriums",
+      "Workshops",
+      "Audio-visual installations"
+    ],
+    "specs": [
+      "Frequency response: 100Hz-20KHz(-10dB)",
+      "Sensitivity(1W/1m): 90dB",
+      "Maximum SPL: 103dB",
+      "Impedance: 8 Ohm",
+      "Coverage: Horizontal 120° / Vectical 20°",
+      "Attachment Points: Adjustable Rigging system & Vertical Splay in 0°- 4°- 8°- 12°increments from 0°- 12°",
+      "Drivers: Mid-low 1x4” Neodymium woofer with 1” Voice Coil (8Ω); Tweeter 3 x Neodymium Tweeter with 0.5” Voice Coil (8Ω)",
+      "Max Power: 120W",
+      "Rated Power: 60W",
+      "Crossover: Build-in Crossover",
+      "Crossover Frequency: 3.0Khz",
+      "Parallel or Series: 6.3mm Socket / Selection Switch",
+      "Weight: 1.46Kg / 3.22 lbs",
+      "Dimensions W x H x L: 141 x 170 x 162 mm / 5.55” x 6.69” x 6.38”"
+    ],
+    "image": "FA-X4T_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FA-X4T_1.jpg",
+        "alt": "FA-X4T mini line array module front view",
+        "caption": "A compact, all-weather mini array module for clean coverage in tight architectural spaces."
+      }
+    ]
+  },
+  {
+    "slug": "fa-2x6t",
+    "name": "Frogis FA-2X6T",
+    "headline": "High Performance Dual 6-inch Line Array Speakers",
+    "description": "A stainless-steel line-array module built for wide coverage and high output, pairing dual 6-inch neodymium low-mid drivers with dual 1-inch neodymium HF drivers for touring or installed systems.",
+    "story": "FA-2X6T is engineered for theatres, concert halls, clubs, churches and tight-space reinforcement where wide horizontal coverage and scalable rigging are key. Its 304 stainless steel shell supports all-weather use, while presets and selectable coverage enable adaptable deployment.",
+    "definition": "High-performance dual 6-inch line-array speaker module with 304 stainless-steel enclosure and built-in crossover.",
+    "series": "High Performance array speaker systems",
+    "category": "High Performance array speaker systems",
+    "finish": "304 stainless steel shell",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Line array full-range module",
+    "drivers": "2×6” neodymium low-mid + 2×0.5” neodymium compression drivers (1” coil)",
+    "features": [
+      "Good ratio of performance to product size",
+      "Flat Amplitude and Phase Response",
+      "Built-in 35mm bracket mounting holes",
+      "304 stainless steel shell, suitable for all-weather and outdoor use",
+      "Waterproof grade IPX6"
+    ],
+    "applications": [
+      "Theaters",
+      "Concerts halls",
+      "Clubs",
+      "Churches",
+      "Movie surround sound and effects enhancement",
+      "Sound reinforcement for tight spaces"
+    ],
+    "specs": [
+      "Frequency response: 45Hz - 19 KHz +/- 3dB (preset dependent)",
+      "SPL 1W/1mt: 96 dB (low) 104 dB (high)",
+      "Maximum SPL: 125 dB continuous - 131 dB peak",
+      "Coverage: Horizontal 130° / Vectical selectable from 10° to 130°",
+      "Mid-low Driver（Impedance）: 2 x 6” Neodymium speaker 2.5” coil （4Ω）",
+      "Tweeter（Impedance）: 2 x 0.5” Neodymium compression driver 1” coil （8Ω）",
+      "Max Power: Mid-low Driver：2x500 W; Tweeter：2x80W",
+      "Rated Power: Mid-low Driver：2x250 W; Tweeter：2x40W",
+      "Crossover: Build-in Crossover",
+      "Freqency: 1.8KHz minimum（Depends on presets）",
+      "Input connector: Speakon in",
+      "Output connector: Speakon out",
+      "weight: 10 Kg (22.05 lbs)",
+      "Dimensions W x H x L: 17.5 x 51 x 19 cm (6.89”x 20.08”x 7.48”)"
+    ],
+    "image": "FA-2X6T_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FA-2X6T_1.jpg",
+        "alt": "FA-2X6T dual 6-inch line array module",
+        "caption": "304 stainless steel construction with wide horizontal coverage for scalable touring or installed systems."
+      }
+    ]
+  },
+  {
+    "slug": "fa-2x10s",
+    "name": "Frogis FA-2X10S",
+    "headline": "High Performance Dual 10-inch Array Subwoofer",
+    "description": "A compact, high-performance dual 10-inch array subwoofer in a 304 stainless-steel chassis—tuned to pair with FA-2X6T and other small-to-medium full-range systems for touring or installs.",
+    "story": "FA-2X10S uses dual 10-inch neodymium transducers engineered for maximum linear excursion, with large-area porting to reduce turbulence and noise. It is ideal for theatres, concert halls, AV installations, stadiums and outdoor theme parks where controlled sub-bass is required.",
+    "definition": "Dual 10-inch neodymium array subwoofer designed to complement FA series line-array tops.",
+    "series": "High Performance array speaker systems",
+    "category": "High Performance array speaker systems",
+    "finish": "304 stainless steel shell",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Array subwoofer",
+    "drivers": "2×10” neodymium LF drivers (8Ω)",
+    "features": [
+      "Good ratio of performance to product size",
+      "Equipped with line array rigging accessories",
+      "Built-in 35mm bracket mounting holes",
+      "Direct and long excursion 10-inch driver",
+      "304 stainless steel shell, suitable for all-weather and outdoor use",
+      "Waterproof grade IPX6"
+    ],
+    "applications": [
+      "Theaters",
+      "Concerts halls",
+      "Clubs",
+      "Churches",
+      "Outdoor stadiums",
+      "Theme parks",
+      "Audio-Visual installations"
+    ],
+    "specs": [
+      "Frequency response: 30Hz - 200 KHz +/- 3dB",
+      "SPL 1W/1mt: 115 dB (low) 121 dB (high)",
+      "Maximum SPL: 125 dB continuous - 131 dB peak",
+      "LF driver（Impedance）: 2 x 10” Neodymium speaker 2.5” Coil （8Ω）",
+      "Rated Power: 2X300W",
+      "Peak Power: 2X600W",
+      "Input: Speakon in",
+      "Output: Speakon out",
+      "weight: 16 Kg",
+      "Dimensions W x H x L: 49.8 x 33.6 x 28 cm (19.6”x 13.2”x 10.9”)"
+    ],
+    "image": "FA-2X10S_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FA-2X10S_1.jpg",
+        "alt": "FA-2X10S dual 10-inch array subwoofer",
+        "caption": "Dual 10-inch neodymium sub-bass in a compact stainless chassis—built for touring and installed array systems."
+      }
+    ]
+  },
+  {
+    "slug": "fa-3x10t",
+    "name": "Frogis FA-3X10T",
+    "headline": "Dual 10 inch three-way eight-driver line array Speaker",
+    "description": "A three-way, dual 10-inch professional line-array cabinet with eight drivers—built to deliver high output, balanced detail, and uniform coverage in large-scale reinforcement.",
+    "story": "FA-3X10T is configured with dual 10-inch carbon-fiber neodymium woofers for impactful low end, four 4.5-inch neodymium mid drivers for body and clarity, and dual 1-inch titanium diaphragm neodymium compression drivers for crisp highs. Cabinet geometry and driver positioning are optimised to reduce system delay and improve phase alignment for a more natural listening experience.",
+    "definition": "Three-way dual 10-inch line-array cabinet with 2×10” LF, 4×4.5” MF and 2×1” HF neodymium drivers.",
+    "series": "High Performance array speaker systems",
+    "category": "High Performance array speaker systems",
+    "finish": "Polyurea-coated plywood cabinet",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Three-way line array cabinet",
+    "drivers": "2×10” LF + 4×4.5” MID + 2×1” HF (44mm voice coil)",
+    "features": [
+      "Two 44mm titanium diaphragm neodymium magnet compression drivers with good transient response and low distortion, reducing listening fatigue",
+      "Four 4.5-inch neodymium magnet mid-range units with ported structure to improve heat dissipation and mid-range damping for clearer, more natural mids",
+      "Two 10-inch neodymium magnet carbon fiber woofers redeveloped for lower distortion and strong transient response with clean, elastic low end",
+      "Tweeter and mid-range physical positions readjusted to reduce overall system delay and improve phase for a more natural listening experience"
+    ],
+    "applications": [
+      "Gymnasiums",
+      "Theaters / auditoriums / halls",
+      "Large-scale sound reinforcement occasions",
+      "Large outdoor performances",
+      "Religious places"
+    ],
+    "specs": [
+      "Frequency Response: 70Hz - 18kHz (-10dB)",
+      "Sensitivity (1W/1m): HF: 110dB / MID: 95dB / LF: 98dB",
+      "Nominal Impedance (Ω): HF: 8Ω / MID: 8Ω / LF: 8Ω",
+      "Rated Power (W): HF: 160W / MID: 320W / LF: 800W",
+      "Woofer Unit: Neodymium magnet, 2×10” carbon fiber woofer with 75mm voice coil",
+      "Mid-range unit: Neodymium magnet, 4×4.5” mid-range unit with 25mm voice coil",
+      "Tweeter Unit: Neodymium magnet, 2×1” titanium diaphragm tweeter with 44mm voice coil",
+      "Nominal Coverage Angle (H×V): 100°×10°",
+      "Maximum Sound Pressure Level (SPL): LF: 127dB / MF: 120dB / HF: 131dB",
+      "Hanging Hardware: Three-point hanging, adjustable from 0° to 10°",
+      "Connectors: 2 professional NL4MP 4-pin sockets (LF: 1+ 1- / MF-HF: 2+ 2- )",
+      "Dimensions (W×D×H): 866×416×286 (mm)",
+      "Net Weight (kg): 28.3kg"
+    ],
+    "image": "FA-3X10T_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FA-3X10T_1.jpg",
+        "alt": "FA-3X10T three-way dual 10-inch line array cabinet",
+        "caption": "A three-way architecture tuned for large rooms—impactful lows, articulate mids, and bright, controlled highs."
+      }
+    ]
+  },
+  {
+    "slug": "fa-sub21p",
+    "name": "Frogis FA-SUB21P",
+    "headline": "High Performance Subwoofer",
+    "description": "A high-power 21-inch subwoofer designed to match FA series line arrays and other mid-to-large full-range systems, delivering deep, high-output bass for large venues and outdoor events.",
+    "story": "FA-SUB21P uses a 21-inch ultra-long excursion driver with a 4-inch voice coil, housed in a structurally reinforced cabinet with symmetrical rear loading and triangular ports to minimise turbulence and cabinet resonance. It is built for stadiums, theatres, concert halls, churches, touring and large-scale outdoor activities.",
+    "definition": "High-performance 21-inch subwoofer with ultra-long excursion driver and high output capability.",
+    "series": "High Performance array speaker systems",
+    "category": "High Performance array speaker systems",
+    "finish": "High-duty touring sub enclosure",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "High-performance subwoofer",
+    "drivers": "1×21\" LF driver (4Ω) with 4\" voice coil",
+    "features": [
+      "Good ratio of performance to product size",
+      "Smooth and streamlined exterior design",
+      "Equipped with rigging and stacking accessories",
+      "High-quality components with outstanding performance",
+      "Compatible with FROG-IS line array speakers (FA-2X6T, FA-2X10S) and other point source speakers"
+    ],
+    "applications": [
+      "Mid-to-large live activities/events",
+      "Concerts halls",
+      "Plaza",
+      "Stadiums",
+      "Concert halls",
+      "Theaters",
+      "Touring",
+      "Churches",
+      "Large outdoor activities/events"
+    ],
+    "specs": [
+      "Frequency Response: 20Hz - 120 KHz +/- 3dB",
+      "SPL 1W/1mt: 100dB",
+      "Maximum SPL: 131 dB continuous - 137 dB peak",
+      "Impedance: 4 Ω",
+      "LF-Driver（Imoedance）: 1X21\" ceramic magnet speaker 4\" voice coil",
+      "Rated Power: 2000W",
+      "Peak Power: 4000W",
+      "Input: Speakon in",
+      "Output: Speakon out",
+      "weight: 42 Kg",
+      "Dimensions W x H x L: 60 x 60 x 85 cm (23.62” x 23.62” x 33.46”)"
+    ],
+    "image": "FA-SUB21P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FA-SUB21P_1.jpg",
+        "alt": "FA-SUB21P 21-inch high-performance subwoofer",
+        "caption": "A 21-inch high-power foundation designed for stadium-scale low end and touring reliability."
+      }
+    ]
+  }
+]

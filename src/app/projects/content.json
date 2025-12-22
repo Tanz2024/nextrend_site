@@ -1,0 +1,2523 @@
+{
+  "sections": {
+    "Hospitality & Dining": [
+      {
+        "title": "The Kitch'n Club",
+        "context": "Indoor pickleball club & social venue ",
+        "location": "Kota Damansara, Selangor, Malaysia",
+        "profile": "The Kitch'n Club is an indoor pickleball facility and social venue located in Kota Damansara...",
+        "role": [
+          "Consultation, design and installation",
+          "Event and DJ sound system integration",
+          "System tuning and SPL calibration for live programmes"
+        ],
+        "focus": [
+          "Even, high-intelligibility coverage across the entire pickleball court and spectator area",
+          "Club-grade low-end and dynamics for DJ sets and event programming",
+          "Simple day-to-day operation with presets for training, matches and events"
+        ],
+        "system": {
+          "Indoor Court & Spectator Zone": [
+            "KGEAR GF82 full-range loudspeakers",
+            "Frog-is FI-SMS4B compact surface-mount speakers",
+            "Frog-is FI-AMP8 system amplification and DSP",
+            "Frog-is F1-SUB10P subwoofers"
+          ]
+        },
+        "completion": "2024"
+      },
+      {
+        "title": "Wedge Range",
+        "context": "Golf Bar & Social Club",
+        "location": "Petaling Jaya, Selangor, Malaysia",
+        "profile": "Wedge is an indoor golf bar and social club in the heart of Kuala Lumpur Where golf and entertainment collide. Whether you are starting from scratch or playing off scratch, it’s their mission to make golf exciting and accessible to all. Combining state-of-the-art golf technology with the best in music, food and drink, they bring you a social experience that takes the game to a whole new level. Discover a state-of-the-art golfing venue at Wedge Range. With 13 open swing bays, 4 private rooms, a PGA Teaching Academy, and a lively restaurant and bar, they offer a complete, family-friendly golfing experience. Whether it’s casual practice, nights out with friends, or big events, The Range has something for everyone.",
+        "focus": [
+          "Consult, Design and Installation",
+          "Background music for common areas, the speakers has to cover the whole area and match the modern interior design.",
+          "Proper speaker placement to improve overall listening experience and sound.",
+          "A high quality, commercial sound systems that have the capacity to play background music during the day, provide slightly elevated volume levels during the evening and also capable of delivering a robust nightclub quality sound over the weekend."
+        ],
+        "system": {
+          "Standard Bay 1 & 2": [
+            "KGear – GH4 x 7 nos"
+          ],
+          "Reception": [
+            "KGear – GC6-RNW x 4 nos",
+            "KGear – GA201 x 1 no"
+          ],
+          "VIP Bay 1, 2 & 3": [
+            "KGear – GH4 x 6 nos",
+            "KGear – GS12 x 3 nos",
+            "KGear – GA41L x 2 nos",
+            "KGear – GA43L x 1 no"
+          ],
+          "Putting Garden": [
+            "KGear – GH4 x 7 nos",
+            "KGear – GS18 x 2 nos",
+            "KGear – GA46L x 1 no"
+          ]
+        },
+        "completion": "January 2024"
+      },
+      {
+        "title": "Gordon Ramsay Bar & Grill",
+        "context": "Signature dining",
+        "location": "Sunway City, Selangor, Malaysia",
+        "profile": "Gordon Ramsay Bar & Grill is the city’s most sought-after dining destination and is only a short flight away from other great Asian cities. Featuring an exquisite menu inspired by one of London’s most iconic restaurants, Savoy Grill, only the finest ingredients presented with culinary flair from the highly skilled, Gordon Ramsay-trained team is served. Diners can look forward to savouring prime cuts of meat dry-aged in-house and Chef Ramsay’s most desirable dishes. ",
+        "focus": [
+          "Consult, Design and Installation",
+          "A high quality, commercial sound systems that have the capacity to play background music during the day, provide slightly elevated volume levels during the evening and also capable of delivering a robust nightclub quality sound over the weekend.",
+          "The speakers model was chosen based on the restaurant needs for different dining and club requirements. While it has to accommodate the interior design with easy installation."
+        ],
+        "system": {
+          "": [
+            "K-array KF26 × 26"
+          ]
+        },
+        "completion": "March 2022"
+      },
+      {
+        "title": "GravyBaby",
+        "context": "Boutique dining & bar",
+        "location": "391, Chulia St, Georgetown, 10200 George Town, Penang, Malaysia",
+        "profile": "GravyBaby is a magnificent bar and restaurant situated in the hearts of KLCC, Jalan, Damansara, P Ramlee and soon all over the world! While the unique setting of GravyBaby is inviting, the main reason to visit is the sumptuous food. Their UK renowned chef has produced a classic, a la carte menu of the highest quality which includes some tried and tested Cocktails and Pies. The GravyBaby a la carte menu will change seasonally so you can enjoy a new gastronomic experience throughout the year.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Dining & Bar": [
+            "4-corner distributed audio system featuring:",
+            "K-array KV52",
+            "K-array KU210",
+            "K-array KA24",
+            "K-Gear GF6",
+            "K-Gear GF6W",
+            "K-Gear GF4",
+            "K-Gear GF4W",
+            "K-Gear GF82",
+            "Frog-is F1-SUB10P",
+            "Frog-is FI-AMP8",
+            "Frog-is F1-POW12",
+            "Frog-is FI-CS4W"
+          ]
+        },
+        "completion": "December 2021"
+      },
+      {
+        "title": "Marc Residences",
+        "context": "Residence",
+        "location": "Jalan Pinang, Kuala Lumpur",
+        "profile": "Located at Marc Residence, WIP delivers a dynamic mix of Western, Asian, and Indian cuisines complemented by innovative drinks and upbeat ambience. Recognized as one of KL’s go-to destinations for great eats, drinks, and parties, it brings together culinary creativity, modern design, and immersive sound to create an unforgettable social experience.",
+        "focus": [
+          "Dedicated zone control for seamless ambiance transitions",
+          "Independent SPL mapping for precise volume management",
+          "Sound design aligned with brand atmosphere and energy"
+        ],
+        "system": {
+          "Lounge & Bar": [
+            "K-array Kobra-KK102 ×4",
+            "K-array Vyper-KV52 ×2",
+            "K-array Tornado-KT2 ×18",
+            "K-Gear GC8TW ×4",
+            "Frog-is FI-SUB10P ×2",
+            "Frog-is FI-POW12 ×1",
+            "Frog-is FI-AMP8 ×1",
+            "K-array Kommander-KA24 Power Amp ×2",
+            "Behringer S16",
+            "Golden Voice KOD3TB"
+          ]
+        },
+        "completion": "October 2021"
+      },
+      {
+        "title": "Souled Out",
+        "context": "Iconic F&B brand · Kuala Lumpur",
+        "location": "Desa Sri Hartamas, Kuala Lumpur",
+        "profile": "SOULed OUT began in 1996 as a small neighbourhood café in Mont Kiara and moved to her current premise in Desa Sri Hartamas in December 1999. So named as each and every staff member puts their heart and soul into providing her patrons with the best. It is part of the SOUL Society Group that comprises of other iconic outlets such as Tujo Bar-sserie & Grill and WIP. More than a decade on and having served over 5 million patrons, SOULed OUT has matured into an assured personality with a fun loving spirit. An eclectic mix Local, Western and Northern Indian food and beverages make it a place for friends and family to foster the spirit of friendship and camaraderie. All the familiar trappings have been retained albeit with a refreshed look and feel of the hardware. The cosiness of the outlets is crafted to cater to affairs from a simple family dinner to a night out with friends. Whatever it is, an encounter with SOULed OUT is always ‘as good as a hug’. SOULed OUT’s accolades include ‘Outlet of the Year’, ‘Best Resto-Bar 2013-2014’ at the prestigious Hospitality Asia Platinum Awards (HAPA), 1st Runner Up for the Iron Bartender Challenge and 2nd Runner Up for Best Teamwork at the HoReCa School of Excellence 2013.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Restaurant & Outdoor Zones": [
+            "Invisible line array integration for LED screen and dining area",
+            "K-array Pinnacle-KR202 ×2",
+            "K-array Vyper-KV52 ×4",
+            "K-array Kommander-KA14 Power Amplifier"
+          ]
+        },
+        "completion": "October 2021"
+      },
+      {
+        "title": "Berjaya Cafe",
+        "context": "Plant-based dining · Kuala Lumpur",
+        "location": "Level 14 West, Berjaya Times Square Hotel, Kuala Lumpur",
+        "profile": "Berjaya Cafe is the vegetarian lover’s dining paradise. A sumptuous plant-based menu including signature dishes: nasi lemak and rendang pizza. Sustainable ingredients and a wholesome selection of dishes, they can assure your guests will savour only the best in a meatless gastronomic experience carefully curated by the best chefs in town. From breakfast to dinner as well as a special afternoon-tea, Berjaya Cafe brings you the ambiance of a contemporary dining restaurant overlooking the skyline and magnificent city view of Kuala Lumpur. Lending to the current trend of lifestyle that focuses not only on health and well-being, we encourage all diners to be more mindful about the impact to the earth from consuming meat; sustainable eating is about choosing foods that are healthy to our environment and bodies. Berjaya Cafe is inspired by the Founder and Executive Chairman of Berjaya Corporation Berhad, Tan Sri Dato’ Seri Vincent Tan Chee Yioun’s ethos: “Every individual can play a role to help Mother Earth, even in a small way, by being a vegetarian”. The food production process from farm to plate can account for around 30% of all global greenhouse gas emissions which contributes to global warming. Reducing meat consumption even slightly in your everyday diet will have a positive impact to your health and the planet.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Dining Area": [
+            "4-corner distributed setup",
+            "K-array KK102 ×4",
+            "K-array KU210 ×2",
+            "K-array KA24 Power Amplifier",
+            "Frog-is FI-Mix8 Mixer",
+            "Frog-is FI-WP2V Wireless Microphones"
+          ]
+        },
+        "completion": "October 2020"
+      },
+      {
+        "title": "Sapore Italian Restaurant",
+        "context": "Italian–Spanish dining · Kuala Lumpur",
+        "location": "Jalan Ampang, Kuala Lumpur",
+        "profile": "Sapore is an Italian, Spanish-Mediterranean Restaurant located at Ampang, the neighbouring city at Kuala Lumpur. Located within 5-10 km away from Suria KLCC, the busy Changkat Bukit Bintang or the happening TREC, rest assured that driving distance of 15 – 20 minutes within the KL area, and volla, you get to enjoy wonderful Italian Spanish food at Sapore. Sapore means flavours in Italian. At Sapore, we held an interesting slogan – “Serving you Artisan Food and Fine Wine”, simply because we highlight the authentic taste of Italian and Spanish food. We are all about – Jamon Iberico, Tapas, and Wine. Our Signature dishes are Roasted Octopus, Suckling Pig, Dry-Aged Grain-Fed T-Bone, Iberico Pork Seafood Paella, Tapas, Cold Cuts, Cheese, Pizza, Pasta, Ibérico Abanico Loin. They have a list of fine imported wines as well. Originally from Bari, the capital city of southern Italy’s Puglia region, Chef Fabio Ruggiero, the restaurateur and executive chef, will delight you with great Italian and Spanish food. Come over to ‘Sapore’ (taste) our classic Italian and Spanish dishes, as they enjoy bringing people together through food. Their chefs might also surprise you with some dishes off the menu!",
+        "focus": [
+          "Consult, Design and Installation",
+          "We provided a simple and easy-to-operate sound system without neglecting high audio quality. Frog-is is the perfect solution for Sapore’s patrons and their staff."
+        ],
+        "system": {
+          "Restaurant": [
+            "Frog-is SMS4-B ×4",
+            "Frog-is Sub10P ×1",
+            "Frog-is Amp 4D ×1"
+          ],
+          "Notes": [
+            "Frog-is’s AMP4D is an all-in-one 4-channel Class D DSP amplifier. Integrated with USB & Bluetooth media player, this amplifier is a complete control centre for Pop Pizza’s demanding audio needs. Not only that, but we also have the option of 2 presets for 2.1 or 4.1 setups with a crossover between the tops and subwoofers."
+          ]
+        },
+        "completion": "2019"
+      },
+      {
+        "title": "Pop Pizza",
+        "context": "Restaurant · Kuala Lumpur",
+        "location": "Mid Valley Megamall, Kuala Lumpur",
+        "profile": "Step into the world 80’s Pizza where things are on-the-go and fun! Taste pizza from the heart of New York City where every dream is possible. Try authentic Italian flavours mixed with incredible recipes for pizza made just the way you like it, whether its with dashes of soulful salsa or smoky barbeque. Sit back, hang loose and enjoy yourself in this 80’s style diner decorated with neon lights, great service and famous rock n’ roll music.",
+        "focus": [
+          "Consult, Design and Installation",
+          "We provided a simple and easy-to-operate sound system without neglecting high audio quality. Frog-is is the perfect solution for Pop Pizza’s patrons and their staff."
+        ],
+        "system": {
+          "Restaurant": [
+            "Frog-is SMS4-B × 7",
+            "Frog-is Sub10P × 3",
+            "Frog-is Amp 4D × 2"
+          ],
+          "Notes": [
+            "Frog-is AMP4D: all-in-one 4-channel Class-D DSP amplifier with USB & Bluetooth media player",
+            "Preset options for 2.1 or 4.1 with crossover between tops and subwoofers"
+          ]
+        },
+        "completion": "December 2019"
+      },
+      {
+        "title": "Quivo",
+        "context": "Restaurant · Johor Bahru, Malaysia",
+        "location": "Mid Valley Southkey, Johor Bahru, Malaysia",
+        "profile": "A hidden gem. QUIVO is a Mediterranean-influenced restaurant and bar in chic atmosphere and great service. Fresh, crisp flavours of margaritas, falafel that evokes the Mediterranean street feel plays in tune to sublime and creamy risotto that may have come straight from Italy! Come and dive straight into the depth of Mediterranean cuisine, mingle around you never know who you will find!",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KK102 – Stainless steel line array element with 2” drivers",
+            "K-array KU212 – Stainless steel line array bass element",
+            "K-array KV52 – Ultra-miniature aluminium line array element",
+            "K-array KU210 – Stainless steel line array bass element",
+            "Frog-is SMS4 – Two-way surface-mounted speaker",
+            "Frog-is FP8 – Mini self-powered full-range speaker",
+            "K-array KA14 – All-in-one stainless steel amplifier and processor",
+            "K-array KA84 – All-in-one stainless steel amplifier and processor",
+            "Frog-is Amp 4D – 4-channel Class D DSP power amplifier",
+            "Frog-is POW12 – 12-outlet power sequencer",
+            "Frog-is WP2V – Dual-channel UHF wireless handheld microphone",
+            "Yamaha TF-3 Mixer",
+            "Yamaha TIO-1608D Digital I/O Interface"
+          ],
+          "Lighting System": [
+            "12 × Quad 5W LED Parcan",
+            "Moving Head Fixtures",
+            "Lighting Controller: Sunlite Suite 2"
+          ]
+        },
+        "completion": "February 2020"
+      },
+      {
+        "title": "Nobu",
+        "context": "Fine dining · KLCC, Malaysia",
+        "location": "KLCC, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KT2 – 2″ audio speaker carved from aluminium",
+            "Sonab CSW – Subwoofer"
+          ]
+        },
+        "completion": "July 2015"
+      },
+      {
+        "title": "The Iron Fairies",
+        "context": "Nightclub & Bar · TREC, Kuala Lumpur",
+        "location": "TREC, Kuala Lumpur, Malaysia",
+        "profile": "The Iron Fairies KL in TREC is set to become a magical place for night-goers to come out and play. One of KL’s most expensive bars being built to date, it’s a venue where the imagination can run wild as you take in the intricate detail of the hand-cast designs by Ashley Sutton himself. A cult brand, The Iron Fairies origins’ draw back to the story books written by Australian iron ore miner-turned-interior designer Ashley Sutton who escaped into a fantasy world of fairies which then inspired the tale that immortalised into what is The Iron Fairies bars today.The Butterfly Room is where 50, 000 handmade butterflies hang from the ceiling and a DJ on Friday & Saturday is setting the tone accordingly with music ranging from old-school house to techno from midnight till 5am. Think along the style of Joey Negro, Frankie Knuckles, Derrick Carter, and so on. The Fairy Garden encapsulates the life & soul of The Iron Fairies. With different areas for seating and dancing reinforced with a powerful sound system by K-array, this rooftop is the ultimate adult’s playground that comes alive once you step inside. The DJ there assumes full responsibility in setting the mood for this area; they are bringing the best of house, disco, techno and every sub genre in between with influence from DJs such as Honey Dijon, Peggy Gou, and Hunee. Three floors starting from the enchanting outdoor rooftop Fairy Garden, heading down to the dark enclosed Butterfly Room and then finally deep underground into the cast iron space resembling an iron mine with a mythical twist, The Iron Fairies Kuala Lumpur is primed to be the flagship jewel of TREC occupying three units and two roof terraces which all comes together to unfold a visual story in each unique space.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Live Band with PRO AUDIO Speakers": [
+            "K-array KN6 ×10 – High-technology self-powered point/line source speaker",
+            "K-array KO70 ×2 – Self-powered subwoofer element",
+            "Frog-is FP12P ×4 – Compact passive full-range speaker 12″",
+            "Frog-is FP12 ×4 – Self-powered stage monitor 12″"
+          ],
+          "Butterfly Room with PRO AUDIO Speakers": [
+            "K-array KN6 ×8 – Self-powered point/line source speaker",
+            "K-array KO70 ×2 – Self-powered subwoofer element",
+            "Frog-is FP8 ×2 – Self-powered full-range DJ monitor 8″"
+          ],
+          "Rooftop with PRO AUDIO Speakers": [
+            "K-array KN6 ×12 – Self-powered point/line source speaker",
+            "K-array KO70 ×2 – Self-powered subwoofer element"
+          ],
+          "Alfresco Area": [
+            "Frog-is FP8P ×16 – Mini passive full-range speaker 8″"
+          ],
+          "Ceiling Speakers": [
+            "Frog-is CS4W ×6 – Two-way ceiling speaker"
+          ],
+          "Lighting System": [
+            "Beam 230 ×4",
+            "Chauvet DJ SlimPAR Q12 USB ×6"
+          ],
+          "Control System": [
+            "DBX ZonePro"
+          ]
+        },
+        "completion": "September 2018"
+      },
+      {
+        "title": "Handlebar Bar",
+        "context": "Restaurant & Bar · Singapore",
+        "location": "Lock Road, Singapore",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW5X – Invisible speaker",
+            "K-array KMT12P – Ultra-light, high-power 12″ passive subwoofer"
+          ]
+        },
+        "completion": "April 2016"
+      },
+      {
+        "title": "Brazzo Rivercity",
+        "context": "Restaurant & live music venue",
+        "location": "Rivercity, Batu Pahat, Johor, Malaysia",
+        "profile": "Brazzo Rivercity Batu Pahat blends a relaxed family-friendly atmosphere with an evening live-music energy, creating a versatile dining destination for casual gatherings, celebrations and social nights. The venue pairs Western classics and Asian favourites with chilled draft beers and a curated selection of international wines, supported by a sound system designed to transition seamlessly from background ambience to live performance.",
+        "focus": [
+          "Consult, design and installation",
+          "Clear front-of-house sound reinforcement for dining and live music",
+          "Dedicated karaoke room audio with controlled low-end impact",
+          "Flexible system tuning for day-to-night operation"
+        ],
+        "system": {
+          "Front of House": [
+            "Frog-is FS15 – Portable line array PA system"
+          ],
+          "Karaoke Room": [
+            "Frog-is FP8 – Mini self-powered full-range speaker",
+            "Frog-is Sub10P – 10″ passive subwoofer with dual passive radiators"
+          ],
+          "System & Control": [
+            "Myway Party K-K6 karaoke system",
+            "miniDSP 10×10 HD signal processor",
+            "Frog-is FI-WP2V – Dual-channel UHF wireless handheld microphone system"
+          ]
+        },
+        "completion": "January 2019"
+      },
+      {
+        "title": "Atmosphere 360",
+        "context": "Fine dining · KL Tower, Kuala Lumpur",
+        "location": "KL Tower, Malaysia",
+        "profile": "Atmosphere 360 is a modern and elegant revolving restaurant situated 282m above ground level located at the tallest tower in Southeast Asia – Menara Kuala Lumpur. The restaurant is furnished in a spaceship-like atmosphere with its magnificent view and starry fiber optic ceiling lights that offers a truly unforgettable and luxurious culinary experience.",
+        "focus": [
+          "Design and install a system for the background audio and live band audio system, great for dining experience and yet invisible as every single interior design are highly appreciated.Design and install a system for the background audio and live band audio system, great for dining experience and yet invisible as every single interior design are highly appreciated.",
+          "Consistent and immersive background music during the revolving of the dining seats to ensure the diners has an amazing experience while accompanied by the panoramic scenic view of Kuala Lumpur.",
+          "Nextrend Systems chooses Amina invisible speaker to fill the luxury space with exceptional audio with optical fibre twinkle starry filled ceiling for dining & live sound settings. Amina is the perfect sound solution for this space because it provides a full-bandwidth 180-degree dispersion pattern, incredible smooth coverage throughout the space.",
+          "With both full-bandwidth 180-degree dispersion and the incoherent-phase waveform generated by a VPT (Vibration Panel Technology), consistent sound coverage can be easily achieved with next to no variation in frequency across the entire space.",
+          "Two sound systems were built – one for background dining music, the other for live band music. The system switches automatically between the two systems, transferring from background music to live music instantly without any lapse."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW3 – Invisible Speaker",
+            "QSC K10 – Active Loudspeaker",
+            "QSC ADS 82 – Acoustic designed surface mount weather-resistant loudspeaker system"
+          ]
+        },
+        "completion": "October 2011"
+      },
+      {
+        "title": "Rosewood",
+        "context": "Luxury hotel · Live sound & dining · Cambodia",
+        "location": "Vattanac Capital Tower, Phnom Penh, Cambodia",
+        "profile": "Soaring 188 meters above the heart of Phnom Penh’s business district, Rosewood Phnom Penh occupies the top 14 floors of Vattanac Capital Tower, the city’s most iconic modern structure and a symbol of the new Cambodia.",
+        "focus": [
+          "Consult & Tuning"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KA84 ×4 – Stainless steel all-in-one amplifier and processing solution",
+            "K-array KY102 ×8 – Stainless steel line array element",
+            "K-array KMT21P ×4 –Ultra-light, high-power 21” subwoofer",
+            "K-array KP102 ×2 – Stainless steel line array element",
+            "K-array KF12P ×4 – Stainless steel ultra-compact full-range passive speaker",
+            "Amina Edge 5 – Invisible loudspeaker"
+          ]
+        },
+        "completion": "March 2018"
+      }
+    ],
+    "Hotels & Lounges": [
+      {
+        "title": "PARKROYAL COLLECTION",
+        "context": "Lifestyle hotel",
+        "location": "Kuala Lumpur",
+        "profile": "PARKROYAL COLLECTION Kuala Lumpur is designed with the environment and wellness in mind for the modern conscious travellers. Gorgeous greenery, earthy tones and sleek wooden finishes within their hotel make it the perfect hideaway from skyscrapers, shopping malls and city streets teeming with activity.",
+        "focus": [
+          "Consult, Design and Installation",
+          "Lobby – Background music for common areas, speakers to match the modern interior design.",
+          "Common area – Proper speaker placement to improve overall listening experience and sound.",
+          "Ballrooms – Background music and small public address system for events. A sound system that can handle high music levels during full hall banquet. Softer levels in a separate partition where guests can comfortably conduct a meeting or discussion.",
+          "Customize speakers coloured to accommodate the natural wood surface of Grand Ballroom."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Kobra – KK102 I x 4",
+            "K-array Vyper – KV52 x 2",
+            "K-array Tornado – KT2 x 18",
+            "K-array Kommander – KA24 Power AMP x 2"
+          ]
+        },
+        "completion": "June 2022"
+      },
+      {
+        "title": "Sheraton Imperial Hotel",
+        "context": "Hotel · Kuala Lumpur",
+        "profile": "Nestled in the city center and just steps away from the city monorail and LRT lines, the hotel offers seamless access to Kuala Lumpur’s main attractions making it just minutes away from the city’s best shopping and dining venues.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina LFi2T – Invisible Speaker"
+          ]
+        },
+        "completion": "February 2009"
+      },
+      {
+        "title": "The Saujana Hotel",
+        "context": "Resort hotel · Malaysia",
+        "location": "Saujana, Petaling Jaya",
+        "profile": "The Saujana Hotel Kuala Lumpur in Malaysia is a 5 star resort style hotel that sits on 160 hectares of lush tropical forest and gardens with lakeside view. Taking its name from the old Malay expression “sejauh di sana” which means – as far as the eye can see – this 355 rooms resort with two adjoining 18-hole championship gold courses is an idyllic haven for business and pleasure only minutes from the city in Shah Alam.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KT2 – 2″ audio speaker carved from aluminum",
+            "Sonab CSW – Subwoofer"
+          ]
+        },
+        "completion": "March 2015"
+      },
+      {
+        "title": "Hotel Perdana",
+        "context": "Hotel · Malaysia",
+        "location": "Kelantan, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW5X – Invisible Speaker"
+          ]
+        },
+        "completion": "April 2011"
+      },
+      {
+        "title": "Mandarin Oriental Hotel",
+        "context": "Luxury hotel · Kuala Lumpur, Malaysia",
+        "profile": "The Mandarin Oriental in Kuala Lumpur, Malaysia opened in 1998 and is the largest Mandarin Oriental hotel having 632 rooms, 41 suites and 51 apartments. It is located next to Petronas Tower, offers 6 restaurants and 2 bars, a fitness centre, spa and an infinity edge ourdoor pool with views over the near located city centre park. It has been rated as the best hotel in Kuala Lumpur several times and as one of the 100 best hotels in Malaysia. The Five-Star hotel is nationwide famous for its personal service, the different culinary offers by international chefs and the room views over the illuminated Petronas towers by night.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker",
+            "Amina AIW3 – Invisible Speaker"
+          ]
+        },
+        "completion": "December 2013"
+      },
+      {
+        "title": "Hilton Hotel",
+        "context": "Hotel / hospitality",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "Located in the heart of KL Sentral, Hilton Hotel is a landmark destination where business travellers, weekend guests and fine-dining enthusiasts cross paths in a vibrant, contemporary setting. The interiors blend warm hospitality with modern luxury — open lobby spaces, refined lounges and signature restaurants all flowing together with a consistent design language. For this project, the goal was to create an audio experience that feels effortless: present, but never intrusive. Using Amina AIW1 and AIW3 invisible speakers, we delivered a fully concealed sound solution that preserves the clean architectural lines of the hotel while bathing key guest areas in soft, evenly balanced background music. Whether guests are checking in, enjoying a casual conversation, or moving between facilities, the sound remains smooth, calming and beautifully uniform across the entire space.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker",
+            "Amina AIW3 – Invisible Speaker"
+          ]
+        },
+        "completion": "January 2008"
+      },
+      {
+        "title": "Apricot Hotel",
+        "context": "Boutique hotel",
+        "location": "Hanoi, Vietnam",
+        "profile": "Apricot Hotel is a boutique luxury property in the heart of Hanoi, blending contemporary elegance with classic artistic influences. The brief called for a high-quality background music system that would enhance the ambience without introducing any visible hardware. Using Amina LFi2T invisible speakers, we delivered a fully concealed sound solution that preserves the hotel’s refined interiors while providing soft, evenly distributed audio across guest areas.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina LFi2T – Invisible Speaker"
+          ]
+        },
+        "completion": "October 2014"
+      }
+    ],
+    "Residential & Private Cinema": [
+      {
+        "title": "Avara Seputeh",
+        "context": "High-rise residential",
+        "location": "Kuala Lumpur",
+        "profile": "When comes to hitting the target right on the dot, no residential development offers such value as Avara Seputeh. A freehold development neighbouring 5 urban developments – Mid Valley City, KL Eco City, Bangsar South, Bandar Malaysia, and KL Sentral. Avara Seputeh is the place to call home.Optimises space for style and comfort in all its units. They have 3 artistic yet practical layout design plans, whether it is 1, 2 or 3 rooms to suit your needs. Luxurious interiors fuse comfort with an elegant style. And stylish living areas perfect spaces for entertaining. High-quality finishes blend effortlessly from beautiful kitchens which shape the heart of these designer homes to indulgent premium appliances.Turn up the heat at the state-of-the-art gymnasium, or take a dip in the infinity lap pool. Unwind with a cold beverage in the sun lounge while watching over the kids as they enjoy splashing in the awesome water playground. Your private events and parties will be the talk of the town. Imagine dining amidst a beautifully landscaped garden while enjoying sterling city skyline views.Live high, live well, live posh in an iconic residence created with nature in mind. It is a prestigious enclave with warm and sophisticated accents to enhance comfort living. Its uncompromised aesthetics incorporate a modern and organic concept. Blending features and finishing in an interplay of the stylish kinetic facade, ripples in the wind to form a beautiful piece of art.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KF210",
+            "K-array K-KUIP",
+            "K-array KWALL2",
+            "Frog-is FI-AMP8 x1",
+            "PRE 126 Amp",
+            "Panasonic PT-MZ780",
+            "Panasonic ET-ELW20",
+            "SC60 6m Motorized Projector Scissors Lift"
+          ]
+        },
+        "completion": "March 2022"
+      },
+      {
+        "title": "Twin Palms Residence",
+        "context": "Luxury residence · Malaysia",
+        "location": "Kuala Lumpur",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "2 K-array KP102",
+            "2 K-array KV52",
+            "2 K-array KU210",
+            "3 K-array KP52",
+            "PRE 126 Amp",
+            "2 K-array KT2"
+          ]
+        },
+        "completion": "August 2020"
+      },
+      {
+        "title": "Desa ParkCity: Integrated Luxury Home",
+        "context": "Residential · Kuala Lumpur",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Whole-home",
+          "Cinema tuning",
+          "Low visual impact"
+        ],
+        "system": {
+          "Key Product": [
+            "Home Theater System for AV Room:",
+            "Denon AVR-390 Surround Receiver Amplifier",
+            "SC-F390 Front Channel Speaker",
+            "SC-C390 Center Channel Speaker",
+            "SC-R390 Rear Channel Speaker",
+            "DSW-390 Subwoofer",
+            "Karaoke System:",
+            "BMB CS225E – 8″ Karaoke & Bestkara Amplifier 180W x2",
+            "NK 388 Microphone x2",
+            "MyWay Karaoke Hardisk Player High Resolution excluded LCD",
+            "Background Music System for Living & Dining Hall:",
+            "Amina AIW3X Plaster In-wall (In-Ceiling) Loudspeaker",
+            "NAD C717 20W Compact Music System",
+            "Velodyne Impact Mini – 8″ Powered Subwoofer"
+          ]
+        },
+        "completion": "August 2010"
+      },
+      {
+        "title": "ARIA Residence",
+        "context": "High-rise private residence",
+        "location": "Jalan Tun Razak, Malaysia",
+        "profile": "Aria Kuala Lumpur rises majestically from the very heart of Malaysia’s bustling capital city. 2 Towers with 592 units in all, ranging from one and up to three bedrooms. All residences are exclusive and private, 2 lifts serving 2–3 units only, offering exclusive concierge service and luxurious facilities area of approximately 65,000 sq. ft.Within 1km traveling distance to both proposed KLCC East and Conlay MRT station, Aria KLCC’s most desirable address and is the epitome of upscale urban living.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Optoma UHD60",
+            "Crestron Wall Panel",
+            "K-array KRM33",
+            "Frog-is SUB10A",
+            "Frog-is SMS4B"
+          ]
+        },
+        "completion": "August 2019"
+      },
+      {
+        "title": "Saujana Residence",
+        "context": "Private residential · Malaysia",
+        "location": "Saujana, Petaling Jaya",
+        "profile": "The Saujana Hotel Kuala Lumpur in Malaysia is a 5 star resort style hotel that sits on 160 hectares of lush tropical forest and gardens with lakeside view. Taking its name from the old Malay expression “sejauh di sana” which means – as far as the eye can see – this 355 rooms resort with two adjoining 18-hole championship gold courses is an idyllic haven for business and pleasure only minutes from the city in Shah Alam.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KT2 – 2″ audio speaker carved from aluminum",
+            "Sonab CSW – Subwoofer"
+          ]
+        },
+        "completion": "March 2015"
+      },
+      {
+        "title": "M-City SOHO",
+        "context": "Residential / SOHO",
+        "location": "Ampang, Kuala Lumpur",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KB1R – High tech portable powered system",
+            "K-array KK52 – Stainless steel line array element",
+            "K-array KT2 – 2″ audio speaker carved from aluminium",
+            "REL T3 – Subwoofer"
+          ],
+          "Visual System": [
+            "OPPO BDP-103D – Blu-ray player"
+          ]
+        },
+        "completion": " April 2016"
+      }
+    ],
+    "Luxury Retail & Automotive": [
+      {
+        "title": "Van Cleef & Arpels",
+        "context": "Luxury retail maison · Malaysia",
+        "location": "Pavilion, Kuala Lumpur",
+        "profile": "Van Cleef & Arpels is a French luxury jewelry, watch, and perfume company. Founded in 1906, Van Cleef & Arpels has always remained faithful to the values of the creation, expertise and transmission. Inspired by the Maison’s unique identity and heritage, each jewelry and watch collection tells a story with universal meaning to express a poetic way of life.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina Edge3 MT – Invisible Speakers x5 units",
+            "TOA A-1812 ER – Power Amplifier x2 units",
+            "TOA AT-4060 – Volume Controller"
+          ]
+        },
+        "completion": "October 2020"
+      },
+      {
+        "title": "Fendi",
+        "context": "Luxury retail",
+        "location": "KLCC, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1X – Invisible Speaker"
+          ]
+        },
+        "completion": "January 2013"
+      },
+      {
+        "title": "YSL",
+        "context": "Luxury retail",
+        "location": "Pavilion,Kuala Lumpur",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW3 – Invisible Speaker",
+            "REL Q108 – Subwoofer"
+          ]
+        },
+        "completion": "September 2008"
+      },
+      {
+        "title": "Burberry",
+        "context": "Luxury retail",
+        "location": "KLCC, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker",
+            "ALF80 – Subwoofer"
+          ]
+        },
+        "completion": "March 2010"
+      },
+      {
+        "title": "Dolce & Gabbana",
+        "context": "Luxury fashion retail",
+        "location": "KLCC, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina LFi2T – Invisible Speaker",
+            "K-array KMT12P – Ultra-light, high-power 12” subwoofer"
+          ]
+        },
+        "completion": "July 2014"
+      },
+      {
+        "title": "Ermenegildo Zegna",
+        "context": "Luxury menswear retail",
+        "location": "KLCC, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker",
+            "REL Q108 – Subwoofer"
+          ]
+        },
+        "completion": "November 2007"
+      },
+      {
+        "title": "BMW M",
+        "context": "Automotive brand space",
+        "location": "Jurong East, Singapore",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker",
+            "ALF80 – Subwoofer"
+          ]
+        },
+        "completion": "August 2010"
+      },
+      {
+        "title": "Lexus Mutiara Showroom",
+        "context": "Automotive luxury showroom",
+        "location": "Lexus Mutiara Damansara, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sales Gallery": [
+            "K-array KV52 x 4 – Ultra-flat line array element",
+            "K-array KU26 x 2 – Ultra thin, high power passive subwoofer"
+          ],
+          "Lounge": [
+            "Audac Ateo 6 x 3 – Wall Speaker with CLEVERMOUNT™ 6",
+            "Audac Celo 8 x 2 – High-end 2-Way 8″ Ceiling Speaker",
+            "Audac Celo 2D x 2 – High-end Ceiling Speaker 2"
+          ],
+          "Control System": [
+            "Audac Pre126 – Two Zone – 6 Channel Stereo Preamplifier"
+          ]
+        },
+        "completion": "August 2018"
+      }
+    ],
+    "Corporate / Government / Enterprise": [
+      {
+        "title": "SJKC SOO",
+        "context": "Multipurpose school hall · Kapar, Malaysia",
+        "location": "Kapar, Malaysia",
+        "profile": "SJK(C) Soo Jin is a primary school in Pekan Kapar with a multipurpose hall the size of three badminton courts. The upgrade brief called for an affordable yet high-quality sound system that could fully cover the hall for school events, assemblies and performances.",
+        "focus": [
+          "Consult, Design and Installation",
+          "Budget-conscious hall reinforcement without compromising speech clarity or musical impact.",
+          "Full-coverage system using a compact combination of front-of-house and delay loudspeakers."
+        ],
+        "system": {
+          "Sound System": [
+            "Frog-is FP15p – Large format passive full range 15” speaker",
+            "Frog-is FP12p – Compact passive full range 12” speaker",
+            "Frog-is FP8p – Mini passive full range 8” speaker",
+            "Frog-is FI-Amp8 – 8 channel bridgeable Class D power amplifier"
+          ],
+          "Control System": [
+            "DBX DriveRack"
+          ]
+        },
+        "completion": "August 2018"
+      },
+      {
+        "title": "TZU CHI INTERNATIONAL SCHOOL",
+        "context": "International school auditorium · Bukit Jalil, Malaysia",
+        "location": "Tzu Chi International School, Bukit Jalil, Malaysia",
+        "profile": "Tzu Chi International School (TCISKL) offers the Cambridge curriculum together with Tzu Chi’s humanistic lessons on a 7.67-acre campus. This project focused on delivering powerful, controlled sound reinforcement for two auditoriums used for assemblies, performances and events.",
+        "focus": [
+          "Consult and Supply",
+          "High-output, controlled-coverage systems for Auditorium 1 and Auditorium 2.",
+          "Consistent speech intelligibility and musical impact across every seat."
+        ],
+        "system": {
+          "Sound System": [
+            "Auditorium 1: 2 sets of K-array Axle KRX402",
+            "Auditorium 2: 2 sets of K-array Pinnacle KR202"
+          ]
+        },
+        "completion": "February 2020"
+      },
+      {
+        "title": "Iskandar Malaysia",
+        "context": "Corporate / civic · Johor",
+        "location": "Iskandar Malaysia, Johor",
+        "profile": "Iskandar Malaysia, formerly known as Iskandar Development Region and South Johor Economic Region, is the main southern development corridor in Johor, Malaysia. It was established on 8 November 2006.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW5 x 4  – Invisible loudspeaker"
+          ]
+        },
+        "completion": "2016"
+      },
+      {
+        "title": "Etiqa Insurance and Takaful",
+        "context": "Corporate environment",
+        "location": "Jalan Maarof, Bangsa, Malaysia",
+        "profile": "Etiqa is the insurance and takaful business of the Malaysian banking group Maybank. It offers life and general insurance as well as family and general takaful products through its 14,000 agents, 30 branches and 450 Maybank branches using the bancassurance model. Etiqa Insurance is one of the top conventional insurers in Malaysia by gross premiums written; while Etiqa Takaful is the takaful market leader with 47 percent and 21 percent market shares in general and family takaful respectively in 2014.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KV52"
+          ]
+        },
+        "completion": "September 2019"
+      },
+      {
+        "title": "Lendlease Site Office",
+        "context": "Corporate site office",
+        "location": "Lendlease, The Exchange TRX, Malaysia",
+        "profile": "Lendlease is a leading international property and infrastructure group, with approximately 12,000 employees internationally. They combine their core capabilities of development, construction, investment and property management across the property value chain to offer innovative and integrated solutions for their clients. Headquartered in Sydney but with over 35 years’ experience in Malaysia, they are proud to have delivered some of the most iconic and award-winning projects locally and globally. Every day, millions of people around the world live, work, shop and play via an asset created by Lendlease.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Visual System": [
+            "LG 65″ UHD 4K TV"
+          ],
+          "Control System": [
+            "Gefen Matrix Controller",
+            "Gefen HDMI Extender",
+            "Aten HDMI Splitter"
+          ]
+        },
+        "completion": "March 2019"
+      },
+      {
+        "title": "Menara JCorp Lendlease",
+        "context": "Corporate tower",
+        "location": "Lendlease Menara JCorp, Malaysia",
+        "profile": "Lendlease is a leading international property and infrastructure group, with approximately 12,000 employees internationally. They combine their core capabilities of development, construction, investment and property management across the property value chain to offer innovative and intergrated solutions for their clients. Headquartered in Sydney but with with more than 35 years’ experience in Malaysia, they are proud to have delivered some of the most iconic and award-winning projects locally and globally. Every day, millions of people around the world live, work, shop and play via an asset created by Lendlease.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KT2 x 12 – 2” audio speaker carved from aluminium",
+            "K-array KU26 x 5 – Stainless steel ultra-thin line array bass element"
+          ],
+          "Visual System": [
+            "Samsung 75” Full HD Display",
+            "Samsung 55” Full HD Display",
+            "Samsung 49” Full HD Display",
+            "Gefen HDMI Matrix Switcher",
+            "Extron ShareLink Wireless Presentation"
+          ],
+          "Control System": [
+            "Command Fusion",
+            "DBX ZonePro"
+          ]
+        },
+        "completion": "July 2018"
+      },
+      {
+        "title": "Maxis Communications",
+        "context": "Corporate",
+        "location": "Sentral, Kuala Lumpur",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker"
+          ]
+        },
+        "completion": "December 2015"
+      },
+      {
+        "title": "Petronas IO Centre",
+        "context": "Corporate / technical",
+        "location": "KLCC, Malaysia",
+        "profile": "PETRONAS, short form Petroliam Nasional Berhad (National Petroleum, Limited), is a Malaysia oil and gas company that was founded on 17 Auguest 1974. Wholly owned by the Government of Malaysia, the corporation is vested with the entire oil and gas resources in Malaysia and is entrusted with the responsibility of developing and adding value to these resources. Petronas is ranked among Fortune Global 500’s largest corporations, 75th largest company and 12th most profitable company in the world. The I/O Centre main function as a command centre as a centralized monitoring hub for global refinery operation. In this case, video conference communication systems are crucial for 24/7 communication hub with each operation centre globally. So, as far as it concerns, the voice intelligibility is the highest priority.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KP102 – Stainless steel line array element",
+            "K-array KP52 – Stainless steel line array element",
+            "K-array KMT18 – Ultra-light, high-power 18″ subwoofer",
+            "K-array KA24 – Stainless steel all-in-one amplifier and processing solution"
+          ]
+        },
+        "completion": "July 2015"
+      },
+      {
+        "title": "BAE Systems",
+        "context": "Enterprise / ops",
+        "location": "Menara Binjai, KLCC",
+        "profile": "BAE Systems plc is a British multinational defence security and aerospace company. Its headquarters are in London in the United Kingdom and it has operations worldwide and one of its branches in Menara Binjai Malaysia.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Audac LX503 MK2 – 3-way active speaker system"
+          ],
+          "Visual System": [
+            "2 x 2 Video Wall with 110” touch overlay glass were installed as interactive screens for presentation purpose."
+          ],
+          "Control System": [
+            "Creston"
+          ]
+        },
+        "completion": "August 2016"
+      },
+      {
+        "title": "Great Eastern",
+        "context": "Corporate",
+        "location": "Great Eastern Mall, Kuala Lumpur",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina LFi2 – Invisible Speaker"
+          ]
+        },
+        "completion": "October 2013"
+      },
+      {
+        "title": "Foreland Realty",
+        "context": "Corporate / property",
+        "location": "Troika, Kuala Lumpur",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1X – Invisible Speaker",
+            "Amina LFi2T – Invisible Speaker"
+          ]
+        },
+        "completion": "January 2013"
+      },
+      {
+        "title": "eSyariah HQ",
+        "context": "Government / admin",
+        "location": "Cyberjaya, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW3 – Invisible Speaker"
+          ]
+        },
+        "completion": "December 2006"
+      },
+      {
+        "title": "SYABAS Facility",
+        "context": "Utility / enterprise",
+        "location": "Syabas HQ, Jalan Pantai Baharu",
+        "profile": "Syabas, better known as Syarikat Bekalan Air Selangor, is the sole provider of water supply and distributor for over 7 million customers in Selangor and Federal Territory of Kuala Lumpur.",
+        "focus": [
+          "Consult and Supply"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Azimut – Kamut2L14"
+          ]
+        },
+        "completion": "Jan 2020"
+      },
+      {
+        "title": "Islamic Museum",
+        "context": "Museum / gallery · Kuala Lumpur",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "Interest in Islamic art has grown enormously in recent years. Reflecting this awareness, in December 1998 Malaysia became home to Southeast Asia’s largest museum of Islamic art. The building occupies 30,000 square metres, situated amid the leafy surroundings of central Kuala Lumpur’s Lake Gardens.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker",
+            "Amina AIW3 – Invisible Speaker"
+          ]
+        },
+        "completion": "December 2007"
+      },
+      {
+        "title": "1Malaysia for Youth iM4U",
+        "context": "Public / civic",
+        "location": "Puchong, Malaysia",
+        "profile": "1Malaysia for Youth, usually stylised as iM4U, was an initiative of the former Malaysian government of Barisan Nasional (BN) led by Najib Razak. It was created to encourage the volunteerism among Malaysian youth. The program launched in July 2012 and in January 2013 the first group of twenty iM4U ambassadors was announced. IM4U became dormant and was dissolved after the downfall of BN government in the 2018 general election.",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array KR402 – High-tech, ultra-light powered stereo system",
+            "Behringer X32 – Digital console",
+            "Behringer S16 – Stagebox",
+            "TACH MF4000 – Media Player, CD/MP3 from Disc, SD-card or USB memory stick",
+            "Sennheiser G3 ew335 – Wireless Handheld Microphone",
+            "Sennheiser ew312 – Body pack Microphone",
+            "Sennheiser HSP4 – Wireless Headworn Microphone"
+          ],
+          "Visual": [
+            "Gefen GTB-HD4K2K-444-BLK – 4×4 HDMI Matrix Switcher",
+            "Gefen GTV-HDMI-2-HDMIAUD – HDMI to HDMI Audio Converter",
+            "Gefen GTB-HDBT-POL-BLK – HDMI Extender over Cat5",
+            "Samsung BluRay Player",
+            "Panasonic PT-DW750BA – 7,000 ANSI Lumens WXGA DLP Projector c/w Standard Lens",
+            "Custom Made Motorised Projector Lift",
+            "Alphal 16′ x 16′ – Motorised Screen c/w RF remote controller"
+          ]
+        },
+        "completion": "November 2015"
+      },
+      {
+        "title": "National Aquatic Centre",
+        "context": "Public sports facility",
+        "focus": [
+          "High-reverb control",
+          "Announcement clarity",
+          "Event energy"
+        ]
+      },
+      {
+        "title": "KL BT",
+        "context": "Commercial / corporate · Kuala Lumpur",
+        "focus": [
+          "Corporate/commercial",
+          "Clarity",
+          "Ambient layer"
+        ]
+      },
+      {
+        "title": "GSC Aurum Kuala Lumpur",
+        "context": "Luxury cinema · Kuala Lumpur",
+        "location": "GSC Aurum Theatre, The Gardens Mall, Kuala Lumpur, Malaysia",
+        "profile": "Named after the Latin word and chemical element representing gold, Aurum Theatre is a gold standard in extravagant cinema experiences; featuring opulent halls with luxury recliners, private cabins, bespoke service and contemporary continental dining.",
+        "focus": [
+          "Immersive surround sound",
+          "Premium cinema experience",
+          "Restaurant & bar coverage"
+        ],
+        "role": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Cinema Sound System": [
+            "K-array KV52 – Ultra-flat, 50cm-long aluminum line array element (8×1″ cones)",
+            "K-array KK102 – 100cm stainless steel variable-beam array (16×2″ cones)",
+            "K-array KP102 – 100cm stainless steel variable-beam array (12×3″ cones)",
+            "K-array KF26 – 4×6″ passive stainless steel full-range speaker",
+            "K-array KU212 – Ultra-slim passive subwoofer (2×12″ cones)"
+          ],
+          "Amplification & Control": [
+            "K-array KA24 – Class-D DSP amplifier (4×500W @ 4Ω)"
+          ],
+          "Restaurant & Lounge": [
+            "Frog-is FS12 – 12″ powered sub + 70cm array (8×3″) 600W + 600W",
+            "Frog-is SMS4 – 4″ two-way surface-mount speaker",
+            "Frog-is SUB10P – 10″ passive subwoofer",
+            "Frog-is WP2V – Dual-channel UHF wireless handheld microphone",
+            "Frog-is VOX2 – Dynamic supercardioid vocal microphone",
+            "Frog-is AMP4D – Quad-channel Class-D amplifier with DSP",
+            "Frog-is AMP8 – 8-channel Class-D amplifier (250W/ch @ 4Ω)",
+            "Frog-is MIXER8 – 8×2 analog mixer with FX"
+          ]
+        },
+        "completion": "Completed January 2020"
+      },
+      {
+        "title": "GSC Aurum  Johor Bahru",
+        "context": "Luxury cinema · Johor Bahru",
+        "location": "GSC Aurum Theatre, Mid Valley Southkey, Johor Bahru, Malaysia",
+        "profile": "Aurum Theatre at Mid Valley Southkey brings the same gold-standard luxury cinema concept to Johor Bahru, featuring recliners, private cabins and bespoke F&B experiences supported by a finely tuned audio environment.",
+        "focus": [
+          "Cinema tuning",
+          "Pre-show atmosphere",
+          "Premium venue"
+        ],
+        "role": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Cinema Sound System": [
+            "K-array KV52 – Ultra-flat aluminum line array element (8×1″ cones)",
+            "K-array KU210 – Ultra-slim passive subwoofer (2×10″ cones)",
+            "K-array KU212 – Ultra-slim passive subwoofer (2×12″ cones)"
+          ],
+          "Amplification & Control": [
+            "K-array KA14 – DSP amplifier (4×250W @ 4Ω)",
+            "K-array KA24 – DSP amplifier (4×500W @ 4Ω)"
+          ],
+          "Restaurant & Lounge": [
+            "Frog-is FS12 – 12″ powered sub + 70cm array (8×3″)",
+            "Frog-is SMS4 – Surface-mount speakers",
+            "Frog-is SUB10P – Passive subwoofer",
+            "Frog-is WP2V – Dual-channel wireless handheld microphone",
+            "Frog-is VOX2 – Supercardioid handheld microphone",
+            "Frog-is AMP4D – Quad-channel Class-D amplifier",
+            "Frog-is MIXER8 – 8×2 analog mixer with FX"
+          ]
+        },
+        "completion": "Completed December 2019"
+      },
+      {
+        "title": "MyTOWN Shopping Centre",
+        "context": "Retail mall · Kuala Lumpur",
+        "focus": [
+          "Retail mall",
+          "Announcement clarity",
+          "Footfall tuning"
+        ]
+      },
+      {
+        "title": "Sunway Carnival Mall",
+        "context": "Retail concourse · Penang",
+        "focus": [
+          "Paging & BGM",
+          "Wide-area coverage",
+          "Tonal balance"
+        ]
+      }
+    ],
+    "Developers / Galleries / Townships": [
+      {
+        "title": "SP Setia Sales Gallery",
+        "context": "Developer gallery",
+        "focus": [
+          "Lifestyle playback",
+          "Sales pods",
+          "Brand tone"
+        ]
+      },
+      {
+        "title": "Ajinomoto Museum",
+        "context": "Museum / gallery · Kuchai Lama",
+        "location": "Kuchai Lama, Petaling Jaya, Malaysia",
+        "profile": "A discreet audio solution for Ajinomoto’s museum space, using fully invisible loudspeakers to preserve clean architectural lines while still delivering clear narration and ambient sound.",
+        "focus": [
+          "Invisible speakers",
+          "Discreet museum audio",
+          "Sub-bass support"
+        ],
+        "role": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker",
+            "ALF80 – Subwoofer"
+          ]
+        },
+        "completion": "October 2011"
+      },
+      {
+        "title": "Eco Grandeur",
+        "context": "Developer sales gallery",
+        "focus": [
+          "Sales-floor audio",
+          "Lifestyle showcase",
+          "Clarity"
+        ]
+      },
+      {
+        "title": "Eco Tropics",
+        "context": "EcoWorld township",
+        "focus": [
+          "Township gallery",
+          "Walkthrough ambience",
+          "Presentation"
+        ]
+      },
+      {
+        "title": "Eco Terraces",
+        "context": "EcoWorld township",
+        "focus": [
+          "Consistent ambience",
+          "Discreet install",
+          "Show units"
+        ]
+      },
+      {
+        "title": "Eco Meadow",
+        "context": "EcoWorld township",
+        "focus": [
+          "Relaxed listening",
+          "Narration clarity",
+          "Zones"
+        ]
+      },
+      {
+        "title": "Eco Macalister",
+        "context": "EcoWorld development",
+        "focus": [
+          "Interior alignment",
+          "Presentation clarity",
+          "Ambient scoring"
+        ]
+      },
+      {
+        "title": "Meridian East",
+        "context": "Property presentation",
+        "focus": [
+          "Showroom",
+          "Mood alignment",
+          "Lifestyle"
+        ]
+      },
+      {
+        "title": "TA Global",
+        "context": "Developer / hospitality",
+        "focus": [
+          "Developer",
+          "Premium brand tone",
+          "Presentation"
+        ]
+      },
+      {
+        "title": "Ekovest Sales Gallery",
+        "context": "Developer sales",
+        "focus": [
+          "Sales gallery",
+          "Story soundtrack",
+          "Clarity"
+        ]
+      },
+      {
+        "title": "Aspen Vervea",
+        "context": "Commercial / lifestyle hub",
+        "focus": [
+          "Mixed-use",
+          "Coverage consistency",
+          "Public ambience"
+        ]
+      },
+      {
+        "title": "Aspen CEC",
+        "context": "Experience centre",
+        "focus": [
+          "Demo clarity",
+          "Client walkthrough",
+          "Showcase"
+        ]
+      }
+    ]
+  },
+  "experience": "10+ years",
+  "detailDefaults": {
+    "role": "System design, engineering & calibration partner",
+    "keyProducts": [
+      "Distributed loudspeaker & amplification suite",
+      "DSP tuning, zoning, and automation control",
+      "Commissioning documentation & onsite calibration"
+    ]
+  },
+  "detailOverrides": {
+    "petronas-io": {
+      "location": "KLCC, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Petronas IO Centre_project1.jpg",
+      "galleryHighlightImage": "project_sites/Petronas IO Centre_project2.jpg",
+      "galleryHighlightDescription": "A mission-critical operations environment where speech intelligibility is the priority—engineered for clear conferencing, monitoring, and round-the-clock communication.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Petronas IO Centre_project1.jpg",
+          "label": "Ops room environment",
+          "description": "Audio designed for maximum vocal clarity in a high-information setting, supporting long sessions without fatigue."
+        },
+        {
+          "src": "project_sites/Petronas IO Centre_project2.jpg",
+          "label": "Communication clarity",
+          "description": "System tuning optimised for conferencing and monitoring, keeping speech crisp and consistent across positions."
+        }
+      ]
+    },
+    "syabas-facility": {
+      "location": "Syabas HQ, Jalan Pantai Baharu, Malaysia",
+      "heroImage": "project_sites/Syabas HQ Consult Supply_project1.jpg",
+      "galleryHighlightImage": "project_sites/Syabas HQ Consult Supply_project2.jpg",
+      "galleryHighlightDescription": "A utility HQ environment supported by reliable audio deployment for operational communication and day-to-day facility use.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Syabas HQ Consult Supply_project1.jpg",
+          "label": "HQ deployment",
+          "description": "Practical, dependable system supply aligned with facility needs and long-term reliability."
+        },
+        {
+          "src": "project_sites/Syabas HQ Consult Supply_project2.jpg",
+          "label": "Coverage consistency",
+          "description": "Even distribution and stable performance across key areas for clear announcements and background playback."
+        }
+      ]
+    },
+    "esyariah-hq": {
+      "location": "Cyberjaya, Malaysia",
+      "heroImage": "project_sites/eSyariah HQ_projects1.jpg",
+      "galleryHighlightImage": "project_sites/eSyariah HQ_projects1.jpg",
+      "galleryHighlightDescription": "A government administration environment where clean, intelligible audio supports daily operations while remaining discreet and visually minimal.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/eSyariah HQ_projects1.jpg",
+          "label": "Administration environment",
+          "description": "Speech-forward tuning and comfortable background levels designed for professional day-to-day use."
+        }
+      ]
+    },
+    "brazzo-rivercity-batu-pahat": {
+      "location": "Batu Pahat, Johor, Malaysia",
+      "heroImage": "project_sites/Brazzo Rivercity Batu Pahat_project_main.jpg",
+      "galleryHighlightImage": "project_sites/Brazzo Rivercity Batu Pahat_project1.jpg",
+      "galleryHighlightDescription": "A modern dining destination in Rivercity Batu Pahat, where a discreet, evenly tuned sound system supports relaxed daytime service and a livelier evening atmosphere without visual clutter.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Brazzo Rivercity Batu Pahat_project_main.jpg",
+          "label": "Main dining environment",
+          "description": "Room-wide coverage calibrated for clear conversation and a smooth background music bed across tables and circulation paths."
+        },
+        {
+          "src": "project_sites/Brazzo Rivercity Batu Pahat_project1.jpg",
+          "label": "Detail & zone integration",
+          "description": "Discreet loudspeaker placement aligned with interior finishes, maintaining a clean look while keeping tonal balance consistent throughout the space."
+        }
+      ]
+    },
+    "maxis-communications": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Maxis Communications_project1.jpg",
+      "galleryHighlightImage": "project_sites/Maxis Communications_project1.jpg",
+      "galleryHighlightDescription": "A corporate space supported by clean, intelligible audio—designed for day-to-day comfort and professional presentation readiness.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Maxis Communications_project1.jpg",
+          "label": "Corporate audio deployment",
+          "description": "Balanced playback tailored for clarity and consistency across key working and meeting areas."
+        }
+      ]
+    },
+    "mytown-shopping-centre": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/MyTOWN_projects2.jpg",
+      "galleryHighlightImage": "project_sites/MyTOWN_projects1.jpg",
+      "galleryHighlightDescription": "Retail concourse audio designed for clear paging and comfortable background music—consistent coverage across high-footfall public zones.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/MyTOWN_projects1.jpg",
+          "label": "Concourse coverage",
+          "description": "Distributed audio tuned for smooth levels that remain comfortable during quiet hours and intelligible during peak traffic."
+        },
+        {
+          "src": "project_sites/MyTOWN_projects2.jpg",
+          "label": "Public zone clarity",
+          "description": "Paging intelligibility prioritised while keeping background music natural and non-fatiguing."
+        },
+        {
+          "src": "project_sites/MyTOWN_projects3.jpg",
+          "label": "Wide-area consistency",
+          "description": "Even tonal balance across walkways and gathering areas so the experience remains cohesive from end to end."
+        }
+      ]
+    },
+    "national-aquatic-centre": {
+      "location": "Malaysia",
+      "heroImage": "project_sites/National Aquatic Centre_project1.jpg",
+      "galleryHighlightImage": "project_sites/National Aquatic Centre_project2.jpg",
+      "galleryHighlightDescription": "A challenging high-reverb sports venue tuned for announcement intelligibility and event energy—controlled coverage designed to cut through reflections.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/National Aquatic Centre_project1.jpg",
+          "label": "Venue overview",
+          "description": "System deployment designed to maintain clarity across large spectator and circulation areas."
+        },
+        {
+          "src": "project_sites/National Aquatic Centre_project2.jpg",
+          "label": "Speech-first tuning",
+          "description": "Calibration focused on intelligible announcements while keeping music playback full and controlled."
+        }
+      ]
+    },
+    "tzu-chi-international-school": {
+      "location": "Bukit Jalil, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/TZU CHI INTERNATIONAL SCHOOL_project.jpg",
+      "galleryHighlightImage": "project_sites/TZU CHI INTERNATIONAL SCHOOL_project1.jpg",
+      "galleryHighlightDescription": "Twin school auditoriums at Tzu Chi International School, where K-array systems deliver clear speech and musical impact for assemblies, performances and community events.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/TZU CHI INTERNATIONAL SCHOOL_project1.jpg",
+          "label": "Auditorium overview",
+          "description": "Wide view of one of the school auditoriums, with line-array loudspeakers positioned to keep speech and music intelligible from front row to back."
+        },
+        {
+          "src": "project_sites/TZU CHI INTERNATIONAL SCHOOL_project2.jpg",
+          "label": "Stage & proscenium",
+          "description": "Front-of-house K-array systems focused on the stage, supporting everything from assemblies and ceremonies to full-scale student performances."
+        },
+        {
+          "src": "project_sites/TZU CHI INTERNATIONAL SCHOOL_project3.jpg",
+          "label": "Balcony and rear seating",
+          "description": "Coverage into balcony and rear seating zones tuned so every seat receives the same balanced mix of voice, music and ambience."
+        }
+      ]
+    },
+    "m-city-soho": {
+      "location": "Ampang, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/MCity_project.jpg",
+      "galleryHighlightImage": "project_sites/MCity_project1.jpg",
+      "galleryHighlightDescription": "A compact lifestyle residence in Ampang, where discreet architectural audio brings clean background music and clear TV sound without visual clutter—tuned for everyday living.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/MCity_project1.jpg",
+          "label": "Living area ambience",
+          "description": "Main living zone coverage balanced for low-volume clarity, keeping vocals crisp while maintaining a warm, unobtrusive presence throughout the space."
+        }
+      ]
+    },
+    "sjkc-soo": {
+      "location": "Kapar, Malaysia",
+      "heroImage": "project_sites/Sekolah Jenis Kebangsaan (Cina) Soo Jin_project.jpg",
+      "galleryHighlightImage": "project_sites/Sekolah Jenis Kebangsaan (Cina) Soo Jin_project1.jpg",
+      "galleryHighlightDescription": "A primary school multipurpose hall in Kapar brought to life with a budget-conscious, full-coverage sound system designed for assemblies, performances and daily school events.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Sekolah Jenis Kebangsaan (Cina) Soo Jin_project1.jpg",
+          "label": "Multipurpose hall overview",
+          "description": "Wide view across the hall, showing even coverage across three-badminton-court length while keeping the architecture clean and uncluttered."
+        },
+        {
+          "src": "project_sites/Sekolah Jenis Kebangsaan (Cina) Soo Jin_project2.jpg",
+          "label": "Front-of-house loudspeakers",
+          "description": "Main front-of-house loudspeakers positioned for clear speech projection and musical impact during school assemblies and performances."
+        },
+        {
+          "src": "project_sites/Sekolah Jenis Kebangsaan (Cina) Soo Jin_project3.jpg",
+          "label": "Delay and rear coverage",
+          "description": "Supplementary loudspeakers providing delay coverage so students and teachers at the back of the hall hear the same balanced mix as those near the stage."
+        }
+      ]
+    },
+    "wedge-range": {
+      "location": "Petaling Jaya, Selangor, Malaysia",
+      "heroImage": "project_sites/wedge_project.jpeg",
+      "galleryHighlightImage": "project_sites/wedge_project.jpeg",
+      "galleryHighlightDescription": "Where golf and entertainment collide — a hybrid venue that transitions from daytime practice sessions to weekend nightlife programming with seamless, full-venue audio.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/wedge_project1.jpeg",
+          "label": "Tee line overview",
+          "description": "Wide-angle view across the tee line, showing consistent audio coverage from bay to bay without blocking sightlines or swing paths."
+        },
+        {
+          "src": "project_sites/wedge_project2.jpeg",
+          "label": "Open bay integration",
+          "description": "Discreet loudspeakers integrated above the open bays, tuned for even SPL so golfers hear the same mix whether they are hitting or relaxing behind the line."
+        },
+        {
+          "src": "project_sites/wedge_project3.jpeg",
+          "label": "Private room experience",
+          "description": "A private hitting suite with independent audio control, allowing guests to move from focused practice playlists to high-energy social listening at the touch of a button."
+        },
+        {
+          "src": "project_sites/wedge_project4.jpeg",
+          "label": "Bar & lounge ambience",
+          "description": "The central bar and lounge area shares the same soundscape as the bays, with its own zone level, keeping conversation clear while music remains immersive."
+        },
+        {
+          "src": "project_sites/wedge_project5.jpeg",
+          "label": "Night mode sound system",
+          "description": "Weekend programming with DJ-led audio that scales the system from background ambience to club-level output while maintaining clarity across the full venue."
+        }
+      ]
+    },
+    "aspen-cec": {
+      "location": "Penang, Malaysia",
+      "heroImage": "project_sites/Aspen CEC Penang Malaysia_project.jpg",
+      "galleryHighlightImage": "project_sites/Aspen CEC Penang Malaysia_projects.jpg",
+      "galleryHighlightDescription": "Premium residential development with integrated audio architecture designed for modern luxury living.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Aspen CEC Penang Malaysia_project.jpg",
+          "label": "Residential audio integration",
+          "description": "Sophisticated sound system design for premium residential spaces, delivering seamless audio coverage while maintaining architectural elegance."
+        },
+        {
+          "src": "project_sites/Aspen CEC Penang Malaysia_projects.jpg",
+          "label": "Living space acoustics",
+          "description": "Carefully tuned residential audio environment that enhances daily living with pristine sound quality and discreet speaker placement."
+        }
+      ]
+    },
+    "desa-parkcity-integrated-luxury-home": {
+      "location": "Desa ParkCity, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/KL DPC Residential Desa Park City_project.jpg",
+      "galleryHighlightImage": "project_sites/KL DPC Residential Desa Park City_project1.jpg",
+      "galleryHighlightDescription": "An integrated luxury residence in Desa ParkCity, where whole-home audio and cinema playback are tuned to feel effortless—present when you want it, invisible when you don’t.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/KL DPC Residential Desa Park City_project.jpg",
+          "label": "Whole-home audio, quietly integrated",
+          "description": "Architectural loudspeaker placement aligned with ceilings and joinery, delivering smooth background music across living and dining spaces without visual clutter."
+        },
+        {
+          "src": "project_sites/KL DPC Residential Desa Park City_project1.jpg",
+          "label": "Open-plan living & dining coverage",
+          "description": "Even SPL and tonal balance across the main social zone, so music stays consistent as you move through the space—clear vocals, warm body, zero hotspots."
+        },
+        {
+          "src": "project_sites/KL DPC Residential Desa Park City_project3.jpg",
+          "label": "Cinema & focused listening zones",
+          "description": "Dedicated playback zones tuned for impact and intelligibility, with calibrated low-end and time alignment for a composed, cinematic feel at any volume."
+        },
+        {
+          "src": "project_sites/KL DPC Residential Desa Park City_project4.jpg",
+          "label": "Detail-led finishing & calibration",
+          "description": "Final commissioning focused on seamless transitions between rooms, refined EQ, and practical presets—so the system feels luxury-simple to live with."
+        }
+      ]
+    },
+    "fendi-boutique": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Fendi_Boutiqueprojects_main.jpg",
+      "galleryHighlightImage": "project_sites/Fendi_Boutique_projects1.jpg",
+      "galleryHighlightDescription": "A luxury fashion boutique where architectural audio is carefully tuned to support an intimate, high-end retail atmosphere—subtle presence, refined balance, and zero visual distraction.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Fendi_Boutiqueprojects_main.jpg",
+          "label": "Boutique ambience",
+          "description": "Soft, evenly distributed background music calibrated to remain elegant and unobtrusive, enhancing the in-store experience without overpowering conversation."
+        }
+      ]
+    },
+    "bmw-m-series-showroom": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/BMW M Series Showroom_project1.jpg",
+      "galleryHighlightImage": "project_sites/BMW M Series Showroom_project1.jpg",
+      "galleryHighlightDescription": "A performance-focused automotive showroom where high-impact yet controlled audio reinforces the BMW M brand—clarity, power, and precision aligned with the vehicles on display.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/BMW M Series Showroom_project1.jpg",
+          "label": "Showroom presentation",
+          "description": "Tuned sound coverage that enhances brand energy and product presentation while maintaining speech clarity for consultations and walk-throughs."
+        }
+      ]
+    },
+    "burberry-boutique-klcc": {
+      "location": "KLCC, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Burberry Boutique KLCC Store_project1.jpg",
+      "galleryHighlightImage": "project_sites/Burberry Boutique KLCC Store_project1.jpg",
+      "galleryHighlightDescription": "A KLCC luxury boutique where refined background audio supports a calm, confident retail experience—clean tonal balance, comfortable levels, and seamless integration.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Burberry Boutique KLCC Store_project2.jpg",
+          "label": "Retail floor ambience",
+          "description": "Carefully tuned audio that remains consistent across the boutique, maintaining a composed atmosphere while allowing natural conversation flow."
+        }
+      ]
+    },
+    "ysl": {
+      "location": "Pavilion, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/YSL Boutique_projects_main.jpg",
+      "galleryHighlightImage": "project_sites/YSL Boutique_projects1.jpg",
+      "galleryHighlightDescription": "A luxury fashion boutique where discreet architectural audio supports a calm, high-touch retail experience—clean ambience, clear voice, and a visually silent integration.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/YSL Boutique_projects.jpg",
+          "label": "Boutique overview",
+          "description": "Even background music coverage tuned for comfort at low volume, keeping the space elegant and conversation-friendly."
+        },
+        {
+          "src": "project_sites/YSL Boutique_projects1.jpg",
+          "label": "Discreet integration",
+          "description": "Audio kept visually quiet through careful placement and tuning, preserving the boutique’s clean lines and premium finishes."
+        }
+      ]
+    },
+    "twin-palms-residence": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Twin Palms Residential with K_array_Speakers_project.png",
+      "galleryHighlightImage": "project_sites/Twin Palms Residential with K_array_Speakers_project1.png",
+      "galleryHighlightDescription": "A contemporary luxury home where fully integrated architectural audio enhances everyday living with clean aesthetics and precise, room-to-room sound consistency.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Twin Palms Residential with K_array_Speakers_project.png",
+          "label": "Living & entertainment zone",
+          "description": "Main living area featuring K-array architectural speakers concealed within the interior design, delivering premium clarity without disrupting the visual flow of the space."
+        },
+        {
+          "src": "project_sites/Twin Palms Residential with K_array_Speakers_project1.png",
+          "label": "Secondary room integration",
+          "description": "Additional residential zones tuned for smooth, natural transitions between rooms, ensuring a cohesive listening experience throughout the home."
+        }
+      ]
+    },
+    "van-cleef-arpels": {
+      "location": "Pavilion, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Van Cleef_project.jpeg",
+      "galleryHighlightImage": "project_sites/Van Cleef_project1.jpeg",
+      "galleryHighlightDescription": "A luxury jewellery maison in Pavilion Kuala Lumpur, where discreet architectural audio supports a calm, gallery-like atmosphere—refined ambience, clear voice, and zero visual noise.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Van Cleef_project1.jpeg",
+          "label": "Maison atmosphere",
+          "description": "Soft, evenly distributed background music tuned for low-volume clarity—present but never intrusive, keeping the focus on the pieces and the client experience."
+        },
+        {
+          "src": "project_sites/Van Cleef_project2.jpeg",
+          "label": "Boutique listening zones",
+          "description": "Zoned coverage calibrated to maintain the same tonal balance across salons and circulation paths, so the ambience feels continuous and composed."
+        },
+        {
+          "src": "project_sites/Van Cleef_project4.jpeg",
+          "label": "Client experience focus",
+          "description": "Tuning prioritised for comfort and conversation—smooth mids, controlled highs, and no harsh hotspots even during peak hours."
+        },
+        {
+          "src": "project_sites/Van Cleef_project6.jpeg",
+          "label": "Refined tonal signature",
+          "description": "A warm, elegant sound profile that complements luxury retail pacing—subtle energy, low fatigue, and consistent presence throughout the store."
+        },
+        {
+          "src": "project_sites/Van Cleef_project7.jpg",
+          "label": "Detail & craftsmanship",
+          "description": "Audio coverage shaped around display moments and seating areas, supporting intimate consultations without spilling into neighbouring zones."
+        },
+        {
+          "src": "project_sites/Van Cleef_project8.jpeg",
+          "label": "Seamless transitions",
+          "description": "Smooth level matching between spaces so the experience stays cohesive from entrance to private salon—no jumps, no dead zones."
+        }
+      ]
+    },
+    "atmosphere-360": {
+      "location": "KL Tower, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Atmosphere 360 Revolving_Restaurant_projects1.jpg",
+      "galleryHighlightImage": "project_sites/Atmosphere 360 Revolving_Restaurant_projects1.jpg",
+      "galleryHighlightDescription": "A revolving fine-dining restaurant at the top of KL Tower, where a fully concealed background and live-music sound system keeps the room immersive, even as the view and guests are constantly in motion.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Atmosphere 360 Revolving_Restaurant_projects1.jpg",
+          "label": "Main revolving dining room",
+          "description": "Panoramic dining floor with invisible and discreet loudspeakers, tuned for smooth, even coverage as tables rotate around the KL skyline."
+        },
+        {
+          "src": "project_sites/Atmosphere 360 Revolving_Restaurant_projects2.jpg",
+          "label": "Live band & performance zone",
+          "description": "Dedicated live band and performance area voiced to transition seamlessly from background playlists to live sets without disrupting the dining experience."
+        }
+      ]
+    },
+    "aria-residence": {
+      "location": "Jalan Tun Razak, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/ARIA Luxury Residence KLCC_project.jpg",
+      "galleryHighlightImage": "project_sites/ARIA Luxury Residence KLCC_project1.jpg",
+      "galleryHighlightDescription": "A KLCC-adjacent luxury residence where discreet architectural audio delivers clean dialogue, rich low-end and seamless room-to-room ambience—without interrupting the interior’s visual calm.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/ARIA Luxury Residence KLCC_project1.jpg",
+          "label": "Living & entertainment zone",
+          "description": "Even, low-fatigue tuning that keeps vocals crisp at everyday levels while preserving a warm, premium tonal balance across the main seating area."
+        },
+        {
+          "src": "project_sites/ARIA Luxury Residence KLCC_project2.jpg",
+          "label": "Cinema-ready playback",
+          "description": "Home-theatre voicing calibrated for intelligibility and impact—tight bass control, stable imaging, and a smooth top end that stays refined at higher SPL."
+        },
+        {
+          "src": "project_sites/ARIA Luxury Residence KLCC_project3.jpg",
+          "label": "Architectural integration",
+          "description": "Speaker placement coordinated with finishes and sightlines so technology stays visually quiet while coverage remains consistent throughout the space."
+        },
+        {
+          "src": "project_sites/ARIA Luxury Residence KLCC_project4.jpg",
+          "label": "Room-to-room consistency",
+          "description": "Level and tonal matching between zones so background music feels continuous as you move through the home—no hotspots, no dead areas."
+        }
+      ]
+    },
+    "rosewood": {
+      "location": "Vattanac Capital Tower, Phnom Penh, Cambodia",
+      "heroImage": "project_sites/Rosewood Phnom Penh_K-array_project1.jpg",
+      "galleryHighlightImage": "project_sites/Rosewood Phnom Penh_K-array_project1.jpg",
+      "galleryHighlightDescription": "Sky-high hospitality at Vattanac Capital Tower, where K-array line arrays and subwoofers are voiced for refined, high-impact sound across bars, lounges and dining floors without ever disturbing the hotel’s calm, residential feel.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Rosewood Phnom Penh_K-array_project1.jpg",
+          "label": "Sky bar & lounge overview",
+          "description": "Primary bar and lounge space with K-array line arrays integrated into the architecture, delivering a smooth, enveloping sound field that matches the panoramic views over Phnom Penh."
+        },
+        {
+          "src": "project_sites/Rosewood Phnom Penh_K-array_project2.jpg",
+          "label": "Dining & social zones",
+          "description": "Restaurant and social seating areas tuned for clear conversation at the table, with low-end support that keeps playlists full and warm without overpowering the room."
+        },
+        {
+          "src": "project_sites/Rosewood Phnom Penh_K-array_project3.jpg",
+          "label": "Performance-ready layout",
+          "description": "Flexible performance and event zones where the same system moves from background ambience to live-level SPL for DJs and small ensembles while maintaining control and detail."
+        },
+        {
+          "src": "project_sites/Rosewood Phnom Penh_K-array_project4.jpg",
+          "label": "Discreet architectural integration",
+          "description": "Loudspeakers and subwoofers woven into joinery, lighting lines and ceiling details, preserving the hotel’s luxury interior language while keeping coverage even across every guest position."
+        }
+      ]
+    },
+    "avara-seputeh": {
+      "location": "8, Jalan Klang Lama, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+      "heroImage": "project_sites/Avara Seputeh_project.jpg",
+      "galleryHighlightImage": "project_sites/Avara Seputeh_project1.png",
+      "galleryHighlightDescription": "High-rise residential audio integration designed for modern living, where discreet loudspeaker placement and precise tuning deliver an immersive yet architecturally clean experience throughout the home.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Avara Seputeh_project.jpg",
+          "label": "Living & entertainment zone",
+          "description": "Main living area featuring integrated loudspeakers and concealed electronics, delivering clear, even sound while maintaining a minimalist interior aesthetic."
+        },
+        {
+          "src": "project_sites/Avara Seputeh_project1.png",
+          "label": "Secondary room integration",
+          "description": "Additional residential zones tuned for smooth transitions between rooms, ensuring a cohesive listening experience across the entire home."
+        }
+      ]
+    },
+    "parkroyal-collection": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Park-Royal-Collection_project2.jpeg",
+      "galleryHighlightImage": "project_sites/Park-Royal-Collection_project2.jpeg",
+      "galleryHighlightDescription": "A biophilic lifestyle hotel in the heart of Kuala Lumpur, where warm, natural finishes and soft architectural lighting are paired with a discreet multi-zone sound system from lobby to rooftop.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Park-Royal-Collection_project.jpeg",
+          "label": "Lobby arrival ambience",
+          "description": "Refined entrance sequence with low-level background music that frames the check-in experience without overpowering conversation or the architectural details."
+        },
+        {
+          "src": "project_sites/Park-Royal-Collection_project1.jpeg",
+          "label": "Restaurant & breakfast hall",
+          "description": "Dining spaces with evenly distributed ceiling loudspeakers, allowing playlists to shift from morning calm to evening energy while maintaining clarity across tables."
+        },
+        {
+          "src": "project_sites/Park-Royal-Collection_project2.jpeg",
+          "label": "Lobby lounge soundscape",
+          "description": "Central lounge zone tuned for smooth transitions between café-style daytime levels and more immersive evening ambience for hotel guests and visitors."
+        },
+        {
+          "src": "project_sites/Park-Royal-Collection_project3.jpeg",
+          "label": "Guest corridor coverage",
+          "description": "Subtle corridor audio providing wayfinding cues and gentle background sound, designed to complement the interior lighting and soft finishes."
+        },
+        {
+          "src": "project_sites/Park-Royal-Collection_project4.jpeg",
+          "label": "Rooftop & pool deck",
+          "description": "Outdoor entertainment deck with weatherised loudspeakers, offering consistent coverage for daytime relaxation and elevated evening events against the city skyline."
+        }
+      ]
+    },
+    "sunway-carnival-mall": {
+      "location": "Penang, Malaysia",
+      "heroImage": "project_sites/Sunway-Carnival-Mall-project2.jpeg",
+      "galleryHighlightImage": "project_sites/Sunway-Carnival-Mall-project2.jpeg",
+      "galleryHighlightDescription": "Retail concourse audio for a high-footfall mall in Penang, delivering even coverage from atrium to shopfront while keeping announcements clear and ambient music comfortable for shoppers.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Sunway-Carnival-Mall-project1.jpeg",
+          "label": "Concourse overview",
+          "description": "Main retail concourse with distributed loudspeakers, designed for smooth level transitions between quiet weekdays and busy weekend traffic."
+        },
+        {
+          "src": "project_sites/Sunway-Carnival-Mall-project2.jpeg",
+          "label": "Atrium sound field",
+          "description": "Double-height atrium zone tuned for intelligible paging and background music, minimising echo while preserving the open architectural feel."
+        },
+        {
+          "src": "project_sites/Sunway-Carnival-Mall-project3.jpeg",
+          "label": "Shopfront and escalator zones",
+          "description": "Escalator and shopfront areas with consistent coverage so music and announcements remain audible as visitors move between floors."
+        }
+      ]
+    },
+    "gordon-ramsay-bar-grill": {
+      "location": "Sunway City, Selangor, Malaysia",
+      "heroImage": "project_sites/Gordon_Ramsay_project.jpeg",
+      "galleryHighlightImage": "project_sites/Gordon_Ramsay_project1.jpeg",
+      "galleryHighlightDescription": "Signature dining at Sunway City, where a refined open-kitchen concept and layered lighting are supported by a discreet, fully zoned sound system from bar to dining room.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Gordon_Ramsay_project1.jpeg",
+          "label": "Main dining room",
+          "description": "Central dining space with tightly controlled coverage, keeping conversations intimate while maintaining a consistent musical bed across every table."
+        },
+        {
+          "src": "project_sites/Gordon_Ramsay_project2.jpeg",
+          "label": "Bar & lounge",
+          "description": "Bar and lounge area with a slightly hotter mix and dedicated zone control, allowing the venue to dial in a livelier atmosphere during peak service."
+        },
+        {
+          "src": "project_sites/Gordon_Ramsay_project3.jpeg",
+          "label": "Private dining corner",
+          "description": "Semi-private dining zone with softened levels and focused coverage, balancing privacy with a connection to the room’s overall ambience."
+        },
+        {
+          "src": "project_sites/Gordon_Ramsay_project4.jpeg",
+          "label": "Entrance & host area",
+          "description": "Arrival sequence with subtle background music that sets the tone from the moment guests step in, without competing with host interaction."
+        }
+      ]
+    },
+    "gravybaby": {
+      "location": "Chulia Street, Penang, Malaysia",
+      "heroImage": "project_sites/GravyBabyPenang_project1.jpg",
+      "galleryHighlightImage": "project_sites/GravyBaby Penang_project.jpg",
+      "galleryHighlightDescription": "All-day dining and cocktails along Chulia Street, where a warm, vintage-inspired interior is paired with a compact but punchy sound system that keeps energy consistent from brunch through late night.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/GravyBaby Penang_project.jpg",
+          "label": "Dining room & bar atmosphere",
+          "description": "Open dining room with bar-focused loudspeaker placement, tuned to keep vocals clear over conversation while preserving a lively, street-side feel."
+        }
+      ]
+    },
+    "marc-residences": {
+      "location": "Jalan Pinang, Kuala Lumpur",
+      "heroImage": "project_sites/WIP On_project.jpg",
+      "galleryHighlightImage": "project_sites/WIP On_project1.jpg",
+      "galleryHighlightDescription": "Lifestyle residence along Jalan Pinang, where shared social spaces, dining corners and bar seating are tied together by a discreet, zoned sound system.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/WIP On_project1.jpg",
+          "label": "Social dining & lounge",
+          "description": "Open-plan dining and lounge area with evenly distributed coverage, tuned to keep conversations relaxed while maintaining a gentle musical bed."
+        },
+        {
+          "src": "project_sites/WIP On_project2.jpg",
+          "label": "Bar & high seating",
+          "description": "Bar-focused zone with a slightly more energetic mix, giving residents and guests a livelier ambience without spilling into quieter corners."
+        },
+        {
+          "src": "project_sites/WIP On_project3.jpg",
+          "label": "Perimeter seating",
+          "description": "Perimeter seating and nooks with softened levels and tighter aiming, creating more intimate pockets while still feeling connected to the overall space."
+        }
+      ]
+    },
+    "quivo": {
+      "location": "Mid Valley Southkey, Johor Bahru, Malaysia",
+      "heroImage": "project_sites/Mid Valley Southkey_Quivo_project1.jpeg",
+      "galleryHighlightImage": "project_sites/Mid Valley Southkey_Quivo_project2.jpg",
+      "galleryHighlightDescription": "Mediterranean-inspired dining at Mid Valley Southkey, where a warm, social room is paired with a compact, zoned sound system tuned for relaxed meals, cocktails and late-night conversation.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Mid Valley Southkey_Quivo_project1.jpeg",
+          "label": "Main dining room",
+          "description": "Central dining floor with evenly distributed loudspeakers, voiced for clear conversation and a smooth musical bed from lunch through late service."
+        },
+        {
+          "src": "project_sites/Mid Valley Southkey_Quivo_project2.jpg",
+          "label": "Bar & high seating",
+          "description": "Bar and high-table zone with a slightly more energetic mix, giving the space a livelier feel during peak hours without overpowering nearby tables."
+        },
+        {
+          "src": "project_sites/Mid Valley Southkey_Quivo_project4.jpg",
+          "label": "Window-side tables",
+          "description": "Window-side seating where the sound field is balanced to keep views and dialogue as the focus, with music sitting just beneath the room’s energy."
+        },
+        {
+          "src": "project_sites/Mid Valley Southkey_Quivo_project6.jpeg",
+          "label": "Feature wall & detail",
+          "description": "Feature wall and detailing framed by subtle audio, keeping the visual identity in focus while the soundtrack quietly supports the mood."
+        },
+        {
+          "src": "project_sites/Mid Valley Southkey_Quivo_project7.jpeg",
+          "label": "Evening dining atmosphere",
+          "description": "Evening shot showing how the system scales to richer, fuller playlists while preserving speech clarity at each table."
+        },
+        {
+          "src": "project_sites/Mid Valley Southkey_Quivo_project8.jpeg",
+          "label": "Room-wide perspective",
+          "description": "Wide-angle view of the restaurant, illustrating how coverage, lighting and architecture all align into a single, cohesive guest experience."
+        }
+      ]
+    },
+    "souled-out": {
+      "location": "Desa Sri Hartamas, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Soul_Out_project.jpeg",
+      "galleryHighlightImage": "project_sites/Soul_Out_project1.jpeg",
+      "galleryHighlightDescription": "Neighbourhood dining and drinks at Desa Sri Hartamas, where a vibrant indoor–outdoor layout is supported by a compact, zoned sound system that keeps the room lively from dinner through late night.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Soul_Out_project1.jpeg",
+          "label": "Main dining & bar",
+          "description": "Central dining and bar area with even coverage across tables and high seating, tuned to keep conversation clear while maintaining an energetic musical bed."
+        }
+      ]
+    },
+    "nobu": {
+      "location": "KLCC, Malaysia",
+      "heroImage": "project_sites/Nobu Japanese Restaurant_projects1.jpg",
+      "galleryHighlightImage": "project_sites/Nobu Japanese Restaurant_projects2.jpg",
+      "galleryHighlightDescription": "Japanese fine dining above KLCC, where a restrained, architectural interior is paired with a discreet multi-zone sound system tuned for intimate conversation, omakase theatre and late-evening ambience.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Nobu Japanese Restaurant_projects1.jpg",
+          "label": "Main dining room",
+          "description": "Primary dining floor with evenly distributed loudspeakers, voiced for clear conversation and a smooth, low-fatigue musical bed across every table."
+        },
+        {
+          "src": "project_sites/Nobu Japanese Restaurant_projects2.jpg",
+          "label": "Bar & sushi counter",
+          "description": "Bar and counter seating with a slightly more present mix, keeping the focus on chef interaction and drinks service while the soundtrack quietly lifts the energy."
+        },
+        {
+          "src": "project_sites/Nobu Japanese Restaurant_projects3.jpg",
+          "label": "Skyline-facing seating",
+          "description": "Window-side tables overlooking KLCC, where levels are carefully controlled so views and dialogue stay in front, with music sitting just beneath the room’s atmosphere."
+        }
+      ]
+    },
+    "berjaya-cafe": {
+      "location": "Level 14 West, Berjaya Times Square Hotel, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Berjaya Cafe_project.png",
+      "galleryHighlightImage": "project_sites/Berjaya Cafe_project1.png",
+      "galleryHighlightDescription": "Plant-based dining high above the city, where a calm, light-filled restaurant is supported by a discreet sound system that keeps the atmosphere relaxed from breakfast through dinner.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Berjaya Cafe_project1.png",
+          "label": "Main dining room",
+          "description": "Open dining floor with evenly distributed loudspeakers, tuned for soft, consistent ambience that supports conversation rather than competing with it."
+        },
+        {
+          "src": "project_sites/Berjaya Cafe_project2.png",
+          "label": "Window-side seating",
+          "description": "Perimeter seating along the glazing, with carefully controlled levels so views and dialogue remain the focus while music gently frames the space."
+        },
+        {
+          "src": "project_sites/Berjaya Cafe_project3.png",
+          "label": "Service & buffet zone",
+          "description": "Buffet and service areas with focused coverage to maintain a cohesive sound field as guests move between tables and counters."
+        },
+        {
+          "src": "project_sites/Berjaya Cafe_project4.png",
+          "label": "Corner and nook seating",
+          "description": "Quieter corners tuned with slightly softened levels, creating intimate pockets that still feel connected to the restaurant’s overall ambience."
+        }
+      ]
+    },
+    "sapore-italian-restaurant": {
+      "location": "Jalan Ampang, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Sapore Italian Restaurant_project.jpg",
+      "galleryHighlightImage": "project_sites/Sapore Italian Restaurant_project1.jpg",
+      "galleryHighlightDescription": "Neighbourhood Italian–Spanish dining along Jalan Ampang, where a warm, convivial room is paired with a compact sound system tuned for relaxed, all-evening conversation.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Sapore Italian Restaurant_project1.jpg",
+          "label": "Main dining room",
+          "description": "Intimate dining floor with evenly distributed loudspeakers, voiced for clear speech and a gentle musical bed that never overwhelms the table."
+        },
+        {
+          "src": "project_sites/Sapore Italian Restaurant_project2.jpg",
+          "label": "Bar & high seating",
+          "description": "Bar and high-table zone with a slightly more energetic mix, allowing the room to lift in energy during peak service without spilling into quieter corners."
+        },
+        {
+          "src": "project_sites/Sapore Italian Restaurant_project3.jpg",
+          "label": "Perimeter & window seating",
+          "description": "Perimeter seating tuned with softened levels and tighter coverage, keeping views and conversation as the focus while music frames the space."
+        },
+        {
+          "src": "project_sites/Sapore Italian Restaurant_project4.jpg",
+          "label": "Service and circulation areas",
+          "description": "Subtle background audio along circulation paths and service zones, maintaining a continuous soundscape as guests move through the restaurant."
+        }
+      ]
+    },
+    "pop-pizza": {
+      "location": "Mid Valley Megamall, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/POP PIZZA MID VALLEY MEGAMALL_project.jpeg",
+      "galleryHighlightImage": "project_sites/POP PIZZA MID VALLEY MEGAMALL_project1.jpeg",
+      "galleryHighlightDescription": "80s-inspired New York slice bar at Mid Valley, where neon, arcade energy and bold visuals are matched with a compact but punchy sound system tuned for all-day service and late-night hangs.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/POP PIZZA MID VALLEY MEGAMALL_project1.jpeg",
+          "label": "Main counter & dine-in",
+          "description": "Front counter and dine-in area with evenly distributed loudspeakers, tuned to keep playlists lively while orders and conversations stay clear."
+        },
+        {
+          "src": "project_sites/POP PIZZA MID VALLEY MEGAMALL_project2.jpeg",
+          "label": "Booth & wall seating",
+          "description": "Booth seating along the walls with slightly softened levels and tighter coverage, keeping the space intimate without losing the 80s soundtrack."
+        },
+        {
+          "src": "project_sites/POP PIZZA MID VALLEY MEGAMALL_project3.jpeg",
+          "label": "Neon feature zone",
+          "description": "Feature wall and neon zone where audio and lighting are balanced to feel energetic for photos and socials, without becoming harsh or fatiguing."
+        },
+        {
+          "src": "project_sites/POP PIZZA MID VALLEY MEGAMALL_project4.jpeg",
+          "label": "Circulation & entrance",
+          "description": "Entrance and circulation paths with continuous background music, ensuring the same atmosphere from mall concourse to counter and back out."
+        }
+      ]
+    },
+    "1malaysia-for-youth-im4u": {
+      "location": "Puchong, Malaysia",
+      "heroImage": "project_sites/1Malaysia for Youth iM4U_projects1.jpg",
+      "galleryHighlightImage": "project_sites/1Malaysia for Youth iM4U_projects1.jpg",
+      "galleryHighlightDescription": "A public-facing youth space where clear speech intelligibility and controlled background audio support announcements, presentations, and daily community activity.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/1Malaysia for Youth iM4U_projects1.jpg",
+          "label": "Main hall coverage",
+          "description": "Distributed sound tuned for clarity and even level across seating zones, keeping announcements natural and easy to understand."
+        },
+        {
+          "src": "project_sites/1Malaysia for Youth iM4U_projects2.gif",
+          "label": "Programme-ready playback",
+          "description": "Flexible playback and event support calibrated for speech-first programmes and higher-energy segments without harshness."
+        }
+      ]
+    },
+    "bae-systems": {
+      "location": "Menara Binjai, KLCC, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/BAE Systems_project1.png",
+      "galleryHighlightImage": "project_sites/BAE Systems_project1.png",
+      "galleryHighlightDescription": "An enterprise environment where intelligible speech and reliable AV performance support operational briefings, conferencing, and daily communications.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/BAE Systems_project1.png",
+          "label": "Enterprise AV integration",
+          "description": "Clean, dependable AV and audio tuned for meeting clarity—designed to support technical discussions and presentations without fatigue."
+        }
+      ]
+    },
+    "etiqa-insurance-and-takaful": {
+      "location": "Jalan Maarof, Bangsar, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Etiqa Insurance and Takaful_project2.jpg",
+      "galleryHighlightImage": "project_sites/Etiqa Insurance and Takaful_project2.jpg",
+      "galleryHighlightDescription": "A corporate workspace where subtle, well-balanced background audio enhances the environment while preserving comfort for conversation and collaboration.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Etiqa Insurance and Takaful_project2.jpg",
+          "label": "Workspace ambience",
+          "description": "Low-fatigue tuning with consistent coverage—supporting a polished corporate atmosphere without distracting from daily work."
+        }
+      ]
+    },
+    "foreland-realty": {
+      "location": "Troika, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Foreland Realty Gallery KL_projects1.jpg",
+      "galleryHighlightImage": "project_sites/Foreland Realty Gallery KL_projects1.jpg",
+      "galleryHighlightDescription": "A premium property gallery where audio is integrated to elevate the brand narrative—calm, elegant ambience with clear presentation support.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Foreland Realty Gallery KL_projects1.jpg",
+          "label": "Sales gallery experience",
+          "description": "Even background music and discreet placement designed to complement premium finishes and keep the room feeling composed."
+        },
+        {
+          "src": "project_sites/Foreland Realty Gallery KL_projects2.jpg",
+          "label": "Presentation zone",
+          "description": "Speech-forward calibration for walkthroughs and presentations, keeping dialogue articulate while maintaining a refined sonic bed."
+        },
+        {
+          "src": "project_sites/Foreland Realty Gallery KL_projects3.jpg",
+          "label": "Detail & integration",
+          "description": "Technology kept visually quiet—audio blends into the architecture to preserve a gallery-like interior language."
+        }
+      ]
+    },
+    "gsc-aurum-johor-bahru": {
+      "location": "GSC Aurum Theatre, Mid Valley Southkey, Johor Bahru, Malaysia",
+      "heroImage": "project_sites/GSC AURUM THEATRE – SOUTHKEY_project1.jpeg",
+      "galleryHighlightImage": "project_sites/GSC AURUM THEATRE – SOUTHKEY_project2.jpg",
+      "galleryHighlightDescription": "A luxury cinema environment tuned for immersive playback and refined pre-show ambience—high impact where it matters, controlled and comfortable everywhere else.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/GSC AURUM THEATRE – SOUTHKEY_project1.jpeg",
+          "label": "Arrival & venue mood",
+          "description": "Front-of-house ambience tuned to feel premium and calm, setting the tone before guests enter the halls."
+        },
+        {
+          "src": "project_sites/GSC AURUM THEATRE – SOUTHKEY_project2.jpg",
+          "label": "Luxury lounge zones",
+          "description": "Even coverage across lounge and waiting areas—music sits under conversation without hotspots."
+        },
+        {
+          "src": "project_sites/GSC AURUM THEATRE – SOUTHKEY_project3.jpeg",
+          "label": "Cinema-ready sound field",
+          "description": "Playback tuning focused on clarity and impact, preserving detail at low levels and authority at show levels."
+        }
+      ]
+    },
+    "gsc-aurum-kuala-lumpur": {
+      "location": "GSC Aurum Theatre, The Gardens Mall, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/GSC AURUM THEATRE – THE GARDENS MALL_projects1.jpg",
+      "galleryHighlightImage": "project_sites/GSC AURUM THEATRE – THE GARDENS MALL_projects2.jpg",
+      "galleryHighlightDescription": "A flagship luxury cinema where immersive tuning, controlled dynamics and refined ambience support a premium end-to-end guest journey—from lounge to auditorium.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/GSC AURUM THEATRE – THE GARDENS MALL_projects1.jpg",
+          "label": "Venue atmosphere",
+          "description": "Front-of-house audio crafted for a polished ambience—present but never intrusive."
+        },
+        {
+          "src": "project_sites/GSC AURUM THEATRE – THE GARDENS MALL_projects2.jpg",
+          "label": "Lounge & dining zones",
+          "description": "Even coverage for premium lounge areas so music remains smooth as guests move between spaces."
+        },
+        {
+          "src": "project_sites/GSC AURUM THEATRE – THE GARDENS MALL_projects3.jpg",
+          "label": "Cinema experience tuning",
+          "description": "System calibration designed for clarity and cinematic impact, maintaining control and detail across the full dynamic range."
+        }
+      ]
+    },
+    "great-eastern": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Great Eastern Life Assurance-projects1.jpg",
+      "galleryHighlightImage": "project_sites/Great Eastern Life Assurance-projects1.jpg",
+      "galleryHighlightDescription": "A corporate environment enhanced with discreet audio designed for comfort, clarity and an elevated day-to-day workplace experience.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Great Eastern Life Assurance-projects1.jpg",
+          "label": "Office ambience",
+          "description": "Balanced background audio that supports a calm, professional atmosphere without masking conversation or creating fatigue."
+        }
+      ]
+    },
+    "islamic-museum": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Islamic Museum_projects1.jpg",
+      "galleryHighlightImage": "project_sites/Islamic Museum_projects1.jpg",
+      "galleryHighlightDescription": "A museum environment where discreet audio supports narration and ambience while preserving the quiet, architectural character of the galleries.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Islamic Museum_projects1.jpg",
+          "label": "Gallery soundscape",
+          "description": "Subtle playback tuned for intelligibility and comfort—designed to complement exhibits without drawing attention to the system."
+        }
+      ]
+    },
+    "kl-bt": {
+      "location": "Bukit Tunku, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/KL BT Residential Bukit Tunku_projects1.jpg",
+      "galleryHighlightImage": "project_sites/KL BT Residential Bukit Tunku_projects2.jpg",
+      "galleryHighlightDescription": "A private luxury residence where architectural audio is integrated with minimal visual impact—smooth background music, clear TV sound and consistent room-to-room balance.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/KL BT Residential Bukit Tunku_projects1.jpg",
+          "label": "Residential integration",
+          "description": "Discrete placement and careful calibration to preserve interior design while delivering clean, even coverage for everyday listening."
+        },
+        {
+          "src": "project_sites/KL BT Residential Bukit Tunku_projects2.jpg",
+          "label": "Living zone sound field",
+          "description": "Tuned for low-volume clarity and comfort—music remains warm and present without dominating conversation."
+        }
+      ]
+    },
+    "menara-jcorp-lendlease": {
+      "location": "Malaysia",
+      "heroImage": "project_sites/Menara JCorp Lendlease_project1.jpg",
+      "galleryHighlightImage": "project_sites/Menara JCorp Lendlease_project2.jpg",
+      "galleryHighlightDescription": "A corporate tower environment where reliable AV performance and intelligible audio support daily operations, meetings, and presentation spaces.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Menara JCorp Lendlease_project1.jpg",
+          "label": "Tower overview",
+          "description": "Integrated AV and audio designed to support clear communication across corporate facilities."
+        },
+        {
+          "src": "project_sites/Menara JCorp Lendlease_project2.jpg",
+          "label": "Meeting environment",
+          "description": "Speech clarity and balanced playback tuned for everyday conferencing and presentations."
+        },
+        {
+          "src": "project_sites/Menara JCorp Lendlease_project3.jpg",
+          "label": "Presentation zones",
+          "description": "Consistent coverage aligned with screen sightlines and room usage."
+        },
+        {
+          "src": "project_sites/Menara JCorp Lendlease_project4.jpg",
+          "label": "Detail integration",
+          "description": "Hardware placement kept clean to preserve a professional interior language."
+        },
+        {
+          "src": "project_sites/Menara JCorp Lendlease_project5.jpg",
+          "label": "Operational areas",
+          "description": "Audio zones tuned to remain comfortable over long working hours."
+        },
+        {
+          "src": "project_sites/Menara JCorp Lendlease_project6.jpg",
+          "label": "System consistency",
+          "description": "Uniform tonal balance across spaces for a cohesive building experience."
+        }
+      ]
+    },
+    "apricot-hotel": {
+      "location": "Hanoi, Vietnam",
+      "heroImage": "project_sites/Apricot Hotel_project.jpg",
+      "galleryHighlightImage": "project_sites/Apricot Hotel_project1.jpg",
+      "galleryHighlightDescription": "A boutique luxury hotel in the heart of Hanoi, where curated art, warm lighting and refined interiors are supported by a fully invisible sound system that preserves the space’s gallery-like calm.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Apricot Hotel_project1.jpg",
+          "label": "Main dining & lounge",
+          "description": "Primary guest area with Amina LFi2T invisible speakers blended into the architecture, delivering soft, evenly distributed background music without any visible hardware."
+        },
+        {
+          "src": "project_sites/Apricot Hotel_project2.jpg",
+          "label": "Perimeter seating & feature walls",
+          "description": "Perimeter seating and art-lined walls with discreet audio coverage, tuned to complement the hotel’s visual narrative while keeping conversations relaxed and intelligible."
+        }
+      ]
+    },
+    "the-saujana-hotel": {
+      "location": "Saujana, Petaling Jaya, Malaysia",
+      "heroImage": "project_sites/Saujana Hotel & Resort_projects.jpg",
+      "galleryHighlightImage": "project_sites/Saujana Hotel & Resort_projects1.jpg",
+      "galleryHighlightDescription": "A resort-style hotel surrounded by lush greenery and lakeside views, where invisible and discreet loudspeakers preserve the calm, residential feel while delivering consistent background music across guest areas.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Saujana Hotel & Resort_projects2.jpg",
+          "label": "Lobby & reception lounge",
+          "description": "Arrival and reception spaces with low-level background music, tuned to complement the natural finishes and open views without overpowering guest interaction."
+        }
+      ]
+    },
+    "mandarin-oriental-hotel": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Mandarin Oriental Hotel_projects2.jpg",
+      "galleryHighlightImage": "project_sites/Mandarin Oriental Hotel_projects2.jpg",
+      "galleryHighlightDescription": "A landmark luxury hotel beside the Petronas Twin Towers, where invisible loudspeakers and discreet architectural audio support everything from quiet lounge ambience to refined event playback across suites, restaurants and public spaces.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Mandarin Oriental Hotel_projects.jpg",
+          "label": "Hotel exterior & context",
+          "description": "Overall view of the property in the KLCC precinct, setting the scene for integrated audio across public, dining and event spaces."
+        },
+        {
+          "src": "project_sites/Mandarin Oriental Hotel_projects1.jpg",
+          "label": "Lobby & arrival sequence",
+          "description": "Grand arrival and lobby spaces with low-level background music, tuned to complement the marble, glass and lighting while keeping check-in conversation clear and relaxed."
+        },
+        {
+          "src": "project_sites/Mandarin Oriental Hotel_projects2.jpg",
+          "label": "Lounge & all-day dining",
+          "description": "Lounge and all-day dining zones with evenly distributed architectural loudspeakers, delivering a smooth musical bed that can transition from breakfast calm to evening energy."
+        },
+        {
+          "src": "project_sites/Mandarin Oriental Hotel_projects3.jpg",
+          "label": "Signature restaurant",
+          "description": "Restaurant interior with carefully aimed audio, balancing intimacy at each table with a cohesive soundscape across the entire room."
+        },
+        {
+          "src": "project_sites/Mandarin Oriental Hotel_projects4.jpg",
+          "label": "Ballroom & event spaces",
+          "description": "Ballroom and event areas supported by a flexible system capable of both elegant background music and higher-SPL event playback for galas, weddings and corporate functions."
+        },
+        {
+          "src": "project_sites/Mandarin Oriental Hotel_projects5.jpg",
+          "label": "Pre-function & circulation zones",
+          "description": "Pre-function corridors and circulation spaces with seamless audio transitions, so guests experience a continuous, coherent sound field moving between rooms."
+        },
+        {
+          "src": "project_sites/Mandarin Oriental Hotel_projects6.jpg",
+          "label": "View-facing guest areas",
+          "description": "Guest-facing zones overlooking the city, where subtle background music is voiced to sit beneath the visual drama of the skyline and architectural views."
+        }
+      ]
+    },
+    "handlebar-bar": {
+      "location": "Lock Road, Singapore",
+      "heroImage": "project_sites/Handlebar, Singapore_projects.jpg",
+      "galleryHighlightImage": "project_sites/Handlebar, Singapore_projects2.jpg",
+      "galleryHighlightDescription": "Casual bar and grill at Lock Road in Singapore, where a relaxed, industrial interior is supported by a compact sound system tuned for background playlists, live sport and late-night conversation.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Handlebar, Singapore_projects1.jpg",
+          "label": "Main bar & dining floor",
+          "description": "Primary bar and dining area with evenly distributed loudspeakers, voiced for clear speech and comfortable music levels across high tables and communal seating."
+        },
+        {
+          "src": "project_sites/Handlebar, Singapore_projects2.jpg",
+          "label": "Indoor seating & feature wall",
+          "description": "Feature wall and indoor seating zone with slightly lifted levels for a livelier vibe around the bar, while keeping the overall mix smooth and non-fatiguing."
+        },
+        {
+          "src": "project_sites/Handlebar, Singapore_projects3.jpg",
+          "label": "Perimeter & corner seating",
+          "description": "Perimeter tables and corner pockets tuned with softer levels, giving guests space for longer hangs and conversation while still staying inside the overall soundscape."
+        }
+      ]
+    },
+    "hilton-hotel": {
+      "location": "Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/Hilton Hotel_projects.jpg",
+      "galleryHighlightImage": "project_sites/Hilton Hotel_projects.jpg",
+      "galleryHighlightDescription": "Urban luxury hotel in Kuala Lumpur Sentral, where discreet architectural audio supports a calm, polished atmosphere across lobby, dining and lounge spaces.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/Hilton Hotel_projects.jpg",
+          "label": "Hotel exterior & context",
+          "description": "Overall view of Hilton Kuala Lumpur within the Sentral precinct, setting the scene for integrated audio across key guest-facing spaces."
+        },
+        {
+          "src": "project_sites/Hilton Hotel_projects1.jpg",
+          "label": "Lobby & guest circulation",
+          "description": "Lobby and circulation areas with subtle, evenly distributed background music that enhances the ambience while keeping check-in and guest interaction clear."
+        }
+      ]
+    },
+    "the-iron-fairies": {
+      "location": "TREC, Kuala Lumpur, Malaysia",
+      "heroImage": "project_sites/The Iron Fairies KL_projects1.jpg",
+      "galleryHighlightImage": "project_sites/The Iron Fairies KL_projects2.jpg",
+      "galleryHighlightDescription": "A cult nightlife destination at TREC where theatrical interiors, layered lighting and fantasy-inspired detailing are matched with a powerful, tightly controlled sound system across three distinct floors.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/The Iron Fairies KL_projects1.jpg",
+          "label": "Fairy Garden rooftop",
+          "description": "Open-air rooftop zone where the sound system is tuned for high-energy house and disco, keeping the dance floor alive while surrounding seating stays comfortably listenable."
+        },
+        {
+          "src": "project_sites/The Iron Fairies KL_projects2.jpg",
+          "label": "Butterfly Room atmosphere",
+          "description": "Enclosed Butterfly Room with dense, immersive sound that supports late-night DJ sets while still preserving clarity for vocals and melodic content."
+        },
+        {
+          "src": "project_sites/The Iron Fairies KL_projects3.jpg",
+          "label": "Live band & performance zone",
+          "description": "Stage and live-performance area driven by K-array and Frog-is systems, calibrated for punchy low end and articulate mids so bands and DJs translate cleanly at club levels."
+        },
+        {
+          "src": "project_sites/The Iron Fairies KL_projects4.jpg",
+          "label": "Bar & circulation paths",
+          "description": "Bar and circulation paths wrapped in a consistent sound field, so guests moving between rooms experience a seamless shift in level and tone without harsh hotspots."
+        },
+        {
+          "src": "project_sites/The Iron Fairies KL_projects5.jpg",
+          "label": "Multi-level soundscape",
+          "description": "Multi-level interior where each zone is independently controlled yet voiced to share the same sonic signature, from underground rooms to rooftop garden."
+        }
+      ]
+    },
+    "the-kitch-n-club": {
+      "location": "Kota Damansara, Selangor, Malaysia",
+      "heroImage": "project_sites/KitchNClub_projects_main.jpg",
+      "galleryHighlightImage": "project_sites/KitchNClub_projects.jpg",
+      "galleryHighlightDescription": "Court-side spectators, gamers, and nightlife guests share a single audio experience that has been tuned with the same care as a luxury fragrance: precise for competitive play, cinematic for night programmes, and seamlessly even across every viewing position. The sound field is sculpted for clarity, warmth and impact, so the venue can move effortlessly from league-level focus to late-night social energy without ever feeling harsh, chaotic, or fatiguing.",
+      "galleryHighlightStyle": "plain",
+      "gallery": [
+        {
+          "src": "project_sites/KitchNClub_projects.jpg",
+          "label": "Courtside acoustic field",
+          "description": "From the main court, the sound feels quietly assertive rather than overtly loud — a tailored blend of intelligibility and low-end weight that keeps calls, rallies, and commentary effortlessly clear above the music. Courtside seating, social rail positions and gaming zones all sit inside the same carefully shaped coverage, so no guest ever feels off-axis or outside the experience. It is hospitality-led performance sound: immersive, precise and composed, with the gentle polish you would expect from a luxury maison rather than a typical sports venue."
+        },
+        {
+          "src": "project_sites/KitchNClub_projects1.jpg",
+          "label": "Architectural integration & night energy",
+          "description": "Along the extended court zone, architectural loudspeakers and subwoofers disappear into timber, glass and lighting lines, preserving a clean, gallery-like visual language. The system is voiced to deliver club-grade dynamics when the room shifts into DJ mode, yet remains refined and low-fatigue at background levels for coaching blocks or social afternoons. Time alignment, level calibration and preset-driven control mean operators can move from training, to match, to night programme with a single recall — maintaining the same luxurious tonal signature at every setting."
+        }
+      ]
+    }
+  },
+  "titleToSiteImage": {
+    "The Kitch'n Club": "KitchNClub_projects_main.jpg",
+    "1Malaysia Civic Installation": "1Malaysia for Youth iM4U_projects_main.jpg",
+    "1Malaysia for Youth iM4U": "1Malaysia for Youth iM4U_projects_main.jpg",
+    "ARIA Residence": "ARIA Luxury Residence KLCC_project_main.png",
+    "Avara Seputeh": "Avara Seputeh_project_main.png",
+    "M-City SOHO": "MCity_project_main.png",
+    "Saujana Residence": "Saujana Residence_project.jpg",
+    "Desa ParkCity: Integrated Luxury Home": "KL DPC Residential Desa Park City_project_main.png",
+    "Twin Palms Residence": "Twin Palms Residential with K_array_Speakers_project_main.png",
+    "Apricot Hotel": "Apricot Hotel_project_main.jpg",
+    "Atmosphere 360": "Atmosphere 360 Revolving_Restaurant_projects.jpeg",
+    "Berjaya Cafe": "Berjaya Cafe_project_main.jpg",
+    "PARKROYAL COLLECTION": "Park_Collection_main.jpg",
+    "The Saujana Hotel": "Saujana Hotel & Resort_projects_main.png",
+    "Sheraton Imperial Hotel": "SheratonImperialHotel_projects_main.jpg",
+    "Mandarin Oriental Hotel": "Mandarin Oriental Hotel_project_main.jpg",
+    "Hilton Hotel": "Hilton Hotel_projects_main.png",
+    "Hotel Perdana": "Hotel_Perdana_projects_main.png",
+    "Rosewood": "Rosewood Phnom Penh_K-array_project_main.jpg",
+    "SJKC SOO": "Sekolah Jenis Kebangsaan (Cina) Soo Jin_project_main.png",
+    "TZU CHI INTERNATIONAL SCHOOL": "TZU CHI INTERNATIONAL SCHOOL_project_main.png",
+    "Van Cleef & Arpels": "Van Cleef_project_main.jpeg",
+    "Fendi": "Fendi_Boutiqueprojects_main.jpg",
+    "Burberry": "Burberry Boutique KLCC Store_project_main.jpg",
+    "Ermenegildo Zegna": "Ermenegildo Zegna Boutique_project_main.jpg",
+    "YSL": "YSL Boutique_projects_main.jpg",
+    "Dolce & Gabbana": "Dolce & Garbana Boutique_project.jpg",
+    "BMW M": "BMW M Series Showroom_project_main.jpg",
+    "Lexus Mutiara Showroom": "Lexus Mutiara Damansara_project_main.jpg",
+    "Sapore Italian Restaurant": "Sapore Italian Restaurant_project_main.jpg",
+    "Souled Out": "Soul_Out_project_main.jpg",
+    "Pop Pizza": "POP PIZZA MID VALLEY MEGAMALL_project_main.jpeg",
+    "GravyBaby": "GravyBaby Penang_project.jpg",
+    "Quivo": "Mid Valley Southkey_Quivo_project_main.jpg",
+    "Gordon Ramsay Bar & Grill": "Gordon_Ramsay_project.jpeg",
+    "Nobu": "Nobu Japanese Restaurant_projects_main.JPG",
+    "Wedge Range": "wedge_project.jpeg",
+    "Marc Residences": "WIP On_project_main.jpg",
+    "Brazzo Rivercity": "Brazzo Rivercity Batu Pahat_project_main.jpg",
+    "Aspen CEC": "Aspen CEC Penang Malaysia_project.jpg",
+    "Aspen Vervea": "Aspen Vervea_project_main.png",
+    "Eco Grandeur": "Eco Grandeur_projects.jpg",
+    "Eco Horizon": "Eco Horizon_project.jpg",
+    "Eco Macalister": "Eco Macalister Sales Gallery_projects.jpg",
+    "Ajinomoto Museum": "Ajinomoto Museum_projects.jpg",
+    "Eco Meadow": "Eco Meadow Sales Gallery_project.jpg",
+    "Eco Terraces": "Eco Terraces Sales Gallery_project.jpg",
+    "Eco Tropics": "Eco Tropic Sales Gallery_projects.jpg",
+    "Ekovest Sales Gallery": "Ekovest Sales Gallery_projects.jpg",
+    "BAE Systems": "BAE Systems_project_main.jpg",
+    "eSyariah HQ": "eSyariah HQ_projects.jpg",
+    "Etiqa Insurance and Takaful": "Etiqa Insurance and Takaful_project_main.png",
+    "Foreland Realty": "Foreland_Realty_Gallery KL_projects_main.jpg",
+    "GSC Aurum Kuala Lumpur": "GSC AURUM THEATRE – THE GARDENS MALL_project.jpg",
+    "GSC Aurum  Johor Bahru": "GSC AURUM THEATRE – SOUTHKEY_project_main.jpeg",
+    "Great Eastern": "Great Eastern Life Assurance-projects_main.jpg",
+    "Handlebar Bar": "Handlebar, Singapore_projects.jpg",
+    "Iskandar Malaysia": "ISKANDAR_MALAYSIA-project.jpg",
+    "Islamic Arts Museum": "Islamic Museum_projects_main.jpg",
+    "Islamic Museum": "Islamic Museum_projects_main.jpg",
+    "KL BT": "KL BT Residential Bukit Tunku_projects_main.jpg",
+    "Lendlease Site Office": "Lendlease Site Office Malaysia_project.jpg",
+    "Menara JCorp": "Menara JCorp Lendlease_project.jpg",
+    "Menara JCorp Lendlease": "Menara JCorp Lendlease_project.jpg",
+    "Meridian East": "Meridian East_projects.png",
+    "Maxis Communications": "Maxis Communications_project_main.jpg",
+    "MyTOWN": "MyTOWN_projects_main.jpg",
+    "MyTOWN Shopping Centre": "MyTOWN_projects_main.jpg",
+    "National Aquatic Centre": "National Aquatic Centre_project_main.png",
+    "Petronas IO Centre": "Petronas IO Centre_project_main.jpg",
+    "SP Setia Sales Gallery": "SP Setia HQ_projects.jpg",
+    "Sunway Carnival Mall": "Sunway-Carnival-Mall-project_main.jpeg",
+    "SYABAS Facility": "Syabas HQ Consult Supply_project.jpg",
+    "TA Global": "TA Global_project.jpg",
+    "The Iron Fairies": "The Iron Fairies KL_projects.jpg"
+  }
+}

@@ -1,0 +1,542 @@
+[
+  {
+    "slug": "fi-sub6p",
+    "name": "Frogis FI-SUB6P",
+    "headline": "Ultra-compact 6\" installation subwoofer",
+    "description": "Discrete 6-inch passive subwoofer for tight architectural spaces that still need real low-end support.",
+    "story": "FI-SUB6P is built for joinery, banquettes and soffits where there’s no tolerance for bulky boxes, but background music still deserves a proper bass foundation.",
+    "definition": "Ultra-compact passive subwoofer for space-critical architectural and hospitality installations.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Ultra-compact installation subwoofer",
+    "drivers": "6\" high-excursion long-throw driver",
+    "applications": [
+      "Discrete hospitality installs",
+      "Under-bench and joinery cavities",
+      "Architectural integrations with limited depth"
+    ],
+    "specs": [
+      "Single 6\" high-excursion driver",
+      "Optimised for tight enclosures and boundary loading",
+      "Passive operation with external DSP amplification",
+      "Frequency response: ~40Hz–150Hz (system dependent)",
+      "Compact cabinet footprint for hidden placement"
+    ],
+    "keyStats": [
+      "Ultra-compact",
+      "Discrete mounting",
+      "High excursion"
+    ],
+    "frequency": [
+      40,
+      150
+    ],
+    "coverage": "Omnidirectional low-frequency support",
+    "weightKg": 8.5,
+    "ipRating": "IP44",
+    "image": "FI-SUB6P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SUB6P_1.jpg",
+        "alt": "FI-SUB6P ultra-compact subwoofer cabinet",
+        "caption": "A small-footprint sub that tucks under joinery and seating."
+      },
+      {
+        "src": "FI-SUB6P_2.jpg",
+        "alt": "FI-SUB6P angled view showing compact depth"
+      }
+    ]
+  },
+  {
+    "slug": "fi-sub10p",
+    "name": "Frogis FI-SUB10P",
+    "headline": "10\" passive subwoofer with compact footprint",
+    "description": "Passive 10-inch installation subwoofer offering strong low-end performance from a compact, décor-friendly cabinet.",
+    "story": "FI-SUB10P balances footprint and output, ideal for lounge bars, restaurants and clubs where the system needs authority without oversized enclosures.",
+    "definition": "Compact 10\" passive subwoofer for fixed installation and professional audio systems.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Compact 10\" installation subwoofer",
+    "drivers": "10\" long-throw bass driver",
+    "applications": [
+      "Bar and lounge installations",
+      "Boutique clubs and restaurants",
+      "Satellite/sub systems with compact tops"
+    ],
+    "specs": [
+      "10\" long-throw driver in optimised vented enclosure",
+      "Passive operation via external amplifier and DSP",
+      "Frequency response: ~32Hz–130Hz (system dependent)",
+      "Power handling: ~250 W program",
+      "Integrated hardware for floor or tucked-away placement"
+    ],
+    "keyStats": [
+      "10\" driver",
+      "Compact cabinet",
+      "Installation-friendly"
+    ],
+    "frequency": [
+      32,
+      130
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 18.5,
+    "ipRating": "IP44",
+    "image": "FI-SUB10P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SUB10P_1.png",
+        "alt": "FI-SUB10P front view highlighting grille design"
+      },
+      {
+        "src": "FI-SUB10P_2.png",
+        "alt": "FI-SUB10P perspective view showing cabinet profile"
+      }
+    ]
+  },
+  {
+    "slug": "fi-sub10a",
+    "name": "Frogis FI-SUB10A",
+    "headline": "10\" active installation subwoofer",
+    "description": "Active 10-inch installation subwoofer with integrated amplification, tuned for plug-and-play pairing with Frogis tops and arrays.",
+    "story": "FI-SUB10A keeps electronics and cabinet in one package, streamlining smaller projects where outboard amps aren’t justified but sonic standards still are.",
+    "definition": "Compact active 10\" installation subwoofer with built-in amplification and system controls.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "Active installation subwoofer",
+    "drivers": "10\" long-throw driver with onboard amplifier",
+    "applications": [
+      "Self-powered restaurant and lounge systems",
+      "Small performance spaces and studios",
+      "Satellite/sub systems without external amps"
+    ],
+    "specs": [
+      "10\" high-excursion driver",
+      "Onboard amplifier with system presets for Frogis tops",
+      "User-adjustable crossover, level and phase",
+      "Frequency response: ~32Hz–130Hz (system dependent)",
+      "Balanced line-level inputs and link outputs"
+    ],
+    "keyStats": [
+      "Active design",
+      "Integrated amp",
+      "Compact footprint"
+    ],
+    "frequency": [
+      32,
+      130
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 22,
+    "ipRating": "IP44",
+    "image": "FI-SUB10A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SUB10A_1.png",
+        "alt": "FI-SUB10A active subwoofer front and side view",
+        "caption": "Integrated amplification keeps cabling and rack space minimal."
+      },
+      {
+        "src": "FI-SUB10A_2.png",
+        "alt": "FI-SUB10A angled view showing enclosure proportions"
+      }
+    ]
+  },
+  {
+    "slug": "fi-sub12ip",
+    "name": "Frogis FI-SUB12IP",
+    "headline": "Outdoor 12\" IP-rated subwoofer",
+    "description": "Weather-resistant 12-inch subwoofer for outdoor and semi-outdoor applications, engineered to survive the elements without sacrificing headroom.",
+    "story": "FI-SUB12IP extends Frogis bass performance onto terraces, pool decks and promenades, where sunlight, rain and humidity are part of the brief.",
+    "definition": "IP-rated outdoor 12\" installation subwoofer with weatherised enclosure and hardware.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "IP-rated Outdoor Finish",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Weather-resistant installation subwoofer",
+    "drivers": "12\" weather-sealed long-throw driver",
+    "applications": [
+      "Outdoor terraces and beach clubs",
+      "Hotel pools and rooftop venues",
+      "Covered promenades and theme park zones"
+    ],
+    "specs": [
+      "12\" weather-sealed driver behind reinforced grille",
+      "Coated enclosure and rust-resistant hardware",
+      "Frequency response: ~30Hz–120Hz (system dependent)",
+      "Suitable for low-impedance and transformer-line systems",
+      "Engineered drainage and sealing for outdoor mounting"
+    ],
+    "keyStats": [
+      "Outdoor rated",
+      "12\" driver",
+      "Weatherised construction"
+    ],
+    "frequency": [
+      30,
+      120
+    ],
+    "coverage": "Omnidirectional outdoor bass",
+    "weightKg": 25,
+    "ipRating": "IP55",
+    "image": "FI-SUB12IP_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SUB12IP_1.jpg",
+        "alt": "FI-SUB12IP outdoor subwoofer front view"
+      },
+      {
+        "src": "FI-SUB12IP_2.jpg",
+        "alt": "FI-SUB12IP angled view showing coated enclosure"
+      }
+    ]
+  },
+  {
+    "slug": "fi-sub12p",
+    "name": "Frogis FI-SUB12P",
+    "headline": "High-performance 12\" passive subwoofer",
+    "description": "Professional 12-inch passive subwoofer delivering solid, controlled low end for live and installation systems.",
+    "story": "FI-SUB12P is the workhorse sub — compact enough for typical stages and rooms, powerful enough to anchor serious full-range systems.",
+    "definition": "High-performance 12\" passive subwoofer for rental and fixed installations.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Professional 12\" passive subwoofer",
+    "drivers": "12\" high-power driver in optimised enclosure",
+    "applications": [
+      "Live sound and portable PA",
+      "Clubs and performance spaces",
+      "Fixed installs needing compact yet strong LF"
+    ],
+    "specs": [
+      "12\" high-power driver",
+      "Front-loaded vented enclosure topology",
+      "Frequency response: ~28Hz–120Hz (system dependent)",
+      "Power handling: ~300 W program",
+      "Pole-mount and stacking options with compatible tops"
+    ],
+    "keyStats": [
+      "12\" driver",
+      "High output",
+      "Compact professional box"
+    ],
+    "frequency": [
+      28,
+      120
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 28,
+    "ipRating": "IP44",
+    "image": "FI-SUB12P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SUB12P_1.jpg",
+        "alt": "FI-SUB12P front view in black finish"
+      },
+      {
+        "src": "FI-SUB12P_2.jpg",
+        "alt": "FI-SUB12P angled cabinet perspective"
+      }
+    ]
+  },
+  {
+    "slug": "fi-sub12a",
+    "name": "Frogis FI-SUB12A",
+    "headline": "Active 12\" DSP-controlled subwoofer",
+    "description": "Active 12-inch subwoofer with integrated amplification and DSP, voiced to partner Frogis tops and arrays as a turnkey low-frequency module.",
+    "story": "FI-SUB12A takes the FI-SUB12P acoustic platform and adds a carefully tuned amplifier/DSP engine, simplifying deployment while preserving headroom.",
+    "definition": "Professional active 12\" DSP-controlled subwoofer for live and installation systems.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "Professional active subwoofer",
+    "drivers": "12\" high-performance driver with built-in DSP amplification",
+    "applications": [
+      "Self-powered rental rigs",
+      "Performance venues without external amp racks",
+      "Installations needing simple system wiring"
+    ],
+    "specs": [
+      "12\" high-performance driver",
+      "Built-in amplifier with preset voicings",
+      "DSP crossover, limiting and alignment",
+      "Frequency response: ~28Hz–120Hz (system dependent)",
+      "Control panel with level, phase and filter options"
+    ],
+    "keyStats": [
+      "Active DSP",
+      "Self-powered",
+      "12\" platform"
+    ],
+    "frequency": [
+      28,
+      120
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 32,
+    "ipRating": "IP44",
+    "image": "FI-SUB12A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SUB12A_1.jpg",
+        "alt": "FI-SUB12A active subwoofer front view",
+        "caption": "A self-powered 12\" module voiced to slot under Frogis arrays and tops."
+      }
+    ]
+  },
+  {
+    "slug": "fi-sub18a",
+    "name": "Frogis FI-SUB18A",
+    "headline": "High-output 18\" active subwoofer",
+    "description": "High-output 18-inch active subwoofer for large rooms, live stages and venues demanding deep, authoritative low end.",
+    "story": "FI-SUB18A is designed as the foundation for Frogis full-scale systems, delivering concert-style impact in a self-powered package.",
+    "definition": "Large-format 18\" active subwoofer with high-power amplification and system DSP.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "Large-format active subwoofer",
+    "drivers": "18\" high-excursion driver with integrated amplifier",
+    "applications": [
+      "Concert and event venues",
+      "Clubs and live performance spaces",
+      "Large-format AV installations"
+    ],
+    "specs": [
+      "18\" high-excursion driver",
+      "High-power amplifier module with integrated DSP",
+      "Frequency response: ~25Hz–100Hz (system dependent)",
+      "Designed to stack and array with main systems",
+      "Rugged cabinet for touring and permanent installs"
+    ],
+    "keyStats": [
+      "18\" driver",
+      "High output",
+      "Active DSP"
+    ],
+    "frequency": [
+      25,
+      100
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 40,
+    "ipRating": "IP44",
+    "image": "FI-SUB18A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SUB18A_1.jpg",
+        "alt": "FI-SUB18A front view showing 18-inch grille area"
+      },
+      {
+        "src": "FI-SUB18A_2.jpg",
+        "alt": "FI-SUB18A angled view in professional black finish"
+      },
+      {
+        "src": "FI-SUB18A_3.jpg",
+        "alt": "FI-SUB18A rear panel with amplifier and connectors",
+        "caption": "High-power amplifier plate with DSP and connection panel."
+      }
+    ]
+  },
+  {
+    "slug": "fs-sub12p",
+    "name": "Frogis FS-SUB12P",
+    "headline": "12\" passive subwoofer voiced for FS slimline systems",
+    "description": "Installation 12-inch passive subwoofer tuned to complement FS slimline arrays and columns.",
+    "story": "FS-SUB12P extends FS systems into full-range territory while keeping the same visual language and compact footprint as the column tops.",
+    "definition": "12\" passive subwoofer optimised as a low-frequency partner to FS slimline arrays.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "FS Series Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "FS-series passive subwoofer",
+    "drivers": "12\" FS-voiced low-frequency driver",
+    "applications": [
+      "FS column-based venue systems",
+      "Medium-sized hospitality and retail spaces",
+      "Fixed installs using FS series arrays"
+    ],
+    "specs": [
+      "12\" FS-series low-frequency driver",
+      "Enclosure proportions matched to FS visual language",
+      "Frequency response: ~30Hz–120Hz (system dependent)",
+      "Passive operation via external amplifier and DSP",
+      "Stacking and placement options under FS arrays"
+    ],
+    "keyStats": [
+      "FS matched",
+      "12\" driver",
+      "Installation-focused"
+    ],
+    "frequency": [
+      30,
+      120
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 24,
+    "ipRating": "IP44",
+    "image": "FS-SUB12P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS-SUB12A_1.jpg",
+        "alt": "FS-SUB12P form factor matched with FS systems"
+      }
+    ]
+  },
+  {
+    "slug": "fs-sub12a",
+    "name": "Frogis FS-SUB12A",
+    "headline": "Active 12\" subwoofer for FS slimline systems",
+    "description": "Self-powered 12-inch FS-series subwoofer with integrated amplification, designed as a plug-and-play LF module beneath FS arrays.",
+    "story": "FS-SUB12A lets FS-based systems stay minimal: power in, signal in, and the column rig gains a controlled, extendable low-frequency foundation.",
+    "definition": "Active 12\" FS-series subwoofer with onboard amplifier and FS-voiced presets.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "FS Series Black",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "FS-series active subwoofer",
+    "drivers": "12\" driver with integrated FS-series amplification",
+    "applications": [
+      "Active FS column systems",
+      "Corporate and multi-purpose venues",
+      "Installations favouring minimal rack infrastructure"
+    ],
+    "specs": [
+      "12\" FS-series driver",
+      "Integrated amplifier and control section",
+      "Preset voicings aligned to FS column loudspeakers",
+      "Frequency response: ~30Hz–120Hz (system dependent)",
+      "Rear panel controls for level and crossover"
+    ],
+    "keyStats": [
+      "FS preset voicing",
+      "Active amp",
+      "Compact FS footprint"
+    ],
+    "frequency": [
+      30,
+      120
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 26,
+    "ipRating": "IP44",
+    "image": "FS-SUB12A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS-SUB12A_1.jpg",
+        "alt": "FS-SUB12A active subwoofer matched to FS arrays",
+        "caption": "Active FS-series sub module sized to disappear under slimline columns."
+      }
+    ]
+  },
+  {
+    "slug": "fs-sub15p",
+    "name": "Frogis FS-SUB15P",
+    "headline": "15\" passive subwoofer for larger FS rigs",
+    "description": "Large-format 15-inch passive subwoofer giving FS systems extra headroom and low-end authority for bigger spaces.",
+    "story": "FS-SUB15P is the natural progression when FS-based rooms get larger and the low end needs to stay relaxed at higher levels.",
+    "definition": "15\" passive FS-series subwoofer for high-output installations.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "FS Series Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Large-format FS-series passive subwoofer",
+    "drivers": "15\" high-output FS-series driver",
+    "applications": [
+      "Larger hospitality and club spaces",
+      "FS column systems in big halls",
+      "Installations requiring higher LF headroom"
+    ],
+    "specs": [
+      "15\" high-output low-frequency driver",
+      "Cabinet tuned as a high-headroom partner to FS arrays",
+      "Frequency response: ~28Hz–110Hz (system dependent)",
+      "Passive drive from external power amplifiers",
+      "Stacking and deployment with multiple FS tops"
+    ],
+    "keyStats": [
+      "15\" driver",
+      "High headroom",
+      "FS system partner"
+    ],
+    "frequency": [
+      28,
+      110
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 29,
+    "ipRating": "IP44",
+    "image": "FS-SUB15P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS-SUB15A_1.jpg",
+        "alt": "FS-SUB15P cabinet form factor"
+      }
+    ]
+  },
+  {
+    "slug": "fs-sub15a",
+    "name": "Frogis FS-SUB15A",
+    "headline": "Active 15\" FS-series subwoofer",
+    "description": "High-output active 15-inch FS-series subwoofer with onboard amplification for flagship FS column and array systems.",
+    "story": "FS-SUB15A anchors the largest FS deployments, pairing a powerful 15-inch platform with a tuned amplifier/DSP engine for effortless, extended LF.",
+    "definition": "Active 15\" FS-series subwoofer with high-power amplification and system DSP.",
+    "series": "Subwoofers",
+    "category": "Subwoofers",
+    "finish": "FS Series Black",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "High-output FS-series active subwoofer",
+    "drivers": "15\" high-power driver with integrated amplifier module",
+    "applications": [
+      "Flagship FS installations",
+      "High-output hospitality and club venues",
+      "Large rooms needing deep, controlled bass from FS rigs"
+    ],
+    "specs": [
+      "15\" high-power driver",
+      "High-output amplifier with FS-voiced presets",
+      "Frequency response: ~28Hz–110Hz (system dependent)",
+      "Onboard DSP for crossover, protection and alignment",
+      "Rear panel control for level, phase and filters"
+    ],
+    "keyStats": [
+      "15\" active",
+      "High output",
+      "FS DSP presets"
+    ],
+    "frequency": [
+      28,
+      110
+    ],
+    "coverage": "Omnidirectional bass",
+    "weightKg": 33,
+    "ipRating": "IP44",
+    "image": "FS-SUB15A_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS-SUB15A_1.jpg",
+        "alt": "FS-SUB15A active subwoofer perspective view",
+        "caption": "The largest FS-series subwoofer, built to underpin full-scale slimline systems."
+      }
+    ]
+  }
+]

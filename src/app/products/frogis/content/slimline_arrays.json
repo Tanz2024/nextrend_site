@@ -1,0 +1,468 @@
+[
+  {
+    "slug": "fs12",
+    "name": "Frogis FS12",
+    "headline": "Portable Line Array PA System – Subwoofer 12”",
+    "description": "A streamlined, plug-and-play column system that pairs an 8 × 3.25” array with a 12” bass reflex subwoofer—built for fast setups, discreet presence, and confident full-range sound.",
+    "story": "FS12 is designed for musicians, presenters, and rental work that demand a compact footprint with polished coverage. The slimline array keeps speech intelligible and music detailed, while the 12” sub delivers the foundation—indoors or outdoors, from corporate rooms to lively venues.",
+    "definition": "Two-way powered portable line array PA system with 12” subwoofer, onboard mixer and DSP.",
+    "series": "Slimline array speaker systems",
+    "category": "Slimline array speaker systems",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "Portable line array PA system",
+    "drivers": "8 × 3.25” array + 12” bass reflex subwoofer",
+    "features": [
+      "Compact Plug and Play line array System",
+      "Discreet look for inconspicuous use",
+      "Line array element configuration (8 x 3,25” speakers) offers exceptional sound coverage",
+      "Compact speaker system for concerts, conferences and events and more",
+      "Two-way speaker with built-in DSP for EQ and dynamic limiter",
+      "Extremely efficient 12’’ woofer driver provides incredibly deep bass and acoustic power",
+      "Equipped with handles for easy carrying",
+      "Provided with Bluetooth technology",
+      "Delivers 90° of horizontal coverage and 10° vertical coverage",
+      "Integrated USB/SD MP3 player",
+      "Designed, engineered and tuned in Italy"
+    ],
+    "applications": [
+      "Mobile and installed applications",
+      "All sizes of indoor/outdoor live event",
+      "Disco",
+      "Night club",
+      "Conference",
+      "School auditorium",
+      "Places of worship"
+    ],
+    "specs": [
+      "Frequency response: 45 Hz - 19000 Hz (-3dB - +1dB)",
+      "Power Voltage: 100 - 230 Vac 50-60 Hz",
+      "Operating Voltage: 90-264 Vac",
+      "Power rating: 600W + 240W",
+      "SPL 1W@1mt: 96 dB",
+      "Maximum SPL: 118dB (cont.) - 124 dB (peak)",
+      "Impedence: 4 Ω + 8 Ω",
+      "Coverage: Horizontal 90° / Vertical 10°",
+      "Transducers: Low Frequency 12’’ bass reflex / High Frequency 8x3.25’’ array",
+      "Preamp: 2 IN on-board with low noise; Balanced DSP output on CH2; Input limiter; Phantom power on mic inputs (12Vdc)",
+      "Microphone input gain: 30dB",
+      "Crossover: Two-way speaker with built-in DSP for EQ and dynamic limiter",
+      "USB/SD MP3 player",
+      "Amplifiers: Power Voltage 100-240 Vac , 50-60 Hz; Operating Voltage 90 - 264 V; Power Factor cosΨ = 0,9@360W",
+      "Max Output @ 1% sine 1Khz: 600 W (@ 4 Ω ) + 600 W ( @ 4 Ω )",
+      "Protections: Short Circuit , Thermal Protection ( Power Limiting - Thermal shutdown ) , Overload, High frequency output protection",
+      "Max Out: 85V peak",
+      "Gain: 26 dB",
+      "S/N: 115 dB",
+      "Damping factor: 8 Ω > 1000 @ 8 Ω",
+      "Net Weight: 24 kg (53 lb)",
+      "System size W/H/L: 34.8 cm x 173.3 cm x 47.5 cm (13.7”x 68.2”x 18.7”)",
+      "Woofer size W/H/L: 34.8 cm X 35 cm X 47.5 cm (13.7”x 13.8”x 18.7”)"
+    ],
+    "image": "FS12_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS12-Array_main.jpg",
+        "alt": "FS12 column and 12-inch subwoofer system assembled",
+        "caption": "A refined column profile with a matching 12” bass module—quick to deploy, easy to place."
+      }
+    ]
+  },
+  {
+    "slug": "fs15",
+    "name": "Frogis FS15",
+    "headline": "Portable Line Array PA System – Subwoofer 15”",
+    "description": "A higher-output, plug-and-play column system featuring a 12 × 3.25” array and a 15” bass reflex subwoofer—sleek, travel-ready, and built for bigger rooms and bolder moments.",
+    "story": "FS15 scales the same elegant column concept with more headroom and deeper authority. It stays fast to deploy, easy to control, and visually discreet—while delivering the impact required for lively indoor/outdoor events and demanding program material.",
+    "definition": "Two-way powered portable line array PA system with 15” subwoofer, onboard mixer and DSP.",
+    "series": "Slimline array speaker systems",
+    "category": "Slimline array speaker systems",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "Portable line array PA system",
+    "drivers": "12 × 3.25” array + 15” bass reflex subwoofer",
+    "features": [
+      "Compact Plug and Play line array System",
+      "Discreet look for inconspicuous use",
+      "Line array element configuration (12 x 3,25” speakers) offers exceptional sound coverage",
+      "Compact speaker system for concerts, conferences and events and more",
+      "Two-way speaker with built-in DSP for EQ and dynamic limiter",
+      "Extremely efficient 15’’ woofer driver provides incredibly deep bass and acoustic power.",
+      "Equipped with handles for easy carrying",
+      "Provided with Bluetooth technology",
+      "Delivers 90° of horizontal coverage and 10° vertical coverage",
+      "Integrated USB/SD MP3 player",
+      "Designed, engineered and tuned in Italy"
+    ],
+    "applications": [
+      "Mobile and installed applications",
+      "All sizes of indoor/outdoor live event",
+      "Disco",
+      "Night club",
+      "Conference",
+      "School auditorium",
+      "Places of worship"
+    ],
+    "specs": [
+      "Frequency response: 38 Hz - 19000 Hz (-3dB - +1dB)",
+      "Power Voltage: 100 - 230 Vac 50-60 Hz",
+      "Operating Voltage: 90-264 Vac",
+      "Power rating: 600W + 240W",
+      "SPL 1W@1mt: 98dB",
+      "Maximum SPL: 124dB (cont.) - 130 dB (peak)",
+      "Impedence: 4 Ω + 8 Ω",
+      "Coverage: Horizontal 90° / Vertical 10°",
+      "Transducers: Low Frequency 15’’ bass reflex / High Frequency 12x3.25’’ array",
+      "Preamp: 2 IN on-board with low noise; Balanced DSP output on CH2; Input limiter; Phantom power on mic inputs (12Vdc)",
+      "Microphone input gain: 30dB",
+      "Crossover: Two-way speaker with built-in DSP for EQ and dynamic limiter",
+      "USB/SD MP3 player",
+      "Amplifiers: Power Voltage 100-240 Vac , 50-60 Hz; Operating Voltage 90 - 264 V; Power Factor cosΨ = 0,9@360W",
+      "Max Output @ 1% sine 1Khz: 600 W (@ 4 Ω ) + 600 W ( @ 4 Ω )",
+      "Protections: Short Circuit , Thermal Protection ( Power Limiting - Thermal shutdown ) , Overload, High frequency output protection",
+      "Max Out: 85V peak",
+      "Gain: 26 dB",
+      "S/N: 115 dB",
+      "Damping factor: 8 Ω > 1000 @ 8 Ω",
+      "Net Weight: 29 kg (64 lb)",
+      "System size W/H/L: 43 cm x 206 cm x 60 cm (16.9”x 81.1”x 23.6”)",
+      "Woofer size W/H/L: 43 cm x 42 cm x 60 cm (16.9”x 16.5”x 23.6”)"
+    ],
+    "image": "FS15_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS15-Array_main.jpg",
+        "alt": "FS15 slimline column system with 15-inch subwoofer",
+        "caption": "A taller column and larger bass module—more headroom for ballrooms, stages, and open-air sets."
+      }
+    ]
+  },
+  {
+    "slug": "fs2x3",
+    "name": "Frogis FS2X3",
+    "headline": "26 cm Passive Array (2 × 3.25”)",
+    "description": "A discreet, ultra-compact passive array module with two 3.25” mid/high drivers—crafted for subtle integration and clean near-field coverage.",
+    "story": "FS2X3 brings the line-array aesthetic into tight architectural spaces. Its slim, lightweight form is tuned for invisible audio placement while keeping output controlled and intelligible.",
+    "definition": "26 cm passive line array module with 2 × 3.25” drivers.",
+    "series": "Slimline array speaker systems",
+    "category": "Slimline array speaker systems",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Passive array module",
+    "drivers": "2 × 3.25” mid/high frequency drivers",
+    "features": [
+      "Compact Plug and Play line array",
+      "Discreet look for inconspicuous use",
+      "Line array element configuration ( 2 x 3,25” speakers) offers exceptional sound coverage",
+      "Compact speaker line array for concerts, conferences and events and more",
+      "Delivers 90° of horizontal coverage and 10° vertical coverage with and a very long acoustic throw capacity",
+      "Designed, engineered and tuned in Italy"
+    ],
+    "applications": [
+      "Mobile and installed applications",
+      "All sizes of indoor/outdoor live event",
+      "Large restaurant",
+      "Lounge",
+      "Bar",
+      "Conference",
+      "School auditorium",
+      "Places of worship"
+    ],
+    "specs": [
+      "Frequency Response: 150 Hz - 19000 Hz",
+      "SPL 1W@1mt: 90dB",
+      "Maximum SPL: 112dB (cont.) - 118dB (peak)",
+      "Number of Drivers: 2",
+      "Driver size: 3.25”",
+      "Rated Power: 60W",
+      "Impedance: 8Ω",
+      "Connector: Phoenix 2pin",
+      "Number of Connector: 1in 1out",
+      "Coverage: Horizontal 90° / Vectical 45°",
+      "Dimensions (W x H x L): 9,0 cm x 26,0 cm x 11,3 cm",
+      "Weight: 5 kg"
+    ],
+    "image": "FS2X3_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS2X3_1.jpg",
+        "alt": "FS2X3 compact passive array module",
+        "caption": "A minimal column profile for discreet integration where sightlines matter."
+      }
+    ]
+  },
+  {
+    "slug": "fs4x3",
+    "name": "Frogis FS4X3",
+    "headline": "46 cm Passive Array (4 × 3.25”)",
+    "description": "A mid-format passive array with four 3.25” drivers, delivering stronger output and throw while retaining a slim, architectural footprint.",
+    "story": "FS4X3 balances elegance with authority—an easy choice for distributed coverage in venues that require intelligibility and even dispersion without visual clutter.",
+    "definition": "46 cm passive line array module with 4 × 3.25” drivers.",
+    "series": "Slimline array speaker systems",
+    "category": "Slimline array speaker systems",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Passive array module",
+    "drivers": "4 × 3.25” mid/high frequency drivers",
+    "features": [
+      "Compact Plug and Play line array",
+      "Discreet look for inconspicuous use",
+      "Line array element configuration (4 x 3,25” speakers) offers exceptional sound coverage",
+      "Compact speaker line array for concerts, conferences and events and more",
+      "Delivers 90° of horizontal coverage and 10° vertical coverage with and a very long acoustic throw capacity",
+      "Designed, engineered and tuned in Italy"
+    ],
+    "applications": [
+      "Mobile and installed applications",
+      "All sizes of indoor/outdoor live event",
+      "Large restaurant",
+      "Lounge",
+      "Bar",
+      "Conference",
+      "School auditorium",
+      "Places of worship"
+    ],
+    "specs": [
+      "Frequency Response: 150 Hz - 19000 Hz",
+      "SPL 1W@1mt: 93dB",
+      "Maximum SPL: 115dB (cont.) - 121dB (peak)",
+      "Number of Drivers: 4",
+      "Driver size: 3.25”",
+      "Rated Power: 120W",
+      "Impedance: 4Ω",
+      "Connector: Speakon",
+      "Number of Connector: 1in",
+      "Coverage: Horizontal 90° / Vectical 15°",
+      "Dimensions (W x H x L): 9,0 cm x 46,0 cm x 11,3 cm",
+      "Weight: 9 kg"
+    ],
+    "image": "FS4X3_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS4X3_1.jpg",
+        "alt": "FS4X3 passive array module",
+        "caption": "A taller column with greater projection, tuned for consistent distributed coverage."
+      }
+    ]
+  },
+  {
+    "slug": "fs12-array",
+    "name": "Frogis FS12-Array",
+    "headline": "70 cm Passive Array (8 × 3.25”)",
+    "description": "A 70 cm passive column with eight 3.25” drivers, designed for long-throw clarity and consistent coverage in scalable FS installations.",
+    "story": "FS12-Array extends the same slimline approach into larger zones—ideal where speech must carry cleanly and music should stay balanced across distance.",
+    "definition": "70 cm passive line array module with 8 × 3.25” drivers.",
+    "series": "Slimline array speaker systems",
+    "category": "Slimline array speaker systems",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Passive array module",
+    "drivers": "8 × 3.25” mid/high frequency drivers",
+    "features": [
+      "Compact Plug and Play line array",
+      "Discreet look for inconspicuous use",
+      "Line array element configuration (8 x 3,25” speakers) offers exceptional sound coverage",
+      "Compact speaker line array for concerts, conferences and events and more",
+      "Delivers 90° of horizontal coverage and 10° vertical coverage with and a very long acoustic throw capacity",
+      "Designed, engineered and tuned in Italy"
+    ],
+    "applications": [
+      "Mobile and installed applications",
+      "All sizes of indoor/outdoor live event",
+      "Large restaurant",
+      "Lounge",
+      "Bar",
+      "Conference",
+      "School auditorium",
+      "Places of worship"
+    ],
+    "specs": [
+      "Frequency response: 150 Hz - 19000 Hz (-3dB - +1dB)",
+      "Power rating: 240W",
+      "SPL 1W@1mt: 96 dB",
+      "Maximum SPL: 118dB (cont.) - 124 dB (peak)",
+      "Impedence: 8 Ω",
+      "Coverage: Horizontal 90° / Vertical 10°",
+      "Transducers: High Frequency 8x3.25’’ array",
+      "Net Weight: 8Kg (17,6 lb)",
+      "Dimensions WxHxD: 9cm x 70cm x 10cm (3,54\" x 27,56\" x 3,94\")"
+    ],
+    "image": "FS12-Array_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS12-Array_main.jpg",
+        "alt": "FS12-Array passive 70 cm column",
+        "caption": "A longer array format for extended reach while staying visually discreet."
+      }
+    ]
+  },
+  {
+    "slug": "fs15-array",
+    "name": "Frogis FS15-Array",
+    "headline": "110 cm Passive Array (12 × 3.25”)",
+    "description": "A full-height passive column with twelve 3.25” drivers, delivering maximum projection and coverage for larger rooms and long-throw installs.",
+    "story": "FS15-Array is built for venues that need the line-source advantage at scale—clean dispersion, controlled vertical energy, and a refined profile that respects architecture.",
+    "definition": "110 cm passive line array module with 12 × 3.25” drivers.",
+    "series": "Slimline array speaker systems",
+    "category": "Slimline array speaker systems",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Passive array module",
+    "drivers": "12 × 3.25” mid/high frequency drivers",
+    "features": [
+      "Compact Plug and Play line array",
+      "Discreet look for inconspicuous use",
+      "Line array element configuration (12 x 3,25” speakers) offers exceptional sound coverage",
+      "Compact speaker line array system for concerts, conferences and events and more",
+      "Delivers 90° of horizontal coverage and 10° vertical coverage with and a very long acoustic throw capacity",
+      "Designed, engineered and tuned in Italy"
+    ],
+    "applications": [
+      "Mobile and installed applications",
+      "All sizes of indoor/outdoor live event",
+      "Large restaurant",
+      "Lounge",
+      "Bar",
+      "Conference",
+      "School auditorium",
+      "Places of worship"
+    ],
+    "specs": [
+      "Frequency response: 150 Hz - 19000 Hz (-3dB - +1dB)",
+      "Power rating: 360W",
+      "SPL 1W@1mt: 98 dB",
+      "Maximum SPL: 124dB (continuous) - 130 dB (peak)",
+      "Impedence: 6 Ω",
+      "Coverage: Horizontal 90° / Vertical 10°",
+      "Drivers: 12x3.25”",
+      "Net Weight: 9 kg (19.84 lb)",
+      "Dimensions (W x H x L): 9 cm x 110 cm x 10 cm (3.54”x 40.31”x 3.94”)"
+    ],
+    "image": "FS15-Array_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS15-Array_main.jpg",
+        "alt": "FS15-Array passive 110 cm column",
+        "caption": "A long-format column for serious reach—wide horizontal, tightly controlled vertical."
+      }
+    ]
+  },
+  {
+    "slug": "fs4d",
+    "name": "Frogis FS4D",
+    "headline": "53 cm active Array (4 × 3.25\") with Dante audio network",
+    "description": "An active slimline array with built-in Dante networking—designed for modern installed systems that demand clean routing, long runs, and consistent coverage.",
+    "story": "FS4D combines the FS column aesthetic with network audio capability, supporting structured installations where control, scalability, and neat infrastructure matter as much as sound.",
+    "definition": "Active slimline array module with Dante audio network connectivity.",
+    "series": "Slimline array speaker systems",
+    "category": "Slimline array speaker systems",
+    "finish": "Professional Black",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "Active array with Dante audio network",
+    "drivers": "4 × 3.25” mid/high frequency drivers",
+    "features": [
+      "Build-in Dante audio network protocol module",
+      "Single-stage power conversion(DC-AC)",
+      "Soft switching technology",
+      "Bidirectional energy recovery technology",
+      "Precise PSM(Phase Modulation) technology",
+      "Discreet look for inconspicuous use",
+      "Line array element configuration (4 x 3,25” speakers) offers exceptional sound coverage",
+      "Compact speaker line array for school, church, conference, large hall, public area, airport and back ground music and more",
+      "Delivers 120° of horizontal coverage and 20° vertical coverage with and a very long acoustic throw capacity",
+      "IPX4 waterproof rating is good for indoor and outdoor installation",
+      "Designed, engineered and tuned in Italy"
+    ],
+    "applications": [
+      "Installed applications",
+      "School",
+      "Church",
+      "Conference",
+      "Large hall",
+      "Public area",
+      "Airport",
+      "Back ground music"
+    ],
+    "specs": [
+      "Type: FI-CS6D",
+      "Frequency response: 80Hz-18Khz",
+      "Sensitivity: 89 dB @ 1 watt / 1 meter",
+      "Maximum SPL (1W/1M): 110dB",
+      "Rated power: 120W, 8 Ohm",
+      "Input interface: RJ-45",
+      "Audio transmission protocol: Dante",
+      "Audio routing control: Dante Controller",
+      "Protection: Over current/over temperature/over load/short circuit",
+      "Power input: 802.3af/802.3at/802.3bt compatible",
+      "Heat dissipation: Natural convection cooling",
+      "Number of Drivers: 4pcs",
+      "Driver Size: 3.25 inch",
+      "Coverage: Horizontal 120° / Vectical 20°",
+      "Dimensions (W x H x L): 53cm x9.8cm x15.3cm",
+      "Weight: 4KG",
+      "Package weight: 9.8kg (2pcs)"
+    ],
+    "image": "FS4D_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS4D_1.jpg",
+        "alt": "FS4D active Dante slimline array module",
+        "caption": "A network-ready column solution for structured installations and modern AV infrastructure."
+      }
+    ]
+  },
+  {
+    "slug": "fs4ip",
+    "name": "Frogis FS4IP",
+    "headline": "53 cm Array (4 × 3\") with 100V & 8Ω mode Selection, Full Weather IP56",
+    "description": "A weather-rated slimline array engineered for clear speech and elegant wall integration, with flexible 100V/8Ω selection for varied system architectures.",
+    "story": "FS4IP addresses the common aesthetic compromise of traditional conference speakers by delivering a sleek wall-mounted alternative—while remaining robust enough for humid or lightly exposed outdoor environments.",
+    "definition": "IP56-rated slimline array with 100V / 8Ω selection for installed speech and background-music systems.",
+    "series": "Slimline array speaker systems",
+    "category": "Slimline array speaker systems",
+    "finish": "Full Weather IP56",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Weather-rated slimline array with 100V/8Ω selection",
+    "drivers": "4 × 3-inch high-performance drive units",
+    "applications": [
+      "Speech reinforcement systems for small to medium-sized video conference rooms",
+      "Digital courtrooms",
+      "Conference centers",
+      "Lecture halls",
+      "Stepped classrooms",
+      "Background music in churches",
+      "Museums",
+      "Transportation hubs",
+      "Public plazas",
+      "Humid or lightly exposed outdoor environments (covered plazas or semi-open auditoriums)"
+    ],
+    "features": [
+      "Streamlined Aesthetics & Functionality: The array sound column boasts a streamlined design that balances visual appeal with practicality, making it a versatile fit for sound reinforcement in various architectural environments while delivering clear, pleasant audio.",
+      "Robust Construction: Its enclosure is crafted from ABS mixed with glass fiber-reinforced material, ensuring exceptional durability and resistance to daily wear and tear.",
+      "Enhanced Acoustic Performance: The front circular waveguide holes, paired with the enclosure’s damping ports, create a unique cardioid low-frequency dispersion pattern. This design results in crisp high frequencies, natural and rich midtones, and full, well-defined bass, elevating speech clarity and music reproduction.",
+      "High-Powered Drivers: Equipped with 4 × 3-inch high-performance drive units, optimized for consistent and reliable sound output.",
+      "All-Weather Durability IP56-Rated: An optional UV waterproof coating extends its usability to both indoor and outdoor settings. For added safety, optional UL94V-0 flame-retardant materials are available.",
+      "Convenient Accessories: Optional add-ons such as a level device, handle, and shock-absorbing rubber pads simplify installation and maintenance, enhancing user convenience."
+    ],
+    "specs": [
+      "53 cm array (4x 3\") with 100V & 8Ω mode Selection",
+      "Full Weather IP56"
+    ],
+    "image": "FS4IP_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FS4IP_1.jpg",
+        "alt": "FS4IP weather-rated slimline array module",
+        "caption": "A sleek, IP56-rated column that keeps walls clean while keeping speech clear."
+      }
+    ]
+  }
+]

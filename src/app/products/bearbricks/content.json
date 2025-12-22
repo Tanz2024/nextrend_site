@@ -1,0 +1,312 @@
+{
+  "bearbrickProducts": [
+    {
+      "slug": "bearbrick-audio-400",
+      "name": "BE@RBRICK Audio 400%",
+      "collection": "Clear Collection",
+      "headline": "400% Portable Bluetooth Speaker",
+      "series": "400% Portable Bluetooth Speaker",
+      "finish": "Signature",
+      "collaboration": "Signature",
+      "image": "BE@RBRICK AUDIO 400_ BLACKFRONT.jpg",
+      "definition": "A 400% BE@RBRICK portable speaker powered by the QUAD’360™ acoustic engine.",
+      "description": "A sculptural portable speaker that delivers an enveloping 360° presentation from a compact 400% silhouette.",
+      "story": "Built around the QUAD’360™ architecture with tweeters in the ears and dual woofers in the head, the Audio 400 turns a familiar collectible form into a room-filling sound object.",
+      "resources": ["Bearbrick_Audio_400_User_Manual_V01.pdf"],
+      "specs": [
+        "Rinaro QUAD’360™ 360° acoustic architecture",
+        "Transducers: 2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)",
+        "Bluetooth® wireless playback; stereo link with a second unit",
+        "Battery up to ~6 hours; USB-C fast charge ~1.5 hours",
+        "Controls on hands: volume / track",
+        "Size: 132 × 280 × 70 mm (400% scale)",
+        "Weight: ~904 g"
+      ],
+      "video": "BE@RBRICK AUDIO 400_ Clear16-9 4k.mp4",
+      "finishes": [
+        {
+          "key": "black",
+          "name": "black",
+          "hex": "#0B0B0D",
+          "order": 1,
+          "image": "BE@RBRICK AUDIO 400_ BLACKFRONT.jpg",
+          "lifestyle": [
+            {
+              "src": "BE@RBRICK AUDIO 400_ - BLACK - 3_4.jpg",
+              "alt": "Black three-quarter view on plinth",
+              "caption": "Deep piano-black presence — the silhouette stays calm under ambient light while the room fills with sound."
+            },
+            {
+              "src": "BE@RBRICK AUDIO 400_ - BLACK - PRODUCT DETAIL.jpg",
+              "alt": "Black product detail",
+              "caption": "Gloss and metal highlights catch light cleanly, keeping the form architectural."
+            },
+            {
+              "src": "BE@RBRICK AUDIO 400_ - BLACK REAR.jpg",
+              "alt": "Black rear controls and ports",
+              "caption": "Connectivity stays discreet at the rear so the front reads as pure sculpture."
+            }
+          ]
+        },
+        {
+          "key": "clear",
+          "name": "Clear ",
+          "hex": "#E9F2FF",
+          "order": 2,
+          "image": "BE@RBRICK AUDIO 400_ - CLEAR_FRONT.jpg",
+          "lifestyle": [
+            {
+              "src": "BE@RBRICK AUDIO 400_ - CLEAR - 3_4.jpg",
+              "alt": "Clear  on travertine block",
+              "caption": "Optically-clear shell reveals the tweeters in the ears and woofers in the head — engineering becomes part of the display."
+            },
+            {
+              "src": "BE@RBRICK AUDIO 400_ - CLEAR - LIFESTYLE 2.jpg",
+              "alt": "Clear  lifestyle placement",
+              "caption": "A light-catching object for bright interiors — the form disappears, the sound stays present."
+            },
+            {
+              "src": "BE@RBRICK AUDIO 400_ - CLEAR - REAR.jpg",
+              "alt": "Clear  rear panel and cable routing",
+              "caption": "Rear panel keeps charging and pairing tidy for a clean front profile."
+            }
+          ]
+        },
+        {
+          "key": "smoke",
+          "name": "Smoke",
+          "hex": "#3C3E43",
+          "order": 3,
+          "image": "BE@RBRICK AUDIO 400_ - SMOKE _FRONT.jpg",
+          "lifestyle": [
+            {
+              "src": "BE@RBRICK AUDIO 400_ - SMOKE - 3_4.jpg",
+              "alt": "Smoke three-quarter view",
+              "caption": "Smoked shell and gunmetal tones soften highlights — ideal for low-lit bars and listening rooms."
+            },
+            {
+              "src": "BE@RBRICK AUDIO 400_ - SMOKE - REAR.jpg",
+              "alt": "Smoke rear view",
+              "caption": "Identical acoustics to Clear and Black editions — only the mood changes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bearbrick-audio-400-chrome",
+      "name": "BE@RBRICK Audio 400% ",
+      "collection": "Chrome Collection",
+      "headline": "Chrome Editions",
+      "series": "Chrome Editions",
+      "finish": "Chrome",
+      "collaboration": "Signature",
+      "image": "BE@RBRICK AUDIO 400% - Gold Chrome_front.jpg",
+      "definition": "Three mirror-grade chrome finishes over the BE@RBRICK Audio 400% platform, preserving the same QUAD’360™ acoustic architecture.",
+      "description": "Gold, Platinum, and Silver Chrome editions bring mirror-like presence to the 400% silhouette while maintaining the same room-filling QUAD’360™ performance.",
+      "story": "Chrome Editions explore reflection as design — bold in daylight, cinematic at night. Choose the finish that best matches the interior palette; acoustics remain consistent across all variants.",
+      "resources": ["Bearbrick_Audio_400_User_Manual_V01.pdf"],
+      "specs": [
+        "Rinaro QUAD’360™ 360° acoustic architecture",
+        "Transducers: 2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)",
+        "Bluetooth® wireless playback; stereo link with a second unit",
+        "Battery up to ~6 hours; USB-C fast charge ~1.5 hours",
+        "Controls on hands: volume / track",
+        "Size: 132 × 280 × 70 mm (400% scale)",
+        "Weight: ~904 g"
+      ],
+      "lifestyle": [
+        {
+          "src": "BE@RBRICK AUDIO 400_Gold Chrome_Abstract_Ripple.jpg",
+          "alt": "Chrome Collection — Gold abstract ripple",
+          "caption": "A warm ripple study capturing the depth and glow of mirror-grade Gold Chrome."
+        },
+        {
+          "src": "BE@RBRICK AUDIO 400% Platinum Chrome_Abstract_Ripple.jpg",
+          "alt": "Chrome Collection — Platinum abstract ripple",
+          "caption": "A high-key ripple composition reflecting the crisp clarity of Platinum Chrome."
+        },
+        {
+          "src": "BE@RBRICK AUDIO 400% Silver Chrome_Abstract_Ripple.jpg",
+          "alt": "Chrome Collection — Silver abstract ripple",
+          "caption": "A cool ripple study designed to mirror Silver Chrome’s clean, modern sheen."
+        }
+      ],
+      "finishes": [
+        {
+          "key": "gold-chrome",
+          "name": "Gold Chrome",
+          "hex": "#D4AF37",
+          "order": 1,
+          "image": "BE@RBRICK AUDIO 400% - Gold Chrome_front.jpg"
+        },
+        {
+          "key": "platinum-chrome",
+          "name": "Platinum Chrome",
+          "hex": "#E5E4E2",
+          "order": 2,
+          "image": "BE@RBRICK AUDIO 400% - Platinum Chrome_front.jpg"
+        },
+        {
+          "key": "silver-chrome",
+          "name": "Silver Chrome",
+          "hex": "#C0C0C0",
+          "order": 3,
+          "image": "BE@RBRICK AUDIO 400% - Silver Chrome_front.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "bearbrick-audio-studio-editions",
+      "name": "BE@RBRICK Audio 400%",
+      "collection": "Iridescent Collection",
+      "headline": "Studio Editions",
+      "series": "Studio Editions",
+      "finish": "Studio",
+      "collaboration": "Studio",
+      "image": "BE@RBRICK AUDIO - Black Aurora 1.jpg",
+      "definition": "Studio finishes over the same QUAD’360™ platform — sculptural surfaces with consistent acoustic performance.",
+      "description": "Statement finishes that play with architectural lighting while maintaining the same room-filling 360° presentation.",
+      "story": "Studio Editions explore colour, depth, and surface geometry — designed to live comfortably in hospitality suites, galleries, and modern residences.",
+      "resources": ["Bearbrick_Audio_400_User_Manual_V01.pdf"],
+      "specs": [
+        "Rinaro QUAD’360™ 360° acoustic architecture",
+        "Transducers: 2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)",
+        "Bluetooth® wireless playback; stereo link with a second unit",
+        "Battery up to ~6 hours; USB-C fast charge ~1.5 hours",
+        "Controls on hands: volume / track",
+        "Size: 132 × 280 × 70 mm (400% scale)",
+        "Weight: ~904 g"
+      ],
+      "finishes": [
+        {
+          "key": "black-aurora",
+          "name": "Black Aurora",
+          "hex": "#0E1E1B",
+          "order": 1,
+          "image": "BE@RBRICK AUDIO - Black Aurora 1.jpg",
+          "video": "BE@RBRICK AUDIO IRIDESCENT-Black Aurora-Instagram_1080x1920.mp4",
+          "lifestyle": [
+            {
+              "src": "BE@RBRICK AUDIO - Black Aurora 2.jpg",
+              "alt": "Black Aurora under shifting green and violet light",
+              "caption": "Colour-shift lacquer moves from petrol green to midnight black."
+            },
+            {
+              "src": "BE@RBRICK AUDIO - Black Aurora 3.jpg",
+              "alt": "Black Aurora on concrete plinth",
+              "caption": "As you move around it, the finish rolls smoothly across edges and curves."
+            }
+          ]
+        },
+        {
+          "key": "crystal-halo",
+          "name": "Crystal Halo",
+          "hex": "#DDEBFF",
+          "order": 2,
+          "image": "BE@RBRICK AUDIO - Crystal Halo 1.jpg",
+          "video": "BE@RBRICK AUDIO IRIDESCENT-Crystal Halo-Instagram_1080x1920.mp4",
+          "lifestyle": [
+            {
+              "src": "BE@RBRICK AUDIO - Crystal Halo 2.jpg",
+              "alt": "Crystal Halo beside a curved sofa",
+              "caption": "Faceted, glass-like surfaces amplify architectural lighting."
+            }
+          ]
+        },
+        {
+          "key": "pearl-mirage",
+          "name": "Pearl Mirage",
+          "hex": "#E9E2D6",
+          "order": 3,
+          "image": "BE@RBRICK AUDIO - Pearl Mirage 1.jpg",
+          "video": "BE@RBRICK AUDIO IRIDESCENT-Pearl Mirage-Instagram_1080x1920.mp4",
+          "lifestyle": [
+            {
+              "src": "BE@RBRICK AUDIO - Pearl Mirage 3(1).jpg",
+              "alt": "Pearl Mirage against a warm plaster wall",
+              "caption": "Soft pearl lacquer with warm metallic details — calm, hospitality-friendly finish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "bearbrick-audio-mickey",
+      "name": "BE@RBRICK Audio 400%",
+      "collection": "Mickey Mouse Collection",
+      "headline": "Mickey Collaboration",
+      "series": "Collaborations",
+      "finish": "Heritage",
+      "collaboration": "Disney",
+      "image": "BE@RBRICK AUDIO 400_ Mickey Mouse_Front.jpg",
+      "definition": "Official Disney Heritage collaboration wrapping the standard 400% BE@RBRICK AUDIO hardware platform.",
+      "description": "Archival Mickey graphics meet the 400% form factor. Under the art, the same QUAD’360™ array delivers an enveloping, balanced presentation.",
+      "story": "A numbered collaboration finished with licensed Disney artwork. The standard BE@RBRICK AUDIO engine remains unchanged for consistent performance.",
+      "resources": ["Bearbrick_Audio_400_User_Manual_V01.pdf"],
+      "specs": [
+        "Rinaro QUAD’360™ 360° acoustic architecture",
+        "Transducers: 2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)",
+        "Bluetooth® wireless playback; stereo link with a second unit",
+        "Battery up to ~6 hours; USB-C fast charge ~1.5 hours",
+        "Controls on hands: volume / track",
+        "Size: 132 × 280 × 70 mm (400% scale)",
+        "Weight: ~904 g"
+      ],
+      "video": "BEA@RRICK MICKEY_MOUSE.mp4",
+      "finishes": [
+        {
+          "key": "mickey",
+          "name": "Mickey",
+          "hex": "#E6C86B",
+          "order": 1,
+          "image": "BE@RBRICK AUDIO 400_ Mickey Mouse_Front.jpg",
+          "gallery": [
+            {
+              "src": "BE@RBRICK AUDIO 400_Mickey Mouse_Left.jpg",
+              "alt": "Mickey collaboration — left",
+              "caption": "Left profile highlighting the full-length graphic flow across the body."
+            },
+            {
+              "src": "BE@RBRICK AUDIO 400_Mickey Mouse_Right.jpg",
+              "alt": "Mickey collaboration — right",
+              "caption": "Right profile with character artwork wrapping around the torso and legs."
+            },
+            {
+              "src": "BE@RBRICK AUDIO 400_Mickey Mouse_Rear.jpg",
+              "alt": "Mickey collaboration — rear",
+              "caption": "Rear view with discreet controls and ports kept clean."
+            }
+          ]
+        }
+      ],
+      "lifestyle": [
+        {
+          "src": "BE@RBRICK AUDIO 400% Mickey Mouse_Portrait_1.jpg",
+          "alt": "Mickey collaboration front portrait",
+          "caption": "Front view of heritage Mickey artwork wrapped over the BE@RBRICK AUDIO 400% shell."
+        },
+        {
+          "src": "BE@RBRICK AUDIO 400% Mickey Mouse_Portrait_2.jpg",
+          "alt": "Mickey collaboration three-quarter pose",
+          "caption": "Three-quarter angle showing character art flowing across ears, torso and legs."
+        },
+        {
+          "src": "BE@RBRICK AUDIO 400% Mickey Mouse_Portrait_3.jpg",
+          "alt": "Mickey collaboration side profile",
+          "caption": "Side profile highlights the full-length Mickey graphic along the arm and flank."
+        },
+        {
+          "src": "BE@RBRICK AUDIO 400% Mickey Mouse_Portrait_4.jpg",
+          "alt": "Mickey collaboration rear artwork and controls",
+          "caption": "Rear view combines classic Mickey motifs with discreet audio controls and ports."
+        },
+        {
+          "src": "BE@RBRICK AUDIO 400% Mickey Mouse_Portrait_5.jpg",
+          "alt": "Mickey collaboration close-up of graphics",
+          "caption": "Close-up on colour blocks and linework of the limited Disney collaboration."
+        }
+      ]
+    }
+  ]
+}

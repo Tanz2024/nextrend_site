@@ -1,0 +1,214 @@
+[
+  {
+    "slug": "fi-mc100",
+    "name": "Frog-is FI-MC100",
+    "headline": "Condenser gooseneck microphone for speech and conference",
+    "description": "A standard-size electret condenser gooseneck microphone with desktop base, designed for fast setup in multipurpose and conference environments.",
+    "story": "FI-MC100 series microphones are built for situations where flexibility matters. The desktop base and attached long cable make them ideal for conference rooms and multipurpose spaces where permanent installation is impractical. Balanced output, logic control terminals, and clear LED indication ensure reliable and professional operation.",
+    "definition": "Electret condenser gooseneck desktop microphone with balanced output and programmable control.",
+    "series": "Microphones and accessories",
+    "category": "Conference microphones",
+    "finish": "Professional Black",
+    "collaboration": "Frog-is Professional",
+    "power": "Phantom",
+    "type": "Gooseneck condenser microphone",
+    "drivers": "Electret condenser capsule",
+    "features": [
+      "Wide dynamic range and frequency response for accurate sound reproduction",
+      "Interchangeable cartridges for different polar patterns",
+      "Balanced output for long cable runs with high noise immunity",
+      "Programmable on/off switch with LED indicator",
+      "Bright LED visibility under strong ambient lighting",
+      "Logic input and output terminals for remote control or automatic mixers",
+      "Snap-fit foam windscreen included"
+    ],
+    "applications": [
+      "Multi-purpose rooms",
+      "Conference rooms"
+    ],
+    "specs": [
+      "Frequency Response: 50–17,000 Hz",
+      "Polar Pattern: Supercardioid",
+      "Output Impedance (1kHz): 150Ω",
+      "Open Circuit Sensitivity (1kHz): -32.5 dBV (23.7 mV)",
+      "Maximum SPL: 122 dB (1% THD, 1kΩ load)",
+      "Equivalent Output Noise: 28 dB SPL (A-weighted)",
+      "Signal-to-Noise Ratio: 66 dB",
+      "Dynamic Range: 94 dB",
+      "Common Mode Rejection: ≥45 dB",
+      "Mute Switch Attenuation: ≥50 dB",
+      "Power Requirements: 11–52 VDC phantom, 2.0 mA",
+      "Environmental: -18°C to 57°C, 0–95% RH",
+      "Base Dimensions: 102 × 161 mm",
+      "Weight: 0.86 kg"
+    ],
+    "image": "FI-MC100_main.jpg"
+  },
+  {
+    "slug": "fi-urm500",
+    "name": "Frog-is FI-URM500",
+    "headline": "USB digital condenser recording microphone",
+    "description": "A professional USB condenser microphone with multi-pattern selection, designed for studio-quality recording, conferencing, podcasting, streaming, and gaming.",
+    "story": "FI-URM500 combines studio-grade condenser capsules with high-quality A/D conversion, offering true plug-and-play recording without the need for audio interfaces. Its selectable polar patterns and wide sampling rates make it versatile for creators and professionals alike.",
+    "definition": "USB digital condenser microphone with multi-pattern selection and integrated audio interface.",
+    "series": "Microphones and accessories",
+    "category": "USB microphones",
+    "finish": "Studio Black",
+    "collaboration": "Frog-is Professional",
+    "power": "USB",
+    "type": "USB condenser microphone",
+    "drivers": "3-capsule studio condenser array",
+    "features": [
+      "3-capsule studio quality condenser microphone",
+      "4 polar patterns: Cardioid, Figure-8, Stereo, Omnidirectional",
+      "USB 3.0 plug-and-play connectivity",
+      "Headphone monitoring output",
+      "RGB LED mood light",
+      "Driver-free operation on major platforms"
+    ],
+    "applications": [
+      "Conferencing",
+      "Podcasting",
+      "Web streaming",
+      "Gaming",
+      "Voice and music recording"
+    ],
+    "specs": [
+      "Power Supply: USB 5V / 500mA",
+      "Frequency Response: 18Hz–22kHz",
+      "Sensitivity: -36 ±2 dBFS",
+      "Signal-to-Noise Ratio: 79 dB",
+      "Maximum SPL: 125 dB",
+      "Sampling Rate: 44.1–192 kHz",
+      "Bit Depth: 24-bit",
+      "Operating Systems: Windows / Mac / Linux / Android",
+      "Plug & Play: Yes"
+    ],
+    "image": "FI-URM500_main.jpg"
+  },
+  {
+    "slug": "fi-vox2",
+    "name": "Frog-is FI-VOX2",
+    "headline": "Dynamic super-cardioid vocal microphone",
+    "description": "A rugged, high-performance dynamic vocal microphone designed for speech and vocals with excellent feedback rejection.",
+    "story": "FI-VOX2 is engineered for demanding stage use. Its super-cardioid pickup pattern minimizes spill and feedback, while extended high-frequency response and presence boost ensure clarity even at high on-stage sound levels.",
+    "definition": "Dynamic super-cardioid microphone for vocals and speech.",
+    "series": "Microphones and accessories",
+    "category": "Vocal microphones",
+    "finish": "Stage Black",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Dynamic handheld microphone",
+    "drivers": "Dynamic capsule",
+    "features": [
+      "Super-cardioid pickup pattern",
+      "Extended high-frequency response",
+      "High SPL handling capability",
+      "Excellent feedback rejection",
+      "Shock-mounted capsule for low handling noise",
+      "Humbucking coil",
+      "Rugged metal body"
+    ],
+    "applications": [
+      "Presentations",
+      "Conferences",
+      "Choirs",
+      "Rehearsal rooms",
+      "Stage performance"
+    ],
+    "specs": [
+      "Transducer Principle: Dynamic",
+      "Pick-up Pattern: Super-cardioid",
+      "Frequency Response: 35–16,000 Hz",
+      "Sensitivity: 1.8 mV/Pa",
+      "Nominal Impedance: 350 Ω",
+      "Connector: XLR-3",
+      "Dimensions: Ø45 × 182 mm",
+      "Weight (without cable): 320 g"
+    ],
+    "image": "FI-VOX2_main.jpg"
+  },
+  {
+    "slug": "fi-vox3",
+    "name": "Frog-is FI-VOX3",
+    "headline": "Dynamic super-cardioid microphone with On/Off switch",
+    "description": "A stage-ready super-cardioid vocal microphone with integrated On/Off switch for flexible live use.",
+    "story": "FI-VOX3 builds on the FI-VOX2 platform with the addition of an On/Off switch, making it ideal for presenters and performers who require direct control during live events.",
+    "definition": "Dynamic super-cardioid vocal microphone with integrated switch.",
+    "series": "Microphones and accessories",
+    "category": "Vocal microphones",
+    "finish": "Stage Black",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Dynamic handheld microphone",
+    "drivers": "Dynamic capsule",
+    "features": [
+      "On/Off switch",
+      "Super-cardioid pickup pattern",
+      "Extended high-frequency response",
+      "Excellent feedback rejection",
+      "Shock-mounted capsule",
+      "Rugged metal construction"
+    ],
+    "applications": [
+      "Stage vocals",
+      "Presentations",
+      "Choirs",
+      "Rehearsal rooms"
+    ],
+    "specs": [
+      "Transducer Principle: Dynamic",
+      "Pick-up Pattern: Super-cardioid",
+      "Frequency Response: 35–16,000 Hz",
+      "Sensitivity: 1.8 mV/Pa",
+      "Nominal Impedance: 350 Ω",
+      "Connector: XLR-3",
+      "Weight (without cable): 320 g"
+    ],
+    "image": "FI-VOX3_main.jpg"
+  },
+  {
+    "slug": "fi-ins1",
+    "name": "Frog-is FI-INS1",
+    "headline": "Cardioid condenser instrument microphone",
+    "description": "A compact cardioid condenser microphone designed for demanding instrument recording and live performance.",
+    "story": "FI-INS1 delivers fast transient response, high SPL handling, and a wide frequency range in a compact form. It is optimized for accurate reproduction of acoustic instruments in both live and studio environments.",
+    "definition": "Electret condenser cardioid instrument microphone.",
+    "series": "Microphones and accessories",
+    "category": "Instrument microphones",
+    "finish": "Professional Black",
+    "collaboration": "Frog-is Professional",
+    "power": "Phantom",
+    "type": "Instrument condenser microphone",
+    "drivers": "Electret condenser capsule",
+    "features": [
+      "Clear and lively sound",
+      "Very high SPL handling",
+      "Excellent directivity across frequency range",
+      "Wide frequency response",
+      "Compact and durable design"
+    ],
+    "applications": [
+      "Acoustic guitars",
+      "Cymbals",
+      "Percussion",
+      "Overhead",
+      "Orchestras",
+      "Grand pianos"
+    ],
+    "specs": [
+      "Transducer Principle: Electret condenser",
+      "Frequency Response: 20–20,000 Hz",
+      "Pick-up Pattern: Cardioid",
+      "Sensitivity: 7 mV/Pa",
+      "Nominal Impedance: 100 Ω",
+      "Minimum Load Impedance: 1 kΩ",
+      "Maximum SPL: 140 dB",
+      "Phantom Power: 48 V / 2.2 mA",
+      "Connector: XLR-3",
+      "Dimensions: Ø20 mm × 100 mm",
+      "Weight: 93 g"
+    ],
+    "image": "FI-INS1_main.jpg"
+  }
+]

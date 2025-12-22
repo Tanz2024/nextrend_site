@@ -1,0 +1,1426 @@
+[
+  {
+    "slug": "azimut-kamut2l-ii",
+    "name": "K-array Azimut KAMUT2L II",
+    "headline": "Invisible micro-system for premium hospitality rooms",
+    "description": "Azimut KAMUT2L II is a turnkey micro-system pairing ultra-slim columns with a compact sub and amplifier for design-driven spaces that still expect hi-fi clarity.",
+    "story": "Created for hotel suites, lounges and concept retail, the KAMUT2L II hides powerful coverage in a d\u00e9cor-friendly footprint, with DSP, connections and presets tucked away in a single electronics hub.",
+    "definition": "Complete Azimut micro-system with slim columns, compact subwoofer and matched DSP amplifier.",
+    "series": "Azimut",
+    "category": "Systems",
+    "finish": "Matte black columns with discreet hardware",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Design-focused micro audio system",
+    "drivers": "Paired micro line-source columns with matching low-profile subwoofer",
+    "applications": [
+      "Hotel suites",
+      "Boutique retail",
+      "Private lounges"
+    ],
+    "specs": [
+      "Full Azimut system with ultra-slim columns, sub and control electronics",
+      "Integrated DSP amplifier with presets for music, speech and background modes",
+      "Flexible I/O for TV, streaming devices and background music sources",
+      "Wall, shelf and ceiling mounting options for columns",
+      "Compact subwoofer sized to hide under furniture or joinery"
+    ],
+    "keyStats": [
+      "Ultra-slim columns",
+      "Turnkey electronics",
+      "Interior-friendly form factor"
+    ],
+    "frequency": [
+      45,
+      20000
+    ],
+    "coverage": "Wide horizontal, controlled vertical spread",
+    "weightKg": 18,
+    "ipRating": "IP43",
+    "image": "Azimut-KAMUT2L II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Azimut-KAMUT2L II_1.jpg",
+        "alt": "Azimut KAMUT2L II in boutique lounge"
+      },
+      {
+        "src": "Azimut-KAMUT2L II_2.jpg",
+        "alt": "Azimut KAMUT2L II wall-mounted column detail"
+      },
+      {
+        "src": "Azimut-KAMUT2L II_3.jpg",
+        "alt": "Azimut KAMUT2L II compact subwoofer and amp"
+      },
+      {
+        "src": "Azimut-KAMUT2L II_4.jpg",
+        "alt": "Azimut KAMUT2L II complete room setup"
+      }
+    ]
+  },
+  {
+    "slug": "azimut-kamut2l1-ii",
+    "name": "K-array Azimut KAMUT2L1 II",
+    "headline": "Single-column Azimut kit for focused listening zones",
+    "description": "Azimut KAMUT2L1 II condenses the Azimut concept into a single-column system with a compact sub, ideal for focused seating areas and listening zones.",
+    "story": "Perfect for reading corners, small lounges and intimate VIP rooms, the L1 variant delivers a precise stereo image within a tight footprint, without compromising on the design language of the space.",
+    "definition": "Single-column Azimut system with compact subwoofer and integrated DSP amplification.",
+    "series": "Azimut",
+    "category": "Systems",
+    "finish": "Matte black aluminium column and matching sub",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Compact Azimut column system",
+    "drivers": "Single micro column line-source with matching subwoofer",
+    "applications": [
+      "Small lounges",
+      "Reading corners",
+      "VIP booths"
+    ],
+    "specs": [
+      "Compact Azimut package with one slim column, sub and control electronics",
+      "DSP presets for near-field listening and background sound",
+      "Flexible mounting accessories for column placement",
+      "Discreet cabling paths and plug-and-play connectivity",
+      "Optimised for smaller rooms and listening zones"
+    ],
+    "keyStats": [
+      "Compact footprint",
+      "Near-field voicing",
+      "Design-matched sub"
+    ],
+    "frequency": [
+      55,
+      19000
+    ],
+    "coverage": "Focused listening zone with wide horizontal spread",
+    "weightKg": 12,
+    "ipRating": "IP43",
+    "image": "Azimut-KAMUT2L1 II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Azimut-KAMUT2L1 II_1.jpg",
+        "alt": "Azimut KAMUT2L1 II in small lounge"
+      },
+      {
+        "src": "Azimut-KAMUT2L1 II_2.jpg",
+        "alt": "Azimut KAMUT2L1 II column close-up"
+      },
+      {
+        "src": "Azimut-KAMUT2L1 II_3.jpg",
+        "alt": "Azimut KAMUT2L1 II under-furniture sub"
+      },
+      {
+        "src": "Azimut-KAMUT2L1 II_4.jpg",
+        "alt": "Azimut KAMUT2L1 II installation detail"
+      }
+    ]
+  },
+  {
+    "slug": "azimut-kamut2l14-ii",
+    "name": "K-array Azimut KAMUT2L14 II",
+    "headline": "Extended Azimut system for deeper luxury spaces",
+    "description": "Azimut KAMUT2L14 II stretches the Azimut concept across larger rooms, pairing taller column arrays with a powerful sub and advanced DSP control.",
+    "story": "Designed for open-plan living, restaurants and extended suites, the L14 configuration keeps the same barely-there visual footprint while increasing throw and low-frequency authority.",
+    "definition": "Extended-height Azimut micro line-source system with high-performance subwoofer.",
+    "series": "Azimut",
+    "category": "Systems",
+    "finish": "Satin black with architectural mounting hardware",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Extended micro line-source system",
+    "drivers": "Taller micro column arrays coupled to a compact subwoofer",
+    "applications": [
+      "Open-plan living",
+      "Designer restaurants",
+      "Premium hospitality suites"
+    ],
+    "specs": [
+      "Tall micro columns for greater throw and smoother vertical coverage",
+      "High-performance subwoofer voiced for music and cinema",
+      "Advanced DSP presets and input routing for multi-source setups",
+      "Flexible mounting for floor, wall or ceiling applications",
+      "Ideal for medium to large design-forward spaces"
+    ],
+    "keyStats": [
+      "Extended column height",
+      "Room-filling coverage",
+      "Premium low end"
+    ],
+    "frequency": [
+      40,
+      20000
+    ],
+    "coverage": "Extended vertical line-source coverage",
+    "weightKg": 22,
+    "ipRating": "IP43",
+    "image": "Azimut-KAMUT2L14 II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Azimut-KAMUT2L14 II_1.jpg",
+        "alt": "Azimut KAMUT2L14 II in open-plan living room"
+      },
+      {
+        "src": "Azimut-KAMUT2L14 II_2.jpg",
+        "alt": "Azimut KAMUT2L14 II tall columns near feature wall"
+      },
+      {
+        "src": "Azimut-KAMUT2L14 II_3.jpg",
+        "alt": "Azimut KAMUT2L14 II subwoofer and electronics"
+      },
+      {
+        "src": "Azimut-KAMUT2L14 II_4.jpg",
+        "alt": "Azimut KAMUT2L14 II in restaurant installation"
+      }
+    ]
+  },
+  {
+    "slug": "azimut-kamut2v25-ii",
+    "name": "K-array Azimut KAMUT2V25 II",
+    "headline": "Vertical design system with sculpted stereo field",
+    "description": "Azimut KAMUT2V25 II uses vertically-oriented columns and a matching sub to create a tall, sculpted soundstage that hugs the architecture.",
+    "story": "From lobby feature walls to gallery spaces, the V25 configuration turns columns into part of the visual composition while delivering Azimut\u2019s signature intelligibility and warmth.",
+    "definition": "Vertical Azimut column system with matching subwoofer and DSP-controlled amplifier.",
+    "series": "Azimut",
+    "category": "Systems",
+    "finish": "Matte black or custom RAL on request",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Vertical column and subwoofer system",
+    "drivers": "Twin vertical micro columns with compact low-frequency unit",
+    "applications": [
+      "Hotel lobbies",
+      "Gallery spaces",
+      "Show apartments"
+    ],
+    "specs": [
+      "Twin vertical column layout for tall, immersive sound field",
+      "Compact subwoofer integrated into furniture or architectural details",
+      "DSP amplifier with presets for background, live music and cinema modes",
+      "Wall-mount and bracket kit included for flexible install",
+      "Designed for visually prominent but low-profile installations"
+    ],
+    "keyStats": [
+      "Vertical design",
+      "Twin columns",
+      "Architecture-first aesthetic"
+    ],
+    "frequency": [
+      50,
+      20000
+    ],
+    "coverage": "Tall stereo field with wide horizontal dispersion",
+    "weightKg": 20,
+    "ipRating": "IP43",
+    "image": "Azimut-KAMUT2V25 II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Azimut-KAMUT2V25 II_1.jpg",
+        "alt": "Azimut KAMUT2V25 II vertical column pair"
+      },
+      {
+        "src": "Azimut-KAMUT2V25 II_2.jpg",
+        "alt": "Azimut KAMUT2V25 II in lobby feature wall"
+      },
+      {
+        "src": "Azimut-KAMUT2V25 II_3.jpg",
+        "alt": "Azimut KAMUT2V25 II with matching sub"
+      },
+      {
+        "src": "Azimut-KAMUT2V25 II_4.jpg",
+        "alt": "Azimut KAMUT2V25 II column mounting detail"
+      }
+    ]
+  },
+  {
+    "slug": "dolomite-krd202p",
+    "name": "K-array Dolomite KRD202P",
+    "headline": "Scalable distributed system for refined ambient sound",
+    "description": "Dolomite KRD202P is a scalable column + sub concept for corporate, retail and hospitality spaces where even, unobtrusive coverage is key.",
+    "story": "Inspired by the clean lines of contemporary architecture, Dolomite builds calm, intelligible soundscapes that feel natural in atriums, offices and galleries.",
+    "definition": "Column and sub-based distributed audio solution for large, architecturally-led interiors.",
+    "series": "Dolomite",
+    "category": "Systems",
+    "finish": "Architectural white with low-gloss texture",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Distributed column system",
+    "drivers": "Slim column elements with supporting low-frequency module",
+    "applications": [
+      "Corporate environments",
+      "Premium retail",
+      "Museums and galleries"
+    ],
+    "specs": [
+      "Slim column loudspeakers for controlled vertical coverage",
+      "Companion low-frequency module for full-range performance",
+      "Optimised for speech clarity and unobtrusive music",
+      "Multiple mounting options for walls, pillars and structures",
+      "Neutral white finish to blend with modern interiors"
+    ],
+    "keyStats": [
+      "Even distributed coverage",
+      "Architectural finish",
+      "Scalable deployment"
+    ],
+    "frequency": [
+      70,
+      18000
+    ],
+    "coverage": "Distributed column pattern with controlled vertical spread",
+    "weightKg": 16,
+    "ipRating": "IP44",
+    "image": "Dolomite-KRD202P_main.png",
+    "lifestyle": [
+      {
+        "src": "Dolomite-KRD202P_1.png",
+        "alt": "Dolomite KRD202P in corporate atrium"
+      },
+      {
+        "src": "Dolomite-KRD202P_2.png",
+        "alt": "Dolomite KRD202P in premium retail space"
+      },
+      {
+        "src": "Dolomite-KRD202P_3.png",
+        "alt": "Dolomite KRD202P column detail"
+      },
+      {
+        "src": "Dolomite-KRD202P_4.png",
+        "alt": "Dolomite KRD202P discreet installation"
+      },
+      {
+        "src": "Dolomite-KRD202P_5.png",
+        "alt": "Dolomite KRD202P coverage in gallery"
+      },
+      {
+        "src": "Dolomite-KRD202P_6.png",
+        "alt": "Dolomite KRD202P close-up of drivers"
+      }
+    ]
+  },
+  {
+    "slug": "firenze-kh7p-i-system",
+    "name": "K-array Firenze KH7P I System",
+    "headline": "Steerable Firenze array platform for arenas and events",
+    "description": "The Firenze KH7P I platform combines digitally steerable line-array elements with matching low-frequency support for high-output touring and large-format installs.",
+    "story": "Engineers can build straight hangs or complex grids with KH7P I modules, steering coverage electronically while anchoring the system with Firenze subs for precise, stadium-grade sound.",
+    "definition": "Firenze KH7P I line-array system core for digitally steerable touring rigs.",
+    "series": "Firenze",
+    "category": "Systems",
+    "finish": "Touring black with Firenze rigging hardware",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Digitally steerable line-array platform",
+    "drivers": "Multi-way Firenze array modules with dedicated LF support",
+    "applications": [
+      "Arenas",
+      "Outdoor festivals",
+      "Large touring shows"
+    ],
+    "specs": [
+      "Digitally steerable line-array modules for 3D coverage control (with system DSP)",
+      "Compact frontal footprint with high power density",
+      "Optimised to pair with Firenze KS subs and amplifiers",
+      "Rigging system for fast, repeatable deployment",
+      "Weather-resistant touring enclosure construction"
+    ],
+    "keyStats": [
+      "Steerable arrays",
+      "High SPL",
+      "Arena-ready rigging"
+    ],
+    "frequency": [
+      50,
+      18000
+    ],
+    "coverage": "Digitally steerable vertical and horizontal coverage",
+    "weightKg": 46,
+    "ipRating": "IP45",
+    "image": "Firenze-KH7P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Firenze-KH7P I_1.jpg",
+        "alt": "Firenze KH7P I system flown in arena"
+      },
+      {
+        "src": "Firenze-KH7P I_2.jpg",
+        "alt": "Firenze KH7P I front view"
+      },
+      {
+        "src": "Firenze-KH7P I_3.jpg",
+        "alt": "Firenze KH7P I side rigging detail"
+      },
+      {
+        "src": "Firenze-KH7P I_4.jpg",
+        "alt": "Firenze KH7P I stacked for transport"
+      }
+    ]
+  },
+  {
+    "slug": "firenze-kh8-system",
+    "name": "K-array Firenze KH8 System",
+    "headline": "Straight-hang touring system with electronic beam steering",
+    "description": "Firenze KH8 systems pack self-powered array elements, beam steering and weather-proof build into a tour-ready solution for fast hangs and controlled coverage.",
+    "story": "With KH8, crews fly straight arrays, plug in power and network, and shape coverage from software, dramatically cutting rigging time in arenas, stadiums and festivals.",
+    "definition": "Self-powered Firenze touring system with electronic beam steering capability.",
+    "series": "Firenze",
+    "category": "Systems",
+    "finish": "Black touring finish with weather protection",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered beam-steered array system",
+    "drivers": "Multi-way Firenze modules with onboard multichannel amplification",
+    "applications": [
+      "Stadium shows",
+      "Festivals",
+      "Large touring productions"
+    ],
+    "specs": [
+      "Self-powered array elements with multichannel Class D amplification",
+      "Electronic beam steering for precise audience coverage",
+      "Straight-array rigging for rapid deployment",
+      "Compatible with Firenze KS low-frequency modules",
+      "Networkable control for presets, monitoring and optimisation"
+    ],
+    "keyStats": [
+      "Self-powered arrays",
+      "Beam steering",
+      "Straight hangs"
+    ],
+    "frequency": [
+      55,
+      18000
+    ],
+    "coverage": "Electronically steerable vertical pattern, wide horizontal",
+    "weightKg": 52,
+    "ipRating": "IP45",
+    "image": "Firenze-KH8_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Firenze-KH8_1.jpg",
+        "alt": "Firenze KH8 straight array hang"
+      },
+      {
+        "src": "Firenze-KH8_2.jpg",
+        "alt": "Firenze KH8 module close-up"
+      },
+      {
+        "src": "Firenze-KH8_3.jpg",
+        "alt": "Firenze KH8 flown cluster in stadium"
+      }
+    ]
+  },
+  {
+    "slug": "firenze-ks7p-i-system",
+    "name": "K-array Firenze KS7P I System",
+    "headline": "Passive Firenze LF engine for large-format touring rigs",
+    "description": "The Firenze KS7P I system centres on passive dual 21-inch sub modules driven by dedicated Firenze amplification for massive yet controlled low end.",
+    "story": "Stacked under KH7 or KH8 arrays, KS7P I modules create a powerful low-frequency foundation that can be tuned cardioid or end-fired via system processing.",
+    "definition": "Passive Firenze low-frequency system built around dual 21\" sub modules.",
+    "series": "Firenze",
+    "category": "Systems",
+    "finish": "Touring black polyurea on steel frame",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Dual 21\" LF system core",
+    "drivers": "Dual 21\" sub modules driven by external Firenze amplifiers",
+    "applications": [
+      "Stadium bass arrays",
+      "Festival LF grids",
+      "Large arenas"
+    ],
+    "specs": [
+      "Dual 21\" sub modules optimised for Firenze amplifier presets",
+      "Configurable in cardioid, end-fire or broadside arrays",
+      "Heavy-duty frames and hardware for truck-friendly touring",
+      "Designed to integrate visually with KH7/KH8 hangs",
+      "Suitable for indoor and outdoor high-SPL deployments"
+    ],
+    "keyStats": [
+      "Dual 21\" engine",
+      "Configurable LF arrays",
+      "Tour-grade hardware"
+    ],
+    "frequency": [
+      28,
+      120
+    ],
+    "coverage": "Omnidirectional or pattern-controlled in arrays",
+    "weightKg": 110,
+    "ipRating": "IP44",
+    "image": "Firenze-KS7P I_main.png",
+    "lifestyle": [
+      {
+        "src": "Firenze-KS7P I_1.png",
+        "alt": "Firenze KS7P I stacked LF system"
+      },
+      {
+        "src": "Firenze-KS7P I_2.png",
+        "alt": "Firenze KS7P I side view detail"
+      },
+      {
+        "src": "Firenze-KS7P I_3.png",
+        "alt": "Firenze KS7P I in festival deployment"
+      }
+    ]
+  },
+  {
+    "slug": "firenze-ks7-system",
+    "name": "K-array Firenze KS7 System",
+    "headline": "Self-powered Firenze sub platform for touring grids",
+    "description": "The KS7 system uses self-powered dual 21-inch sub modules with Firenze DSP to slot neatly under KH arrays and deliver stadium-capable low end.",
+    "story": "With amplification and processing built in, KS7 stacks simplify cabling while retaining full control over delay, EQ and array behaviour via the network.",
+    "definition": "Self-powered dual 21\" Firenze low-frequency system for touring applications.",
+    "series": "Firenze",
+    "category": "Systems",
+    "finish": "Touring black polyurea enclosure",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered LF grid platform",
+    "drivers": "Dual 21\" self-powered sub modules",
+    "applications": [
+      "Touring LF grids",
+      "Outdoor shows",
+      "High-SPL events"
+    ],
+    "specs": [
+      "Self-powered dual 21\" modules with built-in DSP",
+      "Network control for delay, EQ and array configuration",
+      "Optimised presets for Firenze tops and system voicings",
+      "Road-ready construction for touring use",
+      "Integration into Firenze software design environments"
+    ],
+    "keyStats": [
+      "Self-powered subs",
+      "Network control",
+      "Tour-ready"
+    ],
+    "frequency": [
+      28,
+      120
+    ],
+    "coverage": "Array-dependent low-frequency coverage",
+    "weightKg": 120,
+    "ipRating": "IP45",
+    "image": "Firenze-KS7_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Firenze-KS7_1.jpg",
+        "alt": "Firenze KS7 stacked in LF array"
+      },
+      {
+        "src": "Firenze-KS7_2.jpg",
+        "alt": "Firenze KS7 side view"
+      },
+      {
+        "src": "Firenze-KS7_3.jpg",
+        "alt": "Firenze KS7 under Firenze line arrays"
+      }
+    ]
+  },
+  {
+    "slug": "firenze-ks8-system",
+    "name": "K-array Firenze KS8 System",
+    "headline": "Compact IPAL-based LF system for precise touring bass",
+    "description": "Firenze KS8 systems employ IPAL\u00ae-equipped sub modules to deliver ultra-precise, phase-coherent low frequencies in compact touring grids.",
+    "story": "With integrated high-power amplification and IPAL\u00ae processing, KS8 arrays stay tight and controlled, even when stacked deep for large shows.",
+    "definition": "IPAL\u00ae-driven Firenze low-frequency system for precision touring applications.",
+    "series": "Firenze",
+    "category": "Systems",
+    "finish": "Black touring finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Compact IPAL\u00ae LF system",
+    "drivers": "Dual 21\" IPAL\u00ae sub modules with dedicated amplifiers",
+    "applications": [
+      "Large theatres",
+      "Arenas",
+      "Precision touring rigs"
+    ],
+    "specs": [
+      "IPAL\u00ae technology for tight LF control and reduced distortion",
+      "Self-powered with internal high-efficiency amplification",
+      "Designed for flown or ground-stacked Firenze LF arrays",
+      "Integrates into Firenze system design software",
+      "Weather-resistant build for outdoor deployments"
+    ],
+    "keyStats": [
+      "IPAL\u00ae engine",
+      "Precision bass",
+      "Compact LF grid"
+    ],
+    "frequency": [
+      30,
+      120
+    ],
+    "coverage": "Array-controlled low-frequency coverage",
+    "weightKg": 130,
+    "ipRating": "IP45",
+    "image": "Firenze-KS8_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Firenze-KS8_1.jpg",
+        "alt": "Firenze KS8 LF system front view"
+      },
+      {
+        "src": "Firenze-KS8_2.jpg",
+        "alt": "Firenze KS8 module detail"
+      },
+      {
+        "src": "Firenze-KS8_3.jpg",
+        "alt": "Firenze KS8 under Firenze arrays"
+      }
+    ]
+  },
+  {
+    "slug": "firenze-kx12f-i-system",
+    "name": "K-array Firenze KX12F I System",
+    "headline": "Coaxial Firenze point-source system for focused zones",
+    "description": "The Firenze KX12F I platform is a stainless-steel coaxial solution for fills, delays and smaller FOH positions within a larger Firenze ecosystem.",
+    "story": "With rotatable waveguide and Firenze voicing, KX12F I ties front-fill and balcony zones seamlessly to main arrays, maintaining clarity and tone.",
+    "definition": "Coaxial point-source Firenze system for fills and medium FOH deployments.",
+    "series": "Firenze",
+    "category": "Systems",
+    "finish": "Stainless steel enclosure",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Coaxial point-source system",
+    "drivers": "12\" + compression driver coaxial module",
+    "applications": [
+      "Front fills",
+      "Balcony delays",
+      "Medium FOH"
+    ],
+    "specs": [
+      "Coaxial driver layout for phase-coherent point-source behaviour",
+      "Rotatable waveguide for custom coverage patterns",
+      "Optimised Firenze presets for tonal continuity",
+      "Stainless steel build suitable for challenging environments",
+      "Supports flown, pole-mount and ground-stack configurations"
+    ],
+    "keyStats": [
+      "Coaxial design",
+      "Adjustable dispersion",
+      "Firenze voicing"
+    ],
+    "frequency": [
+      70,
+      18000
+    ],
+    "coverage": "Selectable coverage via rotatable waveguide",
+    "weightKg": 23,
+    "ipRating": "IP43",
+    "image": "Firenze-KX12F I_main.png",
+    "lifestyle": [
+      {
+        "src": "Firenze-KX12F I_1.png",
+        "alt": "Firenze KX12F I as front fill"
+      },
+      {
+        "src": "Firenze-KX12F I_2.png",
+        "alt": "Firenze KX12F I stainless cabinet"
+      },
+      {
+        "src": "Firenze-KX12F I_3.png",
+        "alt": "Firenze KX12F I flown as delay"
+      }
+    ]
+  },
+  {
+    "slug": "mugello-kh2-i-syst12",
+    "name": "K-array Mugello KH2 I SYST12",
+    "headline": "KH2 Mugello line-array system for small to mid-sized tours",
+    "description": "The KH2 I SYST12 system packages passive Mugello KH2 arrays, subs and amplification into a complete touring-ready solution.",
+    "story": "Ideal for rental houses and regional tours, SYST12 scales Mugello performance into a compact rig that still delivers the punch and clarity expected of a full Mugello front-of-house.",
+    "definition": "Configured Mugello KH2 I system with arrays, subs and matching amplification.",
+    "series": "Mugello",
+    "category": "Systems",
+    "finish": "Black touring finish",
+    "collaboration": "K-array Italy",
+    "power": "Passive",
+    "type": "Configured touring line-array system",
+    "drivers": "KH2 line-array tops paired with dedicated LF modules",
+    "applications": [
+      "Regional touring",
+      "Theatres",
+      "Corporate shows"
+    ],
+    "specs": [
+      "Includes KH2 I array elements, matching subs and amplification package",
+      "Scalable system size for small to mid-sized audience areas",
+      "Dedicated presets for fast tuning and deployment",
+      "Compatible with Mugello rigging and flying hardware",
+      "Ideal rental solution for flexible event coverage"
+    ],
+    "keyStats": [
+      "Pre-configured rig",
+      "Mugello sound",
+      "Rental-friendly"
+    ],
+    "frequency": [
+      40,
+      19000
+    ],
+    "coverage": "Adjustable array coverage dependent on deployment",
+    "weightKg": 80,
+    "ipRating": "IP43",
+    "image": "Mugello-KH2 I SYST12_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Mugello-KH2 I SYST12_1.jpg",
+        "alt": "Mugello KH2 I SYST12 live event"
+      },
+      {
+        "src": "Mugello-KH2 I SYST12_3.jpg",
+        "alt": "Mugello KH2 I SYST12 side view"
+      },
+      {
+        "src": "Mugello-KH2 I SYST12_4.jpg",
+        "alt": "Mugello KH2 I SYST12 rigging detail"
+      }
+    ]
+  },
+  {
+    "slug": "mugello-kh2p-i",
+    "name": "K-array Mugello KH2P I System",
+    "headline": "Self-powered KH2 Mugello system for plug-and-play tours",
+    "description": "Mugello KH2P I systems integrate amplification and DSP into the array elements, simplifying power distribution and cabling for modern touring.",
+    "story": "From trucks to trim height, KH2P I rigs keep inventory lean and setups fast, with array, sub and preset integration tuned for consistent, musical results.",
+    "definition": "Self-powered Mugello KH2 array system with integrated amplification and DSP.",
+    "series": "Mugello",
+    "category": "Systems",
+    "finish": "Black touring enclosure",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Self-powered line-array system",
+    "drivers": "Bi-amped KH2P I tops with companion subs",
+    "applications": [
+      "Touring",
+      "Theatres",
+      "Live venues"
+    ],
+    "specs": [
+      "Self-powered array elements with onboard DSP presets",
+      "Reduced amp rack requirements and simpler power cabling",
+      "System-wide presets for speech, live and playback content",
+      "Mugello rigging hardware for quick hangs and stacks",
+      "Optimised integration with Mugello subwoofers"
+    ],
+    "keyStats": [
+      "Self-powered arrays",
+      "Fast setup",
+      "Tour-ready Mugello"
+    ],
+    "frequency": [
+      45,
+      19000
+    ],
+    "coverage": "Array-defined coverage for seated and standing venues",
+    "weightKg": 42,
+    "ipRating": "IP43",
+    "image": "Mugello-KH2P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Mugello-KH2P I_1.jpg",
+        "alt": "Mugello KH2P I array in theatre"
+      },
+      {
+        "src": "Mugello-KH2P I_2.jpg",
+        "alt": "Mugello KH2P I side profile"
+      },
+      {
+        "src": "Mugello-KH2P I_3.jpg",
+        "alt": "Mugello KH2P I close-up rigging"
+      },
+      {
+        "src": "Mugello-KH2P I_4.jpg",
+        "alt": "Mugello KH2P I paired with subs"
+      }
+    ]
+  },
+  {
+    "slug": "mugello-kh3p-i",
+    "name": "K-array Mugello KH3P I System",
+    "headline": "High-power Mugello system for demanding venues",
+    "description": "The KH3P I Mugello system scales power and throw for arenas, larger theatres and outdoor stages, combining self-powered arrays with matched subs.",
+    "story": "When shows demand more headroom and coverage distance, KH3P I rigs act as the backbone of FOH, supported by Mugello subs and system processing for precise voicing.",
+    "definition": "High-power self-powered Mugello KH3P I array system with companion subs.",
+    "series": "Mugello",
+    "category": "Systems",
+    "finish": "Black touring finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "High-power self-powered array system",
+    "drivers": "Larger-format KH3P I modules with matched LF support",
+    "applications": [
+      "Arenas",
+      "Large theatres",
+      "Outdoor festivals"
+    ],
+    "specs": [
+      "Self-powered KH3P I arrays with multi-way amplification",
+      "High SPL capability for demanding venues",
+      "Dedicated presets for indoor and outdoor voicings",
+      "Compatible with Mugello rigging hardware and subs",
+      "Networked control and monitoring for touring workflows"
+    ],
+    "keyStats": [
+      "High SPL",
+      "Self-powered",
+      "Arena-ready"
+    ],
+    "frequency": [
+      40,
+      19000
+    ],
+    "coverage": "Long-throw array coverage",
+    "weightKg": 48,
+    "ipRating": "IP43",
+    "image": "Mugello-KH3P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Mugello-KH3P I_1.jpg",
+        "alt": "Mugello KH3P I at large concert"
+      },
+      {
+        "src": "Mugello-KH3P I_2.jpg",
+        "alt": "Mugello KH3P I front view"
+      },
+      {
+        "src": "Mugello-KH3P I_3.jpg",
+        "alt": "Mugello KH3P I flown array"
+      },
+      {
+        "src": "Mugello-KH3P I_4.jpg",
+        "alt": "Mugello KH3P I stack with subs"
+      }
+    ]
+  },
+  {
+    "slug": "mugello-kh5p-i",
+    "name": "K-array Mugello KH5P I System",
+    "headline": "Flagship Mugello array system for large-format touring",
+    "description": "Mugello KH5P I is the top of the Mugello line-array family, delivering maximum throw, SPL and definition for the most demanding events.",
+    "story": "From outdoor festivals to large arena tours, KH5P I acts as a flagship FOH solution, with self-powered modules, precise coverage tools and matching subs and processing.",
+    "definition": "Flagship self-powered Mugello KH5P I system for large-scale touring and installs.",
+    "series": "Mugello",
+    "category": "Systems",
+    "finish": "Black touring enclosure with integrated rigging",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Flagship self-powered array system",
+    "drivers": "Large-format KH5P I modules with dedicated Mugello subs",
+    "applications": [
+      "Large festivals",
+      "Arenas",
+      "Flagship venues"
+    ],
+    "specs": [
+      "Highest-output Mugello array platform with self-contained amplification",
+      "Advanced DSP for coverage, voicing and protection presets",
+      "Integrated rigging for fast, repeatable deployment",
+      "Optimised to pair with Mugello subwoofer platforms",
+      "Networkable control for system-wide monitoring and tuning"
+    ],
+    "keyStats": [
+      "Flagship system",
+      "Maximum SPL",
+      "Touring workhorse"
+    ],
+    "frequency": [
+      38,
+      19000
+    ],
+    "coverage": "Long-throw array with configurable splay and aiming",
+    "weightKg": 55,
+    "ipRating": "IP43",
+    "image": "Mugello-KH5P I_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Mugello-KH5P I_1.jpg",
+        "alt": "Mugello KH5P I at outdoor festival"
+      },
+      {
+        "src": "Mugello-KH5P I_2.jpg",
+        "alt": "Mugello KH5P I array detail"
+      },
+      {
+        "src": "Mugello-KH5P I_3.jpg",
+        "alt": "Mugello KH5P I flown in arena"
+      },
+      {
+        "src": "Mugello-KH5P I_4.jpg",
+        "alt": "Mugello KH5P I stacked with subs"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-k-foh2",
+    "name": "K-array Pinnacle K-FoH2",
+    "headline": "Portable FOH column system for live music and corporate shows",
+    "description": "Pinnacle K-FoH2 unites column arrays, subwoofers and amplification in a transportable system tuned for front-of-house applications.",
+    "story": "From corporate keynotes to live bands in mid-sized rooms, K-FoH2 gives engineers a fast, elegant way to drop a full K-array front-of-house on the truck.",
+    "definition": "Portable Pinnacle FOH column + sub system with matched amplification.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black touring finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Portable front-of-house column system",
+    "drivers": "Column arrays with matching subwoofers and electronics",
+    "applications": [
+      "Corporate FOH",
+      "Touring bands",
+      "Rental stock"
+    ],
+    "specs": [
+      "Includes column arrays, subs and dedicated amplification package",
+      "Compact footprint tailored to small and mid-sized venues",
+      "Factory presets for speech, playback and live performance",
+      "Quick ground-stack deployment with minimal rigging",
+      "Designed as a complete front-of-house solution in one package"
+    ],
+    "keyStats": [
+      "Portable FOH",
+      "Complete package",
+      "Column + sub system"
+    ],
+    "frequency": [
+      40,
+      19000
+    ],
+    "coverage": "Wide horizontal, controlled vertical column coverage",
+    "weightKg": 40,
+    "ipRating": "IP43",
+    "image": "Pinnacle-K-FoH2_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-K-FoH2_1.jpg",
+        "alt": "Pinnacle K-FoH2 FOH setup"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-kr102-ii",
+    "name": "K-array Pinnacle KR102 II",
+    "headline": "Compact KR column system for discreet live sound",
+    "description": "KR102 II is a compact column + sub system offering K-array clarity and punch in venues where sightlines and aesthetics are critical.",
+    "story": "The KR102 II has become a go-to for live rooms, lounge venues and small theatres that want clean, articulate sound without big black boxes on stage.",
+    "definition": "Compact Pinnacle KR system with slim columns and matching subwoofers.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black columns with matching subs",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Compact column + sub system",
+    "drivers": "Slim column arrays over compact subs with active amplification",
+    "applications": [
+      "Small theatres",
+      "Lounges",
+      "Corporate events"
+    ],
+    "specs": [
+      "Slim column arrays with controlled vertical coverage",
+      "Compact subwoofers delivering full-range performance",
+      "Integrated amplification and DSP presets",
+      "Ground-stack or pole-mount deployment options",
+      "Ideal for portable or semi-permanent installs"
+    ],
+    "keyStats": [
+      "Slim columns",
+      "Compact subs",
+      "Active system"
+    ],
+    "frequency": [
+      45,
+      19000
+    ],
+    "coverage": "Column-driven vertical pattern, wide horizontal",
+    "weightKg": 35,
+    "ipRating": "IP43",
+    "image": "Pinnacle-KR102 II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-KR102 II_1.jpg",
+        "alt": "Pinnacle KR102 II on stage"
+      },
+      {
+        "src": "Pinnacle-KR102 II_2.jpg",
+        "alt": "Pinnacle KR102 II column close-up"
+      },
+      {
+        "src": "Pinnacle-KR102 II_3.jpg",
+        "alt": "Pinnacle KR102 II with subwoofers"
+      },
+      {
+        "src": "Pinnacle-KR102 II_4.jpg",
+        "alt": "Pinnacle KR102 II in club"
+      },
+      {
+        "src": "Pinnacle-KR102 II_5.jpg",
+        "alt": "Pinnacle KR102 II branding detail"
+      },
+      {
+        "src": "Pinnacle-KR102 II_6.jpg",
+        "alt": "Pinnacle KR102 II side view"
+      },
+      {
+        "src": "Pinnacle-KR102 II_7.jpg",
+        "alt": "Pinnacle KR102 II system in use"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-kr202-ii",
+    "name": "K-array Pinnacle KR202 II",
+    "headline": "Extended-throw KR column system for deeper rooms",
+    "description": "KR202 II expands the KR column format for longer throw and higher SPL in churches, theatres and live venues.",
+    "story": "With taller columns and more substantial subs, KR202 II systems keep vocals and instruments intelligible right to the back row without overwhelming the front.",
+    "definition": "Extended KR column + sub system for medium-sized venues.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black touring/installation finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Extended column + sub system",
+    "drivers": "Tall column arrays over dual or larger subs with active electronics",
+    "applications": [
+      "Churches",
+      "Theatres",
+      "Live music venues"
+    ],
+    "specs": [
+      "Taller columns for increased throw and vertical control",
+      "Higher-output subs for more demanding program material",
+      "Active amplification with factory-configured presets",
+      "Suitable for portable or fixed installations",
+      "Designed for clear speech and musical performance"
+    ],
+    "keyStats": [
+      "Extended throw",
+      "Higher SPL",
+      "KR family voicing"
+    ],
+    "frequency": [
+      40,
+      19000
+    ],
+    "coverage": "Medium-throw column coverage",
+    "weightKg": 42,
+    "ipRating": "IP43",
+    "image": "Pinnacle-KR202 II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-KR202 II_1.jpg",
+        "alt": "Pinnacle KR202 II in theatre"
+      },
+      {
+        "src": "Pinnacle-KR202 II_2.jpg",
+        "alt": "Pinnacle KR202 II column pair"
+      },
+      {
+        "src": "Pinnacle-KR202 II_3.jpg",
+        "alt": "Pinnacle KR202 II with subs"
+      },
+      {
+        "src": "Pinnacle-KR202 II_4.jpg",
+        "alt": "Pinnacle KR202 II live event"
+      },
+      {
+        "src": "Pinnacle-KR202 II_5.jpg",
+        "alt": "Pinnacle KR202 II column detail"
+      },
+      {
+        "src": "Pinnacle-KR202 II_6.jpg",
+        "alt": "Pinnacle KR202 II side view"
+      },
+      {
+        "src": "Pinnacle-KR202 II_7.jpg",
+        "alt": "Pinnacle KR202 II FOH setup"
+      },
+      {
+        "src": "Pinnacle-KR202 II_8.jpg",
+        "alt": "Pinnacle KR202 II system overview"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-kr402-ii",
+    "name": "K-array Pinnacle KR402 II",
+    "headline": "Large-format KR system for full-scale events",
+    "description": "KR402 II scales the KR concept into a large-format column system capable of handling serious live music and production work.",
+    "story": "With extended arrays and high-output subs, KR402 II is ready for main PA duties in festivals, dance events and larger performance spaces that still want the KR aesthetic.",
+    "definition": "Large-format KR column and subwoofer system for main PA duties.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black touring finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Large-format column + sub system",
+    "drivers": "High-power column arrays with substantial LF modules",
+    "applications": [
+      "Festivals",
+      "Large clubs",
+      "Outdoor events"
+    ],
+    "specs": [
+      "High-output columns for large audience coverage",
+      "Subwoofer stacks delivering club-level low-end",
+      "Integrated amplification and DSP tuned for high-energy content",
+      "Ground-stack or pole-mount deployment options",
+      "KR visual language suitable for premium venues"
+    ],
+    "keyStats": [
+      "Large-format KR",
+      "Festival-ready",
+      "High headroom"
+    ],
+    "frequency": [
+      38,
+      19000
+    ],
+    "coverage": "Longer-throw column coverage",
+    "weightKg": 52,
+    "ipRating": "IP43",
+    "image": "Pinnacle-KR402 II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-KR402 II_1.jpg",
+        "alt": "Pinnacle KR402 II in club"
+      },
+      {
+        "src": "Pinnacle-KR402 II_2.jpg",
+        "alt": "Pinnacle KR402 II column close-up"
+      },
+      {
+        "src": "Pinnacle-KR402 II_3.jpg",
+        "alt": "Pinnacle KR402 II subs and columns"
+      },
+      {
+        "src": "Pinnacle-KR402 II_4.jpg",
+        "alt": "Pinnacle KR402 II live show"
+      },
+      {
+        "src": "Pinnacle-KR402 II_5.jpg",
+        "alt": "Pinnacle KR402 II branding detail"
+      },
+      {
+        "src": "Pinnacle-KR402 II_6.jpg",
+        "alt": "Pinnacle KR402 II stacked"
+      },
+      {
+        "src": "Pinnacle-KR402 II_7.jpg",
+        "alt": "Pinnacle KR402 II stage setup"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-kr402yp-ii",
+    "name": "K-array Pinnacle KR402YP II",
+    "headline": "KR402 variant with integrated portable electronics",
+    "description": "KR402YP II keeps the acoustic profile of KR402 while integrating electronics in a more portable, plug-and-play format.",
+    "story": "For users who need KR402 scale but simpler logistics, KR402YP II streamlines the amp and processing layer without sacrificing output or control where it counts.",
+    "definition": "KR402 II acoustic platform with portable-oriented electronics package.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black portable finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Portable large-format column system",
+    "drivers": "KR402-style columns and subs with YP electronics",
+    "applications": [
+      "Portable production",
+      "Rental companies",
+      "Touring events"
+    ],
+    "specs": [
+      "KR402 acoustic engine matched to portable electronics",
+      "Integrated amplification for quick plug-and-play deployment",
+      "Designed for rental and mobile production workflows",
+      "Maintains KR voicing and coverage pattern",
+      "Supports fast teardown and packing"
+    ],
+    "keyStats": [
+      "Portable electronics",
+      "KR402 voicing",
+      "Rental-friendly"
+    ],
+    "frequency": [
+      38,
+      19000
+    ],
+    "coverage": "Large-format column coverage",
+    "weightKg": 50,
+    "ipRating": "IP43",
+    "image": "Pinnacle-KR402YP II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-KR402YP II_1.jpg",
+        "alt": "Pinnacle KR402YP II system"
+      },
+      {
+        "src": "Pinnacle-KR402YP II_2.jpg",
+        "alt": "Pinnacle KR402YP II in portable rig"
+      },
+      {
+        "src": "Pinnacle-KR402YP II_3.jpg",
+        "alt": "Pinnacle KR402YP II system detail"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-kr404p-ii",
+    "name": "K-array Pinnacle KR404P II",
+    "headline": "Modular KR system with flexible sub configurations",
+    "description": "KR404P II is a modular KR system offering multiple subwoofer and column configurations to suit diverse venue shapes and SPL targets.",
+    "story": "From distributed club rigs to flexible event systems, KR404P II lets integrators and rental houses build exactly the combination of columns and subs that the room needs.",
+    "definition": "Modular Pinnacle KR system with flexible column and sub arrangements.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black touring/installation finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Modular column + sub system",
+    "drivers": "KR column modules with multiple subwoofer options",
+    "applications": [
+      "Clubs",
+      "Festivals",
+      "Flexible venues"
+    ],
+    "specs": [
+      "Modular design for scalable column and sub combinations",
+      "Integrated amplification and processing for each configuration",
+      "Designed to adapt to different venue sizes and formats",
+      "Compatible with KR accessories and mounting hardware",
+      "Offers both portable and installed deployment options"
+    ],
+    "keyStats": [
+      "Modular design",
+      "Scalable system",
+      "KR family integration"
+    ],
+    "frequency": [
+      38,
+      19000
+    ],
+    "coverage": "Configurable column coverage based on layout",
+    "weightKg": 48,
+    "ipRating": "IP43",
+    "image": "Pinnacle-KR404P II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-KR404P II_1.jpg",
+        "alt": "Pinnacle KR404P II column and sub"
+      },
+      {
+        "src": "Pinnacle-KR404P II_2.jpg",
+        "alt": "Pinnacle KR404P II close-up"
+      },
+      {
+        "src": "Pinnacle-KR404P II_3.jpg",
+        "alt": "Pinnacle KR404P II in club setting"
+      },
+      {
+        "src": "Pinnacle-KR404P II_4.jpg",
+        "alt": "Pinnacle KR404P II stacked configuration"
+      },
+      {
+        "src": "Pinnacle-KR404P II_5.jpg",
+        "alt": "Pinnacle KR404P II system detail"
+      },
+      {
+        "src": "Pinnacle-KR404P II_6.jpg",
+        "alt": "Pinnacle KR404P II from rear"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-kr802-ii",
+    "name": "K-array Pinnacle KR802 II",
+    "headline": "High-output KR system for main PA duties",
+    "description": "KR802 II is a high-output column system designed as a full main PA for clubs, theatres and outdoor events wanting KR\u2019s unique aesthetic and sound.",
+    "story": "With tall columns and muscular subs, KR802 II combines the efficiency of line-source behaviour with the impact needed for modern electronic and live music.",
+    "definition": "High-output Pinnacle KR column and subwoofer system for main PA applications.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black touring finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "High-output column + sub system",
+    "drivers": "Large KR columns with dual high-power subs",
+    "applications": [
+      "Large clubs",
+      "Outdoor stages",
+      "Theatres"
+    ],
+    "specs": [
+      "Tall column arrays with strong vertical control and throw",
+      "High-powered subs for modern music levels",
+      "Integrated amplification and DSP inside the system",
+      "Suitable for mobile or fixed main PA roles",
+      "KR voicing tuned for both live and playback content"
+    ],
+    "keyStats": [
+      "High output",
+      "Main PA",
+      "KR aesthetic"
+    ],
+    "frequency": [
+      35,
+      19000
+    ],
+    "coverage": "Long-throw column coverage",
+    "weightKg": 60,
+    "ipRating": "IP43",
+    "image": "Pinnacle-KR802 II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-KR802 II_1.jpg",
+        "alt": "Pinnacle KR802 II on festival stage"
+      },
+      {
+        "src": "Pinnacle-KR802 II_2.jpg",
+        "alt": "Pinnacle KR802 II column stack"
+      },
+      {
+        "src": "Pinnacle-KR802 II_3.jpg",
+        "alt": "Pinnacle KR802 II with dual subs"
+      },
+      {
+        "src": "Pinnacle-KR802 II_4.jpg",
+        "alt": "Pinnacle KR802 II in theatre"
+      },
+      {
+        "src": "Pinnacle-KR802 II_5.jpg",
+        "alt": "Pinnacle KR802 II brand detail"
+      },
+      {
+        "src": "Pinnacle-KR802 II_6.jpg",
+        "alt": "Pinnacle KR802 II close-up"
+      },
+      {
+        "src": "Pinnacle-KR802 II_7.jpg",
+        "alt": "Pinnacle KR802 II FOH layout"
+      },
+      {
+        "src": "Pinnacle-KR802 II_8.jpg",
+        "alt": "Pinnacle KR802 II side angle"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-kr802yp-ii",
+    "name": "K-array Pinnacle KR802YP II",
+    "headline": "KR802 variant tailored for portable and rental workflows",
+    "description": "KR802YP II adapts the KR802 acoustic platform to a more portable form factor, simplifying deployment for mobile production and rental.",
+    "story": "For companies that need KR802 scale in a transport-friendly format, KR802YP II reduces the friction around racks, cabling and setup time while keeping the sound and coverage consistent.",
+    "definition": "KR802-based portable system variant with YP electronics package.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black portable finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Portable high-output column system",
+    "drivers": "KR802-style columns and subs with portable electronics",
+    "applications": [
+      "Mobile production",
+      "Rental inventories",
+      "Touring events"
+    ],
+    "specs": [
+      "Portable electronics integrated with KR802 acoustic components",
+      "Simplified connection scheme for faster job turnarounds",
+      "Maintains KR802 coverage and sonic profile",
+      "Designed for frequent load-in/load-out environments",
+      "Suitable for both indoor and outdoor use"
+    ],
+    "keyStats": [
+      "Portable variant",
+      "KR802 sound",
+      "Rental-focused"
+    ],
+    "frequency": [
+      35,
+      19000
+    ],
+    "coverage": "Long-throw column coverage",
+    "weightKg": 58,
+    "ipRating": "IP43",
+    "image": "Pinnacle-KR802YP II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-KR802YP II_1.jpg",
+        "alt": "Pinnacle KR802YP II stack"
+      },
+      {
+        "src": "Pinnacle-KR802YP II_2.jpg",
+        "alt": "Pinnacle KR802YP II portable rig"
+      },
+      {
+        "src": "Pinnacle-KR802YP II_3.jpg",
+        "alt": "Pinnacle KR802YP II branding close-up"
+      }
+    ]
+  },
+  {
+    "slug": "pinnacle-kr804p-ii",
+    "name": "K-array Pinnacle KR804P II",
+    "headline": "Flexible KR stack for ground-based and flown systems",
+    "description": "KR804P II is a flexible KR configuration designed to work as a main PA or powerful distributed system with multiple column and sub arrangements.",
+    "story": "From clubs and theatres to outdoor stages, KR804P II lets designers configure stacks and arrays to match the room geometry while keeping the recognisable KR look.",
+    "definition": "Flexible KR column and subwoofer system for ground or flown deployments.",
+    "series": "Pinnacle",
+    "category": "Systems",
+    "finish": "Matte black touring/installation finish",
+    "collaboration": "K-array Italy",
+    "power": "Active",
+    "type": "Configurable column + sub system",
+    "drivers": "KR column modules paired with high-power subs",
+    "applications": [
+      "Clubs",
+      "Theatres",
+      "Outdoor performance spaces"
+    ],
+    "specs": [
+      "Supports both ground-stacked and flown column configurations",
+      "High-output subs for modern program material",
+      "Integrated amplification and DSP for each system configuration",
+      "Designed to scale across different room sizes and formats",
+      "KR styling suitable for visible installations in premium venues"
+    ],
+    "keyStats": [
+      "Flexible configuration",
+      "High output",
+      "Ground or flown"
+    ],
+    "frequency": [
+      35,
+      19000
+    ],
+    "coverage": "Configurable column coverage",
+    "weightKg": 54,
+    "ipRating": "IP43",
+    "image": "Pinnacle-KR804P II_main.jpg",
+    "lifestyle": [
+      {
+        "src": "Pinnacle-KR804P II_1.jpg",
+        "alt": "Pinnacle KR804P II system front view"
+      },
+      {
+        "src": "Pinnacle-KR804P II_2.jpg",
+        "alt": "Pinnacle KR804P II column close-up"
+      },
+      {
+        "src": "Pinnacle-KR804P II_3.jpg",
+        "alt": "Pinnacle KR804P II in live venue"
+      },
+      {
+        "src": "Pinnacle-KR804P II_4.jpg",
+        "alt": "Pinnacle KR804P II stacked columns and subs"
+      },
+      {
+        "src": "Pinnacle-KR804P II_5.jpg",
+        "alt": "Pinnacle KR804P II system detail"
+      }
+    ]
+  }
+]

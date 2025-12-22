@@ -1,0 +1,268 @@
+[
+  {
+    "slug": "fi-cs2w",
+    "name": "Frogis FI-CS2W",
+    "headline": "Ultra-compact 2\" ceiling loudspeaker",
+    "description": "Ultra-compact 2-inch ceiling speaker for discreet background music and paging in commercial interiors.",
+    "story": "FI-CS2W is designed for contractors who need a compact, reliable ceiling speaker that blends into architectural environments. Its high-efficiency 2-inch full-range driver delivers clear speech and background music while the integrated transformer supports both 70V/100V line and low-impedance installations.",
+    "definition": "Ultra-compact full-range ceiling loudspeaker for distributed audio systems.",
+    "series": "Ceiling speakers",
+    "category": "Ceiling speakers",
+    "finish": "White RAL 9016",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Compact ceiling loudspeaker",
+    "drivers": "2\" full-range driver",
+    "applications": [
+      "Retail stores",
+      "Cafés and lounges",
+      "Airports and reception areas",
+      "Hotels and educational facilities"
+    ],
+    "specs": [
+      "2\" high-efficiency full-range driver",
+      "70V / 100V line and 8Ω operation",
+      "Integrated transformer with power tap selector",
+      "ABS housing with metal protective grille",
+      "Fast and secure ceiling mounting system"
+    ],
+    "keyStats": [
+      "Ultra-compact size",
+      "70V / 100V compatible",
+      "Economic contractor solution"
+    ],
+    "frequency": [120, 20000],
+    "coverage": "Wide dispersion for small-area coverage",
+    "weightKg": 0.4,
+    "ipRating": "N/A",
+    "image": "FI-CS2W_main.jpg"
+  },
+  {
+    "slug": "fi-cs3",
+    "name": "Frogis FI-CS3",
+    "headline": "3\" magnetic ceiling loudspeaker",
+    "description": "Compact 3-inch ceiling speaker with magnetic grille for clean architectural integration.",
+    "story": "FI-CS3 combines compact dimensions with a high-flux neodymium driver, delivering clear speech and balanced background music. Its magnetic grille and lightweight construction simplify installation while maintaining a refined appearance.",
+    "definition": "3\" full-range magnetic ceiling loudspeaker for indoor audio systems.",
+    "series": "Ceiling speakers",
+    "category": "Ceiling speakers",
+    "finish": "Silver",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "3\" ceiling loudspeaker",
+    "drivers": "3\" neodymium full-range driver",
+    "applications": [
+      "Hotels and hospitality venues",
+      "Home background music",
+      "Office PA systems",
+      "Retail environments"
+    ],
+    "specs": [
+      "3\" high-flux neodymium driver",
+      "8Ω impedance",
+      "Magnetic stainless-steel grille",
+      "Compact and lightweight construction",
+      "Flush ceiling integration"
+    ],
+    "keyStats": [
+      "Neodymium driver",
+      "Magnetic grille",
+      "Compact footprint"
+    ],
+    "frequency": [70, 15000],
+    "coverage": "Broad dispersion for small rooms",
+    "weightKg": 0.3,
+    "ipRating": "N/A",
+    "image": "FI-CS3_main.jpg"
+  },
+  {
+    "slug": "fi-cs4w",
+    "name": "Frogis FI-CS4W",
+    "headline": "4\" two-way ceiling loudspeaker",
+    "description": "Two-way 4-inch ceiling speaker for clear speech and balanced music reproduction.",
+    "story": "FI-CS4W uses a dedicated woofer and tweeter to improve clarity and detail in paging and background music systems. Its rotatable tweeter and magnetic grille make it flexible for both new installs and retrofits.",
+    "definition": "Two-way ceiling loudspeaker for commercial audio installations.",
+    "series": "Ceiling speakers",
+    "category": "Ceiling speakers",
+    "finish": "White RAL 9016",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "4\" two-way ceiling loudspeaker",
+    "drivers": "4\" woofer + ¾\" silk tweeter",
+    "applications": [
+      "Retail and cafés",
+      "Hotels and lounges",
+      "Conference rooms",
+      "Educational facilities"
+    ],
+    "specs": [
+      "Two-way design with separate woofer and tweeter",
+      "70V / 100V line and 8Ω operation",
+      "Rotatable tweeter for coverage tuning",
+      "Magnetic front grille",
+      "Metal housing with transformer protection"
+    ],
+    "keyStats": [
+      "Two-way design",
+      "Magnetic grille",
+      "70V / 100V compatible"
+    ],
+    "frequency": [90, 20000],
+    "coverage": "Wide conical coverage",
+    "weightKg": 2.1,
+    "ipRating": "N/A",
+    "image": "FI-CS4W_main.jpg"
+  },
+  {
+    "slug": "fi-cs6bt",
+    "name": "Frogis FI-CS6BT",
+    "headline": "6.5\" Bluetooth active ceiling speaker",
+    "description": "All-in-one active ceiling speaker with built-in Bluetooth and amplifier.",
+    "story": "FI-CS6BT integrates amplification and Bluetooth 5.0 directly into the ceiling, offering a clean and cable-free solution for hospitality and residential spaces where simplicity and aesthetics matter.",
+    "definition": "Bluetooth-enabled active ceiling loudspeaker.",
+    "series": "Ceiling speakers",
+    "category": "Ceiling speakers",
+    "finish": "White RAL 9016",
+    "collaboration": "Frogis Professional",
+    "power": "Active",
+    "type": "Bluetooth ceiling speaker",
+    "drivers": "6.5\" woofer + 1\" tweeter",
+    "applications": [
+      "Hotel rooms",
+      "Bedrooms and bathrooms",
+      "Small hospitality venues",
+      "Residential audio zones"
+    ],
+    "specs": [
+      "Bluetooth 5.0 wireless audio",
+      "Built-in Class-D amplifier",
+      "3.5mm wired audio input",
+      "Low-latency audio streaming",
+      "Single-speaker power requirement"
+    ],
+    "keyStats": [
+      "Bluetooth audio",
+      "Built-in amplifier",
+      "All-in-one solution"
+    ],
+    "frequency": [70, 20000],
+    "coverage": "Room-filling coverage for small spaces",
+    "weightKg": 1.82,
+    "ipRating": "N/A",
+    "image": "FI-CS6BT_main.jpg"
+  },
+  {
+    "slug": "fi-csub6p",
+    "name": "Frogis FI-CSUB6P",
+    "headline": "6\" in-ceiling subwoofer",
+    "description": "Compact in-ceiling subwoofer delivering powerful low-frequency reinforcement.",
+    "story": "FI-CSUB6P provides the impact of a floor-standing subwoofer while remaining completely hidden in the ceiling. Its bass reflex design and acoustic back loading enclosure enhance low-frequency performance in distributed audio systems.",
+    "definition": "Passive ceiling-mounted subwoofer for distributed audio systems.",
+    "series": "Ceiling speakers",
+    "category": "Ceiling speakers",
+    "finish": "Discrete grille finish",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Ceiling subwoofer",
+    "drivers": "6\" dynamic woofer with dual voice coils",
+    "applications": [
+      "Restaurants and lounges",
+      "Hotel lobbies",
+      "Retail stores",
+      "Corporate offices"
+    ],
+    "specs": [
+      "Ported bass reflex design",
+      "Dual voice coil 6\" woofer",
+      "8Ω impedance",
+      "High SPL output in compact form",
+      "Metal enclosure for durability"
+    ],
+    "keyStats": [
+      "Hidden subwoofer",
+      "Bass reflex loading",
+      "Compact footprint"
+    ],
+    "frequency": [45, 140],
+    "coverage": "Omnidirectional low-frequency dispersion",
+    "weightKg": 4.3,
+    "ipRating": "N/A",
+    "image": "FI-CSUB6P_main.jpg"
+  },
+  {
+    "slug": "fi-hps5",
+    "name": "Frogis FI-HPS5",
+    "headline": "5\" hanging pendant loudspeaker",
+    "description": "Stylish hanging pendant speaker for wide-area background music and paging.",
+    "story": "FI-HPS5 combines elegant industrial design with robust acoustic performance, making it ideal for open ceilings where traditional in-ceiling speakers are not possible.",
+    "definition": "Two-way hanging pendant loudspeaker for indoor and outdoor use.",
+    "series": "Pendant speakers",
+    "category": "Pendant speakers",
+    "finish": "White / Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Hanging pendant speaker",
+    "drivers": "5\" woofer + 1\" tweeter",
+    "applications": [
+      "Malls and airports",
+      "Restaurants and cafés",
+      "Hotels and offices",
+      "Public spaces"
+    ],
+    "specs": [
+      "70V / 100V and 8Ω operation",
+      "Wide 167° dispersion",
+      "Weather-resistant enclosure",
+      "Includes mounting hardware",
+      "High clarity speech and music reproduction"
+    ],
+    "keyStats": [
+      "Pendant design",
+      "Wide dispersion",
+      "Indoor / outdoor use"
+    ],
+    "frequency": [75, 20000],
+    "coverage": "Wide-angle dispersion",
+    "weightKg": 3.95,
+    "ipRating": "IP65",
+    "image": "FI-HPS5_main.jpg"
+  },
+  {
+    "slug": "fi-hps6",
+    "name": "Frogis FI-HPS6",
+    "headline": "6.5\" hanging pendant loudspeaker",
+    "description": "High-power pendant speaker for large open commercial spaces.",
+    "story": "FI-HPS6 scales up output and low-frequency performance while retaining the same elegant pendant form factor, ideal for demanding hospitality and public venues.",
+    "definition": "High-output hanging pendant loudspeaker.",
+    "series": "Pendant speakers",
+    "category": "Pendant speakers",
+    "finish": "White / Black",
+    "collaboration": "Frogis Professional",
+    "power": "Passive",
+    "type": "Hanging pendant speaker",
+    "drivers": "6.5\" woofer + 1\" tweeter",
+    "applications": [
+      "Large retail areas",
+      "Airports and transportation hubs",
+      "Hotels and convention centers",
+      "Outdoor covered spaces"
+    ],
+    "specs": [
+      "70V / 100V and 8Ω tap selector",
+      "High power handling up to 80W",
+      "Wide 167° dispersion",
+      "Weather-resistant enclosure",
+      "Supplied mounting hardware"
+    ],
+    "keyStats": [
+      "High output",
+      "Wide coverage",
+      "Pendant form"
+    ],
+    "frequency": [85, 17000],
+    "coverage": "Wide-area coverage",
+    "weightKg": 3.95,
+    "ipRating": "IP65",
+    "image": "FI-HPS6_main.jpg"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "slug": "edge-3i",
+    "name": "Edge 3i",
+    "headline": "High performance plaster-up-to loudspeaker",
+    "description": "Compact plaster-up-to invisible loudspeaker delivering warm, full-bodied Edge-series tonality for smaller rooms and cost-sensitive architectural installations.",
+    "story": "Compact and discreet, the Edge 3i brings the warm, full-bodied tonality of the Edge series to installations where space is limited or where a cost-effective option is needed. Ideal for smaller rooms, guest spaces, or corridors, its reduced footprint allows it to fit between tighter stud and joist layouts while maintaining the same plaster-up-to integration and seamless finish as larger Edge models. Powered by Amina’s proprietary exciter technology and supported by Optidrive®, Opti-damping®, Reduced Resonance Exciter® and ToneRelief® panel design, the Edge 3i delivers natural, engaging sound with smooth frequency balance while preserving complete architectural invisibility.",
+    "series": "Edge",
+    "finish": "Plaster-up-to (0.7mm ridge stop bead)",
+    "collaboration": "Amina Architectural Audio",
+    "image": "edge3i.png",
+    "applications": [
+      "Bedrooms and guest rooms",
+      "Corridors and circulation areas",
+      "Small residential spaces",
+      "Cost-sensitive commercial installations",
+      "Multi-room audio systems (with subwoofer)"
+    ],
+    "specs": [
+      "Nominal impedance 4 Ohms",
+      "Power handling (100 hour continuous/peak) 30W / 60W",
+      "Sensitivity (@ 1m / 2.83Vrms) 85 dBSPL",
+      "Frequency response (-6dB) 60Hz – 13kHz",
+      "Usable frequency range (+/-10dB) 51Hz – 14.5kHz",
+      "Dispersion angle 180° x 180°",
+      "Electrical connection Blue butt-splice crimp terminals (14–16 AWG)",
+      "Dimensions 400 × 300 × 30.7 mm",
+      "Product weight 1 kg",
+      "Fixing requirements Backbox CV300 or Mounting Blocks",
+      "In-line protection unit Guardian 2 / 8 / 16",
+      "Manufacturer limited warranty 10 years"
+    ],
+    "lifestyle": [
+      {
+        "src": "Amina Edge3i Corner.png",
+        "title": "Edge 3i — Architectural Detail",
+        "caption": "A compact plaster-up-to form that dissolves into the junctions of the space, preserving clean lines while sound quietly fills the room."
+      },
+      {
+        "src": "Amina Edge3i Side.png",
+        "title": "Edge 3i — Side Profile",
+        "caption": "An ultra-slim profile designed to sit effortlessly within shallow cavities, allowing architecture to remain uninterrupted."
+      }
+    ],
+    "resources": [
+      {
+        "label": "Installation Guide (Edge 3i)",
+        "href": "Edge_InstallGuide.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "edge-5i",
+    "name": "Edge 5i",
+    "headline": "High performance plaster-up-to loudspeaker",
+    "description": "Versatile plaster-up-to invisible loudspeaker combining Edge-series warmth and presence for a wide range of residential and commercial spaces.",
+    "story": "The Edge 5i combines the characteristic warmth and presence of the Edge series with a format suitable for a wide variety of residential and commercial environments. Using the same plaster-up-to installation method with an integrated ridge detail, it ensures clean, consistent finishes in taped-and-jointed walls or ceilings. Proprietary Amina exciter technology together with Optidrive®, Opti-damping®, Reduced Resonance Exciter® and ToneRelief® panel innovations deliver a smooth, natural frequency balance with engaging musicality.",
+    "series": "Edge",
+    "finish": "Plaster-up-to (0.7mm ridge stop bead)",
+    "collaboration": "Amina Architectural Audio",
+    "image": "edge5i.png",
+    "applications": [
+      "Living rooms and open-plan spaces",
+      "Hospitality guestrooms",
+      "Retail and boutique environments",
+      "Commercial distributed audio systems",
+      "Multi-channel surround systems (with subwoofer)"
+    ],
+    "specs": [
+      "Nominal impedance 4 Ohms",
+      "Power handling (100 hour continuous/peak) 50W / 100W",
+      "Sensitivity (1m / 2.83Vrms) 86 dBSPL",
+      "Frequency response (-6dB) 60Hz – 14kHz",
+      "Useable frequency range (+/-10dB) 48Hz – 16kHz",
+      "Dispersion angle 180° x 180°",
+      "Electrical connection Blue butt-splice crimp terminals (14–16 AWG)",
+      "Dimensions 450 × 345 × 36 mm",
+      "Product weight 1.3 kg",
+      "Fixing requirements Backbox CV345 or Mounting Blocks",
+      "In-line protection unit Guardian 2 / 8 / 16",
+      "Manufacturer limited warranty 10 years"
+    ],
+    "lifestyle": [
+      {
+        "src": "Amina Edge5i Side.png",
+        "title": "Edge 5i — Side Profile",
+        "caption": "Balanced proportions allow the panel to merge seamlessly into plastered surfaces, supporting richer sound without visual presence."
+      }
+    ],
+    "resources": [
+      {
+        "label": "Installation Guide (Edge 5i)",
+        "href": "Edge_InstallGuide.pdf"
+      }
+    ]
+  },
+  {
+    "slug": "edge-7i",
+    "name": "Edge 7i",
+    "headline": "Flagship plaster-up-to invisible loudspeaker",
+    "description": "Flagship Edge-series plaster-up-to panel delivering greater scale, authority, and extended low-frequency reach while remaining completely hidden.",
+    "story": "The Edge 7i is the flagship of Amina’s plaster-up-to Edge series, designed to deliver an engaging and impactful listening experience while remaining fully concealed within the architecture. Its raised 0.7mm ridge acts as a natural stop bead, enabling plaster finishes to feather seamlessly for flawless integration. Distinguished by its extended low-frequency reach, the Edge 7i delivers added weight and authority while retaining the warm, balanced tonality of the Edge range.",
+    "series": "Edge",
+    "finish": "Plaster-up-to (0.7mm ridge stop bead)",
+    "collaboration": "Amina Architectural Audio",
+    "image": "edge7i.png",
+    "applications": [
+      "Large living rooms and open-plan spaces",
+      "Luxury residential installations",
+      "High-end hospitality projects",
+      "Multi-room premium audio systems",
+      "Invisible surround sound systems (with subwoofer)"
+    ],
+    "specs": [
+      "Nominal impedance 4 Ohms",
+      "Power handling (100 hour continuous/peak) 75W / 150W",
+      "Sensitivity (1m / 2.83Vrms) 86 dBSPL",
+      "Frequency response (-6dB) 58Hz – 14.7kHz",
+      "Useable frequency range (+/-10dB) 39Hz – 17.5kHz",
+      "Dispersion angle 180° x 180°",
+      "Electrical connection Blue butt-splice crimp terminals (14–16 AWG)",
+      "Dimensions 450 × 345 × 36 mm",
+      "Product weight 1.8 kg",
+      "Fixing requirements Backbox CV345 or Mounting Blocks",
+      "In-line protection unit Guardian 2 / 8 / 16",
+      "Manufacturer limited warranty 10 years"
+    ],
+    "lifestyle": [
+      {
+        "src": "Amina Edge7i Corner.png",
+        "title": "Edge 7i — Architectural Junction",
+        "caption": "Clean junctions and natural light emphasise the absence of visible technology, allowing sound to feel embedded within the space."
+      },
+      {
+        "src": "Amina Edge7i Side.png",
+        "title": "Edge 7i — Side Profile",
+        "caption": "The flagship panel refined to feather effortlessly into plastered surfaces, supporting greater scale without visual weight."
+      },
+      {
+        "src": "Amina Edge7i Back Corner.png",
+        "title": "Edge 7i — Installation Detail",
+        "caption": "A considered construction detail that ensures structural precision while remaining entirely concealed once finished."
+      }
+    ],
+    "resources": [
+      {
+        "label": "Installation Guide (Edge 7i)",
+        "href": "Edge_InstallGuide.pdf"
+      }
+    ]
+  }
+]

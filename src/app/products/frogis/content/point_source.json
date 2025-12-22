@@ -1,0 +1,737 @@
+[
+  {
+    "slug": "fi-ct4ip",
+    "name": "Frog-is FI-CT4IP",
+    "headline": "4.5\" Outdoor Waterproof Mounted Speaker",
+    "description": "A compact, architectural outdoor loudspeaker that delivers clean, intelligible sound with discreet placement.",
+    "story": "Engineered for terraces, gardens, and exposed public areas, FI-CT4IP pairs weather-ready construction with a refined, balanced voicing—so music and speech stay clear, even when the environment is not.",
+    "series": "Point source speakers",
+    "category": "Point source speakers",
+    "finish": "UV-resistant enclosure with marine-grade metal details",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "4.5\" outdoor waterproof mounted speaker",
+    "drivers": "4.5\" woofer + 1\" polymer dome tweeter (2-way coaxial)",
+    "applications": [
+      "Residential: Poolside entertainment, backyard parties, outdoor home theaters.",
+      "Commercial: Cafés, hotels, sports arenas, parking garages.",
+      "Public Use: Parks, trails, transit stations, or marine docks."
+    ],
+    "image": "FI-CT4IP_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-CT4IP_1.jpg",
+        "alt": "FI-CT4IP mounted along a garden wall",
+        "caption": "Discreet on the surface—confident in coverage."
+      },
+      {
+        "src": "FI-CT4IP_2.jpg",
+        "alt": "FI-CT4IP installed on a column in a courtyard",
+        "caption": "Aimed precisely to keep sound where it belongs."
+      },
+      {
+        "src": "FI-CT4IP_3.jpg",
+        "alt": "FI-CT4IP detail showing bracket and enclosure",
+        "caption": "Clean hardware, built for long-term outdoor duty."
+      }
+    ],
+    "specs": [
+      "Coverage Area: Up to 500 sq.ft (46 sq.m) per pair",
+      "Frequency Response: 75Hz – 20kHz (±3dB) • Sensitivity: 88dB (1W/1m) • Maximum SPL: 110dB (continuous)",
+      "Power: RMS 30W / Peak 60W • Impedance: 8Ω (Ohms) & 70V/100V input voltage",
+      "Drivers: 4.5-inch (115mm) woofer • 1-inch (25mm) polymer dome tweeter • Crossover: 3.5kHz (2-way coaxial system)",
+      "Build: UV-resistant ABS/polypropylene + marine-grade aluminum alloy • Grille: powder-coated stainless steel / corrosion-resistant mesh • IP Rating: IP65 • UV: MIL-STD-810G",
+      "Environment: -30°C to +70°C • Humidity: 0–95% non-condensing",
+      "Mounting: Wall/Pole/Ceiling brackets adjustable 0°–180° tilt • Terminals: spring-loaded clips or screw terminals",
+      "Dimensions: Diameter 136mm / Depth 175mm • Mounting bracket length up to 300mm • Weight: 1.5kg"
+    ],
+    "features": [
+      "Discreet form for façades, columns, and landscape structures",
+      "Weatherproof reliability for rain, dust, and sun exposure",
+      "High-fidelity voicing for music and intelligible paging",
+      "Flexible mounting for precise aiming and clean installs"
+    ],
+    "definition": "A compact weatherproof coaxial loudspeaker for premium outdoor music and paging."
+  },
+  {
+    "slug": "fi-ct6ip",
+    "name": "Frog-is FI-CT6IP",
+    "headline": "6.5\" Outdoor Waterproof Mounted Speaker",
+    "description": "A higher-output outdoor loudspeaker with deeper low-end and confident coverage for larger open-air zones.",
+    "story": "FI-CT6IP keeps the same architectural discipline—clean lines, discreet placement—while scaling performance for terraces, hospitality decks, and public walkways where sound must travel effortlessly.",
+    "series": "Point source speakers",
+    "category": "Point source speakers",
+    "finish": "UV-resistant enclosure with marine-grade metal details",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "6.5\" outdoor waterproof mounted speaker",
+    "drivers": "6.5\" woofer + 1\" polymer dome tweeter (2-way coaxial)",
+    "applications": [
+      "Residential: Poolside entertainment, backyard parties, outdoor home theaters.",
+      "Commercial: Cafés, hotels, sports arenas, parking garages.",
+      "Public Use: Parks, trails, transit stations, or marine docks."
+    ],
+    "image": "FI-CT6IP_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-CT6IP_1.jpg",
+        "alt": "FI-CT6IP mounted in a landscaped garden",
+        "caption": "More headroom for wider outdoor zones."
+      },
+      {
+        "src": "FI-CT6IP_2.jpg",
+        "alt": "FI-CT6IP on a wall beside a pool area",
+        "caption": "Stronger bass presence without visual noise."
+      },
+      {
+        "src": "FI-CT6IP_3.jpg",
+        "alt": "FI-CT6IP enclosure close-up",
+        "caption": "Built to stay sharp through seasons and storms."
+      }
+    ],
+    "specs": [
+      "Coverage Area: Up to 500 sq.ft (46 sq.m) per pair",
+      "Frequency Response: 60Hz – 20kHz (±3dB) • Sensitivity: 90dB (1W/1m) • Maximum SPL: 112dB (continuous)",
+      "Power: RMS 100W / Peak 200W • Impedance: 8Ω (Ohms) & 70V/100V input voltage",
+      "Drivers: 6.5-inch (165mm) woofer • 1-inch (25mm) polymer dome tweeter • Crossover: 3.5kHz (2-way coaxial system)",
+      "Build: UV-resistant ABS/polypropylene + marine-grade aluminum alloy • Grille: powder-coated stainless steel / corrosion-resistant mesh • IP Rating: IP65 • UV: MIL-STD-810G",
+      "Environment: -30°C to +70°C • Humidity: 0–95% non-condensing",
+      "Mounting: Wall/Pole/Ceiling brackets adjustable 0°–180° tilt • Terminals: spring-loaded clips or screw terminals",
+      "Dimensions: Diameter 163mm / Depth 239mm • Mounting bracket length up to 500mm • Weight: 2.5kg"
+    ],
+    "features": [
+      "Bigger 6.5\" driver for added body and projection",
+      "IP65 protection for long-term outdoor reliability",
+      "Wide dispersion for smooth, even outdoor coverage",
+      "Flexible bracket aiming for clean commissioning"
+    ],
+    "definition": "A high-output weatherproof coaxial loudspeaker for terraces, resorts, and public outdoor areas."
+  },
+  {
+    "slug": "fi-ct8",
+    "name": "Frog-is FI-CT8",
+    "headline": "8\" Full Range Coaxial Speaker",
+    "description": "A compact coaxial point source built for near-field accuracy—balanced tone, crisp detail, and controlled coverage.",
+    "story": "FI-CT8 uses a coaxial architecture to align high and low frequencies on a single axis, improving consistency and intelligibility at close range. An aluminum exponential horn and paper woofer shape a confident, even response for fills, foldback, and compact mains.",
+    "series": "Point source speakers",
+    "category": "Point source speakers",
+    "finish": "Textured black cabinet with steel grille",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "8\" full-range coaxial speaker",
+    "drivers": "8\" LF driver + 1\" titanium-diaphragm compression driver (coaxial)",
+    "applications": [
+      "Lecture hall",
+      "Conference room",
+      "Fill speakers",
+      "Foldback monitor"
+    ],
+    "image": "FI-CT8_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-CT8_1.jpg",
+        "alt": "FI-CT8 used as a compact fill speaker",
+        "caption": "Focused coverage for intelligible speech and music."
+      },
+      {
+        "src": "FI-CT8_2.jpg",
+        "alt": "FI-CT8 installed in a lecture space",
+        "caption": "Even near-field tonality across seating zones."
+      },
+      {
+        "src": "FI-CT8_3.jpg",
+        "alt": "FI-CT8 angled for foldback monitoring",
+        "caption": "Precision where performers and presenters need it."
+      }
+    ],
+    "specs": [
+      "Frequency range: 91 Hz - 20 kHz (-10 dB) • SPL 1W/1mt: 93 (±2) dB",
+      "Rated Power: 250W ( AES ) • Rated Impedance: 8 ohms",
+      "Maximum sound pressure level (S P L): 116dB (contnuous), 122dB (peak)",
+      "Nominal coverage angle (H x V): 80°×80°",
+      "Woofer: Ferrite, 1 x 8”woofer/50mm voice coil • Tweeter: Ferrite, 1 x 1\" port tweeter/44mm voice coil",
+      "Connections: Two professional NL4MP four-core sockets, 1+1-full frequency input • Hanging parts: 10×M8 lifting point, bottom support",
+      "Dimension ( W×D×H ): 245×270×320（mm） • Product weight( k g ): 8( kg )"
+    ],
+    "features": [
+      "Exquisite appearance",
+      "Ultra-wide frequency response coverage",
+      "Ultra-wide pointing angle",
+      "Optimized frequency divider + unit structure to reduce phase interference"
+    ],
+    "definition": "A near-field coaxial loudspeaker for refined speech clarity and balanced music reproduction."
+  },
+  {
+    "slug": "fi-ct8x2",
+    "name": "Frog-is FI-CT8X2",
+    "headline": "Double 8\" Full Range Coaxial Speaker",
+    "description": "A dual-8 coaxial point source with elevated headroom—more output, same controlled tonal balance.",
+    "story": "FI-CT8X2 scales the CT concept into a higher-output format, keeping coaxial coherence while extending low-frequency authority. Designed for near-field reinforcement where you need more SPL without losing clarity or coverage control.",
+    "series": "Point source speakers",
+    "category": "Point source speakers",
+    "finish": "Textured black cabinet with steel grille",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Dual 8\" full-range coaxial speaker",
+    "drivers": "2 x 8\" LF drivers + 1\" titanium-diaphragm compression driver (coaxial architecture)",
+    "applications": [
+      "Lecture hall",
+      "Conference room",
+      "Fill speakers",
+      "Foldback monitor"
+    ],
+    "image": "FI-CT8X2_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-CT8X2_1.jpg",
+        "alt": "FI-CT8X2 used for higher-output fills",
+        "caption": "More headroom for demanding rooms."
+      },
+      {
+        "src": "FI-CT8X2_2.jpg",
+        "alt": "FI-CT8X2 installed in a conference venue",
+        "caption": "Strong presence without harshness."
+      },
+      {
+        "src": "FI-CT8X2_3.jpg",
+        "alt": "FI-CT8X2 deployed as foldback",
+        "caption": "Confidence on stage and at the lectern."
+      }
+    ],
+    "specs": [
+      "Frequency range: 65 Hz - 20 kHz (-10 dB) • SPL 1W/1mt: 95 (±2) dB",
+      "Rated Power: 350W ( AES ) • Rated Impedance: 4 ohms",
+      "Maximum sound pressure level (S P L): 120dB (continuous), 126dB (peak)",
+      "Nominal coverage angle (H x V): 80°×80°",
+      "Woofer: Ferrite, 2 x 8”woofer/50mm voice coil • Tweeter: Ferrite, 1 x 1\" port tweeter/44mm voice coil",
+      "Connections: Two professional NL4MP four-core sockets, 1+1-full frequency input • Hanging parts: 10×M8 lifting point, bottom support",
+      "Dimension ( W×D×H ): 245 X 270 X 520（mm） • Product weight( k g ): 14( kg )"
+    ],
+    "features": [
+      "Exquisite appearance",
+      "Ultra-wide frequency response coverage",
+      "Ultra-wide pointing angle",
+      "Optimized frequency divider + unit structure to reduce phase interference"
+    ],
+    "definition": "A higher-output dual-8 coaxial loudspeaker for near-field reinforcement and monitoring."
+  },
+  {
+    "slug": "fb6",
+    "name": "Frog-is FB6",
+    "headline": "Portable Wireless Battery Sound System",
+    "description": "A battery-powered speaker built for anywhere moments—street, school, sport, garden, or pop-up events—with pro clarity and simple control.",
+    "story": "FB6 blends portability with real usability: Bluetooth streaming, multiple inputs, DSP control, and lighting—wrapped in a rugged, splash-resistant body. Set it down, pair it, and let the room happen.",
+    "series": "Portable",
+    "category": "Point source speakers",
+    "finish": "Polypropylene enclosure with RGB lighting",
+    "collaboration": "Frog-is Professional",
+    "power": "Battery powered",
+    "type": "Portable wireless battery loudspeaker",
+    "drivers": "6.5\" woofer + 2 x 2\" HF drivers with built-in amplification",
+    "applications": [
+      "Street Performance",
+      "Camping music playing",
+      "Practice Dancing",
+      "Karaoke"
+    ],
+    "image": "FB6_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FB6_1.jpg",
+        "alt": "FB6 used outdoors for a small gathering",
+        "caption": "Portable sound with a confident, clean voice."
+      },
+      {
+        "src": "FB6_2.jpg",
+        "alt": "FB6 used for karaoke and mic input",
+        "caption": "Built for nights that turn into memories."
+      },
+      {
+        "src": "FB6_3.jpg",
+        "alt": "FB6 control panel detail",
+        "caption": "Quick control—no complicated setup."
+      }
+    ],
+    "specs": [
+      "Frequency range: 40Hz-20Khz • SPL 1W/1mt: 90dB • Maximum SPL: 105dB",
+      "Power: 80W • Signal to noise ratio: >= 81dB",
+      "Coverage: 120 Horizontal and 90 Vertical",
+      "Drivers: High Frequency 2 X 2” driver • Low Frequency 6.5” woofer",
+      "Bluetooth: 5.3 version • Reception range: 10 meter",
+      "Inputs: 3.5 Line in/Line out; 6.35 Mic Input/6.35 Guitar Input/ USB Audio Input",
+      "Power: 15V/5A • Battery life: 10 hours • Battery: Lithium 4000mAh • Standby time: 300 days",
+      "Enclosure: Polypropylene • Dimensions: 250x335x280 • Weight: 5kg",
+      "Packing: 350x415x325mm • Packing Weight: 6.5kg"
+    ],
+    "features": [
+      "Flexible features at a great price",
+      "Ultra-compact and light weight system delivers excellent sound",
+      "Water resistance to splashes and rain",
+      "Dazzling lighting effects with RGB light",
+      "TWS wireless stereo pairing mode",
+      "Multiple audio connections",
+      "DSP control for microphone, high frequency and low frequency"
+    ],
+    "definition": "A portable battery loudspeaker for events, schools, activations, and everyday music anywhere."
+  },
+  {
+    "slug": "fp8",
+    "name": "Frog-is FP8",
+    "headline": "Mini Self-Powered Full Range Speaker - 8\"",
+    "description": "A compact active PA that stays punchy and controlled at high levels—ideal for musicians, DJs, and portable systems.",
+    "story": "FP8 is tuned for tight dynamics and clean projection. Its dual-channel Class D amplification delivers high SPL from a small footprint, with protection and voicing designed for real-world loud stages and fast setups.",
+    "series": "FP Active",
+    "category": "Point source speakers",
+    "finish": "Rugged ABS enclosure with integrated handles",
+    "collaboration": "Frog-is Professional",
+    "power": "Active",
+    "type": "Mini self-powered full range speaker - 8\"",
+    "drivers": "8\" woofer + 1\" compression driver (horn loaded)",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/outdoor foreground/background music and paging"
+    ],
+    "image": "FP8_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FP8_1.jpg",
+        "alt": "FP8 on a stand in a small venue",
+        "caption": "Compact size—serious output."
+      },
+      {
+        "src": "FP8_2.jpg",
+        "alt": "FP8 used as a floor monitor",
+        "caption": "Fast positioning for stage and rehearsal."
+      },
+      {
+        "src": "FP8_3.jpg",
+        "alt": "FP8 rear panel",
+        "caption": "Simple I/O and status indicators for quick checks."
+      }
+    ],
+    "specs": [
+      "Frequency range: 65 Hz - 20 kHz (± 3 dB) • SPL 1W/1mt: 97 dB • Maximum SPL: 120 dB @ 1 m peak",
+      "Coverage: Horizontal 90° • Vertical 70°",
+      "Transducers: Low Frequency 8\" woofer • High Frequency 1\" compression driver, horn loaded",
+      "Amplifiers: LF 150 W RMS • HF 50 W RMS • Distortion: < 0.1% THD at rated power • Protection: Thermal, Limiter, Short circuit",
+      "Crossover: 2.6 kHz • 24 dB/octave • Speaker Protection: Thermal, Over-excursion",
+      "I/O: Input 1 XLR + 1/4\" TRS balanced • Output 1 XLR balanced",
+      "Power: 100 / 240 ± 10% (50/60 Hz, PFC 95) • Operating range: 125 Vac. / 195 – 250 Vac. (Selectable)",
+      "Physical: Stand mount 35 mm • Rigging: 3 points (M8) • Net Weight: 7.8 kg • Dimensions: 27 x 41 x 27 cm"
+    ],
+    "features": [
+      "High-power 2-way PA for live and playback",
+      "Ultra-compact, light, and capable at extreme SPL",
+      "Efficient 8\" woofer for deep bass and strong projection",
+      "Precise 1\" compression driver for clear HF detail",
+      "Ultra-wide dispersion with protective limiting"
+    ],
+    "definition": "An 8\" active PA loudspeaker for portable FOH, monitoring, and installed foreground systems."
+  },
+  {
+    "slug": "fp12",
+    "name": "Frog-is FP12",
+    "headline": "Compact Self-Powered Full Range Speaker - 12\"",
+    "description": "A powerful 12-inch active PA designed for loud environments—tight response, high output, and dependable protection.",
+    "story": "FP12 is the workhorse: bigger low-end authority, higher SPL, and a confident vocal range. Built for touring-style use, it transitions easily between FOH, distributed audio, and stage monitoring.",
+    "series": "FP Active",
+    "category": "Point source speakers",
+    "finish": "Rugged ABS enclosure with integrated handles",
+    "collaboration": "Frog-is Professional",
+    "power": "Active",
+    "type": "Compact self-powered full range speaker - 12\"",
+    "drivers": "12\" woofer + 1\" compression driver (horn loaded)",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/outdoor foreground/background music and paging"
+    ],
+    "image": "FP12_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FP12_1.jpg",
+        "alt": "FP12 as FOH on stands",
+        "caption": "Confident coverage for live and DJ sets."
+      },
+      {
+        "src": "FP12_2.jpg",
+        "alt": "FP12 deployed in an installed venue",
+        "caption": "High-energy sound without fatigue."
+      }
+    ],
+    "specs": [
+      "Frequency range: 50 Hz - 20 kHz (± 3 dB) • SPL 1W/1mt: 99 dB • Maximum SPL: 125 dB @ 1 m peak",
+      "Coverage: Horizontal 90° • Vertical 70°",
+      "Transducers: Low Frequency 12\" woofer • High Frequency 1\" compression driver, horn loaded",
+      "Amplifiers: LF 350 W RMS • HF 50 W RMS • Distortion: < 0.1% THD at rated power • Protection: Thermal, Limiter, Short circuit",
+      "Crossover: 2.3 kHz • 24 dB/octave • Speaker Protection: Thermal, Over-excursion",
+      "I/O: Input 1 XLR + 1/4\" TRS balanced • Output 1 XLR balanced",
+      "Power: 100 / 240 ± 10% (50/60 Hz, PFC 95) • Operating range: 125 Vac. / 195 – 250 Vac.",
+      "Physical: Stand mount 35 mm • Rigging: 3 points (M8) • Net Weight: 15 kg • Dimensions: 40 x 60 x 35 cm"
+    ],
+    "features": [
+      "High-output 2-way active PA for live and playback",
+      "Efficient 12\" woofer for deeper bass and throw",
+      "Wide dispersion for even audience coverage",
+      "Protection circuitry for demanding sessions and shows"
+    ],
+    "definition": "A 12\" active PA loudspeaker for events, venues, and high-energy hospitality sound."
+  },
+  {
+    "slug": "fp15",
+    "name": "Frog-is FP15",
+    "headline": "Large Format Self-Powered Full Range Speaker - 15\"",
+    "description": "A large-format active PA built for maximum impact—deep bass authority, high SPL, and stage-ready reliability.",
+    "story": "FP15 is made for the moments that need weight and presence. With a high-power amplifier platform and a large 15-inch LF section, it delivers scale for clubs, outdoor events, and loud performance spaces.",
+    "series": "FP Active",
+    "category": "Point source speakers",
+    "finish": "Rugged ABS enclosure with integrated handles",
+    "collaboration": "Frog-is Professional",
+    "power": "Active",
+    "type": "Large format self-powered full range speaker - 15\"",
+    "drivers": "15\" woofer + 1\" compression driver (horn loaded)",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/outdoor foreground/background music and paging"
+    ],
+    "image": "FP15_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FP15_1.jpg",
+        "alt": "FP15 used in a large venue",
+        "caption": "Big low-end with controlled projection."
+      }
+    ],
+    "specs": [
+      "Frequency range: 50 Hz - 20 kHz (± 3 dB) • Maximum SPL: 134,8 dB @ 1 m peak",
+      "Coverage: Horizontal 90° • Vertical 50°",
+      "Transducers: Low Frequency 15\" woofer • High Frequency 1\" compression driver, horn loaded",
+      "Amplifiers: LF 500 W RMS • HF 100 W RMS • Distortion: < 0.1% THD at rated power • Protection: Thermal, Limiter, Short circuit",
+      "Crossover: 2.3 kHz • 24 dB/octave • Speaker Protection: Thermal, Over-excursion",
+      "I/O: Input 1 XLR + 1/4\" TRS balanced • Output 1 XLR balanced",
+      "Power: 100 / 240 ± 10% (50/60 Hz, PFC 95) • Operating range: 115 Vac. / 230 Vac.",
+      "Physical: Stand mount 35 mm • Rigging: 3 points (M8) • Net Weight: 21,4 kg • Dimensions: 69 x 40 x 45 cm"
+    ],
+    "features": [
+      "Large-format 2-way active PA for live and playback",
+      "Deep bass and high headroom for loud environments",
+      "Wide dispersion horn for consistent audience coverage",
+      "Protection circuitry for long, demanding sessions"
+    ],
+    "definition": "A 15\" active PA loudspeaker for high-impact venues, events, and outdoor reinforcement."
+  },
+  {
+    "slug": "fp8p",
+    "name": "Frog-is FP8P",
+    "headline": "Mini Passive Full Range Speaker - 8\"",
+    "description": "A compact passive point source with an assertive voicing—ideal when amplification and processing live in the rack.",
+    "story": "FP8P keeps the FP character in a passive format for touring racks, installed systems, and scalable deployments. Small footprint, confident projection, and flexible positioning make it an easy building block.",
+    "series": "FP Passive",
+    "category": "Point source speakers",
+    "finish": "Rugged ABS enclosure",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Mini passive full range speaker - 8\"",
+    "drivers": "8\" woofer + 1\" compression driver (horn loaded)",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/outdoor foreground/background music and paging"
+    ],
+    "image": "FP8P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FP8P_1.jpg",
+        "alt": "FP8P on a stand in a venue",
+        "caption": "Compact mains with rack-driven control."
+      },
+      {
+        "src": "FP8P_2.png",
+        "alt": "FP8P used as a monitor",
+        "caption": "Designed to work as both FOH and foldback."
+      }
+    ],
+    "specs": [
+      "Frequency range: 65 Hz - 20 kHz (± 3 dB) • SPL 1W/1mt: 97 dB • Maximum SPL: 120 dB @ 1 m peak",
+      "Rated Power: 100 W • Impedance: 4 Ω",
+      "Coverage: Horizontal 90° • Vertical 70°",
+      "Transducers: Low Frequency 8\" woofer • High Frequency 1\" compression driver, horn loaded",
+      "Physical: Stand mount 35 mm • Rigging: 3 points (M8) • Input 1 SPEAKON • Output 1 SPEAKON",
+      "Net Weight: 6 kg • Dimensions: 27 x 41 x 27 cm"
+    ],
+    "features": [
+      "High-power 2-way passive PA for live and playback",
+      "Efficient 8\" woofer for strong projection from a compact box",
+      "Versatile positioning: stand-mount or monitor angle",
+      "Optimized for FI-AMP series amplification"
+    ],
+    "definition": "A compact passive 8\" loudspeaker for distributed systems, portable rigs, and monitoring."
+  },
+  {
+    "slug": "fp12p",
+    "name": "Frog-is FP12P",
+    "headline": "Compact Passive Full Range Speaker - 12\"",
+    "description": "A passive 12-inch workhorse with strong SPL capability for scalable systems driven from external amplifiers.",
+    "story": "FP12P is tuned to stay punchy and controlled, making it suitable for mains, monitors, and distributed high-output installs—especially where a central rack manages multiple zones.",
+    "series": "FP Passive",
+    "category": "Point source speakers",
+    "finish": "Rugged ABS enclosure",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Compact passive full range speaker - 12\"",
+    "drivers": "12\" woofer + 1\" compression driver (horn loaded)",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/outdoor foreground/background music and paging"
+    ],
+    "image": "FP12P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FP12P_1.jpg",
+        "alt": "FP12P used as a main speaker",
+        "caption": "External amps, clean coverage, scalable deployments."
+      },
+      {
+        "src": "FP12P_2.jpg",
+        "alt": "FP12P as a floor monitor",
+        "caption": "Angle-ready cabinet for monitoring roles."
+      }
+    ],
+    "specs": [
+      "Frequency range: 50 Hz - 20 kHz (± 3 dB) • SPL 1W/1mt: 99 dB • Maximum SPL: 125 dB @ 1 m peak",
+      "Rated Power: 300 W • Impedance: 4 Ω",
+      "Coverage: Horizontal 90° • Vertical 70°",
+      "Transducers: Low Frequency 12\" woofer • High Frequency 1\" compression driver, horn loaded",
+      "Physical: Stand mount 35 mm • Rigging: 3 points (M8) • Input SPEAKON • Output SPEAKON",
+      "Net Weight: 13 kg • Dimensions: 40 x 60 x 35 cm"
+    ],
+    "features": [
+      "High-output 2-way passive PA for live and playback",
+      "Efficient 12\" woofer for deeper bass and longer throw",
+      "Versatile cabinet for FOH or monitoring",
+      "Optimized for FI-AMP series amplification"
+    ],
+    "definition": "A passive 12\" loudspeaker for scalable PA and installed high-output distributed audio."
+  },
+  {
+    "slug": "fp15p",
+    "name": "Frog-is FP15P",
+    "headline": "Large Format Passive Full Range Speaker - 15\"",
+    "description": "A large-format passive PA built for authority—high SPL, deep bass, and confident projection with external amplification.",
+    "story": "FP15P is for loud rooms and serious programs. It delivers scale and punch while staying controlled, making it a strong choice for mains, monitoring, or distributed high-output deployments.",
+    "series": "FP Passive",
+    "category": "Point source speakers",
+    "finish": "Rugged ABS enclosure",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Large format passive full range speaker - 15\"",
+    "drivers": "15\" woofer + 1\" compression driver (horn loaded)",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/outdoor foreground/background music and paging"
+    ],
+    "image": "FP15P_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FP15P_1.jpg",
+        "alt": "FP15P as a main speaker in a loud venue",
+        "caption": "Big presence when the room demands it."
+      },
+      {
+        "src": "FP15P_2.jpg",
+        "alt": "FP15P used as a stage monitor",
+        "caption": "High-energy monitoring for loud stages."
+      }
+    ],
+    "specs": [
+      "Frequency range: 50 Hz - 20 kHz (± 3 dB) • SPL 1W/1mt: 102 dB • Maximum SPL: 134,8 dB @ 1 m peak",
+      "Rated Power: 600 W • Impedance: 8 Ω",
+      "Coverage: Horizontal 90° • Vertical 50°",
+      "Transducers: Low Frequency 15\" woofer • High Frequency 1\" compression driver, horn loaded",
+      "Physical: Stand mount 35 mm • Rigging: 3 points (M8) • Input SPEAKON • Output SPEAKON",
+      "Net Weight: 19 kg • Dimensions: 69 x 40 x 45 cm"
+    ],
+    "features": [
+      "Large-format 2-way passive PA for live and playback",
+      "Efficient 15\" woofer for deep bass and strong headroom",
+      "Controlled coverage for focused energy",
+      "Optimized for FI-AMP series amplification"
+    ],
+    "definition": "A passive 15\" loudspeaker for loud venues, events, and high-impact distributed sound."
+  },
+  {
+    "slug": "fi-m50",
+    "name": "Frog-is FI-M50",
+    "headline": "High-quality compact studio Monitor",
+    "description": "A compact near-field monitor designed for truthful translation—clear imaging, tight bass, and low listening fatigue.",
+    "story": "FI-M50 combines a carefully tuned MDF enclosure with a Class-D amplifier platform and controlled EQ trims, so you can shape response for real rooms and real desks—without losing the integrity of the source.",
+    "series": "Studio",
+    "category": "Point source speakers",
+    "finish": "MDF bass-reflex cabinet with rear port",
+    "collaboration": "Frog-is Professional",
+    "power": "Active",
+    "type": "High-quality compact studio Monitor",
+    "drivers": "5.5\" LF cone + 1\" HF dome",
+    "applications": [
+      "Audio engineers, Producers and Artists, Music Production"
+    ],
+    "image": "FI-M50_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-M50_1.jpg",
+        "alt": "FI-M50 on a desktop setup",
+        "caption": "A focused reference for writing, editing, and mixing."
+      },
+      {
+        "src": "FI-M50_2.jpg",
+        "alt": "FI-M50 in a small studio",
+        "caption": "Compact footprint—serious detail."
+      },
+      {
+        "src": "FI-M50_3.jpg",
+        "alt": "FI-M50 rear panel controls",
+        "caption": "Trim controls for placement and room behavior."
+      }
+    ],
+    "specs": [
+      "Frequency range: 50Hz-20Khz • SPL 1W/1mt: 108dB • Maximum SPL: 112dB",
+      "Crossover Frequency: 2.5 Khz • Input Connector: COMBO(XLR/TRS Phone), RCA",
+      "Dimensions: 175x220x285 • Weight: 5.6kg",
+      "Packing Size: 230x275x365mm • Packing Weight: 6.5kg",
+      "Enclosure: Bass-reflex type, Material: MDF • High Frequency: 1” Dome • Low Frequency: 5.5” Cone",
+      "Maximum Output: 50W • Indicator: Power On (Red Light) • Power Requirements: Depending on area of purchase; 100-240V",
+      "Controls: HF -2/-1/0/2Khz above +-1dB • LF -2/-1/0/100Hz below +2dB • Back Volume control"
+    ],
+    "features": [
+      "Compact footprint with confident, honest voicing",
+      "Rear port design for clean, controlled low end",
+      "Room Control + High Trim for placement tuning",
+      "Inputs and controls suited to studio workflows"
+    ],
+    "definition": "A compact powered monitor for near-field production, editing, and critical listening."
+  },
+  {
+    "slug": "fi-sms4",
+    "name": "Frog-is FI-SMS4 (B/W)",
+    "headline": "Two-way surface mounted speaker",
+    "description": "A compact architectural surface-mount speaker with clear voice intelligibility and a clean, contemporary silhouette.",
+    "story": "FI-SMS4 blends into modern interiors while keeping speech crisp and music natural. With flexible mounting and both 70/100V and low-impedance options, it’s built for contractors who want consistency across projects.",
+    "series": "Installed",
+    "category": "Point source speakers",
+    "finish": "ABS enclosure with metal grille (White/Black)",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Two-way surface mounted speaker",
+    "drivers": "4\" woofer + 1\" tweeter",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/ outdoor foreground/ background music (and/or paging) speaker"
+    ],
+    "image": "FI-SMS4_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SMS4_1.jpg",
+        "alt": "FI-SMS4 wall-mounted in an interior",
+        "caption": "Discreet presence, clear coverage."
+      },
+      {
+        "src": "FI-SMS4_2.jpg",
+        "alt": "FI-SMS4 in a retail space",
+        "caption": "Keeps the focus on the space—never the hardware."
+      }
+    ],
+    "specs": [
+      "Frequency response: 90 -20 KHz • Sensitivity: 89dB @ 1 watt / 1 meter",
+      "Power Handling: 20 W • Power taps: 20W/10W/5W/2,5W & 8Ω • Line input: 100 V / 70 V",
+      "Dimension (L x W x H) (mm): 130*125*210 • Unit Weight: 2.1 Kg",
+      "Material (panel): HIPS • Grille: Powder Coated AL Mesh • Finished Colour: White/Black",
+      "Components: 4» PP Woofer • 1» PEI"
+    ],
+    "features": [
+      "Wide and consistent coverage",
+      "70V/100V line + 8Ω support for flexible system design",
+      "C-bracket mounting for precise aiming",
+      "Durable enclosure for long-term installations"
+    ],
+    "definition": "A compact surface-mount loudspeaker for distributed music and paging in commercial interiors."
+  },
+  {
+    "slug": "fi-sms6",
+    "name": "Frog-is FI-SMS6 (B/W)",
+    "headline": "Two-way surface mounted speaker",
+    "description": "A higher-output surface-mount speaker with richer body and broader bandwidth for confident music and paging.",
+    "story": "FI-SMS6 keeps the same clean industrial design while scaling performance for larger rooms. Rugged mounting hardware and IPX6 water protection make it a strong fit for demanding everyday venues.",
+    "series": "Installed",
+    "category": "Point source speakers",
+    "finish": "ABS enclosure with metal grille (White/Black)",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Two-way surface mounted speaker",
+    "drivers": "6.5\" woofer + 1\" tweeter",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/ outdoor foreground/ background music(and/or paging) speaker"
+    ],
+    "image": "FI-SMS6_1.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SMS6_2.jpg",
+        "alt": "FI-SMS6 installed in a venue",
+        "caption": "More output, same architectural restraint."
+      }
+    ],
+    "specs": [
+      "Frequency response: 70 -20 KHz • Sensitivity: 90dB @ 1 watt / 1 meter",
+      "Power Handling: 60 W • Power taps: 60W/30W/15W/7.5W & 8Ω • Line input: 100 V / 70 V",
+      "Dimension (L x W x H) (mm): 214*178*329 • Unit Weight: 4.76 Kg",
+      "Material (panel): HIPS • Grille: Powder Coated AL Mesh • Finished Colour: White/Black",
+      "Components: 6.5 inch Woofer • 1 inch silk"
+    ],
+    "features": [
+      "Two-way speaker with rich sonic character",
+      "Wide and consistent coverage",
+      "70V/100V line + 8Ω support",
+      "Waterproof grade IPX6"
+    ],
+    "definition": "A versatile 6.5\" surface-mount speaker for distributed music and paging in commercial spaces."
+  },
+  {
+    "slug": "fi-sms6-pro",
+    "name": "Frog-is FI-SMS6(PRO)",
+    "headline": "Two-way surface mounted speaker with two radiator",
+    "description": "A high-output surface-mount model designed for stronger low-end presence and confident projection in energetic spaces.",
+    "story": "FI-SMS6(PRO) builds on the SMS platform with added radiators to extend low-frequency response while keeping clarity intact—ideal for foreground systems where music needs to feel alive, not just audible.",
+    "series": "Installed",
+    "category": "Point source speakers",
+    "finish": "ABS enclosure with metal grille",
+    "collaboration": "Frog-is Professional",
+    "power": "Passive",
+    "type": "Two-way surface mounted speaker with two radiator",
+    "drivers": "6\" woofer + 1\" tweeter + dual passive radiators",
+    "applications": [
+      "Retail stores, restaurants, health clubs, theme parks, educational facilities, hospitality, music cafes, leisure venues",
+      "High-output indoor/ outdoor foreground/ background music(and/or paging) speaker"
+    ],
+    "image": "FI-SMS6(PRO)_main.jpg",
+    "lifestyle": [
+      {
+        "src": "FI-SMS6(PRO)_1.jpg",
+        "alt": "FI-SMS6(PRO) installed in a commercial space",
+        "caption": "Foreground energy with clean architectural lines."
+      }
+    ],
+    "specs": [
+      "Frequency response: 70 -20 KHz • Sensitivity: 90dB @ 1 watt / 1 meter",
+      "Power Handling: 60 W • Power taps: 60W/30W/15W/7.5W & 8Ω • Line input: 100 V / 70 V",
+      "Dimension (L x W x H) (mm): 214*178*329 • Unit Weight: 4.76 Kg",
+      "Material (panel): HIPS • Grille: Powder Coated AL Mesh • Finished Colour: White/Black",
+      "Components: 6.5 inch Woofer • 1 inch silk"
+    ],
+    "features": [
+      "Two passive radiator for ultimate low frequency response",
+      "Wide and consistent coverage",
+      "70V/100V line + 8Ω support",
+      "High fidelity sound character with broad frequency response of 50 Hz - 20 kHz",
+      "Waterproof grade IPX56"
+    ],
+    "definition": "A higher-output surface-mount speaker with extended bass for energetic commercial environments."
+  }
+]

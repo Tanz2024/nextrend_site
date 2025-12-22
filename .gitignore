@@ -1,0 +1,84 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+dist/
+npm-debug.log*
+yarn-error.log*
+.env*
+.vercel/
+
+# R2 CDN Assets - Ignore large media files that are hosted on Cloudflare R2
+# These files are served from R2 CDN and don't need to be in the repository
+
+# R2 Video files
+public/lifestyles_video/
+*.mp4
+*.mov
+*.avi
+*.webm
+
+# R2 Image folders - Product images hosted on R2
+public/images/K_array_images/
+public/images/Bearricks_lifestyles/
+public/images/Bearricks_products/
+public/images/Amina_images/
+public/images/Brionvega_products/
+public/images/Trinnov_images/
+public/images/Frogis_images/
+public/images/K_Gear_images/
+public/images/journal_project_images/
+public/images/journal_images/
+public/images/Events_image_videos/
+public/images/project_sites/
+public/images/project_images/
+
+# Large image files that are on R2
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.svg
