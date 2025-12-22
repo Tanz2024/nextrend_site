@@ -632,22 +632,19 @@ export default function ProductsContent() {
       {/* ───────── LIFESTYLE AUDIO (WHITE) ───────── */}
       {showLifestyle && (
         <section id="lifestyle" className="relative bg-white overflow-hidden">
-          <div
-            aria-hidden
-            className="pointer-events-none absolute inset-x-0 top-0 z-[1] h-[360px]"
-            style={{
-              background: `
-                radial-gradient(900px 420px at 14% 0%,
-                  rgba(0,0,0,0.08) 0%,
-                  rgba(0,0,0,0.04) 28%,
-                  rgba(255,255,255,0) 62%),
-                linear-gradient(180deg,
-                  rgba(0,0,0,0.06) 0%,
-                  rgba(255,255,255,0.92) 52%,
-                  rgba(255,255,255,1) 100%)
-              `,
-            }}
-          />
+         <div
+  aria-hidden
+  className="pointer-events-none absolute inset-x-0 top-0 z-[1] h-[360px]"
+  style={{
+    background: `
+      linear-gradient(180deg,
+        rgba(255,255,255,0.92) 0%,
+        rgba(255,255,255,0.98) 45%,
+        rgba(255,255,255,1) 100%)
+    `,
+  }}
+/>
+
 
           <div className="relative z-[2]">
             <SectionHeader

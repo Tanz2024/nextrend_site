@@ -417,22 +417,19 @@ export function SiteFooter() {
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label={`${partner.label.replace(/&#64;/g, '@')} (opens in new tab)`}
-              className="group relative flex items-center justify-center flex-1 min-w-0 p-3 sm:p-4 lg:p-5 h-16 sm:h-20 lg:h-24 xl:h-28 bg-white/5 backdrop-blur-sm rounded-2xl border border-white/10 transition-all duration-500 ease-[cubic-bezier(.22,.61,.36,1)] hover:scale-[1.03] hover:bg-white/8 hover:border-[var(--accent)]/30 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)]/50" 
+                  className="group relative flex items-center justify-center flex-1 min-w-0 p-2.5 sm:p-4 lg:p-5 h-16 sm:h-20 lg:h-24 xl:h-28 bg-white/5 backdrop-blur-sm rounded-2xl border border-white/10 transition-all duration-500 ease-[cubic-bezier(.22,.61,.36,1)] hover:scale-[1.03] hover:bg-white/8 hover:border-[var(--accent)]/30 focus:outline-none focus-visible:ring-2 focus-visible:ring-[var(--accent)]/50"
                 >
                   {/* Logo container */}
                   <div className="relative w-full h-full flex items-center justify-center overflow-hidden">
-                <Image
-  src={partner.logo}
-  alt={partner.alt}
-  width={200}
-  height={100}
-  className="..."
-  loading="lazy"
-  unoptimized
-/>
-
-                    
-        
+                    <Image
+                      src={partner.logo}
+                      alt={partner.alt}
+                      width={200}
+                      height={100}
+                      className="w-full h-full max-w-[120px] max-h-[44px] sm:max-w-[140px] sm:max-h-[56px] lg:max-w-[160px] lg:max-h-[64px] xl:max-w-[180px] xl:max-h-[72px] object-contain transition-all duration-500 group-hover:scale-110 group-hover:opacity-100"
+                      loading="lazy"
+                      unoptimized={false}
+                    />
                   </div>
 
                   {/* Premium tooltip with brand highlight */}
