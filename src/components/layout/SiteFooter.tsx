@@ -1,4 +1,5 @@
 "use client";
+import { buildGeneralImageUrl } from "@/lib/assets"; // <-- use your real helper name/path
 
 import Link from "next/link";
 import Image from "next/image";
@@ -35,48 +36,49 @@ const socials = [
 
 // Authorised partner links
 const partners = [
-  { 
-    href: "https://www.k-array.com/", 
+  {
+    href: "https://www.k-array.com/",
     label: "K-array",
-    logo: "/images/logos/k-array-logo.png",
-    alt: "K-array logo"
+    logo: buildGeneralImageUrl("logos/K-array.logo.png"),
+    alt: "K-array logo",
   },
-  { 
-    href: "https://www.trinnov.com/", 
+  {
+    href: "https://www.trinnov.com/",
     label: "Trinnov",
-    logo: "/images/logos/trinnov-logo.png",
-    alt: "Trinnov logo"
+    logo: buildGeneralImageUrl("logos/trinnov_logo.png"),
+    alt: "Trinnov logo",
   },
-  { 
-    href: "https://bearbrick.audio/", 
+  {
+    href: "https://bearbrick.audio/",
     label: "BE&#64;RBRICK",
-    logo: "/images/logos/bearbrick-logo.jpg",
-    alt: "BE@RBRICK Audio logo"
+    // your file has a SPACE: "BE@RBRICK _logo.jpg"
+    logo: buildGeneralImageUrl("logos/BE@RBRICK _logo.jpg"),
+    alt: "BE@RBRICK Audio logo",
   },
   {
     href: "https://www.amina.co.uk/",
     label: "Amina",
-    logo: "/images/logos/amina-logo.jpg",
-    alt: "Amina logo"
+    logo: buildGeneralImageUrl("logos/amina_logo.jpg"),
+    alt: "Amina logo",
   },
   {
     href: "https://brionvega.it/",
-    label: "Brionvega", 
-    logo: "/images/logos/brionvega-logo.png",
-    alt: "Brionvega logo"
+    label: "Brionvega",
+    logo: buildGeneralImageUrl("logos/Brionvega-Logo-768x512.png"),
+    alt: "Brionvega logo",
   },
   {
     href: "https://frog-is.com/",
     label: "Frog-is",
-    logo: "/images/logos/frogis-logo.png",
-    alt: "Frog-is logo"
+    logo: buildGeneralImageUrl("logos/frogis_logo.png"),
+    alt: "Frog-is logo",
   },
   {
     href: "https://k-gear.com/",
     label: "K-gear",
-    logo: "/images/logos/K-gear_LOGO.png",
-    alt: "K-gear logo"
-  }
+    logo: buildGeneralImageUrl("logos/K-gear_LOGO.png"),
+    alt: "K-gear logo",
+  },
 ];
 
 
@@ -419,16 +421,16 @@ export function SiteFooter() {
                 >
                   {/* Logo container */}
                   <div className="relative w-full h-full flex items-center justify-center overflow-hidden">
-                    <Image
-                      src={partner.logo}
-                      alt={partner.alt}
-                      width={200}
-                      height={100}
-                      className="w-full h-full max-w-[100px] max-h-[40px] sm:max-w-[120px] sm:max-h-[50px] lg:max-w-[140px] lg:max-h-[60px] xl:max-w-[160px] xl:max-h-[70px] object-contain transition-all duration-500 group-hover:scale-110 group-hover:opacity-100"
-                      priority={false}
-                      loading="lazy"
-                      unoptimized={false}
-                    />
+                <Image
+  src={partner.logo}
+  alt={partner.alt}
+  width={200}
+  height={100}
+  className="..."
+  loading="lazy"
+  unoptimized
+/>
+
                     
         
                   </div>
