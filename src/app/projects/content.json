@@ -1,189 +1,95 @@
 {
   "sections": {
-    "Hospitality & Dining": [
-      {
-        "title": "The Kitch'n Club",
-        "context": "Indoor pickleball club & social venue ",
-        "location": "Kota Damansara, Selangor, Malaysia",
-        "profile": "The Kitch'n Club is an indoor pickleball facility and social venue located in Kota Damansara...",
-        "role": [
-          "Consultation, design and installation",
-          "Event and DJ sound system integration",
-          "System tuning and SPL calibration for live programmes"
-        ],
-        "focus": [
-          "Even, high-intelligibility coverage across the entire pickleball court and spectator area",
-          "Club-grade low-end and dynamics for DJ sets and event programming",
-          "Simple day-to-day operation with presets for training, matches and events"
-        ],
-        "system": {
-          "Indoor Court & Spectator Zone": [
-            "KGEAR GF82 full-range loudspeakers",
-            "Frog-is FI-SMS4B compact surface-mount speakers",
-            "Frog-is FI-AMP8 system amplification and DSP",
-            "Frog-is F1-SUB10P subwoofers"
-          ]
-        },
-        "completion": "2024"
-      },
-      {
-        "title": "Wedge Range",
-        "context": "Golf Bar & Social Club",
-        "location": "Petaling Jaya, Selangor, Malaysia",
-        "profile": "Wedge is an indoor golf bar and social club in the heart of Kuala Lumpur Where golf and entertainment collide. Whether you are starting from scratch or playing off scratch, it’s their mission to make golf exciting and accessible to all. Combining state-of-the-art golf technology with the best in music, food and drink, they bring you a social experience that takes the game to a whole new level. Discover a state-of-the-art golfing venue at Wedge Range. With 13 open swing bays, 4 private rooms, a PGA Teaching Academy, and a lively restaurant and bar, they offer a complete, family-friendly golfing experience. Whether it’s casual practice, nights out with friends, or big events, The Range has something for everyone.",
-        "focus": [
-          "Consult, Design and Installation",
-          "Background music for common areas, the speakers has to cover the whole area and match the modern interior design.",
-          "Proper speaker placement to improve overall listening experience and sound.",
-          "A high quality, commercial sound systems that have the capacity to play background music during the day, provide slightly elevated volume levels during the evening and also capable of delivering a robust nightclub quality sound over the weekend."
-        ],
-        "system": {
-          "Standard Bay 1 & 2": [
-            "KGear – GH4 x 7 nos"
-          ],
-          "Reception": [
-            "KGear – GC6-RNW x 4 nos",
-            "KGear – GA201 x 1 no"
-          ],
-          "VIP Bay 1, 2 & 3": [
-            "KGear – GH4 x 6 nos",
-            "KGear – GS12 x 3 nos",
-            "KGear – GA41L x 2 nos",
-            "KGear – GA43L x 1 no"
-          ],
-          "Putting Garden": [
-            "KGear – GH4 x 7 nos",
-            "KGear – GS18 x 2 nos",
-            "KGear – GA46L x 1 no"
-          ]
-        },
-        "completion": "January 2024"
-      },
+    "Hospitality": [
       {
         "title": "Gordon Ramsay Bar & Grill",
-        "context": "Signature dining",
         "location": "Sunway City, Selangor, Malaysia",
-        "profile": "Gordon Ramsay Bar & Grill is the city’s most sought-after dining destination and is only a short flight away from other great Asian cities. Featuring an exquisite menu inspired by one of London’s most iconic restaurants, Savoy Grill, only the finest ingredients presented with culinary flair from the highly skilled, Gordon Ramsay-trained team is served. Diners can look forward to savouring prime cuts of meat dry-aged in-house and Chef Ramsay’s most desirable dishes. ",
+        "profile": "Gordon Ramsay Bar & Grill is the city’s most sought-after dining destination and is only a short flight away from other great Asian cities. Featuring an exquisite menu inspired by one of London’s most iconic restaurants, Savoy Grill, only the finest ingredients presented with culinary flair from the highly skilled, Gordon Ramsay-trained team is served. Diners can look forward to savouring prime cuts of meat dry-aged in-house and Chef Ramsay’s most desirable dishes.",
         "focus": [
-          "Consult, Design and Installation",
-          "A high quality, commercial sound systems that have the capacity to play background music during the day, provide slightly elevated volume levels during the evening and also capable of delivering a robust nightclub quality sound over the weekend.",
-          "The speakers model was chosen based on the restaurant needs for different dining and club requirements. While it has to accommodate the interior design with easy installation."
+          "We successfully delivered a premium end-to-end commercial sound system installation for our client, covering consultation, sound design, and professional setup to match their restaurant-to-nightlife concept. The system was built to provide smooth background music during the day, slightly elevated and comfortable volume levels in the evening, and a powerful, nightclub-quality sound for weekend events—ensuring the right atmosphere at every hour. The speaker model was carefully selected based on the venue’s dining and club requirements, balancing clarity, coverage, and punch while maintaining a refined listening experience. Most importantly, our installation was planned to fit the interior design, featuring a clean, discreet, and easy-to-maintain setup that blends seamlessly into the space while delivering premium audio performance."
         ],
         "system": {
           "": [
-            "K-array KF26 × 26"
+            "K-array Domino-KF26 x 26 nos"
           ]
         },
         "completion": "March 2022"
       },
       {
         "title": "GravyBaby",
-        "context": "Boutique dining & bar",
         "location": "391, Chulia St, Georgetown, 10200 George Town, Penang, Malaysia",
         "profile": "GravyBaby is a magnificent bar and restaurant situated in the hearts of KLCC, Jalan, Damansara, P Ramlee and soon all over the world! While the unique setting of GravyBaby is inviting, the main reason to visit is the sumptuous food. Their UK renowned chef has produced a classic, a la carte menu of the highest quality which includes some tried and tested Cocktails and Pies. The GravyBaby a la carte menu will change seasonally so you can enjoy a new gastronomic experience throughout the year.",
         "focus": [
-          "Consult, Design and Installation"
+          "For this project, we delivered a premium end-to-end sound system solution—from audio consultation and acoustic planning to custom sound system design and professional installation—fully tailored to the client’s concept, venue layout, and daily operations. We worked closely with the team to understand the space, audience flow, and desired ambiance, then translated those insights into a high-performance commercial audio system that looks as good as it sounds. The system was engineered for two seamless music modes: DJ-ready sound at night for energetic events and live mixing, and an automated daytime music player for effortless background music and consistent atmosphere. Every component was carefully selected for crystal-clear sound, reliable coverage, and future scalability, while blending cleanly with the interior design. Installation was completed with precise cable management and a discreet finish, delivering powerful, balanced audio, simple staff control, and a luxury guest experience throughout the venue."
         ],
         "system": {
           "Dining & Bar": [
-            "4-corner distributed audio system featuring:",
-            "K-array KV52",
-            "K-array KU210",
-            "K-array KA24",
-            "K-Gear GF6",
-            "K-Gear GF6W",
-            "K-Gear GF4",
-            "K-Gear GF4W",
-            "K-Gear GF82",
-            "Frog-is F1-SUB10P",
-            "Frog-is FI-AMP8",
-            "Frog-is F1-POW12",
-            "Frog-is FI-CS4W"
+            "K-array Vyper-KV52",
+            "K-array Rumble-KU210",
+            "K-array Kommander-KA24",
+            "KGEAR GF6",
+            "KGEAR GF6W",
+            "KGEAR GF4",
+            "KGEAR GF4W",
+            "KGEAR GF82",
+            "Frog-Is F1-SUB10P",
+            "Frog-Is FI-AMP8",
+            "Frog-Is F1-POW12",
+            "Frog-Is FI-CS4W"
           ]
         },
         "completion": "December 2021"
       },
       {
-        "title": "Marc Residences",
-        "context": "Residence",
-        "location": "Jalan Pinang, Kuala Lumpur",
-        "profile": "Located at Marc Residence, WIP delivers a dynamic mix of Western, Asian, and Indian cuisines complemented by innovative drinks and upbeat ambience. Recognized as one of KL’s go-to destinations for great eats, drinks, and parties, it brings together culinary creativity, modern design, and immersive sound to create an unforgettable social experience.",
-        "focus": [
-          "Dedicated zone control for seamless ambiance transitions",
-          "Independent SPL mapping for precise volume management",
-          "Sound design aligned with brand atmosphere and energy"
-        ],
-        "system": {
-          "Lounge & Bar": [
-            "K-array Kobra-KK102 ×4",
-            "K-array Vyper-KV52 ×2",
-            "K-array Tornado-KT2 ×18",
-            "K-Gear GC8TW ×4",
-            "Frog-is FI-SUB10P ×2",
-            "Frog-is FI-POW12 ×1",
-            "Frog-is FI-AMP8 ×1",
-            "K-array Kommander-KA24 Power Amp ×2",
-            "Behringer S16",
-            "Golden Voice KOD3TB"
-          ]
-        },
-        "completion": "October 2021"
-      },
-      {
         "title": "Souled Out",
-        "context": "Iconic F&B brand · Kuala Lumpur",
+        "context": "Restaurants and Cafes",
         "location": "Desa Sri Hartamas, Kuala Lumpur",
-        "profile": "SOULed OUT began in 1996 as a small neighbourhood café in Mont Kiara and moved to her current premise in Desa Sri Hartamas in December 1999. So named as each and every staff member puts their heart and soul into providing her patrons with the best. It is part of the SOUL Society Group that comprises of other iconic outlets such as Tujo Bar-sserie & Grill and WIP. More than a decade on and having served over 5 million patrons, SOULed OUT has matured into an assured personality with a fun loving spirit. An eclectic mix Local, Western and Northern Indian food and beverages make it a place for friends and family to foster the spirit of friendship and camaraderie. All the familiar trappings have been retained albeit with a refreshed look and feel of the hardware. The cosiness of the outlets is crafted to cater to affairs from a simple family dinner to a night out with friends. Whatever it is, an encounter with SOULed OUT is always ‘as good as a hug’. SOULed OUT’s accolades include ‘Outlet of the Year’, ‘Best Resto-Bar 2013-2014’ at the prestigious Hospitality Asia Platinum Awards (HAPA), 1st Runner Up for the Iron Bartender Challenge and 2nd Runner Up for Best Teamwork at the HoReCa School of Excellence 2013.",
+        "profile": "SOULed OUT began in 1996 as a small neighbourhood café in Mont Kiara and moved to its current premise in Desa Sri Hartamas in December 1999. A restaurant that has received numerous accolades and awards over the years, SOULed OUT has served over five million patrons and grown into a well-loved destination with a fun-loving spirit. Its eclectic mix of local, Western, and Northern Indian food and beverages makes it a place where friends and family come together to share good food and camaraderie.",
         "focus": [
-          "Consult, Design and Installation"
+          "The restaurant’s design prioritizes discretion, requiring speaker cabinets to remain visually unobtrusive to patrons. K-Array speakers excel in such environments. The K-Array Vyper-KV102 integrates seamlessly with the existing LED screen, fitting perfectly within its frame, while the K-Array Thunder-KMT18 is elegantly positioned atop each stone column, complementing the outdoor architectural design."
         ],
         "system": {
           "Restaurant & Outdoor Zones": [
             "Invisible line array integration for LED screen and dining area",
-            "K-array Pinnacle-KR202 ×2",
-            "K-array Vyper-KV52 ×4",
+            "K-array Pinnacle-KR202 x 2 nos",
+            "K-array Vyper-KV52 x 4 nos",
             "K-array Kommander-KA14 Power Amplifier"
           ]
         },
         "completion": "October 2021"
       },
       {
-        "title": "Berjaya Cafe",
-        "context": "Plant-based dining · Kuala Lumpur",
-        "location": "Level 14 West, Berjaya Times Square Hotel, Kuala Lumpur",
-        "profile": "Berjaya Cafe is the vegetarian lover’s dining paradise. A sumptuous plant-based menu including signature dishes: nasi lemak and rendang pizza. Sustainable ingredients and a wholesome selection of dishes, they can assure your guests will savour only the best in a meatless gastronomic experience carefully curated by the best chefs in town. From breakfast to dinner as well as a special afternoon-tea, Berjaya Cafe brings you the ambiance of a contemporary dining restaurant overlooking the skyline and magnificent city view of Kuala Lumpur. Lending to the current trend of lifestyle that focuses not only on health and well-being, we encourage all diners to be more mindful about the impact to the earth from consuming meat; sustainable eating is about choosing foods that are healthy to our environment and bodies. Berjaya Cafe is inspired by the Founder and Executive Chairman of Berjaya Corporation Berhad, Tan Sri Dato’ Seri Vincent Tan Chee Yioun’s ethos: “Every individual can play a role to help Mother Earth, even in a small way, by being a vegetarian”. The food production process from farm to plate can account for around 30% of all global greenhouse gas emissions which contributes to global warming. Reducing meat consumption even slightly in your everyday diet will have a positive impact to your health and the planet.",
+        "title": "Berjaya Café",
+        "context": "Restaurants and Cafes",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "Berjaya Cafe is a vegetarian dining destination offering a thoughtfully curated plant-based menu made with sustainable ingredients. From breakfast through dinner and afternoon tea, the café provides a contemporary dining experience set against panoramic views of Kuala Lumpur’s skyline.",
         "focus": [
-          "Consult, Design and Installation"
+          "A wide and evenly distributed audio system was designed to support background music, speech intelligibility, and event use while complementing the café’s minimalist interior and skyline-facing layout."
         ],
         "system": {
-          "Dining Area": [
-            "4-corner distributed setup",
-            "K-array KK102 ×4",
-            "K-array KU210 ×2",
+          "Sound System": [
+            "K-array KK102 x 4 nos",
+            "K-array KU210 x 2 nos",
             "K-array KA24 Power Amplifier",
-            "Frog-is FI-Mix8 Mixer",
-            "Frog-is FI-WP2V Wireless Microphones"
+            "Frog-Is FI-Mix8 Mixer",
+            "Frog-Is FI-WP2V Wireless Microphones"
           ]
         },
         "completion": "October 2020"
       },
       {
         "title": "Sapore Italian Restaurant",
-        "context": "Italian–Spanish dining · Kuala Lumpur",
-        "location": "Jalan Ampang, Kuala Lumpur",
-        "profile": "Sapore is an Italian, Spanish-Mediterranean Restaurant located at Ampang, the neighbouring city at Kuala Lumpur. Located within 5-10 km away from Suria KLCC, the busy Changkat Bukit Bintang or the happening TREC, rest assured that driving distance of 15 – 20 minutes within the KL area, and volla, you get to enjoy wonderful Italian Spanish food at Sapore. Sapore means flavours in Italian. At Sapore, we held an interesting slogan – “Serving you Artisan Food and Fine Wine”, simply because we highlight the authentic taste of Italian and Spanish food. We are all about – Jamon Iberico, Tapas, and Wine. Our Signature dishes are Roasted Octopus, Suckling Pig, Dry-Aged Grain-Fed T-Bone, Iberico Pork Seafood Paella, Tapas, Cold Cuts, Cheese, Pizza, Pasta, Ibérico Abanico Loin. They have a list of fine imported wines as well. Originally from Bari, the capital city of southern Italy’s Puglia region, Chef Fabio Ruggiero, the restaurateur and executive chef, will delight you with great Italian and Spanish food. Come over to ‘Sapore’ (taste) our classic Italian and Spanish dishes, as they enjoy bringing people together through food. Their chefs might also surprise you with some dishes off the menu!",
+        "context": "Restaurants and Cafes",
+        "location": "Ampang, Kuala Lumpur",
+        "profile": "Sapore is an Italian and Spanish-Mediterranean restaurant located in Ampang, neighbouring Kuala Lumpur. Led by Chef Fabio Ruggiero from Bari, Italy, the restaurant celebrates authentic Mediterranean flavours in a refined dining setting.",
         "focus": [
-          "Consult, Design and Installation",
-          "We provided a simple and easy-to-operate sound system without neglecting high audio quality. Frog-is is the perfect solution for Sapore’s patrons and their staff."
+          "An evenly distributed sound system was implemented to deliver immersive yet unobtrusive audio coverage across the dining area, supporting both everyday ambience and flexible operational needs."
         ],
         "system": {
-          "Restaurant": [
-            "Frog-is SMS4-B ×4",
-            "Frog-is Sub10P ×1",
-            "Frog-is Amp 4D ×1"
-          ],
-          "Notes": [
-            "Frog-is’s AMP4D is an all-in-one 4-channel Class D DSP amplifier. Integrated with USB & Bluetooth media player, this amplifier is a complete control centre for Pop Pizza’s demanding audio needs. Not only that, but we also have the option of 2 presets for 2.1 or 4.1 setups with a crossover between the tops and subwoofers."
+          "Sound System": [
+            "Frog-Is SMS4-B x 4 nos",
+            "Frog-Is Sub10P x 1 no",
+            "Frog-Is AMP4D x 1 no"
           ]
         },
         "completion": "2019"
@@ -259,555 +165,310 @@
         "completion": "July 2015"
       },
       {
-        "title": "The Iron Fairies",
-        "context": "Nightclub & Bar · TREC, Kuala Lumpur",
-        "location": "TREC, Kuala Lumpur, Malaysia",
-        "profile": "The Iron Fairies KL in TREC is set to become a magical place for night-goers to come out and play. One of KL’s most expensive bars being built to date, it’s a venue where the imagination can run wild as you take in the intricate detail of the hand-cast designs by Ashley Sutton himself. A cult brand, The Iron Fairies origins’ draw back to the story books written by Australian iron ore miner-turned-interior designer Ashley Sutton who escaped into a fantasy world of fairies which then inspired the tale that immortalised into what is The Iron Fairies bars today.The Butterfly Room is where 50, 000 handmade butterflies hang from the ceiling and a DJ on Friday & Saturday is setting the tone accordingly with music ranging from old-school house to techno from midnight till 5am. Think along the style of Joey Negro, Frankie Knuckles, Derrick Carter, and so on. The Fairy Garden encapsulates the life & soul of The Iron Fairies. With different areas for seating and dancing reinforced with a powerful sound system by K-array, this rooftop is the ultimate adult’s playground that comes alive once you step inside. The DJ there assumes full responsibility in setting the mood for this area; they are bringing the best of house, disco, techno and every sub genre in between with influence from DJs such as Honey Dijon, Peggy Gou, and Hunee. Three floors starting from the enchanting outdoor rooftop Fairy Garden, heading down to the dark enclosed Butterfly Room and then finally deep underground into the cast iron space resembling an iron mine with a mythical twist, The Iron Fairies Kuala Lumpur is primed to be the flagship jewel of TREC occupying three units and two roof terraces which all comes together to unfold a visual story in each unique space.",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Live Band with PRO AUDIO Speakers": [
-            "K-array KN6 ×10 – High-technology self-powered point/line source speaker",
-            "K-array KO70 ×2 – Self-powered subwoofer element",
-            "Frog-is FP12P ×4 – Compact passive full-range speaker 12″",
-            "Frog-is FP12 ×4 – Self-powered stage monitor 12″"
-          ],
-          "Butterfly Room with PRO AUDIO Speakers": [
-            "K-array KN6 ×8 – Self-powered point/line source speaker",
-            "K-array KO70 ×2 – Self-powered subwoofer element",
-            "Frog-is FP8 ×2 – Self-powered full-range DJ monitor 8″"
-          ],
-          "Rooftop with PRO AUDIO Speakers": [
-            "K-array KN6 ×12 – Self-powered point/line source speaker",
-            "K-array KO70 ×2 – Self-powered subwoofer element"
-          ],
-          "Alfresco Area": [
-            "Frog-is FP8P ×16 – Mini passive full-range speaker 8″"
-          ],
-          "Ceiling Speakers": [
-            "Frog-is CS4W ×6 – Two-way ceiling speaker"
-          ],
-          "Lighting System": [
-            "Beam 230 ×4",
-            "Chauvet DJ SlimPAR Q12 USB ×6"
-          ],
-          "Control System": [
-            "DBX ZonePro"
-          ]
-        },
-        "completion": "September 2018"
-      },
-      {
-        "title": "Handlebar Bar",
-        "context": "Restaurant & Bar · Singapore",
-        "location": "Lock Road, Singapore",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina AIW5X – Invisible speaker",
-            "K-array KMT12P – Ultra-light, high-power 12″ passive subwoofer"
-          ]
-        },
-        "completion": "April 2016"
-      },
-      {
-        "title": "Brazzo Rivercity",
-        "context": "Restaurant & live music venue",
-        "location": "Rivercity, Batu Pahat, Johor, Malaysia",
-        "profile": "Brazzo Rivercity Batu Pahat blends a relaxed family-friendly atmosphere with an evening live-music energy, creating a versatile dining destination for casual gatherings, celebrations and social nights. The venue pairs Western classics and Asian favourites with chilled draft beers and a curated selection of international wines, supported by a sound system designed to transition seamlessly from background ambience to live performance.",
-        "focus": [
-          "Consult, design and installation",
-          "Clear front-of-house sound reinforcement for dining and live music",
-          "Dedicated karaoke room audio with controlled low-end impact",
-          "Flexible system tuning for day-to-night operation"
-        ],
-        "system": {
-          "Front of House": [
-            "Frog-is FS15 – Portable line array PA system"
-          ],
-          "Karaoke Room": [
-            "Frog-is FP8 – Mini self-powered full-range speaker",
-            "Frog-is Sub10P – 10″ passive subwoofer with dual passive radiators"
-          ],
-          "System & Control": [
-            "Myway Party K-K6 karaoke system",
-            "miniDSP 10×10 HD signal processor",
-            "Frog-is FI-WP2V – Dual-channel UHF wireless handheld microphone system"
-          ]
-        },
-        "completion": "January 2019"
-      },
-      {
         "title": "Atmosphere 360",
-        "context": "Fine dining · KL Tower, Kuala Lumpur",
         "location": "KL Tower, Malaysia",
         "profile": "Atmosphere 360 is a modern and elegant revolving restaurant situated 282m above ground level located at the tallest tower in Southeast Asia – Menara Kuala Lumpur. The restaurant is furnished in a spaceship-like atmosphere with its magnificent view and starry fiber optic ceiling lights that offers a truly unforgettable and luxurious culinary experience.",
         "focus": [
-          "Design and install a system for the background audio and live band audio system, great for dining experience and yet invisible as every single interior design are highly appreciated.Design and install a system for the background audio and live band audio system, great for dining experience and yet invisible as every single interior design are highly appreciated.",
-          "Consistent and immersive background music during the revolving of the dining seats to ensure the diners has an amazing experience while accompanied by the panoramic scenic view of Kuala Lumpur.",
-          "Nextrend Systems chooses Amina invisible speaker to fill the luxury space with exceptional audio with optical fibre twinkle starry filled ceiling for dining & live sound settings. Amina is the perfect sound solution for this space because it provides a full-bandwidth 180-degree dispersion pattern, incredible smooth coverage throughout the space.",
-          "With both full-bandwidth 180-degree dispersion and the incoherent-phase waveform generated by a VPT (Vibration Panel Technology), consistent sound coverage can be easily achieved with next to no variation in frequency across the entire space.",
-          "Two sound systems were built – one for background dining music, the other for live band music. The system switches automatically between the two systems, transferring from background music to live music instantly without any lapse."
+          "Nextrend Systems was entrusted to design and install a premium background audio and live band sound system that enhances the dining experience while remaining visually invisible—preserving and complementing the venue’s highly refined interior design. The system delivers consistent, immersive background music that flows seamlessly with the rotation of dining seats, ensuring guests enjoy an exceptional acoustic experience alongside the panoramic scenic views of Kuala Lumpur. To achieve this balance of luxury aesthetics and high-performance audio, Nextrend Systems selected Amina Invisible Speakers, seamlessly integrated into an optical fibre twinkle starry ceiling for both dining ambience and live sound applications. Amina was the ideal solution due to its full-bandwidth 180-degree dispersion and Vibration Panel Technology (VPT), which produces an incoherent-phase waveform that ensures exceptionally smooth, even sound coverage with minimal frequency variation throughout the entire space. Two dedicated sound systems were professionally engineered—one optimized for background dining music, and the other for live band performances. An intelligent control system allows automatic, instant switching between background and live audio, delivering a flawless transition with zero interruption. The result is a discreet yet powerful audio solution that elevates atmosphere, enhances guest experience, and upholds the venue’s premium design standards."
         ],
         "system": {
           "Sound System": [
-            "Amina AIW3 – Invisible Speaker",
-            "QSC K10 – Active Loudspeaker",
-            "QSC ADS 82 – Acoustic designed surface mount weather-resistant loudspeaker system"
+            "Amina AIW3",
+            "QSC K10",
+            "QSC ADS 82"
           ]
         },
         "completion": "October 2011"
       },
       {
-        "title": "Rosewood",
-        "context": "Luxury hotel · Live sound & dining · Cambodia",
-        "location": "Vattanac Capital Tower, Phnom Penh, Cambodia",
-        "profile": "Soaring 188 meters above the heart of Phnom Penh’s business district, Rosewood Phnom Penh occupies the top 14 floors of Vattanac Capital Tower, the city’s most iconic modern structure and a symbol of the new Cambodia.",
+        "title": "Brazzo Rivercity",
+        "location": "Brazzo Emerald, Bandar Medini Iskandar, Johor Malaysia",
+        "profile": "Brazzo Emerald is a premium lifestyle dining destination offering an elevated culinary and entertainment experience under one roof. Renowned for its special aged beef, the menu is thoughtfully curated to feature a diverse selection of pasta, artisan pizzas, oriental fusion cuisines, and indulgent desserts, catering to a wide range of refined tastes. Beyond dining, Brazzo Emerald delivers a vibrant atmosphere with live music and band performances, complemented by an exclusive VIP room equipped with a high-quality karaoke system for private events and celebrations. With a strict No Pork, No Lard policy, the restaurant welcomes a broader audience while maintaining exceptional quality and standards—making Brazzo Emerald an ideal destination for premium dining, entertainment, and memorable social experiences.",
         "focus": [
-          "Consult & Tuning"
+          "We delivered a complete consultation, design, and installation solution tailored to the client’s vision and operational needs. Our team worked closely with the client to understand the space, usage requirements, and desired atmosphere, translating these insights into a carefully engineered sound system design. Every component was selected to ensure optimal performance, reliability, and scalability, while seamlessly aligning with the venue’s interior aesthetics. The installation was executed with precision and attention to detail, resulting in a clean, unobtrusive setup that delivers consistent, high-quality audio and a premium end-user experience."
         ],
         "system": {
-          "Sound System": [
-            "K-array KA84 ×4 – Stainless steel all-in-one amplifier and processing solution",
-            "K-array KY102 ×8 – Stainless steel line array element",
-            "K-array KMT21P ×4 –Ultra-light, high-power 21” subwoofer",
-            "K-array KP102 ×2 – Stainless steel line array element",
-            "K-array KF12P ×4 – Stainless steel ultra-compact full-range passive speaker",
-            "Amina Edge 5 – Invisible loudspeaker"
+          "Karaoke Room": [
+            "Karaoke KH PRO3000",
+            "Golden Voice Karaoke Player"
+          ],
+          "System & Control": [
+            "Frog-Is SMS4-B",
+            "Frog-Is Sub10p",
+            "Frog-Is FP8",
+            "Frog-Is Sub10A",
+            "Frog-Is Amp 8",
+            "Frog-Is FS12",
+            "Frog-Is FI-Mix 8",
+            "Frog-Is WP2V",
+            "Mini DSP"
           ]
         },
-        "completion": "March 2018"
-      }
-    ],
-    "Hotels & Lounges": [
+        "completion": "July 2019"
+      },
       {
-        "title": "PARKROYAL COLLECTION",
-        "context": "Lifestyle hotel",
-        "location": "Kuala Lumpur",
-        "profile": "PARKROYAL COLLECTION Kuala Lumpur is designed with the environment and wellness in mind for the modern conscious travellers. Gorgeous greenery, earthy tones and sleek wooden finishes within their hotel make it the perfect hideaway from skyscrapers, shopping malls and city streets teeming with activity.",
+        "title": "PARKROYAL COLLECTION Kuala Lumpur",
+        "context": "Hotel ",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "Pan Pacific Hotels Group is a global hospitality company with 50+ hotels, resorts, and serviced suites across three brands: Pan Pacific, PARKROYAL COLLECTION, and PARKROYAL. PARKROYAL Hotels & Resorts is distinguished by its passion for people and places, immersing every guest into local and authentic cultures.",
         "focus": [
-          "Consult, Design and Installation",
-          "Lobby – Background music for common areas, speakers to match the modern interior design.",
-          "Common area – Proper speaker placement to improve overall listening experience and sound.",
-          "Ballrooms – Background music and small public address system for events. A sound system that can handle high music levels during full hall banquet. Softer levels in a separate partition where guests can comfortably conduct a meeting or discussion.",
-          "Customize speakers coloured to accommodate the natural wood surface of Grand Ballroom."
+          "We designed a premium hotel sound system that supports the full guest journey—from a welcoming lobby soundtrack to comfortable background music in the common areas, and event-ready audio in the ballrooms. The client needed modern, design-friendly speakers that deliver clear, consistent coverage without feeling intrusive, so every space feels intentional and enjoyable to spend time in.\n\nTo achieve this, we planned precise speaker placement and a zoned audio setup that adapts to different uses throughout the day. In the ballrooms, the system can deliver higher music levels and clear announcements for full-hall banquets and events, while maintaining softer, more conversational sound in partitioned sections for meetings and discussions. For the Grand Ballroom, speakers were custom colour-matched to the natural wood finishes—ensuring the technology blends seamlessly with the interior design while elevating the overall audio experience."
         ],
         "system": {
           "Sound System": [
-            "K-array Kobra – KK102 I x 4",
-            "K-array Vyper – KV52 x 2",
-            "K-array Tornado – KT2 x 18",
-            "K-array Kommander – KA24 Power AMP x 2"
+            "K-array Kobra-KK102 I x 4 nos",
+            "K-array Vyper-KV52 x 2 nos",
+            "K-array Tornado-KT2 x 18 nos",
+            "K-array Kommander-KA24 x 2 nos"
           ]
         },
-        "completion": "June 2022"
+        "completion": "Jun 2022"
       },
       {
         "title": "Sheraton Imperial Hotel",
-        "context": "Hotel · Kuala Lumpur",
-        "profile": "Nestled in the city center and just steps away from the city monorail and LRT lines, the hotel offers seamless access to Kuala Lumpur’s main attractions making it just minutes away from the city’s best shopping and dining venues.",
+        "context": "Hotel",
+        "location": "Petaling Jaya, Malaysia",
+        "profile": "Sheraton Imperial Kuala Lumpur is known for its spacious 42 sq. m rooms with walk-in wardrobes, and as the first Medi-Secure-Safe hotel certified by TICADOC.\nA MICE-ready address, it offers 398 rooms and 13 function spaces, including a 1,000-seat ballroom and a 200-seat junior ballroom, with complimentary GPNS Wi-Fi throughout.\nDining spans award-winning Chinese and Italian restaurants, all-day international fare, and a bar lounge for fine wines, premium spirits, and afternoon tea.",
         "focus": [
-          "Consult, Design and Installation"
+          "The client requested a premium audio solution with no visible speakers, so we proposed Amina Invisible Speakers as the ideal architectural sound system. The Amina panels were professionally installed and skim-coated to match the exact paint finish, making them completely invisible while allowing the sound to radiate naturally from the ceiling. The result delivered a refined, immersive listening experience that exceeded expectations—earning outstanding feedback from the client: \"The sound quality from Amina is much different compared with ceiling speakers. The background music sounds next to your ears, truly immersing the entire space.\""
         ],
         "system": {
           "Sound System": [
-            "Amina LFi2T – Invisible Speaker"
+            "Amina LFi2T"
           ]
         },
-        "completion": "February 2009"
+        "completion": "Feb 2009"
       },
       {
         "title": "The Saujana Hotel",
-        "context": "Resort hotel · Malaysia",
         "location": "Saujana, Petaling Jaya",
         "profile": "The Saujana Hotel Kuala Lumpur in Malaysia is a 5 star resort style hotel that sits on 160 hectares of lush tropical forest and gardens with lakeside view. Taking its name from the old Malay expression “sejauh di sana” which means – as far as the eye can see – this 355 rooms resort with two adjoining 18-hole championship gold courses is an idyllic haven for business and pleasure only minutes from the city in Shah Alam.",
         "focus": [
-          "Consult, Design and Installation"
+          "The Saujana Hotel Kuala Lumpur required a background music solution that would enhance its resort-style atmosphere without competing with the natural beauty of its surroundings. With lush tropical gardens, lakeside views, and a strong sense of calm woven throughout the guest experience, the brief was clear: create an audio environment that feels effortless, welcoming, and quietly luxurious across public areas. Our approach focused on designing a discreet, high-quality BGM system that blends seamlessly into the hotel’s architectural and landscape design. Carefully zoned music levels ensure a consistent, soothing ambience from arrival through to lounges and shared spaces, supporting both business and leisure guests throughout the day. The result is a soundscape that complements the visual serenity of the resort, reinforcing the hotel’s five-star identity while remaining virtually invisible to the guest — felt rather than noticed."
         ],
         "system": {
           "Sound System": [
-            "K-array KT2 – 2″ audio speaker carved from aluminum",
-            "Sonab CSW – Subwoofer"
+            "K-array Tornado-KT2",
+            "Sonab CSW"
           ]
         },
         "completion": "March 2015"
       },
       {
         "title": "Hotel Perdana",
-        "context": "Hotel · Malaysia",
         "location": "Kelantan, Malaysia",
-        "profile": "-",
+        "profile": "Hotel Perdana is a refined city hotel in the heart of Kota Bharu, known for its quiet elegance and effortless sense of ease. Close to the city’s markets, cultural venues, and major landmarks, it welcomes both weekend travellers and business guests with equal grace. The atmosphere is composed and considered—well-appointed rooms, attentive hospitality, and the kind of service that feels intuitive rather than formal. A selection of restaurants anchors the experience, alongside an outdoor pool and a fitness centre for unhurried downtime. With comfort and location in perfect balance, Hotel Perdana holds its place as a trusted address in Kelantan’s capital.",
         "focus": [
-          "Consult, Design and Installation"
+          "For Hotel Perdana’s dining areas, the requirement was deliver premium background music that elevates the room’s atmosphere while keeping the ceiling line clean and uninterrupted. To protect the elegance of the interiors—the client specifically asked for a solution with no exposed speakers. We proposed Amina Invisible Speakers as the ideal architectural sound approach for refined dining BGM. The panels were professionally installed within the ceiling and skim-coated to match the exact paint finish, making them completely unseen while allowing warm, even sound to gently radiate throughout the space. The result is a polished dining ambience that feels curated and comfortable—supporting conversation, enhancing the guest experience, and integrating seamlessly with the hotel’s design language."
         ],
         "system": {
           "Sound System": [
-            "Amina AIW5X – Invisible Speaker"
+            "Amina AIW5X"
           ]
         },
         "completion": "April 2011"
       },
       {
         "title": "Mandarin Oriental Hotel",
-        "context": "Luxury hotel · Kuala Lumpur, Malaysia",
-        "profile": "The Mandarin Oriental in Kuala Lumpur, Malaysia opened in 1998 and is the largest Mandarin Oriental hotel having 632 rooms, 41 suites and 51 apartments. It is located next to Petronas Tower, offers 6 restaurants and 2 bars, a fitness centre, spa and an infinity edge ourdoor pool with views over the near located city centre park. It has been rated as the best hotel in Kuala Lumpur several times and as one of the 100 best hotels in Malaysia. The Five-Star hotel is nationwide famous for its personal service, the different culinary offers by international chefs and the room views over the illuminated Petronas towers by night.",
+        "profile": "Mandarin Oriental, Kuala Lumpur is an icon of the city’s skyline. Opened in 1998 and set beside the Petronas Twin Towers, the hotel pairs scale with poise across 632 rooms, 41 suites, and 51 serviced apartments. The experience is shaped by considered luxury: six restaurants and two bars led by international chefs, a full spa and fitness centre, and an infinity-edge pool overlooking the neighbouring city-centre park. Consistently recognised among Kuala Lumpur’s top addresses, it’s known for warm, personal service and unforgettable night views of the towers—an elegant benchmark for five-star hospitality in Malaysia.",
         "focus": [
-          "Consult, Design and Installation"
+          "Mandarin Oriental, Kuala Lumpur required a premium background music solution that could match its five-star positioning while preserving the hotel’s refined architectural lines. With iconic views, elegant public spaces, and a guest experience defined by quiet detail, the brief was to create a seamless ambience—music that enhances arrival, circulation, and shared areas without introducing any visual distractions. To achieve this, we specified Amina Invisible Speakers as the ideal architectural audio system. Installed flush within the ceiling and finished to match surrounding surfaces, the panels remain completely unseen while delivering smooth, evenly distributed sound that feels natural to the space. The result is a discreet, design-integrated BGM experience that supports the hotel’s signature sense of calm luxury—subtle, consistent, and worthy of one of Kuala Lumpur’s most recognisable addresses."
         ],
         "system": {
           "Sound System": [
-            "Amina AIW1 – Invisible Speaker",
-            "Amina AIW3 – Invisible Speaker"
+            "Amina AIW1",
+            "Amina AIW3"
           ]
         },
         "completion": "December 2013"
       },
       {
         "title": "Hilton Hotel",
-        "context": "Hotel / hospitality",
         "location": "Kuala Lumpur, Malaysia",
-        "profile": "Located in the heart of KL Sentral, Hilton Hotel is a landmark destination where business travellers, weekend guests and fine-dining enthusiasts cross paths in a vibrant, contemporary setting. The interiors blend warm hospitality with modern luxury — open lobby spaces, refined lounges and signature restaurants all flowing together with a consistent design language. For this project, the goal was to create an audio experience that feels effortless: present, but never intrusive. Using Amina AIW1 and AIW3 invisible speakers, we delivered a fully concealed sound solution that preserves the clean architectural lines of the hotel while bathing key guest areas in soft, evenly balanced background music. Whether guests are checking in, enjoying a casual conversation, or moving between facilities, the sound remains smooth, calming and beautifully uniform across the entire space.",
+        "profile": "Hilton Worldwide Holdings Inc. is one of the world’s most established hospitality groups, shaping modern travel through a portfolio of 25 distinctive brands. With nearly 9,000 properties and more than 1.3 million rooms across 141 countries and territories, Hilton’s presence spans major cities, resort destinations, and emerging markets worldwide. The group is recognised for setting consistent standards in comfort, service, and design, while continually evolving to meet the expectations of today’s travellers. Through its global scale and long-standing reputation, Hilton remains a defining name in international hospitality.",
         "focus": [
-          "Consult, Design and Installation"
+          "For this Hilton project, the objective was to deliver a background music solution that aligned with the brand’s global standards while remaining flexible enough to suit a modern hotel environment. With Hilton’s emphasis on consistency, comfort, and well-considered design, the audio experience needed to feel refined, reliable, and effortlessly integrated into the guest journey. We implemented Amina Invisible Speakers to provide a discreet architectural sound solution across key hotel spaces. Concealed within ceilings and finished to match surrounding surfaces, the system preserves clean interior lines while delivering balanced, ambient sound at comfortable listening levels. This approach supports Hilton’s design-led hospitality ethos—enhancing atmosphere without drawing attention—ensuring the audio experience feels cohesive, premium, and in keeping with one of the world’s most recognisable hotel brands."
         ],
         "system": {
           "Sound System": [
-            "Amina AIW1 – Invisible Speaker",
-            "Amina AIW3 – Invisible Speaker"
+            "Amina AIW1",
+            "Amina AIW3"
           ]
         },
         "completion": "January 2008"
       },
       {
         "title": "Apricot Hotel",
-        "context": "Boutique hotel",
+        "context": "Hotel",
         "location": "Hanoi, Vietnam",
-        "profile": "Apricot Hotel is a boutique luxury property in the heart of Hanoi, blending contemporary elegance with classic artistic influences. The brief called for a high-quality background music system that would enhance the ambience without introducing any visible hardware. Using Amina LFi2T invisible speakers, we delivered a fully concealed sound solution that preserves the hotel’s refined interiors while providing soft, evenly distributed audio across guest areas.",
+        "profile": "Apricot Hotel is a luxury boutique hotel in Hanoi, created with a deep love for Vietnamese art, culture, and heritage. Known as the first in Vietnam to blend locally celebrated art with hospitality, it offers an experience that feels distinctly rooted in place.\nThe hotel features 123 elegant guest rooms, along with meeting rooms equipped with modern facilities for business and private gatherings.\n\n",
         "focus": [
-          "Consult, Design and Installation"
+          "The client requested a premium hotel audio solution with no visible speakers, prioritising a clean, uninterrupted interior aesthetic. To meet this vision, we proposed Amina Invisible Speakers—an architectural sound system designed to disappear entirely into the building fabric while delivering clear, refined audio throughout the space.\n\nThe Amina panels were professionally installed within the ceiling and skim-coated to match the exact paint finish, making them completely invisible once completed. Sound radiates naturally from the ceiling, creating an immersive and evenly balanced listening experience without visual clutter. This approach allowed the hotel to maintain its design integrity while offering guests a seamless, high-quality audio environment that feels effortless and truly premium.\n\n"
         ],
         "system": {
           "Sound System": [
-            "Amina LFi2T – Invisible Speaker"
+            "Amina LFi2T"
           ]
         },
-        "completion": "October 2014"
-      }
-    ],
-    "Residential & Private Cinema": [
+        "completion": "Oct 2014"
+      },
       {
-        "title": "Avara Seputeh",
-        "context": "High-rise residential",
-        "location": "Kuala Lumpur",
-        "profile": "When comes to hitting the target right on the dot, no residential development offers such value as Avara Seputeh. A freehold development neighbouring 5 urban developments – Mid Valley City, KL Eco City, Bangsar South, Bandar Malaysia, and KL Sentral. Avara Seputeh is the place to call home.Optimises space for style and comfort in all its units. They have 3 artistic yet practical layout design plans, whether it is 1, 2 or 3 rooms to suit your needs. Luxurious interiors fuse comfort with an elegant style. And stylish living areas perfect spaces for entertaining. High-quality finishes blend effortlessly from beautiful kitchens which shape the heart of these designer homes to indulgent premium appliances.Turn up the heat at the state-of-the-art gymnasium, or take a dip in the infinity lap pool. Unwind with a cold beverage in the sun lounge while watching over the kids as they enjoy splashing in the awesome water playground. Your private events and parties will be the talk of the town. Imagine dining amidst a beautifully landscaped garden while enjoying sterling city skyline views.Live high, live well, live posh in an iconic residence created with nature in mind. It is a prestigious enclave with warm and sophisticated accents to enhance comfort living. Its uncompromised aesthetics incorporate a modern and organic concept. Blending features and finishing in an interplay of the stylish kinetic facade, ripples in the wind to form a beautiful piece of art.",
+        "title": "Rosewood",
+        "location": "Rosewood, Cambodia",
+        "profile": "Soaring 188 meters above the heart of Phnom Penh’s business district, Rosewood Phnom Penh occupies the top 14 floors of Vattanac Capital Tower, the city’s most iconic modern structure and a symbol of the new Cambodia.",
         "focus": [
-          "Consult, Design and Installation"
+          "Nextrend Systems was engaged to provide professional audio consultation and precision system tuning to support the venue’s luxury standards. Our role focused on optimizing sound performance to deliver balanced, immersive background music and refined live audio, carefully calibrated to suit the elevated dining and hospitality environment. Through expert acoustic tuning, we ensured consistent sound coverage, clarity, and seamless transitions, enhancing the guest experience while preserving the hotel’s sophisticated interior design and panoramic city views."
         ],
         "system": {
           "Sound System": [
-            "K-array KF210",
-            "K-array K-KUIP",
-            "K-array KWALL2",
-            "Frog-is FI-AMP8 x1",
+            "K-array Kommander-KA84 x 4 nos",
+            "K-array Kayman-KY102 x 8 nos",
+            "K-array Thunder-KMT21P x 4 nos",
+            "K-array Python-KP102 x 2 nos",
+            "K-array KF12P x 4 nos",
+            "Amina Edge 5"
+          ]
+        },
+        "completion": "March 2018"
+      }
+    ],
+    "Residential": [
+      {
+        "title": "Avara Seputeh Residence",
+        "context": "Residential",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "Avara Seputeh is a freehold residential development in a well-connected pocket of Kuala Lumpur, surrounded by key urban hubs including Mid Valley City, KL Eco City, Bangsar South, Bandar Malaysia, and KL Sentral. Designed for modern city living, Avara Seputeh is a place to settle in and feel at home.\n\n",
+        "focus": [
+          "The client requested a premium outdoor AV solution for football match screenings and social gatherings, with an emphasis on strong sound coverage and a clean, uncluttered environment when the system is not in use. The goal was to create an engaging outdoor entertainment space that feels intentional, comfortable, and suitable for both large crowds and casual viewing.\n\nTo achieve this, we designed an outdoor-ready sound system paired with a motorised projection solution using the SC60 6-metre Projector Scissors Lift. This allows the projector to remain completely hidden when not in use and deploy smoothly only when needed, preserving the visual elegance of the space. Combined with carefully planned speaker placement for even audio coverage, the solution delivers immersive sound and clear, impactful visuals—transforming the outdoor area into a flexible, premium venue for match days, events, and communal experiences.\n\n"
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Domino-KF210",
+            "Frog-Is FI-AMP8 x 1 no",
             "PRE 126 Amp",
-            "Panasonic PT-MZ780",
             "Panasonic ET-ELW20",
             "SC60 6m Motorized Projector Scissors Lift"
           ]
         },
-        "completion": "March 2022"
+        "completion": "Mar 2022"
       },
       {
         "title": "Twin Palms Residence",
-        "context": "Luxury residence · Malaysia",
-        "location": "Kuala Lumpur",
-        "profile": "-",
+        "context": "Residential",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "Twin Palms is a private hillside residence set against the forested slopes of Bukit Tabur, where nature and exclusivity meet. Surrounded by greenery and a quiet sanctuary-like setting, it offers a rare sense of retreat without feeling far from the city.",
         "focus": [
-          "Consult, Design and Installation"
+          "The owner of this private residence wanted to create a more accommodating environment for his guests where sound would be the extension of his ideas. Modern interior designs often include clean lines, simple colours with absolute minimalism, it is quite important that everything blends into the architecture, especially where entertainment is central to the rooms activity, as if the speakers were part of the décor themselves.\n\nThe solution delivers balanced surround audio that fills the room naturally, with carefully positioned speakers to enhance clarity, depth, and impact. Integrated seamlessly into the architecture, the system transforms the living spaces into true home theatre environments—bringing cinema-quality sound into everyday living while maintaining a clean, sophisticated aesthetic.\n\n"
         ],
         "system": {
           "Sound System": [
-            "2 K-array KP102",
-            "2 K-array KV52",
-            "2 K-array KU210",
-            "3 K-array KP52",
-            "PRE 126 Amp",
-            "2 K-array KT2"
+            "K-array Python-KP102 x 2 nos",
+            "K-array Vyper-KV52 x 2 nos",
+            "K-array Rumble-KU210 x 2 nos",
+            "K-array Python-KP52 x 3 nos",
+            "K-array Tornado-KT2 x 2 nos"
           ]
         },
-        "completion": "August 2020"
+        "completion": "Aug 2020"
       },
       {
         "title": "Desa ParkCity: Integrated Luxury Home",
-        "context": "Residential · Kuala Lumpur",
+        "context": "Residential",
         "location": "Kuala Lumpur, Malaysia",
-        "profile": "-",
+        "profile": "Desa ParkCity is truly a self-contained township, centred on the ideals of good, wholesome living, where its residents are able to foster family, neighbourhood and community ties.",
         "focus": [
-          "Whole-home",
-          "Cinema tuning",
-          "Low visual impact"
+          "We designed a complete residential sound solution that brings together cinematic entertainment, social fun, and refined everyday listening—each system tailored to its space and purpose. For the dedicated AV room, the home theatre system delivers an immersive surround sound experience using a Denon AVR receiver with matched front, centre, rear speakers and a dedicated subwoofer, creating rich, balanced audio for movies, sports, and streaming that feels powerful yet controlled.\n\nTo support more interactive moments, a karaoke system was integrated for singing and entertainment, offering clear vocal projection, reliable wireless microphones, and a high-resolution karaoke player—ideal for family gatherings and celebrations. In the living and dining areas, we implemented a premium background music system using Amina invisible plaster-in speakers paired with a compact NAD music system and a discreet subwoofer. This allows music to flow naturally through the space without visible speakers, preserving the interior design while delivering warm, even sound. Together, the solution enhances daily living with comfort, flexibility, and a truly premium audio experience.\n\n"
         ],
         "system": {
-          "Key Product": [
-            "Home Theater System for AV Room:",
-            "Denon AVR-390 Surround Receiver Amplifier",
-            "SC-F390 Front Channel Speaker",
-            "SC-C390 Center Channel Speaker",
-            "SC-R390 Rear Channel Speaker",
-            "DSW-390 Subwoofer",
-            "Karaoke System:",
-            "BMB CS225E – 8″ Karaoke & Bestkara Amplifier 180W x2",
-            "NK 388 Microphone x2",
-            "MyWay Karaoke Hardisk Player High Resolution excluded LCD",
-            "Background Music System for Living & Dining Hall:",
-            "Amina AIW3X Plaster In-wall (In-Ceiling) Loudspeaker",
-            "NAD C717 20W Compact Music System",
-            "Velodyne Impact Mini – 8″ Powered Subwoofer"
+          "Home Theater System for AV Room": [
+            "Denon AVR-390 Surround Receiver Amplifier x 1 no",
+            "SC-F390 Front Channel Speaker x 2 nos",
+            "SC-C390 Center Channel Speaker x 1 no",
+            "SC-R390 Rear Channel Speaker x 2 nos",
+            "DSW-390 Subwoofer x 1 no"
+          ],
+          "Karaoke System": [
+            "BMB CS225E – 8″ Karaoke & Bestkara Amplifier 180W x 2 nos",
+            "NK 388 Microphone x 2 nos",
+            "MyWay Karaoke Hardisk Player High Resolution (excluded LCD) x 1 no"
+          ],
+          "Background Music System for Living & Dining Hall": [
+            "Amina AIW3X Plaster In-wall (In-Ceiling) Loudspeaker x 1 no",
+            "NAD C717 20W Compact Music System x 1 no",
+            "Velodyne Impact Mini – 8″ Powered Subwoofer x 1 no"
           ]
         },
-        "completion": "August 2010"
+        "completion": "Aug 2010"
       },
       {
         "title": "ARIA Residence",
-        "context": "High-rise private residence",
-        "location": "Jalan Tun Razak, Malaysia",
-        "profile": "Aria Kuala Lumpur rises majestically from the very heart of Malaysia’s bustling capital city. 2 Towers with 592 units in all, ranging from one and up to three bedrooms. All residences are exclusive and private, 2 lifts serving 2–3 units only, offering exclusive concierge service and luxurious facilities area of approximately 65,000 sq. ft.Within 1km traveling distance to both proposed KLCC East and Conlay MRT station, Aria KLCC’s most desirable address and is the epitome of upscale urban living.",
+        "context": "Residential",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "Aria is a luxurious residence lounging in the heart of the Golden Triangle. Prestigiously situated within the perimeters of the coveted KLCC address, Aria which is also known as Aria Luxury Residence is a residence that was inspired by the melody of an opera singer. With its musical theme and music-inspired architecture, the various facility floors in Aria are given also given music-inspired names. ",
         "focus": [
-          "Consult, Design and Installation"
+          "We delivered a fully integrated AV solution tailored to elevate both performance and aesthetics. From initial consultation through to final installation, the focus was on creating a seamless experience that feels intuitive, refined, and visually understated.\n\nThe visual system, led by the Optoma UHD60 projector, provides crisp, high-resolution imagery ideal for immersive viewing and presentations. A Crestron wall panel was introduced to simplify control, allowing users to manage the entire system effortlessly from a single, elegant interface. For audio, we specified a K-array KRM33 sound system paired with Frog-is SUB10A subwoofers and SMS4B speakers, delivering clear, balanced sound with enough depth and power for both everyday use and high-energy moments. Carefully integrated into the architecture, the solution enhances the space without visual clutter—bringing together performance, control, and design in one cohesive system.\n\n"
         ],
         "system": {
+          "Visual System": [
+            "Optoma UHD60 x 1 no"
+          ],
+          "Control System": [
+            "Crestron Wall Panel x 1 no"
+          ],
           "Sound System": [
-            "Optoma UHD60",
-            "Crestron Wall Panel",
-            "K-array KRM33",
-            "Frog-is SUB10A",
-            "Frog-is SMS4B"
+            "K-array Turtle-KRM33 x 1 no",
+            "Frog-Is FI-SUB10A x 1 no",
+            "Frog-Is FI-SMS4B x 1 no"
           ]
         },
-        "completion": "August 2019"
+        "completion": "Aug 2019"
       },
       {
         "title": "Saujana Residence",
-        "context": "Private residential · Malaysia",
-        "location": "Saujana, Petaling Jaya",
-        "profile": "The Saujana Hotel Kuala Lumpur in Malaysia is a 5 star resort style hotel that sits on 160 hectares of lush tropical forest and gardens with lakeside view. Taking its name from the old Malay expression “sejauh di sana” which means – as far as the eye can see – this 355 rooms resort with two adjoining 18-hole championship gold courses is an idyllic haven for business and pleasure only minutes from the city in Shah Alam.",
+        "location": "Saujana, Malaysia",
+        "profile": "Saujana Residency is a luxury serviced apartment in SS16, Subang Jaya City Centre, set beside key landmarks like Empire Subang and Subang Parade. Launched in December 2005 and completed in September 2009, it features two 19-storey towers—Suria and Bayu—with 350 residences. Layouts range from 585 sq ft studios to expansive 2,535 sq ft garden units, with dedicated parking included. The address is valued for everyday convenience, with malls, a mosque, healthcare, and leading colleges nearby. It’s also exceptionally connected, just steps from the Subang Jaya KTM station and easily accessible via major highways.",
         "focus": [
-          "Consult, Design and Installation"
+          "For Saujana Residence, our role encompassed full consultation, design, and installation, ensuring the audio experience was thoughtfully planned from concept through to completion. The objective was to create a refined background music environment that enhances daily living while respecting the calm, resort-style character of the residence. By carefully considering spatial layout, lifestyle use, and architectural intent, we designed a discreet BGM solution that integrates seamlessly into the building’s interiors. The result is an unobtrusive soundscape that supports relaxation and shared moments without visual clutter—demonstrating a holistic approach where technical decisions are guided by design, comfort, and long-term enjoyment."
         ],
         "system": {
           "Sound System": [
-            "K-array KT2 – 2″ audio speaker carved from aluminum",
-            "Sonab CSW – Subwoofer"
+            "Amina AIW3",
+            "Amina AIW5"
           ]
         },
         "completion": "March 2015"
       },
       {
         "title": "M-City SOHO",
-        "context": "Residential / SOHO",
         "location": "Ampang, Kuala Lumpur",
-        "profile": "-",
+        "profile": "M City Soho is an award-winning integrated development by Mah Sing Group in Ampang, Kuala Lumpur, crafted around a distinctive “garden city” vision. Layered hanging gardens and themed greenery bring a softer, nature-led rhythm to the urban setting, creating a sense of calm without losing the energy of the city. The development combines residences and SOHO units with everyday retail—anchored by Village Grocer—alongside lifestyle spaces and sky-level amenities designed for modern routines. With strong connectivity across Kuala Lumpur, M City Soho offers a considered blend of convenience, design, and nature in one address.",
         "focus": [
-          "Consult, Design and Installation"
+          "For M City Soho, our involvement covered full consultation, design, and installation, shaped around the development’s garden-city philosophy and contemporary urban lifestyle. The brief was to create a refined audio environment that could support a variety of shared spaces and activities while remaining visually unobtrusive and aligned with the project’s architectural language. The solution was carefully tailored to deliver clear, balanced sound that enhances atmosphere without dominating it. Compact, design-conscious components were integrated discreetly within the environment, preserving clean lines and the calm, nature-led aesthetic of the development. The result is a flexible and polished audio experience that supports daily living, social interaction, and curated moments—reinforcing M City Soho’s identity as a thoughtfully designed address where convenience, greenery, and modern life coexist seamlessly."
         ],
         "system": {
           "Sound System": [
-            "K-array KB1R – High tech portable powered system",
-            "K-array KK52 – Stainless steel line array element",
-            "K-array KT2 – 2″ audio speaker carved from aluminium",
-            "REL T3 – Subwoofer"
+            "K-array KB1R",
+            "K-array Kobra-KK52",
+            "K-array Tornado-KT2",
+            "REL T3 Subwoofer"
           ],
           "Visual System": [
             "OPPO BDP-103D – Blu-ray player"
           ]
         },
         "completion": " April 2016"
+      },
+      {
+        "title": "KL BT",
+        "context": "Commercial / corporate · Kuala Lumpur",
+        "focus": [
+          "Corporate/commercial",
+          "Clarity",
+          "Ambient layer"
+        ]
       }
     ],
-    "Luxury Retail & Automotive": [
-      {
-        "title": "Van Cleef & Arpels",
-        "context": "Luxury retail maison · Malaysia",
-        "location": "Pavilion, Kuala Lumpur",
-        "profile": "Van Cleef & Arpels is a French luxury jewelry, watch, and perfume company. Founded in 1906, Van Cleef & Arpels has always remained faithful to the values of the creation, expertise and transmission. Inspired by the Maison’s unique identity and heritage, each jewelry and watch collection tells a story with universal meaning to express a poetic way of life.",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina Edge3 MT – Invisible Speakers x5 units",
-            "TOA A-1812 ER – Power Amplifier x2 units",
-            "TOA AT-4060 – Volume Controller"
-          ]
-        },
-        "completion": "October 2020"
-      },
-      {
-        "title": "Fendi",
-        "context": "Luxury retail",
-        "location": "KLCC, Malaysia",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina AIW1X – Invisible Speaker"
-          ]
-        },
-        "completion": "January 2013"
-      },
-      {
-        "title": "YSL",
-        "context": "Luxury retail",
-        "location": "Pavilion,Kuala Lumpur",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina AIW3 – Invisible Speaker",
-            "REL Q108 – Subwoofer"
-          ]
-        },
-        "completion": "September 2008"
-      },
-      {
-        "title": "Burberry",
-        "context": "Luxury retail",
-        "location": "KLCC, Malaysia",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina AIW1 – Invisible Speaker",
-            "ALF80 – Subwoofer"
-          ]
-        },
-        "completion": "March 2010"
-      },
-      {
-        "title": "Dolce & Gabbana",
-        "context": "Luxury fashion retail",
-        "location": "KLCC, Malaysia",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina LFi2T – Invisible Speaker",
-            "K-array KMT12P – Ultra-light, high-power 12” subwoofer"
-          ]
-        },
-        "completion": "July 2014"
-      },
-      {
-        "title": "Ermenegildo Zegna",
-        "context": "Luxury menswear retail",
-        "location": "KLCC, Malaysia",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina AIW1 – Invisible Speaker",
-            "REL Q108 – Subwoofer"
-          ]
-        },
-        "completion": "November 2007"
-      },
-      {
-        "title": "BMW M",
-        "context": "Automotive brand space",
-        "location": "Jurong East, Singapore",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina AIW1 – Invisible Speaker",
-            "ALF80 – Subwoofer"
-          ]
-        },
-        "completion": "August 2010"
-      },
-      {
-        "title": "Lexus Mutiara Showroom",
-        "context": "Automotive luxury showroom",
-        "location": "Lexus Mutiara Damansara, Malaysia",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sales Gallery": [
-            "K-array KV52 x 4 – Ultra-flat line array element",
-            "K-array KU26 x 2 – Ultra thin, high power passive subwoofer"
-          ],
-          "Lounge": [
-            "Audac Ateo 6 x 3 – Wall Speaker with CLEVERMOUNT™ 6",
-            "Audac Celo 8 x 2 – High-end 2-Way 8″ Ceiling Speaker",
-            "Audac Celo 2D x 2 – High-end Ceiling Speaker 2"
-          ],
-          "Control System": [
-            "Audac Pre126 – Two Zone – 6 Channel Stereo Preamplifier"
-          ]
-        },
-        "completion": "August 2018"
-      }
-    ],
-    "Corporate / Government / Enterprise": [
-      {
-        "title": "SJKC SOO",
-        "context": "Multipurpose school hall · Kapar, Malaysia",
-        "location": "Kapar, Malaysia",
-        "profile": "SJK(C) Soo Jin is a primary school in Pekan Kapar with a multipurpose hall the size of three badminton courts. The upgrade brief called for an affordable yet high-quality sound system that could fully cover the hall for school events, assemblies and performances.",
-        "focus": [
-          "Consult, Design and Installation",
-          "Budget-conscious hall reinforcement without compromising speech clarity or musical impact.",
-          "Full-coverage system using a compact combination of front-of-house and delay loudspeakers."
-        ],
-        "system": {
-          "Sound System": [
-            "Frog-is FP15p – Large format passive full range 15” speaker",
-            "Frog-is FP12p – Compact passive full range 12” speaker",
-            "Frog-is FP8p – Mini passive full range 8” speaker",
-            "Frog-is FI-Amp8 – 8 channel bridgeable Class D power amplifier"
-          ],
-          "Control System": [
-            "DBX DriveRack"
-          ]
-        },
-        "completion": "August 2018"
-      },
-      {
-        "title": "TZU CHI INTERNATIONAL SCHOOL",
-        "context": "International school auditorium · Bukit Jalil, Malaysia",
-        "location": "Tzu Chi International School, Bukit Jalil, Malaysia",
-        "profile": "Tzu Chi International School (TCISKL) offers the Cambridge curriculum together with Tzu Chi’s humanistic lessons on a 7.67-acre campus. This project focused on delivering powerful, controlled sound reinforcement for two auditoriums used for assemblies, performances and events.",
-        "focus": [
-          "Consult and Supply",
-          "High-output, controlled-coverage systems for Auditorium 1 and Auditorium 2.",
-          "Consistent speech intelligibility and musical impact across every seat."
-        ],
-        "system": {
-          "Sound System": [
-            "Auditorium 1: 2 sets of K-array Axle KRX402",
-            "Auditorium 2: 2 sets of K-array Pinnacle KR202"
-          ]
-        },
-        "completion": "February 2020"
-      },
+    "Commercial & Retail": [
       {
         "title": "Iskandar Malaysia",
         "context": "Corporate / civic · Johor",
@@ -902,29 +563,27 @@
       },
       {
         "title": "Petronas IO Centre",
-        "context": "Corporate / technical",
         "location": "KLCC, Malaysia",
-        "profile": "PETRONAS, short form Petroliam Nasional Berhad (National Petroleum, Limited), is a Malaysia oil and gas company that was founded on 17 Auguest 1974. Wholly owned by the Government of Malaysia, the corporation is vested with the entire oil and gas resources in Malaysia and is entrusted with the responsibility of developing and adding value to these resources. Petronas is ranked among Fortune Global 500’s largest corporations, 75th largest company and 12th most profitable company in the world. The I/O Centre main function as a command centre as a centralized monitoring hub for global refinery operation. In this case, video conference communication systems are crucial for 24/7 communication hub with each operation centre globally. So, as far as it concerns, the voice intelligibility is the highest priority.",
+        "profile": "PETRONAS (Petroliam Nasional Berhad) is Malaysia’s national oil and gas company, established on 17 August 1974 and wholly owned by the Government of Malaysia. Entrusted with the stewardship of the nation’s hydrocarbon resources, PETRONAS develops and adds value to these assets through an integrated portfolio that spans oil and gas, petrochemicals, and energy solutions. Recognised internationally and consistently listed among the Fortune Global 500, the group operates at a truly global scale. At the I/O Centre, its role is clear and focused: a command hub for round-the-clock oversight of refinery operations, supported by always-on video communication that enables swift, clear coordination across operation centres worldwide.",
         "focus": [
-          "Consult, Design and Installation"
+          "The client needed a premium audio solution that could deliver clear, even sound across the room while keeping the space clean, professional, and free from visual clutter. Our approach was to design audio coverage that supports everyday communication—presentations, discussions, and announcements—without harsh volume hotspots or weak areas. We selected a K-array speaker solution for its slim architectural form and strong performance, allowing the system to integrate neatly with the interior while still producing confident, room-filling sound. With careful placement and tuning during installation, the result is an audio experience that feels balanced and effortless—supporting the space’s purpose while remaining visually discreet and design-aligned."
         ],
         "system": {
           "Sound System": [
-            "K-array KP102 – Stainless steel line array element",
-            "K-array KP52 – Stainless steel line array element",
-            "K-array KMT18 – Ultra-light, high-power 18″ subwoofer",
-            "K-array KA24 – Stainless steel all-in-one amplifier and processing solution"
+            "K-array Python-KP102",
+            "K-array Python-KP52",
+            "K-array Thunder-KMT18",
+            "K-array Kommander-KA24"
           ]
         },
         "completion": "July 2015"
       },
       {
         "title": "BAE Systems",
-        "context": "Enterprise / ops",
         "location": "Menara Binjai, KLCC",
-        "profile": "BAE Systems plc is a British multinational defence security and aerospace company. Its headquarters are in London in the United Kingdom and it has operations worldwide and one of its branches in Menara Binjai Malaysia.",
+        "profile": "BAE Systems plc is a British multinational group operating across defence, security, and aerospace. Headquartered in London, the company supports government and industry partners worldwide through advanced capabilities in technology, engineering, and mission-critical services. With an international footprint that includes a presence in Malaysia at Menara Binjai, BAE Systems reflects the scale and discipline of a global organisation—built on long-term expertise, rigorous standards, and a focus on work that demands precision and trust.",
         "focus": [
-          "Consult, Design and Installation"
+          "For the BAE project, the requirement was to deliver a clear and dependable audio environment that supports presentations, discussions, and day-to-day collaboration. The space needed sound that remains intelligible at all listening positions, allowing teams to communicate confidently without raising their voices or being distracted by uneven volume. Our role covered consultation, design, and installation, resulting in a professionally tuned speaker solution that delivers balanced, room-filling sound while maintaining a clean and organised interior. Careful positioning and system calibration ensured speech clarity and consistency throughout the room. The outcome is an audio setup that feels natural and effortless—supporting focused meetings and reinforcing a polished, professional working environment."
         ],
         "system": {
           "Sound System": [
@@ -941,11 +600,10 @@
       },
       {
         "title": "Great Eastern",
-        "context": "Corporate",
         "location": "Great Eastern Mall, Kuala Lumpur",
-        "profile": "-",
+        "profile": "Great Eastern is Singapore’s trusted insurer, guiding generations with strength and purpose since 1908. As Asia’s oldest established life insurer, it provides life, health, wealth, general, and Takaful solutions across Singapore, Malaysia, Indonesia, and Brunei. Backed by the OCBC Group, Great Eastern serves more than 15.5 million customers through a wide network of advisers and touchpoints across the region. Its identity is anchored by the lion—an emblem of strength and ambition—and a clear commitment to helping people protect what matters, build confidence in their future, and truly #ReachforGreat.",
         "focus": [
-          "Consult, Design and Installation"
+          "For Great Eastern, the objective was to create a background music solution that supports a calm, professional environment while aligning with the brand’s sense of trust, stability, and purpose. In spaces designed for client engagement and everyday operations, the audio needed to feel welcoming and refined—enhancing the atmosphere without drawing attention to the technology behind it. Our role covered consultation, design, and installation, delivering a fully concealed audio solution that integrates seamlessly into the interior architecture. Sound is evenly distributed to create a comfortable, consistent ambience that supports conversation and focus. The result is a subtle yet polished soundscape that reinforces Great Eastern’s brand values—strong, dependable, and thoughtfully considered—while remaining invisible within the space."
         ],
         "system": {
           "Sound System": [
@@ -956,11 +614,10 @@
       },
       {
         "title": "Foreland Realty",
-        "context": "Corporate / property",
         "location": "Troika, Kuala Lumpur",
-        "profile": "-",
+        "profile": "FORELAND Realty Network Group is a global real estate firm dedicated to helping individuals and organisations navigate property investment with clarity and confidence. Through tailored consultation and curated seminars, the group offers informed guidance across a range of international markets and property ventures. Its approach is practical and considered—grounded in market understanding, long-term perspective, and a focus on making decisions that feel well-judged rather than rushed. With a broad outlook and a client-first mindset, FORELAND supports smarter real estate choices wherever opportunities arise.",
         "focus": [
-          "Consult, Design and Installation"
+          "For FORELAND Realty Network Group, the brief was to create a background music environment that supports focused discussion, presentations, and client engagement without distracting from the content or the space itself. In an environment centred on clarity, confidence, and informed decision-making, the audio needed to feel calm, professional, and unobtrusive. Our role covered consultation, design, and installation, delivering a fully integrated audio solution that remains completely hidden within the architecture. Sound is evenly distributed across the space, creating a comfortable ambience that supports conversation and attention during seminars and consultations. The result is a refined soundscape that complements FORELAND’s thoughtful, client-first approach—subtle, consistent, and seamlessly aligned with the interior design."
         ],
         "system": {
           "Sound System": [
@@ -972,11 +629,10 @@
       },
       {
         "title": "eSyariah HQ",
-        "context": "Government / admin",
         "location": "Cyberjaya, Malaysia",
-        "profile": "-",
+        "profile": "eSyariah HQ is the headquarters of Jabatan Kehakiman Syariah Malaysia (JKSM), the federal body that oversees and coordinates Syariah judicial administration across Malaysia’s Federal Territories—Kuala Lumpur, Putrajaya, and Labuan—while working closely with state Syariah judiciary departments nationwide. Closely tied to this mandate is eSyariah, the electronic case management system used by Syariah Courts across the country. Together, JKSM and eSyariah represent a modern, structured approach to managing judicial affairs in alignment with Islamic law, supporting consistency, accountability, and trusted public service at a national level.",
         "focus": [
-          "Consult, Design and Installation"
+          "For eSyariah HQ, the objective was to deliver an audio solution that supports a professional, orderly working environment while respecting the institution’s role in national judicial administration. The space required clear, consistent sound to support meetings, briefings, and daily operations—without visual disruption or unnecessary complexity. Our role covered consultation, design, and installation, resulting in a discreet, design-integrated audio solution that remains fully concealed within the architecture. Sound is evenly distributed to maintain clarity and comfort across shared spaces, supporting focus and effective communication. The outcome is a calm, unobtrusive audio environment that aligns with eSyariah HQ’s commitment to structure, reliability, and modern public service."
         ],
         "system": {
           "Sound System": [
@@ -989,9 +645,9 @@
         "title": "SYABAS Facility",
         "context": "Utility / enterprise",
         "location": "Syabas HQ, Jalan Pantai Baharu",
-        "profile": "Syabas, better known as Syarikat Bekalan Air Selangor, is the sole provider of water supply and distributor for over 7 million customers in Selangor and Federal Territory of Kuala Lumpur.",
+        "profile": "SYABAS, formally known as Syarikat Bekalan Air Selangor, is the primary water supply and distribution provider serving Selangor and the Federal Territory of Kuala Lumpur. With responsibility for delivering clean, reliable water to more than seven million customers, the organisation plays a vital role in supporting everyday life and urban growth across the region. Through its large-scale infrastructure and essential public service mandate, SYABAS stands as a key custodian of one of the state’s most critical resources.",
         "focus": [
-          "Consult and Supply"
+          "For the SYABAS project, the audio requirement was to support clear communication within a functional, high-importance environment where reliability is essential. The space needed sound that is consistent, intelligible, and well controlled, ensuring briefings, announcements, and discussions can be heard clearly without strain or disruption. Our role covered consultation and supply, recommending a speaker solution suited to the scale and purpose of the space. The system delivers even sound coverage with a clean, professional presence, integrating neatly into the environment while maintaining dependable performance. The result is a practical, well-considered audio setup that supports SYABAS’ day-to-day operations with clarity and confidence."
         ],
         "system": {
           "Sound System": [
@@ -1001,28 +657,554 @@
         "completion": "Jan 2020"
       },
       {
-        "title": "Islamic Museum",
-        "context": "Museum / gallery · Kuala Lumpur",
-        "location": "Kuala Lumpur, Malaysia",
-        "profile": "Interest in Islamic art has grown enormously in recent years. Reflecting this awareness, in December 1998 Malaysia became home to Southeast Asia’s largest museum of Islamic art. The building occupies 30,000 square metres, situated amid the leafy surroundings of central Kuala Lumpur’s Lake Gardens.",
+        "title": "Van Cleef & Arpels",
+        "location": "Pavilion, Kuala Lumpur",
+        "profile": "Van Cleef & Arpels is a French luxury house celebrated for jewellery, watches, and perfume. Founded in 1906, the Maison is guided by a devotion to creation, craftsmanship, and the passing down of savoir-faire. Drawing on a rich heritage and a distinctive design language, its collections are conceived as stories—pieces that carry emotion as much as beauty. From signature motifs to intricate watchmaking, every creation reflects a poetic vision of luxury, where imagination and expertise meet in work made to endure.",
+        "focus": [
+          "For Van Cleef & Arpels, the brief was to create a background music experience that reflects the Maison’s poetic vision of luxury—subtle, refined, and deeply considered. In a space where craftsmanship, emotion, and detail take centre stage, the audio needed to enhance the boutique atmosphere without introducing any visible technology or distraction from the jewellery itself. Our role covered consultation and installation, with a focus on delivering an invisible, design-integrated audio solution. Sound is gently diffused throughout the space, creating a calm and intimate ambience that supports conversation and complements the rhythm of the boutique. Fully concealed within the architecture, the system preserves the purity of the interiors while reinforcing the brand’s sense of quiet elegance—an experience that feels seamless, intentional, and unmistakably aligned with Van Cleef & Arpels’ timeless approach to luxury."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina Edge3 MT",
+            "TOA A-1812 ER",
+            "TOA AT-4060"
+          ]
+        },
+        "completion": "October 2020"
+      },
+      {
+        "title": "Fendi",
+        "location": "KLCC, Malaysia",
+        "profile": "Founded in Rome in 1925, Fendi is an Italian fashion house celebrated for its mastery of fur and leather, and for a design spirit that balances tradition with bold invention. Today, under LVMH, the brand is recognised worldwide for its iconic creations—most notably the Baguette and Peekaboo—alongside ready-to-wear, accessories, and modern craft. Fendi boutiques are designed as immersive brand environments, where Roman elegance meets contemporary architecture through rich materials, refined colour palettes, and signature touches such as gold accents and plush detailing. Select locations elevate the experience further with curated moments and heritage displays that honour the maison’s creative legacy.",
+        "focus": [
+          "For the FENDI Boutique, our involvement covered full consultation, design, and installation, with the aim of creating a background music experience that enhances the brand’s immersive retail environment while remaining completely unobtrusive. In a space defined by Roman elegance, refined materials, and precise detailing, the audio needed to feel natural and effortless—present without ever drawing attention to itself. The resulting solution delivers a smooth, evenly balanced ambience that supports the customer journey and reinforces the boutique’s sense of calm luxury. Fully integrated into the architecture, the system preserves clean sightlines and allows FENDI’s design language to remain the focal point. The outcome is a discreet soundscape that complements the store’s atmosphere, adding depth and warmth to the experience while aligning seamlessly with the Maison’s timeless and contemporary identity."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1X"
+          ]
+        },
+        "completion": "January 2013"
+      },
+      {
+        "title": "YSL",
+        "location": "Pavilion,Kuala Lumpur",
+        "profile": "Yves Saint Laurent is a legendary French fashion house founded in 1961 by Yves Saint Laurent and Pierre Bergé. From the beginning, it reshaped modern style—bringing the confidence of menswear into womenswear with icons like Le Smoking, and redefining luxury through ready-to-wear with Saint Laurent Rive Gauche. Rooted in Paris yet always forward-looking, the Maison is recognised for sharp tailoring, clean silhouettes, and a distinct edge that feels both elegant and unapologetic. Across its collections and imagery, Saint Laurent continues to champion individuality and self-expression, holding its place as one of fashion’s most influential names.",
+        "focus": [
+          "For the Yves Saint Laurent boutique, our role covered full consultation, design, and installation, focused on creating background music that suits the brand’s sleek, confident style. The client wanted sound that adds atmosphere and energy, while keeping the store looking clean and uncluttered—without any visible speakers. We delivered a fully hidden audio setup that blends into the boutique’s design, so the space stays visually refined while music fills the room evenly. The sound is balanced to feel rich and immersive, but still comfortable for conversation and browsing. The result is a premium in-store mood that supports the YSL experience—bold, modern, and effortless."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW3",
+            "REL Q108"
+          ]
+        },
+        "completion": "September 2008"
+      },
+      {
+        "title": "Burberry",
+        "location": "KLCC, Malaysia",
+        "profile": "Burberry is a British luxury house founded in 1856 by Thomas Burberry, celebrated for its heritage of craftsmanship and its lasting influence on outerwear. The brand’s story is rooted in innovation—most famously the invention of gabardine and the creation of the trench coat, designed for life outdoors and made with enduring precision. Today, Burberry balances tradition with modern design, weaving signature codes such as the Check and the Equestrian Knight into collections that feel current yet unmistakably classic. With a focus on quality, detail, and refined British character, it remains a benchmark of timeless style for a global audience.",
+        "focus": [
+          "For the Burberry boutique, the requirement was to create a premium background music experience that supports the brand’s refined British character—without introducing anything that disrupts the clean, curated interior. The sound needed to feel present and consistent throughout the space, while keeping the focus on product, craftsmanship, and the boutique’s signature details. We delivered a discreet, design-integrated audio solution with fully concealed speakers, preserving Burberry’s crisp sightlines and timeless aesthetic. Music is spread evenly across the boutique, with added depth to keep the atmosphere warm and immersive at comfortable listening levels. The result is a polished in-store ambience that feels effortless—enhancing the customer journey while blending seamlessly into the architecture and overall design."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1",
+            "ALF80"
+          ]
+        },
+        "completion": "March 2010"
+      },
+      {
+        "title": "Dolce & Gabbana",
+        "location": "KLCC, Malaysia",
+        "profile": "Dolce & Gabbana at KLCC Mall brings the spirit of the Italian maison into one of Kuala Lumpur’s most prestigious retail addresses. Founded in Milan in 1985 by Domenico Dolce and Stefano Gabbana, the house is recognised for a bold, sensual aesthetic shaped by Mediterranean life, Sicilian romance, and a deep respect for craft. Across fashion, accessories, jewellery, watches, and beauty, its creations celebrate Italian artistry through rich materials and expressive detail. The KLCC boutique offers a focused expression of that heritage—an immersive setting where modern glamour meets timeless tradition, delivered with the confidence of a global luxury icon.",
+        "focus": [
+          "For the Dolce & Gabbana boutique at KLCC Mall, the brief was to create a background music experience that reflects the brand’s bold Italian character while maintaining the elegance of a luxury retail environment. The audio needed to add energy and warmth to the space without competing with the boutique’s rich materials, expressive details, and carefully curated displays. Our role covered consultation, design, and installation, delivering a fully concealed audio solution that blends seamlessly into the architecture. Music is evenly distributed throughout the boutique, with added depth to create a sense of presence and atmosphere, while remaining comfortable for conversation. The result is an immersive yet refined soundscape that supports the brand experience—enhancing the mood of the space while keeping the focus firmly on Dolce & Gabbana’s distinctive style."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina LFi2T",
+            "K-array Thunder-KMT12P"
+          ]
+        },
+        "completion": "July 2014"
+      },
+      {
+        "title": "Ermenegildo Zegna",
+        "context": "Luxury menswear retail",
+        "location": "KLCC, Malaysia",
+        "profile": "-",
         "focus": [
           "Consult, Design and Installation"
         ],
         "system": {
           "Sound System": [
             "Amina AIW1 – Invisible Speaker",
-            "Amina AIW3 – Invisible Speaker"
+            "REL Q108 – Subwoofer"
           ]
         },
-        "completion": "December 2007"
+        "completion": "November 2007"
       },
       {
-        "title": "1Malaysia for Youth iM4U",
-        "context": "Public / civic",
-        "location": "Puchong, Malaysia",
-        "profile": "1Malaysia for Youth, usually stylised as iM4U, was an initiative of the former Malaysian government of Barisan Nasional (BN) led by Najib Razak. It was created to encourage the volunteerism among Malaysian youth. The program launched in July 2012 and in January 2013 the first group of twenty iM4U ambassadors was announced. IM4U became dormant and was dissolved after the downfall of BN government in the 2018 general election.",
+        "title": "MyTOWN Shopping Centre",
+        "location": "GSC Aurum Theatre, Mid Valley Southkey, Johor Bahru, Malaysia",
+        "profile": "MyTOWN Shopping Centre is a super-regional destination on the edge of Kuala Lumpur’s CBD, created for easy, all-day experiences with friends and family. Home to more than 400 stores and anchored by Malaysia’s largest IKEA, it brings shopping, dining, and entertainment together under one roof, with a retail mix designed to feel lively and current. Developed by Boustead Holdings Berhad and Ikano Pte. Ltd., the centre is also recognised for introducing “Soundscape” to Malaysia—bespoke compositions and designed sounds that shape the mood across key spaces, giving the mall a more considered, immersive atmosphere.",
+        "focus": [
+          "For MyTOWN Shopping Centre, the objective was to deliver a large-scale audio environment that supports a vibrant, all-day retail experience while remaining carefully controlled and cohesive across multiple zones. As one of Malaysia’s first malls to introduce a curated Soundscape concept, the audio needed to do more than provide background music—it had to shape mood, guide movement, and enhance key moments across atriums, linkways, outdoor areas, and event spaces. Our role covered design, installation, and ongoing maintenance, ensuring the system performs reliably across the centre’s diverse environments. Each zone was carefully designed with sound coverage, scale, and ambience in mind—from expansive indoor atriums to open-air gardens—so music and announcements feel balanced, immersive, and never overwhelming. Integrated with lighting and central control, the solution allows the soundscape to evolve throughout the day and adapt to events with ease. The result is a thoughtfully managed audio experience that adds character and energy to the mall, while operating seamlessly in the background to support MyTOWN’s dynamic retail identity."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Mugello-KH2 x 6 nos",
+            "K-array Kommander-KA84 x 1 no",
+            "K-array Kobra-KF12P x 4 nos",
+            "K-array Thunder-KMT218P x 2 nos",
+            "K-array Rumble-KRM33 x 4 nos",
+            "Yamaha QL1 x 1 no",
+            "AKG DHT800 x 4 nos",
+            "AKG DSR800 x 2 nos",
+            "K-array Python-KP52 x 4 nos",
+            "K-array Rattlesnake-KU210 x 2 nos",
+            "K-array Kommander-KA24 x 1 no",
+            "K-array Yaris-KY102 x 6 nos",
+            "K-array Kommander-KA84 x 1 no",
+            "One System 108/HTH x 12 nos",
+            "Yamaha XMV8280-D x 1 no",
+            "JBL AW526 x 2 nos",
+            "Yamaha XP7000 x 1 no",
+            "K-array RIO-KR102 x 1 no",
+            "Yamaha MG10XU x 1 no"
+          ]
+        },
+        "completion": "Completed June 2017"
+      },
+      {
+        "title": "Sunway Carnival Mall",
+        "profile": "Sunway Carnival Mall is a shopping mall located at Seberang Jaya, Central Seberang Perai, Penang, Malaysia which opened in June 2007. It is a stylish 4-storey shopping mall strategically located within the town centre of Seberang Jaya, a well-integrated township initiated by the Government to boost the administrative, residential, industrial and commercial sector of Malaysia’s northern region.",
+        "focus": [
+          "For Sunway Carnival Mall, the brief was to deliver a background music system that enhances the shopping experience while also supporting clear announcements across the entire concourse. The audio needed to provide even coverage throughout common areas, ensuring music, advertisements, and special announcements could be heard clearly by shoppers without overpowering the space. Our role covered consultation, design, and installation, resulting in a sound solution tailored to the mall’s modern interior. Speakers were carefully positioned to achieve consistent coverage across each floor, while their finishes were customised in stainless steel and embedded seamlessly among mirrored surfaces. This approach allowed the audio system to blend naturally into the architecture, delivering a polished soundscape that complements the mall’s contemporary design and supports day-to-day operations effortlessly."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Kobra-KK102 I x 4 nos",
+            "K-array Vyper-KV52 x 2 nos",
+            "K-array Tornado-KT2 x 18 nos",
+            "K-array Kommander-KA24 x 2 nos"
+          ]
+        },
+        "completion": "Completed June 2022"
+      },
+      {
+        "title": "SJKC SOO",
+        "context": "Multipurpose school hall · Kapar, Malaysia",
+        "location": "Kapar, Malaysia",
+        "profile": "SJK(C) Soo Jin is a primary school in Pekan Kapar with a multipurpose hall the size of three badminton courts. The upgrade brief called for an affordable yet high-quality sound system that could fully cover the hall for school events, assemblies and performances.",
+        "focus": [
+          "Consult, Design and Installation",
+          "Budget-conscious hall reinforcement without compromising speech clarity or musical impact.",
+          "Full-coverage system using a compact combination of front-of-house and delay loudspeakers."
+        ],
+        "system": {
+          "Sound System": [
+            "Frog-is FP15p – Large format passive full range 15” speaker",
+            "Frog-is FP12p – Compact passive full range 12” speaker",
+            "Frog-is FP8p – Mini passive full range 8” speaker",
+            "Frog-is FI-Amp8 – 8 channel bridgeable Class D power amplifier"
+          ],
+          "Control System": [
+            "DBX DriveRack"
+          ]
+        },
+        "completion": "August 2018"
+      },
+      {
+        "title": "TZU CHI INTERNATIONAL SCHOOL",
+        "context": "International school auditorium · Bukit Jalil, Malaysia",
+        "location": "Tzu Chi International School, Bukit Jalil, Malaysia",
+        "profile": "Tzu Chi International School (TCISKL) offers the Cambridge curriculum together with Tzu Chi’s humanistic lessons on a 7.67-acre campus. This project focused on delivering powerful, controlled sound reinforcement for two auditoriums used for assemblies, performances and events.",
+        "focus": [
+          "Consult and Supply",
+          "High-output, controlled-coverage systems for Auditorium 1 and Auditorium 2.",
+          "Consistent speech intelligibility and musical impact across every seat."
+        ],
+        "system": {
+          "Sound System": [
+            "Auditorium 1: 2 sets of K-array Axle KRX402",
+            "Auditorium 2: 2 sets of K-array Pinnacle KR202"
+          ]
+        },
+        "completion": "February 2020"
+      },
+      {
+        "title": "Islamic Museum Art Malaysia",
+        "context": "Museum",
+        "location": "Kuala Lumpur, Malaysia",
+        "profile": "The Islamic Arts Museum Malaysia (IAMM), located in Kuala Lumpur, serves as an ambassador of Islamic Arts in Southeast Asia. Located in the heart of Kuala Lumpur, the IAMM opened its doors in 1998, and is home to a vast collection of Islamic arts and artifacts, beautifully curated in its 12 permanent galleries. ",
+        "focus": [
+          "We designed a discreet, design-led audio solution for the museum using Amina Invisible Speakers, allowing sound to enhance the visitor experience without competing with the visual storytelling of the space. The client required clear, immersive audio for exhibitions and ambient soundscapes—while keeping walls and ceilings free from visible technology.\n\nThe Amina panels were seamlessly integrated into the architecture and finished to match surrounding surfaces, making the speakers completely invisible once installed. Sound radiates naturally through the space, guiding visitors and enriching exhibits without drawing attention to its source. The result is an elegant, unobtrusive sound system that supports the museum’s narrative, preserves its aesthetics, and delivers a refined, immersive experience throughout.\n"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker x 1 no",
+            "Amina AIW3 – Invisible Speaker x 1 no"
+          ]
+        },
+        "completion": "Dec 2007"
+      },
+      {
+        "title": "Ajinomoto Museum",
+        "location": "Kuchai Lama, PJ",
+        "profile": "Ajinomoto (Malaysia) Berhad began operations in 1961 as a producer of AJI-NO-MOTO® monosodium glutamate (MSG), becoming one of the earliest Japanese companies established in Malaysia. Over the decades, it has grown into a respected food and seasoning manufacturer, building a portfolio of brands that Malaysians know and rely on. At the centre of that legacy is AJI-NO-MOTO® Umami seasoning—an everyday staple that has earned a place in home kitchens across the country. With deep local roots and long-standing trust, Ajinomoto continues to shape the way Malaysia cooks and eats.",
+        "focus": [
+          "For the Ajinomoto project, the brief was to create a comfortable and welcoming audio environment that supports everyday activities while keeping the space visually clean and uncluttered. The sound needed to be subtle and evenly distributed, enhancing the atmosphere without drawing attention to the technology behind it. Our role covered consultation, design, and installation, delivering a discreet audio solution fully integrated into the architecture. By keeping all speakers hidden from view, the space maintains its refined appearance while enjoying warm, balanced sound throughout. The result is a natural, unobtrusive soundscape that complements the environment and reflects Ajinomoto’s trusted, long-established presence in Malaysia."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1",
+            "ALF80"
+          ]
+        },
+        "completion": "October 2011"
+      },
+      {
+        "title": "BMW M",
+        "context": "Automotive brand space",
+        "location": "Jurong East, Singapore",
+        "profile": "-",
         "focus": [
           "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW1 – Invisible Speaker",
+            "ALF80 – Subwoofer"
+          ]
+        },
+        "completion": "August 2010"
+      },
+      {
+        "title": "Lexus Mutiara Showroom",
+        "context": "Automotive luxury showroom",
+        "location": "Lexus Mutiara Damansara, Malaysia",
+        "profile": "-",
+        "focus": [
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Sales Gallery": [
+            "K-array KV52 x 4 – Ultra-flat line array element",
+            "K-array KU26 x 2 – Ultra thin, high power passive subwoofer"
+          ],
+          "Lounge": [
+            "Audac Ateo 6 x 3 – Wall Speaker with CLEVERMOUNT™ 6",
+            "Audac Celo 8 x 2 – High-end 2-Way 8″ Ceiling Speaker",
+            "Audac Celo 2D x 2 – High-end Ceiling Speaker 2"
+          ],
+          "Control System": [
+            "Audac Pre126 – Two Zone – 6 Channel Stereo Preamplifier"
+          ]
+        },
+        "completion": "August 2018"
+      },
+      {
+        "title": "SP Setia Sales Gallery",
+        "profile": "SP Setia Headquarters is the corporate home of SP Setia Berhad, one of Malaysia’s leading property developers, located in Setia Alam, Selangor. The building is designed to support both leadership and collaboration, bringing together a sales gallery, meeting suites, boardroom, and dedicated training spaces under one roof. As a central point for decision-making and engagement, the headquarters reflects the company’s established presence in the property industry and its focus on clarity, professionalism, and long-term growth.",
+        "focus": [
+          "For SP Setia Headquarters, the requirement was to create a clear, professional audio environment that supports presentations, meetings, and training sessions across multiple shared spaces. With areas ranging from boardrooms to sales and briefing zones, the sound needed to remain consistent, intelligible, and well balanced—supporting confident communication at every level. Our role covered consultation, design, and installation, delivering an integrated audio solution tailored to the scale and function of each space. Speakers were carefully selected and positioned to provide even coverage and clarity, while blending seamlessly with the building’s modern interiors. Working alongside the visual presentation system, the result is a polished, reliable environment where sound and visuals support effective collaboration without distracting from the architecture or the message being delivered."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Tornado-KT2",
+            "K-array Kobra-KK102",
+            "K-array Thunder-KMT18",
+            "K-array Rumble-KRM33"
+          ]
+        },
+        "completion": "Completed July 2014"
+      },
+      {
+        "title": "Ekovest Sales Gallery",
+        "location": "Taman Desa Gombak, Kuala Lumpur",
+        "profile": "Ekovest Berhad is a Malaysia-based group with roots in civil engineering and building construction, guided by a clear focus on creating value for the people it serves. From improving homes and infrastructure to shaping amenities and services that support everyday life, Ekovest’s work is grounded in community impact and long-term relevance. Over the years, the group has grown beyond a traditional construction company into a multi-functional, construction-led organisation with the depth and capacity to deliver across a wider range of built-environment needs. The Ekovest Sales Gallery reflects this ambition—an outward-facing space that introduces the brand through purpose, progress, and presence.",
+        "focus": [
+          "For the Ekovest Sales Gallery, the audio requirement was to support presentations and guided walkthroughs in a space designed to communicate purpose and progress. The sound needed to be clear and engaging, helping visitors stay focused on the message while moving comfortably through the gallery. Our role covered consultation, design, and installation, delivering a clean, design-conscious audio solution that integrates seamlessly into the gallery environment. Speakers were positioned to provide even coverage without visual distraction, while added low-end support gives presentations greater presence and impact. The result is a refined audio experience that enhances storytelling and reinforces Ekovest’s commitment to clarity, confidence, and long-term value."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Kobra-KK52",
+            "K-array Rattlesnake-KU36"
+          ]
+        },
+        "completion": "March 2014."
+      },
+      {
+        "title": "Aspen CEC",
+        "location": "Penang, Malaysia",
+        "profile": "Aspen Group is a Penang-based property developer and real estate investment group built on a clear principle: delivering quality homes with a strong sense of value in a market that never stands still. The group’s character is defined by momentum—an internal culture that favours fresh thinking, disciplined execution, and the confidence to pursue ideas others might dismiss. That mindset has shaped Aspen’s growth into a developer known for purposeful planning and bold decisions, supported by a wider commitment to being a responsible corporate citizen. Today, Aspen Group continues to advance with vision and credibility, guided by the ambition to build places that feel relevant, considered, and lasting.",
+        "focus": [
+          "For the Aspen Group Sales Gallery, the audio requirement was to support clear, engaging presentations while maintaining a clean and contemporary interior. The sound needed to carry confidently across the gallery for storytelling and walkthroughs, while remaining comfortable and well balanced for visitors moving through the space. Our role covered consultation, design, and installation, delivering a zoned audio solution tailored to both showcase and support daily operations. The sales gallery was designed for focused presentations with even coverage and added depth, while supporting areas such as corridors, toilets, and carparks were equipped with consistent background audio to maintain a cohesive experience throughout the journey. Centralised control allows easy management of different zones, ensuring the system remains intuitive and adaptable. The result is a polished, design-integrated audio environment that reflects Aspen Group’s forward momentum and confident approach to property development."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Vyper-KV52 x 4 nos",
+            "K-array Rattlesnake-KU26 x 2 nos",
+            "Audac Celo 2D x 8 nos",
+            "DBX ZonePro"
+          ]
+        },
+        "completion": "Completed October 2018."
+      },
+      {
+        "title": "Aspen Vervea",
+        "location": "Penang, Malaysia",
+        "profile": "Aspen Group is a Penang-based property developer and real estate investment group founded on a simple belief: well-made homes should feel attainable, even as the market evolves. The company is driven by a hands-on focus on ideas, design, and delivery—paired with the confidence to pursue what others might overlook. That spirit has shaped Aspen’s growth into a developer known for bold decisions and thoughtful planning, supported by a wider commitment to responsible business and community value. Today, Aspen Group continues to build with purpose, balancing ambition with credibility across every project it brings to market.",
+        "focus": [
+          "For Aspen Group’s presentation and exhibition spaces, the requirement was to deliver a professional, event-ready environment that can support everything from guided presentations and media playback to live microphones, announcements, and staged brand moments. The system needed to be clear, reliable, and easy to operate—while staying organised and discreet within a polished, customer-facing setting. Our role covered consultation, design, and installation, bringing audio, lighting, control, and connectivity into one coordinated solution. We designed the setup so each space—from the main hall to VIP and pre-function areas—can run smoothly on its own, yet still work together when needed for larger events. With simple touch control, built-in routing, and clean connection points, the experience feels intuitive for staff and seamless for guests—supporting Aspen’s brand storytelling with consistent performance and a refined, modern finish."
+        ],
+        "system": {
+          "Sound System": [
+            "Yamaha TF1",
+            "Frog-IS"
+          ],
+          "Stage Lighting": [
+            "Enttec DIN-ODE",
+            "TP Link TL-T1600G-28PS",
+            "SeaRay Electric Motor 200kg Load",
+            "Individual Wireless Motor Control",
+            "Wall Panel for Audio Connector with Enclosure",
+            "Ceiling Panel for Video Connector"
+          ],
+          "Control System": [
+            "Crestron CP3",
+            "Apple iPad 9.7",
+            "TP Link EAP225",
+            "TP Link TL-SG2210P"
+          ],
+          "VDO": [
+            "HDMI cable 1.8m",
+            "HDMI cable 4.5m",
+            "HDMI cable 7.6m"
+          ],
+          "EXHIBITION HALL : Audio": [
+            "Yamaha TF5",
+            "Yamaha TF1",
+            "Frog-IS FP8",
+            "Audio Technica ATH-M50X",
+            "Yamaha MRX7-D",
+            "Input Cards",
+            "Output Cards",
+            "Yamaha PGM1",
+            "Crestron TSW-560",
+            "TP Link TL-SG2452P",
+            "Audac PMQ240",
+            "K-array Kommander-KA84",
+            "K-array Kobra-KF210",
+            "Flepcher CX530 Type C1",
+            "Dell Optiplex 3060",
+            "AV Rack",
+            "Tables for Equipments in Control Room",
+            "Chair in Control Room",
+            "Wall Panel for Audio Connector with Enclosure",
+            "Ceiling Panel for Audio Connector"
+          ],
+          "EXHIBITION HALL : VDO ": [
+            "TP Link TL-T1600G-28PS",
+            "TP Link TL1-700G-28TQ",
+            "Dell Optiplex 3060",
+            "Gefen EXT-HD2IRS-LAN-TX Encoder",
+            "Gefen EXT-HD2IRS-LAN-TX Decoder",
+            "AMX NMX-ATC N4321",
+            "Gefen EXT-CU-LAN",
+            "Wall Panel for Audio Connector with Enclosure",
+            "Ceiling Panel for Video Connector",
+            "Ceiling Panel for Audio Connector"
+          ]
+        },
+        "completion": "March 2014."
+      },
+      {
+        "title": "Eco Grandeur",
+        "location": "Sungai Buloh, Malaysia",
+        "profile": "Eco Grandeur is a 1,400-acre integrated township created for families who want space, comfort, and a more balanced way of living. Thoughtfully planned gated and guarded neighbourhoods offer a sense of privacy and ease, while a growing commercial centre keeps daily needs close at hand. Nature is part of the address, shaping the pace and feel of the community around it. With well-designed homes, green surroundings, and an atmosphere that encourages neighbours to connect, Eco Grandeur offers the kind of setting where everyday life feels settled—and genuinely enjoyable.",
+        "focus": [
+          "For Eco Grandeur, the audio requirement was to support community activities and shared moments within a township designed around comfort, connection, and everyday living. The sound needed to be clear and reliable, with the flexibility to suit gatherings, announcements, and occasional events—while remaining easy to operate and visually unobtrusive within open communal spaces. Our role covered consultation, design, and installation, delivering a compact, high-quality audio solution that provides confident sound without overwhelming the environment. Carefully selected for its portability and performance, the system allows sound to be introduced only when needed, preserving the calm, nature-led atmosphere of the township. The result is a practical, well-balanced audio setup that supports community engagement while fitting naturally into Eco Grandeur’s relaxed way of life."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Pinnacle-KR-202"
+          ]
+        },
+        "completion": "August 2016"
+      },
+      {
+        "title": "Eco Tropics",
+        "location": "Kota Masai, Johor Bahru",
+        "profile": "Eco Tropics is EcoWorld’s newest township in Iskandar Malaysia—an integrated, self-sustaining address designed to set a new standard for living in Flagship D, Pasir Gudang. Conceived as a complete community, it brings homes, everyday conveniences, and a considered environment into one cohesive place. To introduce the vision, Eco Tropics features a contemporary property gallery created as an immersive visitor experience, combining a multipurpose hall, meeting rooms, and a VIP lounge. The gallery is designed for guided walk-through presentations, where clear, well-orchestrated audio-visual storytelling helps bring the township’s character and promise to life.",
+        "focus": [
+          "For Eco Tropics’ property gallery, the objective was to create an audio environment that supports guided presentations and immersive storytelling while maintaining a refined, contemporary setting. As a space designed to introduce the vision of the township, the sound needed to be clear, engaging, and adaptable—supporting walk-through presentations across the multipurpose hall, meeting rooms, and VIP lounge. Our role covered consultation, design, and installation, delivering a layered audio solution that remains visually discreet while providing clarity and depth. Sound is evenly distributed to guide visitors comfortably through each zone, with the flexibility to scale up for presentations or events when needed. The result is a polished, immersive audio experience that enhances the narrative of Eco Tropics—helping visitors connect with the development’s character, lifestyle, and promise from the moment they step inside."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina iQ1",
+            "Sonab CSW",
+            "K-array RIO-KR202",
+            "K-array RIO-KR402"
+          ]
+        },
+        "completion": "August 2015"
+      },
+      {
+        "title": "Eco Terraces",
+        "location": "Paya Terubong, Penang",
+        "profile": "EcoWorld is Malaysia’s largest property developer, with a strong footprint across key South-East Asian markets. Known for its forward-looking approach to design and delivery, the group has also set a high bar for how property stories are presented—especially through its signature galleries. Eco Terraces reflects that mindset with a dedicated audio-visual facility created for rich, modern presentations. The space is designed to showcase digital content with clarity and impact, supporting guided walk-throughs and curated experiences that bring the development’s character, details, and lifestyle narrative to life.",
+        "focus": [
+          "For Eco Terraces’ presentation facility, the requirement was to deliver an immersive audio experience that enhances digital storytelling while keeping the interiors clean, modern, and design-forward. The space needed clear, well-balanced sound for guided walk-throughs and presentations—ensuring every message lands with impact, without visual clutter or distracting hardware. Our role covered consultation, design, and installation, combining fully concealed speakers with carefully placed architectural elements to achieve even coverage and a rich, confident sound throughout the space. Low-end support was added to give content more depth and presence, helping videos and key moments feel more engaging. The result is a polished, gallery-grade soundscape that complements EcoWorld’s signature presentation style—refined, immersive, and seamlessly integrated into the overall design."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina iQ1 x 1 no",
+            "Sonab CSW",
+            "K-array Kobra-KK52",
+            "K-array Rattlesnake-KU210",
+            "K-array Tornado-KT2"
+          ]
+        },
+        "completion": "May 2015"
+      },
+      {
+        "title": "Eco Meadow",
+        "location": "Simpang Ampat, Penang",
+        "profile": "Eco Meadows is a residential address shaped by the quiet elegance of English countryside living. Inspired by the pastoral landscapes associated with royal estates, it brings a sense of openness and grace to its setting—wide greens, gentle lines, and a calmer rhythm to everyday life. The concept is simple and intentional: a place where nature feels present, the surroundings feel cultivated, and the atmosphere is effortlessly refined.",
+        "focus": [
+          "For Eco Meadows, the audio experience was designed to echo the development’s sense of calm, openness, and refined countryside character. The brief called for sound that gently enhances shared spaces and presentations without disrupting the visual purity of the environment. Music and spoken content needed to feel present yet understated—supporting the atmosphere rather than commanding attention. Our approach focused on a design-integrated solution where sound is delivered discreetly through a combination of concealed and architectural elements, carefully balanced to provide clarity and warmth throughout the space. Subtle low-end support adds depth without intrusion, ensuring the overall soundscape feels smooth and natural. The result is an elegant, unobtrusive audio environment that aligns seamlessly with Eco Meadows’ quiet sophistication—technology that enhances the experience while remaining largely unseen."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina iQ1",
+            "ALF80",
+            "K-array Kobra-KK52",
+            "K-array Rattlesnake-KU210",
+            "K-array Tornado-KT2",
+            "K-array Kommander-KA24"
+          ]
+        },
+        "completion": "November 2015"
+      },
+      {
+        "title": "Eco Macalister",
+        "location": "Macalister Road, Penang",
+        "profile": "Eco Macalister Development Sdn. Bhd. is a Malaysia-incorporated company, established on 1 October 2013, with a focus on property investment holding. Built around a long-term view of real estate value, the company supports the stewardship and growth of assets through a structured, investment-led approach. Under the Eco Macalister name, it reflects a commitment to considered property ownership—where location, quality, and enduring appeal remain central to how value is shaped and sustained.",
+        "focus": [
+          "For Eco Macalister Development, the requirement was to create a premium audio environment that supports presentations, meetings, and day-to-day engagement while keeping the space visually refined. The brief called for sound that is clear and evenly distributed, with enough depth and presence to make content feel confident—without introducing clutter or distracting from the interior design. Our role covered consultation, design, and installation, delivering a discreet, design-led solution that combines concealed sound with carefully integrated architectural speakers for balanced coverage across the space. Low-frequency support was added to give presentations and media greater weight and realism, while overall tuning ensured speech remains comfortable and easy to follow. The result is an audio experience that feels polished and effortless—aligned with Eco Macalister’s long-term, investment-led focus on quality and enduring value."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina LFi4eT",
+            "Sonab CSW",
+            "K-array Kobra-KK52",
+            "K-array Thunder-KMT12P",
+            "K-array Tornado-KT2",
+            "K-array Kommander-KA24"
+          ]
+        },
+        "completion": "December 2014"
+      },
+      {
+        "title": "Meridian East",
+        "location": "Kota Masai, Johor",
+        "profile": "Meridin East is a 1,313-acre freehold township set in the heart of Iskandar Malaysia, conceived as a modern, cosmopolitan address with a strong sense of exclusivity. Designed to reflect the evolving cityscape, it brings together considered planning, wide open spaces, and a progressive urban rhythm in one cohesive masterplan. With its scale, ownership appeal, and prime positioning, Meridin East is shaped to become a lasting destination—one that feels current today and confidently built for what comes next.",
+        "focus": [
+          "For Meridin East, the audio requirement was to support presentations, community events, and engagement activities within a growing township environment. The brief called for a solution that could deliver clear, confident sound when needed, while remaining flexible and easy to deploy across different spaces and occasions. Our role covered consultation, design, and installation, resulting in a compact, high-quality audio setup that balances performance with practicality. The system provides consistent, well-balanced sound without overwhelming the space, allowing events and presentations to feel polished and professional. When not in use, it remains unobtrusive—supporting Meridin East’s modern, forward-looking identity with audio that adapts effortlessly to its evolving needs."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Pinnacle-KR102"
+          ]
+        },
+        "completion": "August 2016"
+      },
+      {
+        "title": "TA Global",
+        "location": " Menara TA, Kuala Lumpur",
+        "profile": "TA Enterprise Berhad is a Malaysia-incorporated investment holding company established on 13 March 1990, and the ultimate holding company of the TA Group. Listed on the Main Market of Bursa Malaysia since 23 November 1990, it oversees a diversified portfolio across capital markets and financial services, including stockbroking, share financing, ESOS financing, fund management, derivatives trading, and unit trust management. Under the TA Global umbrella, the group extends its presence into premium business environments—reflecting the discipline, scale, and long-term outlook of a publicly listed organisation built to operate with confidence in complex markets.",
+        "focus": [
+          "For TA Enterprise Berhad, the brief was to create a high-performance audio-visual environment that supports presentations, briefings, and corporate communications within a premium business setting. The space needed to deliver clear, authoritative sound and reliable visuals, while reflecting the professionalism and confidence of a publicly listed organisation operating in complex financial markets. Our role covered consultation, design, and installation, resulting in a fully integrated solution where audio, visual, lighting, and control systems work together seamlessly. The sound system was designed to deliver powerful yet controlled coverage, ensuring speech and media remain clear and impactful across the room. Visuals were configured for reliability and clarity during live presentations and recordings, while lighting and central control allow the environment to be adjusted easily for different use cases. The outcome is a polished, versatile presentation space where technology supports confident communication—robust in performance, intuitive to use, and aligned with TA Enterprise’s corporate identity."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Python-KP102XG x 2 nos",
+            "K-array Thunder-KMT18 x 2 nos",
+            "K-array Kobra-KF210 x 6 nos",
+            "Yamaha TF-1 x 1 no",
+            "Panasonic PT-RZ370 x 2 nos",
+            "Panasonic AW-HE40 x 2 nos",
+            "Gefen Video Matrix Switcher x 1 no",
+            "Blackmagic Recording Software x 1 no",
+            "Chauvet DJ SlimPAR64 x 8 nos",
+            "BSS x 1 no"
+          ]
+        },
+        "completion": "December 2017"
+      }
+    ],
+    "Entertainment & Venues": [
+      {
+        "title": "The Kitch'n Club",
+        "context": "Indoor Pickleball Court",
+        "location": "Petaling Jaya, Malaysia",
+        "profile": "The Kitch'n Club is a premium indoor pickleball venue in Petaling Jaya, designed for the full rhythm of a session—play, reset, and linger. The courts are bright and carefully maintained, with a standard that suits every level. A dedicated mix of training and recovery spaces—workout zones, a sauna, and ice baths—adds depth to each visit. Off court, a café and drinks kiosk keep things easy between games. With thoughtful design and a warm, open feel, Kitchn Club makes pickleball feel modern, social, and effortless.",
+        "focus": [
+          "We designed a venue-wide audio solution that keeps the atmosphere consistent and premium across every touchpoint—from the courts and reception to the resting areas, café, and even the toilets—so no space ever feels “left behind.” At the same time, the client needed the system to scale up effortlessly for DJs and event programming, without compromising day-to-day comfort.\n\nTo meet both needs, we selected the KGEAR GF82 line array speakers with Frog-IS Sub10P subwoofers for their controlled, even coverage and confident low-end presence. This combination delivers clarity across the full venue while providing the energy and headroom required for DJ sets and live events. Integrated discreetly into the overall design, the system feels refined and intentional—supporting everything from background ambience to high-impact moments with the same polished experience."
+        ],
+        "system": {
+          "Sound System": [
+            "KGEAR GF82 x 8 nos",
+            "Frog-Is FI-SUB10P x 3 nos",
+            "Frog-Is FI-SMS4B x 5 nos",
+            "Frog-Is AMP300D x 1 no",
+            "Frog-Is Amp4D x 2 nos"
+          ]
+        },
+        "completion": "Mar 2025"
+      },
+      {
+        "title": "Wedge Range PJ",
+        "context": "Indoor Golf and Society Club",
+        "location": "Petaling Jaya, Malaysia",
+        "profile": "Wedge Range in Petaling Jaya is an indoor golf and social venue reimagining how people engage with the game. It combines 13 advanced swing bays and four private suites with a PGA-level teaching academy, restaurant, and bar, inviting both casual players and seasoned golfers to enjoy golf in a lively, accessible setting. The space also offers social experiences beyond play, with music, food, drinks, and areas for gatherings of all kinds. Designed with energy and openness at its core, Wedge brings golf, community, and leisure together in one engaging destination.\n",
+        "focus": [
+          "We designed a premium commercial audio system that supports the venue’s full day-to-night rhythm while remaining flexible enough for singing, live vocals, and hosted performances. The client required even background music coverage across all common areas, with a sound profile that feels refined and balanced, and that aligns seamlessly with the modern interior design—without any space feeling disconnected.\n\nThrough precise speaker placement and a scalable, event-ready sound solution, the system transitions effortlessly from relaxed daytime ambience to social evenings, DJ sessions, and live singing. Audio remains comfortable and clear at lower levels, yet powerful and controlled when higher energy is required—delivering a confident, performance-ready experience without visual clutter. Integrated discreetly into the architecture, the solution enhances atmosphere while preserving the venue’s premium design intent.\n"
+        ],
+        "system": {
+          "Standard Bay 1 & 2": [
+            "KGEAR GH4 x 7 nos"
+          ],
+          "Reception": [
+            "KGEAR GC6-RNW x 4 nos",
+            "KGEAR GA201 x 1 no"
+          ],
+          "VIP Bay 1, 2 & 3": [
+            "KGEAR GH4 x 6 nos",
+            "KGEAR GS12 x 3 nos",
+            "KGEAR GA41L x 2 nos",
+            "KGEAR GA43L x 1 no"
+          ],
+          "Patting Garden": [
+            "KGEAR GH4 x 7 nos",
+            "KGEAR GS18 x 2 nos",
+            "KGEAR GA46L x 1 no"
+          ]
+        },
+        "completion": "Jan 2024"
+      },
+      {
+        "title": "1Malaysia for Youth (iM4U)",
+        "context": "Sport Hall ",
+        "location": "Puchong, Malaysia",
+        "profile": "1Malaysia for Youth, usually stylised as iM4U, was an initiative of the former Malaysian government of Barisan Nasional (BN) led by Najib Razak. It was created to encourage the volunteerism among Malaysian youth. The program launched in July 2012 and in January 2013 the first group of twenty iM4U ambassadors was announced. IM4U became dormant and was dissolved after the downfall of BN government in the 2018 general election",
+        "focus": [
+          "We delivered a fully integrated professional AV solution designed to support live performances, presentations, and multimedia events with clarity, flexibility, and reliability. The client required a system that could handle everything from spoken-word programs to high-energy performances, while remaining intuitive to operate and adaptable to different event formats.\n\nFor audio, we specified the K-array KR402 powered stereo system for its ultra-lightweight design and powerful, controlled sound, supported by a Behringer X32 digital console and S16 stagebox for flexible signal management. A range of Sennheiser wireless microphones—including handheld, bodypack, and headworn options—ensures clear vocal reproduction for presenters, performers, and panel discussions. Playback sources are handled seamlessly via the TACH MF4000 media player, supporting multiple formats for reliable daily operation.\n\nThe visual system was designed for impact and versatility, centred around a Panasonic PT-DW750BA 7,000-lumen projector paired with a custom motorised projector lift and a 16′ x 16′ motorised screen, allowing the technology to disappear when not in use. Gefen HDMI distribution and matrix switching enables smooth routing of multiple sources, including Blu-ray playback, across the system. Together, the solution delivers a polished, event-ready environment where sound and visuals work in harmony—supporting professional performance while maintaining a clean, considered design aesthetic."
         ],
         "system": {
           "Sound System": [
@@ -1034,7 +1216,7 @@
             "Sennheiser ew312 – Body pack Microphone",
             "Sennheiser HSP4 – Wireless Headworn Microphone"
           ],
-          "Visual": [
+          "Visual System": [
             "Gefen GTB-HD4K2K-444-BLK – 4×4 HDMI Matrix Switcher",
             "Gefen GTV-HDMI-2-HDMIAUD – HDMI to HDMI Audio Converter",
             "Gefen GTB-HDBT-POL-BLK – HDMI Extender over Cat5",
@@ -1044,7 +1226,7 @@
             "Alphal 16′ x 16′ – Motorised Screen c/w RF remote controller"
           ]
         },
-        "completion": "November 2015"
+        "completion": "Nov 2015"
       },
       {
         "title": "National Aquatic Centre",
@@ -1056,225 +1238,146 @@
         ]
       },
       {
-        "title": "KL BT",
-        "context": "Commercial / corporate · Kuala Lumpur",
+        "title": "The Iron Fairies",
+        "context": "Nightclub & Bar · TREC, Kuala Lumpur",
+        "location": "TREC, Kuala Lumpur, Malaysia",
+        "profile": "The Iron Fairies KL in TREC is set to become a magical place for night-goers to come out and play. One of KL’s most expensive bars being built to date, it’s a venue where the imagination can run wild as you take in the intricate detail of the hand-cast designs by Ashley Sutton himself. A cult brand, The Iron Fairies origins’ draw back to the story books written by Australian iron ore miner-turned-interior designer Ashley Sutton who escaped into a fantasy world of fairies which then inspired the tale that immortalised into what is The Iron Fairies bars today.The Butterfly Room is where 50, 000 handmade butterflies hang from the ceiling and a DJ on Friday & Saturday is setting the tone accordingly with music ranging from old-school house to techno from midnight till 5am. Think along the style of Joey Negro, Frankie Knuckles, Derrick Carter, and so on. The Fairy Garden encapsulates the life & soul of The Iron Fairies. With different areas for seating and dancing reinforced with a powerful sound system by K-array, this rooftop is the ultimate adult’s playground that comes alive once you step inside. The DJ there assumes full responsibility in setting the mood for this area; they are bringing the best of house, disco, techno and every sub genre in between with influence from DJs such as Honey Dijon, Peggy Gou, and Hunee. Three floors starting from the enchanting outdoor rooftop Fairy Garden, heading down to the dark enclosed Butterfly Room and then finally deep underground into the cast iron space resembling an iron mine with a mythical twist, The Iron Fairies Kuala Lumpur is primed to be the flagship jewel of TREC occupying three units and two roof terraces which all comes together to unfold a visual story in each unique space.",
         "focus": [
-          "Corporate/commercial",
-          "Clarity",
-          "Ambient layer"
-        ]
+          "Consult, Design and Installation"
+        ],
+        "system": {
+          "Live Band with PRO AUDIO Speakers": [
+            "K-array KN6 ×10 – High-technology self-powered point/line source speaker",
+            "K-array KO70 ×2 – Self-powered subwoofer element",
+            "Frog-is FP12P ×4 – Compact passive full-range speaker 12″",
+            "Frog-is FP12 ×4 – Self-powered stage monitor 12″"
+          ],
+          "Butterfly Room with PRO AUDIO Speakers": [
+            "K-array KN6 ×8 – Self-powered point/line source speaker",
+            "K-array KO70 ×2 – Self-powered subwoofer element",
+            "Frog-is FP8 ×2 – Self-powered full-range DJ monitor 8″"
+          ],
+          "Rooftop with PRO AUDIO Speakers": [
+            "K-array KN6 ×12 – Self-powered point/line source speaker",
+            "K-array KO70 ×2 – Self-powered subwoofer element"
+          ],
+          "Alfresco Area": [
+            "Frog-is FP8P ×16 – Mini passive full-range speaker 8″"
+          ],
+          "Ceiling Speakers": [
+            "Frog-is CS4W ×6 – Two-way ceiling speaker"
+          ],
+          "Lighting System": [
+            "Beam 230 ×4",
+            "Chauvet DJ SlimPAR Q12 USB ×6"
+          ],
+          "Control System": [
+            "DBX ZonePro"
+          ]
+        },
+        "completion": "September 2018"
+      },
+      {
+        "title": "Handlebar Bar",
+        "location": "Lock Road, Singapore",
+        "profile": "Handlebar Singapore, established in 1999 as Singapore’s first biker-themed restaurant, is a legendary hidden gem at Gillman Barracks, known for its raw, authentic “cult biker” atmosphere and unforgettable motorcycle-inspired interiors. Packed with distinctive details like bike-part furniture and a car-shaped pool table, this iconic venue pairs its immersive, grungy charm with hearty All-American comfort food, including the crowd-favourite signature “Cocaine Wings.” Beyond great food, Handlebar is a vibrant community hub where motorcycle enthusiasts and casual diners come together for live music, sports screenings, and a laid-back outdoor dining experience surrounded by the scenic charm of the area—making it a must-visit destination for anyone searching for a unique restaurant experience in Singapore with top-notch vibes and friendly service.",
+        "focus": [
+          "We delivered a complete consultation, design, and installation solution tailored to the client’s vision and operational needs. Our team worked closely with the client to understand the space, usage requirements, and desired atmosphere, translating these insights into a carefully engineered sound system design. Every component was selected to ensure optimal performance, reliability, and scalability, while seamlessly aligning with the venue’s interior aesthetics. The installation was executed with precision and attention to detail, resulting in a clean, unobtrusive setup that delivers consistent, high-quality audio and a premium end-user experience."
+        ],
+        "system": {
+          "Sound System": [
+            "Amina AIW5X",
+            "K-array Thunder-KMT12P"
+          ]
+        },
+        "completion": "April 2016"
+      },
+      {
+        "title": "Marc Residences",
+        "context": "Residence",
+        "location": "Jalan Pinang, Kuala Lumpur",
+        "profile": "WIP On The Park, located at Marc Residences, is an urban paradise for the senses and taste buds. Nestled within the stylish Marc Residence in Kuala Lumpur’s Golden Triangle, WIP is a hidden oasis that blends open-air spaces, resort-like ambience, and nature-inspired elements.",
+        "focus": [
+          "The sound system was designed to provide broad and even coverage across multiple seating areas, maintaining comfortable SPL for conversation while preserving the venue’s urban-chic aesthetic. The system also provides sufficient headroom for peak-time DJ sets and live band performances through a discreet, design-conscious loudspeaker deployment."
+        ],
+        "system": {
+          "Sound System": [
+            "K-array Kobra-KK102 I x 4 nos",
+            "K-array Vyper-KV52 x 2 nos",
+            "K-array Tornado-KT2 x 18 nos",
+            "KGear GC8TW x 4 nos",
+            "Frog-Is FI-SUB10P x 2 nos",
+            "Frog-Is FI-POW12 x 1 no",
+            "Frog-Is FI-AMP8 x 1 no",
+            "K-array Kommander-KA24 Power Amplifier x 2 nos",
+            "Behringer S16",
+            "Golden Voice KOD3TB"
+          ]
+        },
+        "completion": "October 2021"
       },
       {
         "title": "GSC Aurum Kuala Lumpur",
-        "context": "Luxury cinema · Kuala Lumpur",
         "location": "GSC Aurum Theatre, The Gardens Mall, Kuala Lumpur, Malaysia",
-        "profile": "Named after the Latin word and chemical element representing gold, Aurum Theatre is a gold standard in extravagant cinema experiences; featuring opulent halls with luxury recliners, private cabins, bespoke service and contemporary continental dining.",
+        "profile": "Named after the Latin word and chemical element representing gold, Aurum Theatre is a gold standard in extravagant cinema experiences; featuring opulent halls with luxury recliners, exquisite private cabins, bespoke service, and contemporary continental dining.",
         "focus": [
-          "Immersive surround sound",
-          "Premium cinema experience",
-          "Restaurant & bar coverage"
+          "At our company, we specialize in delivering exceptional audio experiences for Aurum Theatre through our high-quality surround sound system installation and optimization services. Our team of audio experts is dedicated to transforming your theatre into an immersive soundscape that enhances every film screening and event."
         ],
         "role": [
           "Consult, Design and Installation"
         ],
         "system": {
           "Cinema Sound System": [
-            "K-array KV52 – Ultra-flat, 50cm-long aluminum line array element (8×1″ cones)",
-            "K-array KK102 – 100cm stainless steel variable-beam array (16×2″ cones)",
-            "K-array KP102 – 100cm stainless steel variable-beam array (12×3″ cones)",
-            "K-array KF26 – 4×6″ passive stainless steel full-range speaker",
-            "K-array KU212 – Ultra-slim passive subwoofer (2×12″ cones)"
+            "K-array Vyper-KV52 x 8 nos",
+            "K-array Kobra-KK102 x 16 nos",
+            "K-array Python-KP102 x 12 nos",
+            "K-array Domino-KF26 x 4 nos",
+            "K-array Rumble-KU212 x 2 nos"
           ],
           "Amplification & Control": [
-            "K-array KA24 – Class-D DSP amplifier (4×500W @ 4Ω)"
+            "K-array Kommander-KA24"
           ],
           "Restaurant & Lounge": [
-            "Frog-is FS12 – 12″ powered sub + 70cm array (8×3″) 600W + 600W",
-            "Frog-is SMS4 – 4″ two-way surface-mount speaker",
-            "Frog-is SUB10P – 10″ passive subwoofer",
-            "Frog-is WP2V – Dual-channel UHF wireless handheld microphone",
-            "Frog-is VOX2 – Dynamic supercardioid vocal microphone",
-            "Frog-is AMP4D – Quad-channel Class-D amplifier with DSP",
-            "Frog-is AMP8 – 8-channel Class-D amplifier (250W/ch @ 4Ω)",
-            "Frog-is MIXER8 – 8×2 analog mixer with FX"
+            "Frog-Is FS12",
+            "Frog-Is SMS4",
+            "Frog-Is SUB10P",
+            "Frog-Is WP2V",
+            "Frog-Is VOX2",
+            "Frog-Is AMP4D",
+            "Frog-Is AMP8",
+            "Frog-Is MIXER8"
           ]
         },
         "completion": "Completed January 2020"
       },
       {
         "title": "GSC Aurum  Johor Bahru",
-        "context": "Luxury cinema · Johor Bahru",
         "location": "GSC Aurum Theatre, Mid Valley Southkey, Johor Bahru, Malaysia",
-        "profile": "Aurum Theatre at Mid Valley Southkey brings the same gold-standard luxury cinema concept to Johor Bahru, featuring recliners, private cabins and bespoke F&B experiences supported by a finely tuned audio environment.",
+        "profile": "Named after the Latin word and chemical element representing gold, Aurum Theatre is a gold standard in extravagant cinema experiences; featuring opulent halls with luxury recliners, exquisite private cabins, bespoke service, and contemporary continental dining.",
         "focus": [
-          "Cinema tuning",
-          "Pre-show atmosphere",
-          "Premium venue"
-        ],
-        "role": [
-          "Consult, Design and Installation"
+          "At our company, we specialize in delivering exceptional audio experiences for Aurum Theatre through our high-quality surround sound system installation and optimization services. Our team of audio experts is dedicated to transforming your theatre into an immersive soundscape that enhances every film screening and event."
         ],
         "system": {
           "Cinema Sound System": [
-            "K-array KV52 – Ultra-flat aluminum line array element (8×1″ cones)",
-            "K-array KU210 – Ultra-slim passive subwoofer (2×10″ cones)",
-            "K-array KU212 – Ultra-slim passive subwoofer (2×12″ cones)"
+            "K-array Vyper-KV52",
+            "K-array Rumble-KU210",
+            "K-array Rumble-KU212"
           ],
           "Amplification & Control": [
-            "K-array KA14 – DSP amplifier (4×250W @ 4Ω)",
-            "K-array KA24 – DSP amplifier (4×500W @ 4Ω)"
+            "K-array Kommander-KA14",
+            "K-array Kommander-KA24"
           ],
           "Restaurant & Lounge": [
-            "Frog-is FS12 – 12″ powered sub + 70cm array (8×3″)",
-            "Frog-is SMS4 – Surface-mount speakers",
-            "Frog-is SUB10P – Passive subwoofer",
-            "Frog-is WP2V – Dual-channel wireless handheld microphone",
-            "Frog-is VOX2 – Supercardioid handheld microphone",
-            "Frog-is AMP4D – Quad-channel Class-D amplifier",
-            "Frog-is MIXER8 – 8×2 analog mixer with FX"
+            "Frog-Is FS12",
+            "Frog-Is SMS4",
+            "Frog-Is SUB10P",
+            "Frog-Is WP2V",
+            "Frog-Is VOX2",
+            "Frog-Is AMP4D",
+            "Frog-Is MIXER8"
           ]
         },
         "completion": "Completed December 2019"
-      },
-      {
-        "title": "MyTOWN Shopping Centre",
-        "context": "Retail mall · Kuala Lumpur",
-        "focus": [
-          "Retail mall",
-          "Announcement clarity",
-          "Footfall tuning"
-        ]
-      },
-      {
-        "title": "Sunway Carnival Mall",
-        "context": "Retail concourse · Penang",
-        "focus": [
-          "Paging & BGM",
-          "Wide-area coverage",
-          "Tonal balance"
-        ]
-      }
-    ],
-    "Developers / Galleries / Townships": [
-      {
-        "title": "SP Setia Sales Gallery",
-        "context": "Developer gallery",
-        "focus": [
-          "Lifestyle playback",
-          "Sales pods",
-          "Brand tone"
-        ]
-      },
-      {
-        "title": "Ajinomoto Museum",
-        "context": "Museum / gallery · Kuchai Lama",
-        "location": "Kuchai Lama, Petaling Jaya, Malaysia",
-        "profile": "A discreet audio solution for Ajinomoto’s museum space, using fully invisible loudspeakers to preserve clean architectural lines while still delivering clear narration and ambient sound.",
-        "focus": [
-          "Invisible speakers",
-          "Discreet museum audio",
-          "Sub-bass support"
-        ],
-        "role": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina AIW1 – Invisible Speaker",
-            "ALF80 – Subwoofer"
-          ]
-        },
-        "completion": "October 2011"
-      },
-      {
-        "title": "Eco Grandeur",
-        "context": "Developer sales gallery",
-        "focus": [
-          "Sales-floor audio",
-          "Lifestyle showcase",
-          "Clarity"
-        ]
-      },
-      {
-        "title": "Eco Tropics",
-        "context": "EcoWorld township",
-        "focus": [
-          "Township gallery",
-          "Walkthrough ambience",
-          "Presentation"
-        ]
-      },
-      {
-        "title": "Eco Terraces",
-        "context": "EcoWorld township",
-        "focus": [
-          "Consistent ambience",
-          "Discreet install",
-          "Show units"
-        ]
-      },
-      {
-        "title": "Eco Meadow",
-        "context": "EcoWorld township",
-        "focus": [
-          "Relaxed listening",
-          "Narration clarity",
-          "Zones"
-        ]
-      },
-      {
-        "title": "Eco Macalister",
-        "context": "EcoWorld development",
-        "focus": [
-          "Interior alignment",
-          "Presentation clarity",
-          "Ambient scoring"
-        ]
-      },
-      {
-        "title": "Meridian East",
-        "context": "Property presentation",
-        "focus": [
-          "Showroom",
-          "Mood alignment",
-          "Lifestyle"
-        ]
-      },
-      {
-        "title": "TA Global",
-        "context": "Developer / hospitality",
-        "focus": [
-          "Developer",
-          "Premium brand tone",
-          "Presentation"
-        ]
-      },
-      {
-        "title": "Ekovest Sales Gallery",
-        "context": "Developer sales",
-        "focus": [
-          "Sales gallery",
-          "Story soundtrack",
-          "Clarity"
-        ]
-      },
-      {
-        "title": "Aspen Vervea",
-        "context": "Commercial / lifestyle hub",
-        "focus": [
-          "Mixed-use",
-          "Coverage consistency",
-          "Public ambience"
-        ]
-      },
-      {
-        "title": "Aspen CEC",
-        "context": "Experience centre",
-        "focus": [
-          "Demo clarity",
-          "Client walkthrough",
-          "Showcase"
-        ]
       }
     ]
   },
@@ -1775,7 +1878,7 @@
         }
       ]
     },
-    "parkroyal-collection": {
+    "parkroyal-collection-kuala lumpur": {
       "location": "Kuala Lumpur, Malaysia",
       "heroImage": "project_sites/Park-Royal-Collection_project2.jpeg",
       "galleryHighlightImage": "project_sites/Park-Royal-Collection_project2.jpeg",
@@ -2445,18 +2548,18 @@
   },
   "titleToSiteImage": {
     "The Kitch'n Club": "KitchNClub_projects_main.jpg",
-    "1Malaysia Civic Installation": "1Malaysia for Youth iM4U_projects_main.jpg",
+    "1Malaysia for Youth (iM4U)": "1Malaysia for Youth iM4U_projects_main.jpg",
     "1Malaysia for Youth iM4U": "1Malaysia for Youth iM4U_projects_main.jpg",
     "ARIA Residence": "ARIA Luxury Residence KLCC_project_main.png",
-    "Avara Seputeh": "Avara Seputeh_project_main.png",
+    "Avara Seputeh Residence": "Avara Seputeh_project_main.png",
     "M-City SOHO": "MCity_project_main.png",
     "Saujana Residence": "Saujana Residence_project.jpg",
     "Desa ParkCity: Integrated Luxury Home": "KL DPC Residential Desa Park City_project_main.png",
     "Twin Palms Residence": "Twin Palms Residential with K_array_Speakers_project_main.png",
     "Apricot Hotel": "Apricot Hotel_project_main.jpg",
     "Atmosphere 360": "Atmosphere 360 Revolving_Restaurant_projects.jpeg",
-    "Berjaya Cafe": "Berjaya Cafe_project_main.jpg",
-    "PARKROYAL COLLECTION": "Park_Collection_main.jpg",
+    "Berjaya Café": "Berjaya Cafe_project_main.jpg",
+    "PARKROYAL COLLECTION Kuala Lumpur": "Park_Collection_main.jpg",
     "The Saujana Hotel": "Saujana Hotel & Resort_projects_main.png",
     "Sheraton Imperial Hotel": "SheratonImperialHotel_projects_main.jpg",
     "Mandarin Oriental Hotel": "Mandarin Oriental Hotel_project_main.jpg",
@@ -2480,7 +2583,7 @@
     "Quivo": "Mid Valley Southkey_Quivo_project_main.jpg",
     "Gordon Ramsay Bar & Grill": "Gordon_Ramsay_project.jpeg",
     "Nobu": "Nobu Japanese Restaurant_projects_main.JPG",
-    "Wedge Range": "wedge_project.jpeg",
+    "Wedge Range PJ": "wedge_project.jpeg",
     "Marc Residences": "WIP On_project_main.jpg",
     "Brazzo Rivercity": "Brazzo Rivercity Batu Pahat_project_main.jpg",
     "Aspen CEC": "Aspen CEC Penang Malaysia_project.jpg",
@@ -2502,7 +2605,7 @@
     "Great Eastern": "Great Eastern Life Assurance-projects_main.jpg",
     "Handlebar Bar": "Handlebar, Singapore_projects.jpg",
     "Iskandar Malaysia": "ISKANDAR_MALAYSIA-project.jpg",
-    "Islamic Arts Museum": "Islamic Museum_projects_main.jpg",
+    "Islamic Museum Art Malaysia": "Islamic Museum_projects_main.jpg",
     "Islamic Museum": "Islamic Museum_projects_main.jpg",
     "KL BT": "KL BT Residential Bukit Tunku_projects_main.jpg",
     "Lendlease Site Office": "Lendlease Site Office Malaysia_project.jpg",

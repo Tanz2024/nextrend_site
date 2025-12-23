@@ -194,22 +194,22 @@ export default function ProductPage({ params }: Props) {
       .filter(Boolean) as Array<{ label: string; href: string }>;
   }, [product]);
 
-  const detailSections = useMemo(() => {
-    const sections: Array<{
-      key: string;
-      label: string;
-      type: "list" | "resources";
-      items: string[] | Array<{ label: string; href: string }>;
-    }> = [];
+const detailSections = useMemo(() => {
+  const sections: Array<{
+    key: string;
+    label: string;
+    type: "list" | "resources" | "specGroups";
+    items: string[] | Array<{ label: string; href: string }> | any;
+  }> = [];
 
-    if (specs.length || specGroups.length) {
-      sections.push({
-        key: "specifications",
-        label: "Specifications",
-        type: "list",
-        items: specs,
-      });
-    }
+ if (specGroups.length) {
+  sections.push({
+    key: "specifications",
+    label: "Specifications",
+    type: "specGroups",
+    items: specGroups,
+  });
+}
 
     if (applications.length) {
       sections.push({
@@ -239,7 +239,8 @@ export default function ProductPage({ params }: Props) {
     }
 
     return sections;
-  }, [specs, specGroups, features, applications, resources]);
+  }, [specGroups, features, applications, resources]);
+
 
   const [activeSection, setActiveSection] = useState<string | null>(null);
 
@@ -253,7 +254,10 @@ export default function ProductPage({ params }: Props) {
           if (prev && detailSections.some((section) => section.key === prev)) {
             return prev;
           }
-          return detailSections[0]?.key ?? null;
+          const specsSection = detailSections.find(
+            (section) => section.key === "specifications",
+          );
+          return specsSection?.key ?? detailSections[0]?.key ?? null;
         });
       } else {
         setActiveSection(null);
@@ -869,13 +873,15 @@ const onLightboxTouchEnd = () => {
     const isRegulation = (title: string) => norm(title).includes("regulation");
 
     return (
-      <m.div
-        initial={{ opacity: 0, y: 12, filter: "blur(6px)" }}
-        whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
-        viewport={{ once: true, amount: 0.35 }}
-        transition={{ duration: 0.9, ease: [0.19, 1.0, 0.22, 1.0] }}
-        className="w-full pt-6 sm:pt-7 lg:pt-8"
-      >
+  <m.div
+  key="spec-groups"
+  initial={{ opacity: 0, y: 12, filter: "blur(6px)" }}
+  animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+  exit={{ opacity: 0, y: -8, filter: "blur(6px)" }}
+  transition={{ duration: 0.55, ease: [0.19, 1.0, 0.22, 1.0] }}
+  className="w-full pt-6 sm:pt-7 lg:pt-8"
+>
+
         <div className="grid gap-10 md:grid-cols-2 md:gap-x-9 lg:gap-x-10 2xl:gap-x-12">
           {groups.map((group, index) => {
             const title = group.title || "Specifications";
@@ -1341,27 +1347,20 @@ const onLightboxTouchEnd = () => {
               </div>
 
               <div className="w-full max-w-[92ch] lg:max-w-[104ch] 2xl:max-w-[120ch]">
-                <AnimatePresence mode="wait">
-                  {activeDetail?.type === "list" && (
-                    <>
-                      <PremiumSection
-                        items={activeDetail.items as string[]}
-                        mode={activeDetail.key}
-                      />
-                      {activeDetail.key === "specifications" &&
-                        specGroups.length > 0 && (
-                          <SpecGroupsLayer groups={specGroups} />
-                        )}
-                    </>
-                  )}
-                  {activeDetail?.type === "resources" && (
-                    <ResourcesSection
-                      items={
-                        activeDetail.items as Array<{ label: string; href: string }>
-                      }
-                    />
-                  )}
-                </AnimatePresence>
+           <AnimatePresence mode="wait">
+  {activeDetail?.type === "list" && (
+    <PremiumSection items={activeDetail.items as string[]} mode={activeDetail.key} />
+  )}
+
+  {activeDetail?.type === "resources" && (
+    <ResourcesSection items={activeDetail.items as Array<{ label: string; href: string }>} />
+  )}
+
+  {activeDetail?.type === "specGroups" && (
+    <SpecGroupsLayer groups={activeDetail.items as any} />
+  )}
+</AnimatePresence>
+
               </div>
             </div>
 
@@ -1415,30 +1414,20 @@ const onLightboxTouchEnd = () => {
                             transition={{ duration: 0.5, ease: luxuryEase }}
                             className="overflow-hidden px-4 pb-4"
                           >
-                            <div className="pt-1">
-                              {section.type === "list" && (
-                                <>
-                                  <PremiumSection
-                                    items={section.items as string[]}
-                                    mode={section.key}
-                                  />
-                                  {section.key === "specifications" &&
-                                    specGroups.length > 0 && (
-                                      <SpecGroupsLayer groups={specGroups} />
-                                    )}
-                                </>
-                              )}
-                              {section.type === "resources" && (
-                                <ResourcesSection
-                                  items={
-                                    section.items as Array<{
-                                      label: string;
-                                      href: string;
-                                    }>
-                                  }
-                                />
-                              )}
-                            </div>
+               <div className="pt-1">
+  {section.type === "list" && (
+    <PremiumSection items={section.items as string[]} mode={section.key} />
+  )}
+
+  {section.type === "resources" && (
+    <ResourcesSection items={section.items as Array<{ label: string; href: string }>} />
+  )}
+
+  {section.type === "specGroups" && (
+    <SpecGroupsLayer groups={section.items as any} />
+  )}
+</div>
+
                           </m.div>
                         )}
                       </AnimatePresence>

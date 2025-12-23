@@ -6,8 +6,14 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { buildAssetUrl } from "@/lib/assets";
 import { Michroma, Playfair_Display } from "next/font/google";
+import { Geist } from "next/font/google";
 
 import ServicesCrossPromo from "../ServicesCrossPromo";
+
+const geist = Geist({
+  subsets: ["latin"],
+  // weight is variable by default
+});
 
 const tech = Michroma({
   weight: "400",
@@ -24,6 +30,8 @@ const serif = Playfair_Display({
 });
 
 const EASE: [number, number, number, number] = [0.19, 1, 0.22, 1];
+
+const designVideoSrc = buildAssetUrl("VIDEO_SERVICES", "design_K_array_images_K_ARRAY_VIDEO.mp4");
 
 const textStagger = {
   hidden: {},
@@ -50,44 +58,64 @@ export default function DesignClient() {
     <main className="min-h-screen bg-[#f7efe3] text-neutral-900">
       {/* ───────── HERO ───────── */}
       <section className="relative w-full overflow-hidden">
-        <div className="relative h-[70vh] min-h-[460px] sm:h-[78vh] lg:h-screen">
-          {/* hero image */}
-          <motion.div
-            initial={{ scale: 1.04, opacity: 0 }}
-            animate={{ scale: 1, opacity: 1 }}
-            transition={{ duration: 0.9, ease: EASE }}
-            className="absolute inset-0 z-0"
-          >
-            <Image
-              src={buildAssetUrl("", "design_title.jpg")}
-              alt="Nextrend design – integrated architectural audio"
-              fill
-              priority
-              className="object-cover"
-            />
-          </motion.div>
+  <div className="relative h-[70vh] min-h-[460px] sm:h-[78vh] lg:h-screen">
 
-          {/* gradient overlay for readability */}
-          <div
-            aria-hidden
-            className="pointer-events-none absolute inset-0 z-[1]"
-            style={{
-              background:
-                "linear-gradient(90deg, rgba(0,0,0,0.78) 0%, rgba(0,0,0,0.6) 26%, rgba(0,0,0,0.28) 55%, rgba(0,0,0,0.04) 80%, rgba(0,0,0,0) 100%)",
-            }}
-          />
+    {/* background gradient */}
+    <div className="absolute inset-0 z-0 bg-gradient-to-br from-black via-neutral-900 to-neutral-700" />
 
-          {/* copy block */}
-          <div className="relative z-10 flex h-full items-end sm:items-center">
-            <div className="w-full px-6 pb-10 pt-24 sm:px-10 sm:pb-16 lg:px-16 lg:pb-20">
-              <motion.p
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.55, ease: EASE }}
-                className={`${tech.className} text-[0.7rem] sm:text-[0.8rem] uppercase tracking-[0.35em] text-white/80`}
-              >
-                Nextrend Design
-              </motion.p>
+    {/* inset image (smaller) */}
+    <motion.div
+      initial={{ scale: 1.04, opacity: 0 }}
+      animate={{ scale: 1, opacity: 1 }}
+      transition={{ duration: 0.9, ease: EASE }}
+      className="absolute inset-10 sm:inset-12 lg:inset-16 z-[1] overflow-hidden rounded-[28px]"
+    >
+      <Image
+        src={buildAssetUrl("", "K-FRAMEWORK_DESIGN.jpeg")}
+        alt="Nextrend design – integrated architectural audio"
+        fill
+        priority
+        className="object-cover"
+      />
+
+      {/* SUPER smooth feather edge */}
+      <div
+        aria-hidden
+        className="pointer-events-none absolute inset-0"
+        style={{
+          background: `
+            radial-gradient(130% 130% at 50% 50%,
+              rgba(0,0,0,0) 48%,
+              rgba(0,0,0,0.35) 72%,
+              rgba(0,0,0,0.85) 100%
+            )
+          `,
+        }}
+      />
+    </motion.div>
+
+    {/* layer above image for readability (optional, keep if you like) */}
+    <div
+      aria-hidden
+      className="pointer-events-none absolute inset-0 z-[2]"
+      style={{
+        background: `
+          linear-gradient(90deg,
+            rgba(0,0,0,0.80) 0%,
+            rgba(0,0,0,0.55) 28%,
+            rgba(0,0,0,0.20) 58%,
+            rgba(0,0,0,0.00) 100%
+          )
+        `,
+      }}
+    />
+
+    {/* copy block */}
+    <div className="relative z-10 flex h-full items-end sm:items-center">
+      <div className="w-full px-6 pb-10 pt-24 sm:px-10 sm:pb-16 lg:px-16 lg:pb-20">
+        <motion.p className={`${geist.className} text-[11.52px] uppercase tracking-[0.35em] text-white/80`}>
+          Services
+        </motion.p>
 
               {/* animated title */}
               <motion.div
@@ -111,13 +139,6 @@ export default function DesignClient() {
                     </motion.span>
                   ))}
                 </motion.h1>
-
-                <motion.span
-                  className="block text-[1.6rem] font-normal text-white/95 sm:text-[1.9rem]"
-                  variants={wordVariant}
-                >
-                  Architecture, tuned.
-                </motion.span>
               </motion.div>
 
               {/* short hero paragraph */}
@@ -127,8 +148,7 @@ export default function DesignClient() {
                 transition={{ duration: 0.7, ease: EASE, delay: 0.15 }}
                 className="mt-4 max-w-xl text-[0.85rem] leading-relaxed text-white/90 sm:text-sm md:text-base"
               >
-                We shape sound into the architecture so equipment fades back and
-                the atmosphere is what you notice.
+                Using layouts and advanced 3D audio simulation software, we design and simulate how sound disperses in your space. This ensures optimal coverage, clarity, and seamless integration with your interior.
               </motion.p>
 
               {/* CTA – soft pill */}
@@ -186,15 +206,7 @@ export default function DesignClient() {
           <p
             className={`${serif.className} text-[0.95rem] sm:text-base leading-[1.9] text-neutral-900`}
           >
-            We begin with your drawings. Plans, elevations, joinery and
-            services. Our work is to make the audio feel native to that
-            structure, not applied on top.
-          </p>
-
-          <p
-            className={`${tech.className} text-[0.7rem] sm:text-[0.75rem] uppercase tracking-[0.24em] text-[rgba(196,156,74,0.9)]`}
-          >
-            CAD &amp; REVIT overlays · Acoustic modelling · Materials palettes
+            Starting from your plans and elevations, we develop a fully integrated audio design through simulation and 2D/3D visualisation, ensuring sound belongs naturally within the architecture.
           </p>
         </motion.div>
       </section>
@@ -215,9 +227,9 @@ export default function DesignClient() {
               initial="hidden"
               whileInView="show"
               viewport={{ once: true, amount: 0.4 }}
-              className={`${serif.className} text-xl font-semibold text-neutral-900 sm:text-2xl`}
+              className={`${geist.className} text-[1.8rem] font-semibold tracking-tight text-neutral-900 sm:text-[2.1rem]`}
             >
-              {"Integration studies".split(" ").map((word, i) => (
+              {"2D & 3D System Visualisation".split(" ").map((word, i) => (
                 <motion.span
                   key={i}
                   variants={wordVariant}
@@ -228,15 +240,8 @@ export default function DesignClient() {
               ))}
             </motion.h2>
             <p className="text-sm leading-relaxed text-neutral-750 sm:text-[0.95rem]">
-              We place loudspeakers, grilles and electronics directly on
-              reflected ceiling plans and elevations so every opening reads as
-              part of the interior language.
+              Speaker layouts are plotted in both 2D and 3D drawings, clearly illustrating speaker locations, types, and system information required for precise coordination and integration.
             </p>
-            <ul className="space-y-2 text-sm text-neutral-800">
-              <li>• Invisible loudspeaker arrays and plaster build-ups</li>
-              <li>• Custom grille, veneer and metalwork detailing</li>
-              <li>• Ventilation and service allowances for concealed racks</li>
-            </ul>
           </motion.article>
 
           {/* Experience guidelines */}
@@ -252,9 +257,9 @@ export default function DesignClient() {
               initial="hidden"
               whileInView="show"
               viewport={{ once: true, amount: 0.4 }}
-              className={`${serif.className} text-xl font-semibold text-neutral-900 sm:text-2xl`}
+              className={`${geist.className} text-[1.8rem] font-semibold tracking-tight text-neutral-900 sm:text-[2.1rem]`}
             >
-              {"Experience guidelines".split(" ").map((word, i) => (
+              {"Audio Simulation".split(" ").map((word, i) => (
                 <motion.span
                   key={i}
                   variants={wordVariant}
@@ -264,19 +269,27 @@ export default function DesignClient() {
                 </motion.span>
               ))}
             </motion.h2>
+
             <p className="text-sm leading-relaxed text-neutral-750 sm:text-[0.95rem]">
-              We issue concise briefs for how each room should feel in level,
-              tone and isolation so finishes and furniture choices support the
-              listening intent.
+              We use advanced K-array simulation K-framework software to model sound coverage, balance, and performance within your space, ensuring the system is precisely designed before installation.
             </p>
-            <ul className="space-y-2 text-sm text-neutral-800">
-              <li>• Target levels, isolation and background noise</li>
-              <li>• Lighting, control and sightline considerations</li>
-              <li>• FF&amp;E guidance for even, natural coverage</li>
-            </ul>
           </motion.article>
         </div>
       </section>
+
+      {/* ───────── DESIGN VIDEO ───────── */}
+          <section className="mx-auto max-w-6xl px-6 pb-24 sm:px-8 lg:px-16">
+            <div className="overflow-hidden rounded-3xl bg-black shadow-sm">
+              <video
+                className="h-auto w-full"
+                src={designVideoSrc}
+                controls
+                playsInline
+                preload="metadata"
+                poster="" 
+              />
+            </div>
+          </section>
 
       <ServicesCrossPromo current="Design" />
     </main>

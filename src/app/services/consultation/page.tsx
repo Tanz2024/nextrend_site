@@ -6,8 +6,15 @@ import Link from "next/link";
 import { motion } from "framer-motion";
 import { buildAssetUrl } from "@/lib/assets";
 import { Michroma, Playfair_Display } from "next/font/google";
+import { Geist } from "next/font/google";
 
 import ServicesCrossPromo from "../ServicesCrossPromo";
+
+
+const geist = Geist({
+  subsets: ["latin"],
+  // weight is variable by default
+});
 
 const tech = Michroma({
   weight: "400",
@@ -24,6 +31,8 @@ const serif = Playfair_Display({
 });
 
 const EASE: [number, number, number, number] = [0.19, 1, 0.22, 1];
+
+const consultationVideoSrc = buildAssetUrl("VIDEO_SERVICES", "consultation_Showroom Video.mp4");
 
 const textStagger = {
   hidden: {},
@@ -59,13 +68,15 @@ export function ConsultationClient() {
             className="absolute inset-0 z-0"
           >
             <Image
-              // image is at the bucket ROOT
-              src={buildAssetUrl("", "Consultantation_title.png")}
-              alt="Nextrend consultation – architectural sound study"
-              fill
-              priority
-              className="object-cover"
-            />
+  src={buildAssetUrl("", "IMG_1329.JPEG")}
+  alt="Nextrend consultation – architectural sound"
+  fill
+  priority
+  className="object-cover"
+  style={{ objectPosition: "center 50%" }}
+/>
+
+        
           </motion.div>
 
           {/* gradient overlay for readability */}
@@ -81,14 +92,10 @@ export function ConsultationClient() {
           {/* copy block */}
           <div className="relative z-10 flex h-full items-end sm:items-center">
             <div className="w-full px-6 pb-10 pt-24 sm:px-10 sm:pb-16 lg:px-16 lg:pb-20">
-              <motion.p
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.55, ease: EASE }}
-                className={`${tech.className} text-[0.7rem] sm:text-[0.8rem] uppercase tracking-[0.35em] text-white/80`}
-              >
-                Nextrend Consultation
+              <motion.p className={`${geist.className} text-[11.52px] uppercase tracking-[0.35em] text-white/80`}>
+                Services
               </motion.p>
+
 
               {/* animated title */}
               <motion.div
@@ -112,13 +119,6 @@ export function ConsultationClient() {
                     </motion.span>
                   ))}
                 </motion.h1>
-
-                <motion.span
-                  className="block text-[1.6rem] font-normal text-white/95 sm:text-[1.9rem]"
-                  variants={wordVariant}
-                >
-                  Listening, first.
-                </motion.span>
               </motion.div>
 
               <motion.p
@@ -127,8 +127,7 @@ export function ConsultationClient() {
                 transition={{ duration: 0.7, ease: EASE, delay: 0.15 }}
                 className="mt-4 max-w-md text-[0.85rem] leading-relaxed text-white/90 sm:text-sm md:text-base"
               >
-                We host quiet listening appointments—in our showroom or at your
-                project—so you choose a system by experience, not guesswork.
+                We begin by understanding your requirements through a personalized meeting. We explore your space, preferences, and performance goals to craft the ideal audio solution.
               </motion.p>
 
               {/* CTA – soft pill */}
@@ -191,18 +190,6 @@ export function ConsultationClient() {
             headroom and control that feel effortless day-to-day.
           </p>
 
-          <div className="space-y-2">
-            <p
-              className={`${tech.className} text-[0.7rem] sm:text-[0.75rem] uppercase tracking-[0.26em] text-[rgba(196,156,74,0.85)]`}
-            >
-              Showroom sessions · On-site audits · Acoustic briefs
-            </p>
-            <p
-              className={`${tech.className} text-[0.7rem] sm:text-[0.75rem] uppercase tracking-[0.24em] text-[rgba(196,156,74,0.7)]`}
-            >
-              For homes, studios, hospitality and public spaces
-            </p>
-          </div>
         </motion.div>
       </section>
 
@@ -222,9 +209,9 @@ export function ConsultationClient() {
               initial="hidden"
               whileInView="show"
               viewport={{ once: true, amount: 0.4 }}
-              className={`${serif.className} text-xl font-semibold text-neutral-900 sm:text-2xl`}
+              className={`${geist.className} text-[1.8rem] font-semibold tracking-tight text-neutral-900 sm:text-[2.1rem]`}
             >
-              {"Immersive auditions".split(" ").map((word, i) => (
+              {"Personalized Needs Assessment".split(" ").map((word, i) => (
                 <motion.span
                   key={i}
                   variants={wordVariant}
@@ -235,15 +222,13 @@ export function ConsultationClient() {
               ))}
             </motion.h2>
             <p className="text-sm leading-relaxed text-neutral-700 sm:text-[0.95rem]">
-              Bring your own reference playlist or film scenes. We mirror your
-              seating plan, finishes and listening level so you experience how
-              the system breathes before anything is installed.
+              We begin by listening to your requirements, reviewing layouts and 3D drawings, and understanding the purpose of your AV system—whether for events, live performances, or home cinema.
             </p>
-            <ul className="space-y-2 text-sm text-neutral-800">
+            {/* <ul className="space-y-2 text-sm text-neutral-800">
               <li>• Atmos and 2-channel switching with calibrated SPL</li>
               <li>• Instant A/B for hidden versus statement loudspeakers</li>
               <li>• Lighting and control mock-ups for integrated use</li>
-            </ul>
+            </ul> */}
           </motion.article>
 
           {/* Site reconnaissance */}
@@ -259,9 +244,9 @@ export function ConsultationClient() {
               initial="hidden"
               whileInView="show"
               viewport={{ once: true, amount: 0.4 }}
-              className={`${serif.className} text-xl font-semibold text-neutral-900 sm:text-2xl`}
+              className={`${geist.className} text-[1.8rem] font-semibold tracking-tight text-neutral-900 sm:text-[2.1rem]`}
             >
-              {"Site reconnaissance".split(" ").map((word, i) => (
+              {"Site Space & Application Analysis".split(" ").map((word, i) => (
                 <motion.span
                   key={i}
                   variants={wordVariant}
@@ -270,20 +255,33 @@ export function ConsultationClient() {
                   {word}&nbsp;
                 </motion.span>
               ))}
+
             </motion.h2>
             <p className="text-sm leading-relaxed text-neutral-700 sm:text-[0.95rem]">
-              Our field engineers capture room dimensions, finishes, conduit
-              paths and HVAC loads, then return a concise acoustic brief that
-              you can share with designers and contractors.
+              Our experts analyze your room dimensions, finishes, and structure to ensure your system can be seamlessly integrated and delivers optimal sound performance throughout.
             </p>
-            <ul className="space-y-2 text-sm text-neutral-800">
+            {/* <ul className="space-y-2 text-sm text-neutral-800">
               <li>• Laser measurements and impedance plots</li>
               <li>• Riser mark-ups and electrical load plans</li>
               <li>• Recommendations for acoustic treatment partners</li>
-            </ul>
+            </ul> */}
           </motion.article>
         </div>
       </section>
+
+          {/* ───────── SHOWROOM VIDEO ───────── */}
+          <section className="mx-auto max-w-6xl px-6 pb-24 sm:px-8 lg:px-16">
+            <div className="overflow-hidden rounded-3xl bg-black shadow-sm">
+              <video
+                className="h-auto w-full"
+                src={consultationVideoSrc}
+                controls
+                playsInline
+                preload="metadata"
+                poster="" // optional: add a poster image url if you have one
+              />
+            </div>
+          </section>
 
       <ServicesCrossPromo current="Consultation" />
     </main>

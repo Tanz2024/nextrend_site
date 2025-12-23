@@ -748,7 +748,7 @@ drop-shadow-[0_10px_22px_rgba(0,0,0,0.45)]
 ) : null}
 
           {/* Design Intent */}
-  {focus?.length ? (
+{focus?.length ? (
   <RevealOnScroll variant="copy" delay={0.12}>
     <div className="space-y-4 sm:space-y-5">
       <h3
@@ -757,32 +757,24 @@ drop-shadow-[0_10px_22px_rgba(0,0,0,0.45)]
         Design Intent
       </h3>
 
-      <article className="prose prose-neutral max-w-none prose-p:leading-[1.85] sm:prose-p:leading-[2] md:prose-p:leading-[2.15] prose-p:text-[0.95rem] sm:prose-p:text-[1.05rem] md:prose-p:text-[1.08rem] prose-p:text-[#2A2A2A]">
-<ul
-  className="
-    list-disc pl-5 sm:pl-6
-    marker:text-[#C6AA76]/70
-    space-y-3 sm:space-y-2.5
-  "
->
-  {focus.map((item: string) => (
-    <li
-      key={item}
-      className="
-        font-[300] text-[#2A2A2A]
-        leading-[2.05] sm:leading-[2]
-        pl-1
-      "
-    >
-      {item}
-    </li>
-  ))}
-</ul>
-
+      <article
+        className="
+          prose prose-neutral max-w-none
+          prose-p:leading-[1.85] sm:prose-p:leading-[2] md:prose-p:leading-[2.15]
+          prose-p:text-[0.95rem] sm:prose-p:text-[1.05rem] md:prose-p:text-[1.08rem]
+          prose-p:text-[#2A2A2A]
+        "
+      >
+        {focus.map((item: string, i: number) => (
+          <p key={`${item}-${i}`} className="font-[300]">
+            {item}
+          </p>
+        ))}
       </article>
     </div>
   </RevealOnScroll>
 ) : null}
+
 
         </section>
       {/* 2) GALLERY: keep within SAME container width (NO mx-auto/max-w-6xl here) */}

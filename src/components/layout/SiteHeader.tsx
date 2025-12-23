@@ -69,7 +69,7 @@ const NAV_ITEMS: NavItem[] = [
       {
         title: "PARKROYAL COLLECTION Kuala Lumpur",
         desc: "Luxury hotel audio zoning across lounges and suites.",
-        href: "/projects/parkroyal-collection",
+        href: "/projects/parkroyal-collection-kuala-lumpur",
       },
       {
         title: "Desa ParkCity Integrated Luxury Home",

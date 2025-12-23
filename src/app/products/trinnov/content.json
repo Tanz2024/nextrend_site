@@ -3,9 +3,9 @@
     {
       "slug": "altitude-32",
       "name": "Altitude32",
-      "headline": "Flagship Reference Immersive Processor",
-      "description": "Software-based reference processor designed for large, no-compromise home cinemas and studio-grade listening rooms, with very high channel counts and full object-based decoding.",
-      "story": "Altitude32 is the original Altitude platform processor that set the reference for immersive home cinema. Built around a powerful, software-defined architecture, it supports very high channel counts for expansive Dolby Atmos, DTS:X Pro, and Auro-3D layouts while running the same Trinnov Optimizer core used in top studios and premium cinemas. Because major functions live in software and a modular hardware design, the platform can be updated over time – including HDMI board upgrades and new rendering features – so a properly installed Altitude32 can evolve with future formats rather than being replaced.",
+      "headline": "The Ultimate Experience in Immersive Audio",
+      "description": "Peerless in performance, configurability and sound quality, the Altitude32 remains the unchallenged reference processor for immersive home theater systems. Nothing has been left to chance: high-channel count, huge processing power and exclusive patented technologies unleash the full potential of immersive sound, enabling all formats and the widest range of speaker layouts.",
+      "story": "Upgradable by Design. The hardware architecture of the Altitude32, unique among home theater processors, challenges the concept of obsolescence by enabling the integration of new technologies, new features, and product upgrades through a pure software implementation provided at no cost to Altitude owners. This is a truly sustainable product that gets better over time with the introduction of new features and a scalable, modular hardware design that enables easy system expansion up to the full channel counts of home Atmos and DTS:X and to a maximum of 64 outputs.\n\nIts revolutionary hardware architecture runs not on the multiple sets of DSPs found on other processors but instead on a single multi-core Intel hardware platform and TrinnovOS operating system. This enables Trinnov to bring new technologies and features to market months and years ahead of competition.",
       "series": "Altitude",
       "finish": "Reference Immersive Processor",
       "collaboration": "Immersive Cinema",
@@ -20,12 +20,6 @@
         "Reference home cinemas and screening rooms",
         "Luxury media rooms with complex multichannel layouts",
         "Private studios requiring precise room correction"
-      ],
-      "specs": [
-        "Flagship Altitude platform processor for large home cinemas and reference rooms",
-        "Supports very high immersive channel counts with extensive speaker layout flexibility",
-        "Software-based platform with field-upgradable features, including modular HDMI video board",
-        "Designed for long-term projects where future format support and updates are critical"
       ],
       "lifestyle": [
         {
@@ -43,35 +37,159 @@
           "alt": "Altitude platform rear connectivity with balanced XLR and digital I/O",
           "caption": "Rear I/O of the Altitude platform, featuring balanced XLR outputs and digital connectivity for high-channel-count systems."
         }
+      ],
+      "specGroups": [
+        {
+          "title": "Object Based Decoding (All Versions)",
+          "items": [
+            { "label": "Dolby Atmos® native decoding & up-mix", "value": "Up to 34 discrete channels" },
+            { "label": "Auro-3D® native decoding & up-mix (Auromatic)", "value": "Up to 13.1" },
+            { "label": "DTS:X® Pro native decoding & up-mix", "value": "Up to 30.2" },
+            { "label": "Speaker layouts support", "value": "All" },
+            { "label": "IMAX Enhanced", "value": "Yes" }
+          ]
+        },
+        {
+          "title": "Channel Based Audio Decoding",
+          "items": [
+            { "label": "Dolby", "value": "Digital®, Digital Plus®, TrueHD®" },
+            { "label": "DTS", "value": "Digital Surround®, High Res Audio®, HD Master Audio®" },
+            { "label": "PCM", "value": "Up to 24 bits / 192 kHz" },
+            { "label": "Roon", "value": "Yes" }
+          ]
+        },
+        {
+          "title": "Channel Capabilities",
+          "items": [
+            { "label": "Max channels", "value": "x12 (8-8), x20 (8-16), x28 (16-24), x36 (24-32)" },
+            { "label": "Max optimizer channels", "value": "x12 (8-8), x20 (8-16), x28 (16-24), x36 (24-32)" },
+            { "label": "Max subwoofers", "value": "x12 (8-8), x20 (8-16), x28 (16-24), x36 (24-32)" },
+            { "label": "Max crossovers (2/3/4 way)", "value": "6/4/3 (8-8), 10/6/5 (8-16)" },
+            { "label": "Max crossovers (2/3/4 way)", "value": "14/9/7 (16-24), 18/12/9 (16-32)" },
+            { "label": "Full input / output matrix (all versions)", "value": "Yes" },
+            { "label": "Configuration presets (all versions)", "value": "29" }
+          ]
+        },
+        {
+          "title": "HDMI Connectivity",
+          "items": [
+            { "label": "Output 1", "value": "HDMI 2.1 / HDCP 2.3" },
+            { "label": "Output 2", "value": "HDMI 2.1 / HDCP 2.3" },
+            { "label": "Inputs", "value": "8" },
+            { "label": "Maximum resolution", "value": "4K 120Hz / 8K 60Hz" },
+            { "label": "Maximum bandwidth", "value": "40Gbps on all inputs and outputs" },
+            { "label": "Frame rates supported", "value": "4K 24/25/30/48/60/100/120, 8K 24/25/30/48/60" },
+            { "label": "ARC / eARC", "value": "Available on Output 1" },
+            { "label": "OSD", "value": "Main information displayed on-screen" },
+            { "label": "HDR support", "value": "HDR10, HDR10+, HLG and Dolby Vision" }
+          ]
+        },
+        {
+          "title": "Digital Audio Connectivity",
+          "items": [
+            { "label": "S/PDIF inputs", "value": "x4 (2 optical, 2 coaxial)" },
+            { "label": "S/PDIF outputs", "value": "x2 (1 optical, 1 coaxial)" },
+            { "label": "AES3 inputs (XLR)", "value": "x2" },
+            { "label": "AES3 outputs (XLR)", "value": "x1" },
+            { "label": "AES3 outputs (DB25) - 8-8 & 8-16", "value": "x8 upgradeable to 16" },
+            { "label": "AES3 outputs (DB25) - 16-24 & 24-32", "value": "x16" },
+            { "label": "AES3 input compliance", "value": "DCI" },
+            { "label": "Audio network", "value": "Dual ports (for future use)" }
+          ]
+        },
+        {
+          "title": "Analogue Audio Connectivity",
+          "items": [
+            { "label": "Microphone input", "value": "1x 5 Pin XLR for 3D Microphone" },
+            { "label": "Balanced inputs", "value": "2x Stereo XLR" },
+            { "label": "Unbalanced inputs", "value": "3x Stereo RCA, 1x 7.1 RCA" },
+            { "label": "Balanced outputs", "value": "x8 (8-8), x16 all other models" },
+            { "label": "Unbalanced outputs", "value": "1x stereo RCA" },
+            { "label": "DB25 analogue outputs", "value": "x8 (8-8), x16 (8-16), x24 (16-24), x32 (24-32)" }
+          ]
+        },
+        {
+          "title": "Audio Processing",
+          "items": [
+            { "label": "Data precision", "value": "64 bits, floating point" },
+            { "label": "Max sampling rate (up to 24 channels)", "value": "Native, up to 192kHz" },
+            { "label": "Max sampling rate (up to 32 channel with +4 option)", "value": "Native, up to 96kHz" },
+            { "label": "Max sampling rate (above 24 channels)", "value": "Native, up to 96kHz" },
+            { "label": "Max sampling rate (above 32 channels)", "value": "Native, up to 48kHz" }
+          ]
+        },
+        {
+          "title": "Hardware",
+          "items": [
+            { "label": "Processor", "value": "Intel multi core hyper threaded" },
+            { "label": "ADC resolution / sampling rate", "value": "24 bits / 96 kHz" },
+            { "label": "DAC resolution / sampling rate", "value": "24 bits / 192 kHz" },
+            { "label": "A/D signal-to-noise ratio", "value": "115 dB (A-Weighted)" },
+            { "label": "D/A signal-to-noise ratio", "value": "115 dB (A-Weighted)" },
+            { "label": "Reference level", "value": "+18dBu @ 0dBFS (Balanced)" },
+            { "label": "Clock / jitter", "value": "Attenuation > 50 dB above 100Hz" },
+            { "label": "Cooling system", "value": "Custom heat sinks & silent fans" },
+            { "label": "Safety components", "value": "AntiPop relays on each output" }
+          ]
+        },
+        {
+          "title": "Power Supply",
+          "items": [
+            { "label": "Power requirement", "value": "240V / 110V - 50 / 60Hz (Manual Switch)" },
+            { "label": "Power consumption", "value": "132W Max" },
+            { "label": "Thermal conversion", "value": "450 BTU/h Max" },
+            { "label": "Mains fuse", "value": "2A Slow Blow" },
+            { "label": "Internal PSUs", "value": "Separated supplies for Audio and Processing" }
+          ]
+        },
+        {
+          "title": "Weight & Dimensions",
+          "items": [
+            { "label": "Dimensions (W x H x D) mm", "value": "442 x 165 x 445" },
+            { "label": "Dimensions (W x H x D) inches", "value": "17 7/16 x 6 1/2 x 17 9/16" },
+            { "label": "Shipping dimensions (L x H x P) cm", "value": "74 x 59 x 30" },
+            { "label": "Weight", "value": "14.5kg / 32 lbs" },
+            { "label": "Shipping weight / volume", "value": "22.2kg / 0.131M3" },
+            { "label": "Rackmounting", "value": "3.5U - Rack Ears Included" }
+          ]
+        },
+        {
+          "title": "Warranty",
+          "items": [
+            { "label": "Standard warranty", "value": "5 year" },
+            { "label": "Transferable", "value": "Yes" },
+            { "label": "Warranty extension program", "value": "Yes" }
+          ]
+        },
+        {
+          "title": "Chassis",
+          "items": [
+            { "label": "Standard color", "value": "Black" },
+            { "label": "Optional color", "value": "Silver" }
+          ]
+        }
       ]
     },
     {
       "slug": "altitude-16",
       "name": "Altitude16",
-      "headline": "20-Channel Reference Immersive Processor",
-      "description": "Brings Altitude-level processing and Trinnov Optimizer to premium residential theaters that need up to 20 discrete channels, in a more compact chassis.",
-      "story": "Altitude16 delivers the same processing engine and sound quality as the Altitude32, but in a form factor and I/O configuration tailored to systems that will not exceed 20 channels. It renders up to 20 discrete channels of immersive audio with Dolby Atmos, DTS:X Pro, and Auro-3D, and natively processes high-resolution 24-bit / 96 kHz audio. The unit offers 16 balanced XLR outputs plus additional S/PDIF outputs, supports advanced bass management and active crossovers, and integrates the full Trinnov Optimizer calibration workflow. With HDMI 2.1 connectivity, eARC support, and a software-based platform that benefits from ongoing updates, Altitude16 is designed as a long-term reference for serious home cinemas that don’t require the extreme channel counts of Altitude32.",
+      "headline": "No Compromise. 20-Channel Reference Immersive Processor.",
+      "description": "The groundbreaking Altitude32 set the bar high — and the Altitude16 keeps it there. Delivering the same processing capabilities and sound quality as Altitude32, Altitude16 brings Trinnov’s best-in-class performance to immersive systems that will not exceed 20 channels.",
+      "story": "No compromise on what matters: Altitude16 delivers the same processing engine and sound quality as Altitude32, tailored to immersive audio systems that will not exceed 20 channels. Equipped with Dolby Atmos®, Auro-3D®, and DTS:X® Pro decoders, it renders up to 20 discrete channels of information, natively processes high-resolution 24-bit / 96 kHz audio, and enables up to four-way active crossovers.\n\nAltitude16 imposes no limitations on Atmos and DTS:X channel assignments or subwoofer outputs within its 20-channel envelope. It combines HDMI 2.1 connectivity (8 inputs, dual outputs with eARC on Output 1) with Trinnov Optimizer calibration, flexible bass management, and a software-defined platform designed to evolve over time.",
       "series": "Altitude",
-      "finish": "20-Channel Immersive Processor",
+      "finish": "20-Channel Reference Immersive Processor",
       "collaboration": "Residential Cinema",
       "image": "trinnov_altitude16_product_front-1.1500x731.jpg",
       "features": [
         "Trinnov Optimizer with 3D microphone-based loudspeaker and room correction",
-        "Object-based immersive decoding for Dolby Atmos, DTS-X Pro, and Auro-3D",
-        "High-resolution audio processing up to 24-bit / 96 kHz with 64-bit floating-point engine",
-        "Flexible bass management and support for complex multichannel speaker layouts"
+        "Object-based immersive decoding for Dolby Atmos, DTS:X Pro, and Auro-3D",
+        "Native high-resolution processing up to 24-bit / 96 kHz with 64-bit floating-point engine",
+        "Up to four-way active crossovers plus advanced bass management"
       ],
       "applications": [
         "Premium home cinemas and private theaters",
         "High-end media rooms with immersive audio layouts",
         "Screening rooms needing precise calibration"
-      ],
-      "specs": [
-        "Immersive AV processor for home cinemas up to 20 discrete rendering channels",
-        "Analog outputs - 16 × balanced XLR, with additional +4 channels available by combining analog and S/PDIF outputs",
-        "Digital I/O - 4 × S/PDIF inputs (2 optical, 2 coaxial) and 2 × S/PDIF outputs (1 optical, 1 coaxial)",
-        "HDMI 2.1 video board with 8 inputs, 2 outputs, HDR10 / HDR10+ / HLG / Dolby Vision, 4K120 / 8K60 and eARC on HDMI Output 1",
-        "64-bit floating-point processing with native sample rates up to 96 kHz and Intel multi-core CPU platform"
       ],
       "lifestyle": [
         {
@@ -88,6 +206,100 @@
           "src": "trinnov_audio_altitude_32_web_1-1.jpg",
           "alt": "Altitude processor family front view in a studio-style environment",
           "caption": "Front view of an Altitude processor in a reference listening space, illustrating the shared industrial design across the Altitude family."
+        }
+      ],
+      "specGroups": [
+        {
+          "title": "Object Based Decoding",
+          "items": [
+            { "label": "Dolby Atmos® Native Decoding & Upmix", "value": "Up to 20 discrete channels" },
+            { "label": "Auro-3D® Native Decoding & Up-mix (Auromatic)", "value": "Up to 13.1" },
+            { "label": "DTS:X® Pro", "value": "Up to 20 discrete channels" },
+            { "label": "Speaker Layouts support", "value": "All" },
+            { "label": "IMAX Enhanced", "value": "Yes" }
+          ]
+        },
+        {
+          "title": "HDMI Connectivity",
+          "items": [
+            { "label": "Output 1", "value": "HDMI 2.1 / HDCP 2.3" },
+            { "label": "Output 2", "value": "HDMI 2.1 / HDCP 2.3" },
+            { "label": "Inputs", "value": "8" },
+            { "label": "HDR Support", "value": "HDR10, HDR10+, HLG, and Dolby Vision" },
+            { "label": "Maximum Resolution", "value": "4K 120Hz / 8K 60Hz" },
+            { "label": "Maximum Bandwidth", "value": "40Gbps on all inputs and outputs" },
+            { "label": "Frame rates supported", "value": "4K 24/25/30/48/60/100/120, 8K 24/25/30/48/60" },
+            { "label": "ARC / eARC", "value": "Available on Output 1" },
+            { "label": "OSD", "value": "Main information displayed on-screen" }
+          ]
+        },
+        {
+          "title": "Digital Audio Connectivity",
+          "items": [
+            { "label": "S/PDIF Inputs", "value": "x4 (2 optical, 2 coaxial)" },
+            { "label": "S/PDIF Outputs", "value": "x2 (1 optical, 1 coaxial)" },
+            { "label": "+4 Outputs", "value": "By combining Analog and S/PDIF outputs" },
+            { "label": "Audio Network", "value": "Dual ports (for future use)" }
+          ]
+        },
+        {
+          "title": "Analogue Audio Connectivity",
+          "items": [
+            { "label": "Microphone input", "value": "1x 5 Pin XLR for 3D Microphone" },
+            { "label": "Balanced inputs", "value": "1x Stereo XLR" },
+            { "label": "Unbalanced inputs", "value": "1x Stereo RCA" },
+            { "label": "Balanced outputs", "value": "16x XLR" },
+            { "label": "Input Impedance", "value": "20k Ohms / 10k Ohms" }
+          ]
+        },
+        {
+          "title": "Audio Processing",
+          "items": [
+            { "label": "Data precision", "value": "64 bits, floating point" },
+            { "label": "Max Sampling Rate", "value": "Native, up to 96kHz" }
+          ]
+        },
+        {
+          "title": "Hardware",
+          "items": [
+            { "label": "Processor", "value": "Intel multi core hyper threaded" },
+            { "label": "ADC Resolution / Sampling Rate", "value": "24 bits / 96 kHz" },
+            { "label": "DAC Resolution / Sampling Rate", "value": "24 bits / 192 kHz" },
+            { "label": "A/D Signal-To-Noise Ratio", "value": "115 dB (A-Weighted)" },
+            { "label": "D/A Signal-To-Noise Ratio", "value": "115 dB (A-Weighted)" },
+            { "label": "Reference Level", "value": "+18dBu @ 0dBFS (Balanced)" },
+            { "label": "Clock / Jitter", "value": "Attenuation > 50 dB above 100Hz" },
+            { "label": "Cooling system", "value": "Custom heat sinks + additional silent fans" },
+            { "label": "Safety Components", "value": "AntiPop relays on each output" }
+          ]
+        },
+        {
+          "title": "Power Supply",
+          "items": [
+            { "label": "Power requirement", "value": "100 - 240V (auto selecting)" },
+            { "label": "Power consumption", "value": "76W Max" },
+            { "label": "Thermal conversion", "value": "260 BTU/h Max" },
+            { "label": "Mains fuse", "value": "2x 1A slow blow" },
+            { "label": "Internal PSUs", "value": "Separated supplies for Audio and Processing" }
+          ]
+        },
+        {
+          "title": "Weight & Dimensions",
+          "items": [
+            { "label": "Dimensions (W x H x D) mm", "value": "438 x 139 x 430" },
+            { "label": "Dimensions (W x H x D) inches", "value": "17 1/4\" x 5 1/2\" x 17 15/16\"" },
+            { "label": "Shipping dimensions (L x H x P) cm", "value": "74 x 59 x 30" },
+            { "label": "Weight", "value": "11.30kg / 24.9 lbs" },
+            { "label": "Shipping weight / volume", "value": "18.2kg / 0.131 M3" },
+            { "label": "Rackmounting", "value": "3U - Rack Ears Included" }
+          ]
+        },
+        {
+          "title": "Warranty",
+          "items": [
+            { "label": "Standard Warranty", "value": "5 year" },
+            { "label": "Transferable", "value": "Yes" }
+          ]
         }
       ]
     }

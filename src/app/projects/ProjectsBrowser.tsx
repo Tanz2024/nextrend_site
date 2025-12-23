@@ -344,8 +344,8 @@ border border-black/10
                   aria-label={`Open ${p.title}`}
                   className="block focus:outline-none focus-visible:outline-none [-webkit-tap-highlight-color:transparent]"
                 >
-                  <div className="relative aspect-[16/9] w-full overflow-hidden rounded-t-2xlbg-[#f5efe4]
-">
+               <div className="relative aspect-[16/9] w-full overflow-hidden rounded-t-2xl bg-[#f5efe4]">
+
                     {src ? (
                       <>
                         <Image
@@ -499,40 +499,51 @@ className="mt-6 md:mt-8 mb-6 flex justify-center"
     animate={{ opacity: 1, y: 0 }}
     transition={{ duration: 0.6, ease: CARD_EASE }}
   >
-    <motion.button
-      type="button"
-      onClick={onToggleExpand}
-      aria-expanded={expanded}
-      whileTap={{ scale: 0.985 }}
-      className="group inline-flex items-center justify-center gap-4 bg-transparent p-0
-                 text-[11px] uppercase tracking-[0.22em] font-semibold text-[#0d0d0c]
-                 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#DFC79E]/50 rounded-full
-                 [-webkit-tap-highlight-color:transparent]"
-    >
-<span className="select-none">
-  {expanded ? "View Fewer Installations" : "Explore All Installations"}
-
-</span>
-
-      <motion.span
-        whileHover={{ x: 2 }}
-        transition={{ duration: 0.25, ease: "easeOut" }}
-className="inline-flex h-9 w-9 md:h-10 md:w-10 items-center justify-center rounded-full
-           bg-white border border-black/12
-           shadow-none
-           text-[#12110f] transition-[color,border-color] duration-200
-           group-hover:text-[#b99556] group-active:text-[#b99556]
-           group-hover:border-[#b99556]"
-
-
+<motion.button
+  type="button"
+  onClick={onToggleExpand}
+  aria-expanded={expanded}
+  whileTap={{ scale: 0.985 }}
+  className="
+    group relative inline-flex items-center gap-3
+    text-[rgba(13,13,12,0.82)]
+    transition-colors duration-300 ease-out
+    hover:text-[#d5a853]
+    focus-visible:text-[#d5a853]
+    active:text-[#d5a853]
+    focus:outline-none
+    [-webkit-tap-highlight-color:transparent]
+  "
 >
-<svg viewBox="0 0 24 24" fill="none" className="h-[18px] w-[18px] md:h-[20px] md:w-[20px]">
-  <path d="M6.5 12h10" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-  <path d="M12.8 8.5L16.3 12l-3.5 3.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round" />
-</svg>
+  <span className="relative text-[0.72rem] sm:text-[0.75rem] font-medium uppercase tracking-[0.28em] inline-block">
+    <span className="block select-none">
+      {expanded ? "Show less Projects" : "View all Projects"}
+    </span>
 
-</motion.span>
-    </motion.button>
+    <span
+      aria-hidden
+      className="
+        pointer-events-none absolute -bottom-[4px] left-0 h-[1px] w-full
+        bg-current origin-left scale-x-0
+        transition-transform duration-300 ease-out
+        group-hover:scale-x-100 group-focus-visible:scale-x-100
+      "
+    />
+  </span>
+
+  <span
+    className="
+      inline-flex h-7 w-7 sm:h-8 sm:w-8 items-center justify-center
+      transition-transform duration-300 ease-out
+      group-hover:translate-x-[3px]
+      group-active:translate-x-[3px]
+    "
+    aria-hidden
+  >
+    →
+  </span>
+</motion.button>
+
   </motion.div>
 )}
 

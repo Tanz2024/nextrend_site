@@ -14,7 +14,7 @@ import { useToast } from "@/components/ui/ToastProvider";
 const quickLinks = [
   { href: "/projects", label: "Projects" },
   { href: "/products", label: "Products" },
-  { href: "/journal", label: "Journal" },
+  { href: "/blog", label: "Journal" },
   { href: "/events", label: "Events" },
   { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },
@@ -28,10 +28,9 @@ const quickLinkColumns = Array.from(
 );
 
 const socials = [
-  { href: "https://instagram.com", label: "Instagram", icon: FaInstagram },
-  { href: "https://facebook.com", label: "Facebook", icon: FaFacebookF },
-  { href: "https://youtube.com", label: "YouTube", icon: FaYoutube },
-  { href: "https://linkedin.com", label: "LinkedIn", icon: FaLinkedinIn },
+  { href: "https://www.instagram.com/k_array_my/?hl=en", label: "Instagram", icon: FaInstagram },
+  { href: "https://www.facebook.com/Nextrendy/", label: "Facebook", icon: FaFacebookF },
+  { href: "https://www.youtube.com/@nextrendsystem", label: "YouTube", icon: FaYoutube },
 ];
 
 // Authorised partner links
@@ -293,7 +292,7 @@ export function SiteFooter() {
 <section className="mt-20 lg:mt-24">
   <div className="space-y-8">
     <h3 className="text-xs font-semibold uppercase tracking-widest text-[var(--secondary)]">
-      Studios &amp; Concierge
+      Showroom &amp; Experience Cente
     </h3>
 
     <div className="grid gap-12 md:grid-cols-3 lg:gap-20">
@@ -458,9 +457,8 @@ export function SiteFooter() {
 
         <div className="mt-8 flex flex-col gap-3 text-[11px] uppercase tracking-[0.16em] text-[var(--secondary)] md:flex-row md:flex-wrap md:items-center md:justify-between md:tracking-[0.2em]">
           <span className="text-[var(--foreground)]/85">
-            &copy; {year} Nextrend Systems
+            &copy; {year} Nextrend Systems Sdn Bhd
           </span>
-          <span>Architectural Sound &amp; Integrated Living Solutions</span>
 
           {/* Official Company Registration link with luxe hover */}
           <Link
@@ -479,7 +477,7 @@ export function SiteFooter() {
           >
             <span className="inline-block h-1.5 w-1.5 rounded-full bg-[var(--accent)]/70" />
             <span className="relative uppercase tracking-[0.22em] text-[10px]">
-              Official Company Registration
+              0832494U / 200801031162
               <span className="absolute left-0 -bottom-[0.2rem] h-px w-0 bg-[var(--accent)] transition-all duration-300 group-hover:w-full" />
             </span>
             <span className="opacity-0 translate-x-[-2px] group-hover:opacity-100 group-hover:translate-x-0 transition-all duration-300 text-[var(--accent)]">

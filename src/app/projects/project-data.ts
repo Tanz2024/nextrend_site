@@ -103,26 +103,17 @@ export const PROJECT_BY_SLUG: Record<string, ProjectDetail> =
 export type ProjectTotals = {
   totalProjects: number;
   hospitality: number;
-  hotels: number;
   residential: number;
-  retailAuto: number;
-  corporate: number;
-  developers: number;
+  commercialRetail: number;
+  entertainmentVenues: number;
 };
 
 export const PROJECT_TOTALS: ProjectTotals = {
   totalProjects: PROJECT_LIST.length,
-  hospitality: PROJECT_SECTIONS["Hospitality & Dining"]?.length ?? 0,
-  hotels: PROJECT_SECTIONS["Hotels & Lounges"]?.length ?? 0,
-  residential:
-    PROJECT_SECTIONS["Residential & Private Cinema"]?.length ?? 0,
-  retailAuto:
-    PROJECT_SECTIONS["Luxury Retail & Automotive"]?.length ?? 0,
-  corporate:
-    PROJECT_SECTIONS["Corporate / Government / Enterprise"]?.length ??
-    0,
-  developers:
-    PROJECT_SECTIONS["Developers / Galleries / Townships"]?.length ?? 0,
+  hospitality: PROJECT_SECTIONS["Hospitality"]?.length ?? 0,
+  residential: PROJECT_SECTIONS["Residential"]?.length ?? 0,
+  commercialRetail: PROJECT_SECTIONS["Commercial & Retail"]?.length ?? 0,
+  entertainmentVenues: PROJECT_SECTIONS["Entertainment & Venues"]?.length ?? 0,
 };
 
 export const PROJECT_EXPERIENCE =

@@ -29,6 +29,25 @@ export type TrinnovProduct = {
   video?: string;
   craftVideo?: string;
 };
+const normalizeSpecs = (value: unknown): string[] => {
+  // already array
+  if (Array.isArray(value)) {
+    return value
+      .filter((v) => typeof v === "string")
+      .map((s) => s.trim())
+      .filter(Boolean);
+  }
+
+  // single string (maybe pasted paragraphs / lines)
+  if (typeof value === "string") {
+    return value
+      .split(/\r?\n|•|·|–|-\s+/g) // split on newlines / bullets / dashes
+      .map((s) => s.trim())
+      .filter(Boolean);
+  }
+
+  return [];
+};
 
 const asString = (value: unknown, fallback = "") =>
   typeof value == "string" ? value : fallback;
@@ -160,7 +179,8 @@ export const trinnovProducts: TrinnovProduct[] = rawProducts.map((item) => {
     finish: asString(record.finish),
     collaboration: asString(record.collaboration),
     image: buildTrinnovUrl(asString(record.image)),
-    specs: asStringArray(record.specs),
+specs: normalizeSpecs(record.specs),
+
     specGroups,
     features: asStringArray(record.features),
     applications: asStringArray(record.applications),

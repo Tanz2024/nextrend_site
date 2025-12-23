@@ -107,7 +107,7 @@ export default function ProjectsPage() {
             style={{ color: "#0D0D0C" }}
           >
             Architecture built to be heard — immersive systems crafted for hospitality,
-            residential cinemas, luxury retail, automotive showrooms, and enterprise venues.
+            hospitality destinations, private residences, commercial and retail environments, and entertainment venues.
           </motion.p>
         </motion.div>
 
