@@ -39,27 +39,32 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Full Azimut system with ultra-slim columns, sub and control electronics"
+            "label": "Type",
+            "value": "Design-focused micro audio system"
           },
           {
-            "label": "Spec 2",
-            "value": "Integrated DSP amplifier with presets for music, speech and background modes"
+            "label": "Transducers",
+            "value": "Paired micro line-source columns with matching low-profile subwoofer"
           },
           {
-            "label": "Spec 3",
+            "label": "Connectivity",
             "value": "Flexible I/O for TV, streaming devices and background music sources"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black columns with discreet hardware"
           },
           {
-            "label": "Spec 4",
-            "value": "Wall, shelf and ceiling mounting options for columns"
-          },
-          {
-            "label": "Spec 5",
-            "value": "Compact subwoofer sized to hide under furniture or joinery"
+            "label": "Finishes",
+            "value": "Matte black columns with discreet hardware"
           }
         ]
       }
@@ -105,27 +110,32 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Compact Azimut package with one slim column, sub and control electronics"
+            "label": "Type",
+            "value": "Compact Azimut column system"
           },
           {
-            "label": "Spec 2",
-            "value": "DSP presets for near-field listening and background sound"
+            "label": "Transducers",
+            "value": "Single micro column line-source with matching subwoofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Flexible mounting accessories for column placement"
-          },
-          {
-            "label": "Spec 4",
+            "label": "Connectivity",
             "value": "Discreet cabling paths and plug-and-play connectivity"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black aluminium column and matching sub"
           },
           {
-            "label": "Spec 5",
-            "value": "Optimised for smaller rooms and listening zones"
+            "label": "Finishes",
+            "value": "Matte black aluminium column and matching sub"
           }
         ]
       }
@@ -171,27 +181,32 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Tall micro columns for greater throw and smoother vertical coverage"
+            "label": "Type",
+            "value": "Extended micro line-source system"
           },
           {
-            "label": "Spec 2",
-            "value": "High-performance subwoofer voiced for music and cinema"
+            "label": "Transducers",
+            "value": "Taller micro column arrays coupled to a compact subwoofer"
           },
           {
-            "label": "Spec 3",
+            "label": "Connectivity",
             "value": "Advanced DSP presets and input routing for multi-source setups"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Satin black with architectural mounting hardware"
           },
           {
-            "label": "Spec 4",
-            "value": "Flexible mounting for floor, wall or ceiling applications"
-          },
-          {
-            "label": "Spec 5",
-            "value": "Ideal for medium to large design-forward spaces"
+            "label": "Finishes",
+            "value": "Satin black with architectural mounting hardware"
           }
         ]
       }
@@ -237,27 +252,36 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Twin vertical column layout for tall, immersive sound field"
+            "label": "Type",
+            "value": "Vertical column and subwoofer system"
           },
           {
-            "label": "Spec 2",
-            "value": "Compact subwoofer integrated into furniture or architectural details"
+            "label": "Transducers",
+            "value": "Twin vertical micro columns with compact low-frequency unit"
           },
           {
-            "label": "Spec 3",
+            "label": "Connectivity",
             "value": "DSP amplifier with presets for background, live music and cinema modes"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black or custom RAL on request"
           },
           {
-            "label": "Spec 4",
-            "value": "Wall-mount and bracket kit included for flexible install"
+            "label": "Finishes",
+            "value": "Matte black or custom RAL on request"
           },
           {
-            "label": "Spec 5",
-            "value": "Designed for visually prominent but low-profile installations"
+            "label": "Colors",
+            "value": "Matte black, Custom RAL"
           }
         ]
       }
@@ -311,27 +335,36 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Slim column loudspeakers for controlled vertical coverage"
+            "label": "Type",
+            "value": "Distributed column system"
           },
           {
-            "label": "Spec 2",
-            "value": "Companion low-frequency module for full-range performance"
+            "label": "Transducers",
+            "value": "Slim column elements with supporting low-frequency module"
           },
           {
-            "label": "Spec 3",
-            "value": "Optimised for speech clarity and unobtrusive music"
+            "label": "Coverage",
+            "value": "Controlled vertical coverage optimised for speech clarity"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Architectural white with low-gloss texture"
           },
           {
-            "label": "Spec 4",
-            "value": "Multiple mounting options for walls, pillars and structures"
+            "label": "Finishes",
+            "value": "Architectural white with low-gloss texture"
           },
           {
-            "label": "Spec 5",
-            "value": "Neutral white finish to blend with modern interiors"
+            "label": "Colors",
+            "value": "White"
           }
         ]
       }
@@ -377,27 +410,36 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Digitally steerable line-array modules for 3D coverage control (with system DSP)"
+            "label": "Type",
+            "value": "Digitally steerable line-array platform"
           },
           {
-            "label": "Spec 2",
-            "value": "Compact frontal footprint with high power density"
+            "label": "Transducers",
+            "value": "Multi-way Firenze array modules with dedicated LF support"
           },
           {
-            "label": "Spec 3",
-            "value": "Optimised to pair with Firenze KS subs and amplifiers"
-          },
+            "label": "Coverage",
+            "value": "Digitally steerable for 3D coverage control"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
           {
-            "label": "Spec 4",
-            "value": "Rigging system for fast, repeatable deployment"
-          },
-          {
-            "label": "Spec 5",
+            "label": "Material",
             "value": "Weather-resistant touring enclosure construction"
+          },
+          {
+            "label": "Finishes",
+            "value": "Touring black with Firenze rigging hardware"
+          },
+          {
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -439,27 +481,44 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Self-powered array elements with multichannel Class D amplification"
+            "label": "Type",
+            "value": "Self-powered beam-steered array system"
           },
           {
-            "label": "Spec 2",
+            "label": "Transducers",
+            "value": "Multi-way Firenze modules with onboard multichannel amplification"
+          },
+          {
+            "label": "Rated Power",
+            "value": "Multichannel Class D amplification"
+          },
+          {
+            "label": "Coverage",
             "value": "Electronic beam steering for precise audience coverage"
           },
           {
-            "label": "Spec 3",
-            "value": "Straight-array rigging for rapid deployment"
-          },
-          {
-            "label": "Spec 4",
-            "value": "Compatible with Firenze KS low-frequency modules"
-          },
-          {
-            "label": "Spec 5",
+            "label": "Connectivity",
             "value": "Networkable control for presets, monitoring and optimisation"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Black touring finish with weather protection"
+          },
+          {
+            "label": "Finishes",
+            "value": "Black touring finish with weather protection"
+          },
+          {
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -501,27 +560,36 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Dual 21\" sub modules optimised for Firenze amplifier presets"
+            "label": "Type",
+            "value": "Dual 21\" LF system core"
           },
           {
-            "label": "Spec 2",
+            "label": "Transducers",
+            "value": "Dual 21\" sub modules driven by external Firenze amplifiers"
+          },
+          {
+            "label": "Coverage",
             "value": "Configurable in cardioid, end-fire or broadside arrays"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Touring black polyurea on steel frame"
           },
           {
-            "label": "Spec 3",
-            "value": "Heavy-duty frames and hardware for truck-friendly touring"
+            "label": "Finishes",
+            "value": "Touring black polyurea on steel frame"
           },
           {
-            "label": "Spec 4",
-            "value": "Designed to integrate visually with KH7/KH8 hangs"
-          },
-          {
-            "label": "Spec 5",
-            "value": "Suitable for indoor and outdoor high-SPL deployments"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -563,27 +631,36 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Self-powered dual 21\" modules with built-in DSP"
+            "label": "Type",
+            "value": "Self-powered LF grid platform"
           },
           {
-            "label": "Spec 2",
+            "label": "Transducers",
+            "value": "Dual 21\" self-powered sub modules"
+          },
+          {
+            "label": "Connectivity",
             "value": "Network control for delay, EQ and array configuration"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Touring black polyurea enclosure"
           },
           {
-            "label": "Spec 3",
-            "value": "Optimised presets for Firenze tops and system voicings"
+            "label": "Finishes",
+            "value": "Touring black polyurea enclosure"
           },
           {
-            "label": "Spec 4",
-            "value": "Road-ready construction for touring use"
-          },
-          {
-            "label": "Spec 5",
-            "value": "Integration into Firenze software design environments"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -687,27 +764,32 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Coaxial driver layout for phase-coherent point-source behaviour"
+            "label": "Type",
+            "value": "Coaxial point-source system"
           },
           {
-            "label": "Spec 2",
+            "label": "Transducers",
+            "value": "12\" + compression driver coaxial module"
+          },
+          {
+            "label": "Coverage",
             "value": "Rotatable waveguide for custom coverage patterns"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Stainless steel enclosure"
           },
           {
-            "label": "Spec 3",
-            "value": "Optimised Firenze presets for tonal continuity"
-          },
-          {
-            "label": "Spec 4",
-            "value": "Stainless steel build suitable for challenging environments"
-          },
-          {
-            "label": "Spec 5",
-            "value": "Supports flown, pole-mount and ground-stack configurations"
+            "label": "Finishes",
+            "value": "Stainless steel enclosure"
           }
         ]
       }
@@ -749,27 +831,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Includes KH2 I array elements, matching subs and amplification package"
+            "label": "Type",
+            "value": "Configured touring line-array system"
           },
           {
-            "label": "Spec 2",
+            "label": "Transducers",
+            "value": "KH2 line-array tops paired with dedicated LF modules"
+          },
+          {
+            "label": "Coverage",
             "value": "Scalable system size for small to mid-sized audience areas"
           },
           {
-            "label": "Spec 3",
+            "label": "Connectivity",
             "value": "Dedicated presets for fast tuning and deployment"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Black touring finish"
           },
           {
-            "label": "Spec 4",
-            "value": "Compatible with Mugello rigging and flying hardware"
+            "label": "Finishes",
+            "value": "Black touring finish"
           },
           {
-            "label": "Spec 5",
-            "value": "Ideal rental solution for flexible event coverage"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -815,27 +910,36 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Self-powered array elements with onboard DSP presets"
+            "label": "Type",
+            "value": "Self-powered line-array system"
           },
           {
-            "label": "Spec 2",
-            "value": "Reduced amp rack requirements and simpler power cabling"
+            "label": "Transducers",
+            "value": "Bi-amped KH2P I tops with companion subs"
           },
           {
-            "label": "Spec 3",
+            "label": "Connectivity",
             "value": "System-wide presets for speech, live and playback content"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Black touring enclosure"
           },
           {
-            "label": "Spec 4",
-            "value": "Mugello rigging hardware for quick hangs and stacks"
+            "label": "Finishes",
+            "value": "Black touring enclosure"
           },
           {
-            "label": "Spec 5",
-            "value": "Optimised integration with Mugello subwoofers"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -881,27 +985,44 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Self-powered KH3P I arrays with multi-way amplification"
+            "label": "Type",
+            "value": "High-power self-powered array system"
           },
           {
-            "label": "Spec 2",
+            "label": "Transducers",
+            "value": "Larger-format KH3P I modules with matched LF support"
+          },
+          {
+            "label": "Max SPL",
             "value": "High SPL capability for demanding venues"
           },
           {
-            "label": "Spec 3",
-            "value": "Dedicated presets for indoor and outdoor voicings"
+            "label": "Rated Power",
+            "value": "Multi-way amplification"
           },
           {
-            "label": "Spec 4",
-            "value": "Compatible with Mugello rigging hardware and subs"
-          },
-          {
-            "label": "Spec 5",
+            "label": "Connectivity",
             "value": "Networked control and monitoring for touring workflows"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Black touring finish"
+          },
+          {
+            "label": "Finishes",
+            "value": "Black touring finish"
+          },
+          {
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -947,27 +1068,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Highest-output Mugello array platform with self-contained amplification"
+            "label": "Type",
+            "value": "Flagship self-powered array system"
           },
           {
-            "label": "Spec 2",
-            "value": "Advanced DSP for coverage, voicing and protection presets"
+            "label": "Transducers",
+            "value": "Large-format KH5P I modules with dedicated Mugello subs"
           },
           {
-            "label": "Spec 3",
-            "value": "Integrated rigging for fast, repeatable deployment"
+            "label": "Max SPL",
+            "value": "Highest-output Mugello array platform"
           },
           {
-            "label": "Spec 4",
-            "value": "Optimised to pair with Mugello subwoofer platforms"
-          },
-          {
-            "label": "Spec 5",
+            "label": "Connectivity",
             "value": "Networkable control for system-wide monitoring and tuning"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Black touring enclosure with integrated rigging"
+          },
+          {
+            "label": "Finishes",
+            "value": "Black touring enclosure with integrated rigging"
+          },
+          {
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1001,27 +1135,36 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Includes column arrays, subs and dedicated amplification package"
+            "label": "Type",
+            "value": "Portable front-of-house column system"
           },
           {
-            "label": "Spec 2",
-            "value": "Compact footprint tailored to small and mid-sized venues"
+            "label": "Transducers",
+            "value": "Column arrays with matching subwoofers and electronics"
           },
           {
-            "label": "Spec 3",
+            "label": "Connectivity",
             "value": "Factory presets for speech, playback and live performance"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black touring finish"
           },
           {
-            "label": "Spec 4",
-            "value": "Quick ground-stack deployment with minimal rigging"
+            "label": "Finishes",
+            "value": "Matte black touring finish"
           },
           {
-            "label": "Spec 5",
-            "value": "Designed as a complete front-of-house solution in one package"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1079,27 +1222,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Slim column arrays with controlled vertical coverage"
+            "label": "Type",
+            "value": "Compact column + sub system"
           },
           {
-            "label": "Spec 2",
-            "value": "Compact subwoofers delivering full-range performance"
+            "label": "Transducers",
+            "value": "Slim column arrays over compact subs with active amplification"
           },
           {
-            "label": "Spec 3",
+            "label": "Coverage",
+            "value": "Controlled vertical coverage"
+          },
+          {
+            "label": "Connectivity",
             "value": "Integrated amplification and DSP presets"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black columns with matching subs"
           },
           {
-            "label": "Spec 4",
-            "value": "Ground-stack or pole-mount deployment options"
+            "label": "Finishes",
+            "value": "Matte black columns with matching subs"
           },
           {
-            "label": "Spec 5",
-            "value": "Ideal for portable or semi-permanent installs"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1161,27 +1317,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Taller columns for increased throw and vertical control"
+            "label": "Type",
+            "value": "Extended column + sub system"
           },
           {
-            "label": "Spec 2",
-            "value": "Higher-output subs for more demanding program material"
+            "label": "Transducers",
+            "value": "Tall column arrays over dual or larger subs with active electronics"
           },
           {
-            "label": "Spec 3",
+            "label": "Coverage",
+            "value": "Increased throw and vertical control"
+          },
+          {
+            "label": "Connectivity",
             "value": "Active amplification with factory-configured presets"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black touring/installation finish"
           },
           {
-            "label": "Spec 4",
-            "value": "Suitable for portable or fixed installations"
+            "label": "Finishes",
+            "value": "Matte black touring/installation finish"
           },
           {
-            "label": "Spec 5",
-            "value": "Designed for clear speech and musical performance"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1239,27 +1408,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "High-output columns for large audience coverage"
+            "label": "Type",
+            "value": "Large-format column + sub system"
           },
           {
-            "label": "Spec 2",
-            "value": "Subwoofer stacks delivering club-level low-end"
+            "label": "Transducers",
+            "value": "High-power column arrays with substantial LF modules"
           },
           {
-            "label": "Spec 3",
+            "label": "Coverage",
+            "value": "High-output for large audience coverage"
+          },
+          {
+            "label": "Connectivity",
             "value": "Integrated amplification and DSP tuned for high-energy content"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black touring finish"
           },
           {
-            "label": "Spec 4",
-            "value": "Ground-stack or pole-mount deployment options"
+            "label": "Finishes",
+            "value": "Matte black touring finish"
           },
           {
-            "label": "Spec 5",
-            "value": "KR visual language suitable for premium venues"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1301,27 +1483,36 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "KR402 acoustic engine matched to portable electronics"
+            "label": "Type",
+            "value": "Portable large-format column system"
           },
           {
-            "label": "Spec 2",
+            "label": "Transducers",
+            "value": "KR402-style columns and subs with YP electronics"
+          },
+          {
+            "label": "Connectivity",
             "value": "Integrated amplification for quick plug-and-play deployment"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black portable finish"
           },
           {
-            "label": "Spec 3",
-            "value": "Designed for rental and mobile production workflows"
+            "label": "Finishes",
+            "value": "Matte black portable finish"
           },
           {
-            "label": "Spec 4",
-            "value": "Maintains KR voicing and coverage pattern"
-          },
-          {
-            "label": "Spec 5",
-            "value": "Supports fast teardown and packing"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1375,27 +1566,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Modular design for scalable column and sub combinations"
+            "label": "Type",
+            "value": "Modular column + sub system"
           },
           {
-            "label": "Spec 2",
+            "label": "Transducers",
+            "value": "KR column modules with multiple subwoofer options"
+          },
+          {
+            "label": "Coverage",
+            "value": "Scalable design to adapt to different venue sizes"
+          },
+          {
+            "label": "Connectivity",
             "value": "Integrated amplification and processing for each configuration"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black touring/installation finish"
           },
           {
-            "label": "Spec 3",
-            "value": "Designed to adapt to different venue sizes and formats"
+            "label": "Finishes",
+            "value": "Matte black touring/installation finish"
           },
           {
-            "label": "Spec 4",
-            "value": "Compatible with KR accessories and mounting hardware"
-          },
-          {
-            "label": "Spec 5",
-            "value": "Offers both portable and installed deployment options"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1457,27 +1661,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Tall column arrays with strong vertical control and throw"
+            "label": "Type",
+            "value": "High-output column + sub system"
           },
           {
-            "label": "Spec 2",
-            "value": "High-powered subs for modern music levels"
+            "label": "Transducers",
+            "value": "Large KR columns with dual high-power subs"
           },
           {
-            "label": "Spec 3",
+            "label": "Coverage",
+            "value": "Strong vertical control and throw"
+          },
+          {
+            "label": "Connectivity",
             "value": "Integrated amplification and DSP inside the system"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black touring finish"
           },
           {
-            "label": "Spec 4",
-            "value": "Suitable for mobile or fixed main PA roles"
+            "label": "Finishes",
+            "value": "Matte black touring finish"
           },
           {
-            "label": "Spec 5",
-            "value": "KR voicing tuned for both live and playback content"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1519,27 +1736,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Portable electronics integrated with KR802 acoustic components"
+            "label": "Type",
+            "value": "Portable high-output column system"
           },
           {
-            "label": "Spec 2",
-            "value": "Simplified connection scheme for faster job turnarounds"
+            "label": "Transducers",
+            "value": "KR802-style columns and subs with portable electronics"
           },
           {
-            "label": "Spec 3",
+            "label": "Coverage",
             "value": "Maintains KR802 coverage and sonic profile"
           },
           {
-            "label": "Spec 4",
-            "value": "Designed for frequent load-in/load-out environments"
+            "label": "Connectivity",
+            "value": "Simplified connection scheme for faster job turnarounds"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black portable finish"
           },
           {
-            "label": "Spec 5",
-            "value": "Suitable for both indoor and outdoor use"
+            "label": "Finishes",
+            "value": "Matte black portable finish"
+          },
+          {
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
@@ -1589,27 +1819,40 @@
     ],
     "specGroups": [
       {
-        "title": "General",
+        "title": "GENERAL",
         "items": [
           {
-            "label": "Spec 1",
+            "label": "Type",
+            "value": "Configurable column + sub system"
+          },
+          {
+            "label": "Transducers",
+            "value": "KR column modules paired with high-power subs"
+          },
+          {
+            "label": "Coverage",
             "value": "Supports both ground-stacked and flown column configurations"
           },
           {
-            "label": "Spec 2",
-            "value": "High-output subs for modern program material"
-          },
-          {
-            "label": "Spec 3",
+            "label": "Connectivity",
             "value": "Integrated amplification and DSP for each system configuration"
+          }
+        ]
+      },
+      {
+        "title": "HANDLING AND FINISHES",
+        "items": [
+          {
+            "label": "Material",
+            "value": "Matte black touring/installation finish"
           },
           {
-            "label": "Spec 4",
-            "value": "Designed to scale across different room sizes and formats"
+            "label": "Finishes",
+            "value": "Matte black touring/installation finish"
           },
           {
-            "label": "Spec 5",
-            "value": "KR styling suitable for visible installations in premium venues"
+            "label": "Colors",
+            "value": "Black"
           }
         ]
       }
