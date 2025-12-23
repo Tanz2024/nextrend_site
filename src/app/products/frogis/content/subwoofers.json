@@ -1,55 +1,88 @@
 [
-  {
-    "slug": "fi-sub6p",
-    "name": "Frogis FI-SUB6P",
-    "headline": "Ultra-compact 6\" installation subwoofer",
-    "description": "Discrete 6-inch passive subwoofer for tight architectural spaces that still need real low-end support.",
-    "story": "FI-SUB6P is built for joinery, banquettes and soffits where there’s no tolerance for bulky boxes, but background music still deserves a proper bass foundation.",
-    "definition": "Ultra-compact passive subwoofer for space-critical architectural and hospitality installations.",
-    "series": "Subwoofers",
-    "category": "Subwoofers",
-    "finish": "Professional Black",
-    "collaboration": "Frogis Professional",
-    "power": "Passive",
-    "type": "Ultra-compact installation subwoofer",
-    "drivers": "6\" high-excursion long-throw driver",
-    "applications": [
-      "Discrete hospitality installs",
-      "Under-bench and joinery cavities",
-      "Architectural integrations with limited depth"
-    ],
-    "specs": [
-      "Single 6\" high-excursion driver",
-      "Optimised for tight enclosures and boundary loading",
-      "Passive operation with external DSP amplification",
-      "Frequency response: ~40Hz–150Hz (system dependent)",
-      "Compact cabinet footprint for hidden placement"
-    ],
-    "keyStats": [
-      "Ultra-compact",
-      "Discrete mounting",
-      "High excursion"
-    ],
-    "frequency": [
-      40,
-      150
-    ],
-    "coverage": "Omnidirectional low-frequency support",
-    "weightKg": 8.5,
-    "ipRating": "IP44",
-    "image": "FI-SUB6P_main.jpg",
-    "lifestyle": [
-      {
-        "src": "FI-SUB6P_1.jpg",
-        "alt": "FI-SUB6P ultra-compact subwoofer cabinet",
-        "caption": "A small-footprint sub that tucks under joinery and seating."
-      },
-      {
-        "src": "FI-SUB6P_2.jpg",
-        "alt": "FI-SUB6P angled view showing compact depth"
-      }
-    ]
+ {
+  "slug": "fi-sub6p",
+  "name": "Frogis FI-SUB6P",
+  "headline": "Ultra-compact 6\" installation subwoofer",
+  "definition": "Ultra-compact passive subwoofer designed for space-critical architectural and hospitality installations.",
+  "description": "FI-SUB6P is a discreet 6-inch passive subwoofer engineered for tight architectural spaces that still require solid low-frequency support. Its compact enclosure allows it to disappear into joinery, seating, and built-in furniture without compromising bass performance.",
+  "story": "Designed for environments where space is limited but sound quality cannot be compromised, FI-SUB6P delivers controlled, extended low frequencies in a minimal footprint. Ideal for hospitality and architectural integrations, it provides a reliable bass foundation for background music systems in concealed installations.",
+  "series": "Subwoofers",
+  "category": "Subwoofers",
+  "finish": "Professional Black",
+  "collaboration": "Frogis Professional",
+  "power": "Passive",
+  "type": "Ultra-compact installation subwoofer",
+
+  "drivers": "6\" high-excursion long-throw driver",
+
+  "applications": [
+    "Discrete hospitality installations",
+    "Under-bench and joinery cavities",
+    "Architectural integrations with limited depth"
+  ],
+
+  "keyStats": [
+    "Ultra-compact enclosure",
+    "Discrete mounting capability",
+    "High-excursion low-frequency driver"
+  ],
+
+  "frequency": {
+    "range": "40 Hz – 150 Hz",
+    "note": "System dependent"
   },
+
+  "coverage": "Omnidirectional low-frequency support",
+
+  "physical": {
+    "weightKg": 8.5
+  },
+
+  "ipRating": "IP44",
+
+  "image": "FI-SUB6P_main.jpg",
+
+  "lifestyle": [
+    {
+      "src": "FI-SUB6P_1.jpg",
+      "alt": "FI-SUB6P ultra-compact subwoofer cabinet",
+      "caption": "A small-footprint subwoofer designed to disappear under joinery and seating."
+    },
+    {
+      "src": "FI-SUB6P_2.jpg",
+      "alt": "FI-SUB6P angled view highlighting its compact depth"
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "System",
+      "items": [
+        { "label": "Type", "value": "Passive installation subwoofer" },
+        { "label": "Driver", "value": "Single 6\" high-excursion long-throw driver" },
+        { "label": "Frequency Response", "value": "40 Hz – 150 Hz (system dependent)" },
+        { "label": "Coverage", "value": "Omnidirectional" }
+      ]
+    },
+    {
+      "title": "Installation & Use",
+      "items": [
+        { "label": "Application", "value": "Hidden architectural and hospitality installations" },
+        { "label": "Operation", "value": "Passive, requires external DSP amplification" },
+        { "label": "Placement", "value": "Joinery, banquettes, under-bench cavities" }
+      ]
+    },
+    {
+      "title": "Physical & Protection",
+      "items": [
+        { "label": "Weight", "value": "8.5 kg" },
+        { "label": "Finish", "value": "Professional Black" },
+        { "label": "IP Rating", "value": "IP44" }
+      ]
+    }
+  ]
+}
+,
   {
     "slug": "fi-sub10p",
     "name": "Frogis FI-SUB10P",

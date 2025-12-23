@@ -1,62 +1,118 @@
 [
   {
-    "slug": "rail-adjustable-linear-spot-48v",
-    "name": "K-array RAIL Adjustable Linear Spot 48V",
-    "headline": "Adjustable linear LED spotlight for precise illumination",
-    "description": "RAIL Adjustable Linear Spot 48V provides precise directional lighting with adjustable beam control for architectural and retail applications.",
-    "story": "Designed for environments where lighting precision matters, this adjustable linear spot delivers focused illumination with professional-grade control.",
-    "definition": "Adjustable linear LED spotlight with 48V power system for precise directional lighting.",
-    "series": "RAIL",
-    "category": "Light",
-    "finish": "Professional Black",
-    "collaboration": "K-array Italy",
-    "power": "48V LED",
-    "type": "Adjustable linear LED spotlight",
-    "drivers": "High-efficiency LED array with adjustable beam control",
-    "applications": [
-      "Architectural lighting",
-      "Retail illumination",
-      "Gallery lighting"
-    ],
-    "specs": [
-      "Type: Adjustable linear LED spotlight",
-      "Power: 48V LED system",
-      "Adjustable beam angle",
-      "High-efficiency LED array",
-      "Professional mounting hardware"
-    ],
-    "keyStats": [
-      "Adjustable beam",
-      "48V system",
-      "Professional grade"
-    ],
-    "coverage": "Adjustable directional",
-    "weightKg": 2.5,
-    "ipRating": "IP44",
-    "image": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_main.png",
-    "lifestyle": [
-      {
-        "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_1.png",
-        "alt": "RAIL Adjustable Linear Spot installation"
-      },
-      {
-        "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_2.png",
-        "alt": "RAIL Adjustable Linear Spot beam control"
-      },
-      {
-        "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_3.png",
-        "alt": "RAIL Adjustable Linear Spot retail application"
-      },
-      {
-        "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_4.png",
-        "alt": "RAIL Adjustable Linear Spot architectural integration"
-      },
-      {
-        "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_5.png",
-        "alt": "RAIL Adjustable Linear Spot professional mounting"
-      }
+  "slug": "rail-adjustable-linear-spot-48v",
+  "name": "K-array RAIL Adjustable Linear Spot 48V",
+  "headline": "Adjustable low-glare linear spotlight with precision optics",
+  "definition": "Adjustable linear LED spotlight operating on a 48V system, designed for precise directional illumination with high visual comfort.",
+  "description": "RAIL Adjustable Linear Spot 48V is engineered to deliver precise, controlled illumination with a strong focus on visual comfort. Featuring low-glare optics and adjustable orientation, it is ideal for architectural, retail, and gallery environments where accurate light placement is essential.",
+  "story": "Combining a slim linear form with adjustable positioning, this spotlight integrates seamlessly into professional lighting systems. Its refined optical control allows light to be directed exactly where needed, ensuring comfortable, glare-reduced illumination while preserving the visual character of the space.",
+  "series": "RAIL",
+  "category": "Light",
+  "finish": "Professional Black",
+  "collaboration": "K-array Italy",
+  "power": "48V LED",
+  "type": "Adjustable linear LED spotlight",
+
+  "lighting": {
+    "led": "Osram",
+    "lifetime": "Lm80 60,000 h @ 25°C",
+    "colorRendering": "Ra90",
+    "optic": "30° spot",
+    "luminousFlux": "1320 lm",
+    "powerWattage": "30 W"
+  },
+
+  "electrical": {
+    "inputVoltage": "48 Vdc",
+    "driver": "Electronic remote driver",
+    "controlInterface": [
+      "DALI ready",
+      "Casambi ready"
     ]
   },
+
+  "physical": {
+    "dimensions": {
+      "metric": "685 x 22 x 25.5 mm",
+      "imperial": "26.9 x 0.86 x 1 in"
+    },
+    "weightKg": 0.35,
+    "material": "Aluminum body, powder coated",
+    "colors": ["Black", "White"]
+  },
+
+  "ipRating": "IP20",
+
+  "applications": [
+    "Architectural lighting",
+    "Retail illumination",
+    "Gallery lighting"
+  ],
+
+  "image": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_main.png",
+
+  "lifestyle": [
+    {
+      "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_1.png",
+      "alt": "RAIL Adjustable Linear Spot installation"
+    },
+    {
+      "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_2.png",
+      "alt": "RAIL Adjustable Linear Spot beam control"
+    },
+    {
+      "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_3.png",
+      "alt": "RAIL Adjustable Linear Spot retail application"
+    },
+    {
+      "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_4.png",
+      "alt": "RAIL Adjustable Linear Spot architectural integration"
+    },
+    {
+      "src": "K_array_images/light_images/RAIL Adjustable Linear Spot 48V_5.png",
+      "alt": "RAIL Adjustable Linear Spot professional mounting"
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "General",
+      "items": [
+        { "label": "Type", "value": "Adjustable linear LED spotlight" },
+        { "label": "Input Voltage", "value": "48 Vdc" },
+        { "label": "Material", "value": "Aluminum body, powder coated" },
+        { "label": "Colors", "value": "Black / White" },
+        { "label": "IP Protection", "value": "IP20" }
+      ]
+    },
+    {
+      "title": "Lighting Characteristics",
+      "items": [
+        { "label": "LED", "value": "Osram" },
+        { "label": "Optic", "value": "30° spot" },
+        { "label": "Luminous Flux", "value": "1320 lm" },
+        { "label": "Power Consumption", "value": "30 W" },
+        { "label": "Color Rendering Index", "value": "Ra90" },
+        { "label": "LED Lifetime", "value": "Lm80 60,000 h @ 25°C" }
+      ]
+    },
+    {
+      "title": "Electrical & Control",
+      "items": [
+        { "label": "Driver", "value": "Electronic remote driver" },
+        { "label": "Control Interface", "value": "DALI ready / Casambi ready" }
+      ]
+    },
+    {
+      "title": "Dimensions & Weight",
+      "items": [
+        { "label": "Dimensions (W x H x D)", "value": "685 x 22 x 25.5 mm" },
+        { "label": "Weight", "value": "350 g" }
+      ]
+    }
+  ]
+}
+,
   {
     "slug": "rail-linear-opal-48v",
     "name": "K-array RAIL Linear Opal 48V",
@@ -76,21 +132,6 @@
       "Architectural accents",
       "Hospitality environments"
     ],
-    "specs": [
-      "Type: Linear LED with opal diffusion",
-      "Power: 48V LED system",
-      "Opal diffusion for soft illumination",
-      "Linear mounting system",
-      "Architectural integration hardware"
-    ],
-    "keyStats": [
-      "Opal diffusion",
-      "Ambient lighting",
-      "Architectural grade"
-    ],
-    "coverage": "Linear diffused",
-    "weightKg": 2.2,
-    "ipRating": "IP44",
     "image": "K_array_images/light_images/RAIL Linear Opal 48V_main.png",
     "lifestyle": [
       {
@@ -113,6 +154,33 @@
         "src": "K_array_images/light_images/RAIL Linear Opal 48V_5.png",
         "alt": "RAIL Linear Opal linear mounting"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Linear LED with opal diffusion"
+          },
+          {
+            "label": "Power",
+            "value": "48V LED system"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Opal diffusion for soft illumination"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Linear mounting system"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Architectural integration hardware"
+          }
+        ]
+      }
     ]
   },
   {
@@ -134,21 +202,6 @@
       "Task illumination",
       "Directional lighting"
     ],
-    "specs": [
-      "Type: Linear LED spotlight",
-      "Power: 48V LED system",
-      "Directional beam control",
-      "Linear mounting system",
-      "Professional installation hardware"
-    ],
-    "keyStats": [
-      "Directional beam",
-      "Linear format",
-      "Professional control"
-    ],
-    "coverage": "Linear directional",
-    "weightKg": 2.3,
-    "ipRating": "IP44",
     "image": "K_array_images/light_images/RAIL Linear Spot 48V_main.png",
     "lifestyle": [
       {
@@ -171,6 +224,33 @@
         "src": "K_array_images/light_images/RAIL Linear Spot 48V_5.png",
         "alt": "RAIL Linear Spot professional mounting"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Linear LED spotlight"
+          },
+          {
+            "label": "Power",
+            "value": "48V LED system"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Directional beam control"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Linear mounting system"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Professional installation hardware"
+          }
+        ]
+      }
     ]
   },
   {
@@ -192,21 +272,6 @@
       "Display lighting",
       "High-output illumination"
     ],
-    "specs": [
-      "Type: Fixed lens LED projector",
-      "Power: 48V LED system",
-      "Fixed lens optical system",
-      "High-output LED array",
-      "Architectural mounting hardware"
-    ],
-    "keyStats": [
-      "Fixed lens optics",
-      "High output",
-      "Architectural grade"
-    ],
-    "coverage": "Fixed projection",
-    "weightKg": 3.2,
-    "ipRating": "IP54",
     "image": "K_array_images/light_images/RAIL Projector fixed lens 48V_main.jpg",
     "lifestyle": [
       {
@@ -229,6 +294,33 @@
         "src": "K_array_images/light_images/RAIL Projector fixed lens 48V_5.jpg",
         "alt": "RAIL Projector Fixed Lens mounting detail"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Fixed lens LED projector"
+          },
+          {
+            "label": "Power",
+            "value": "48V LED system"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Fixed lens optical system"
+          },
+          {
+            "label": "Spec 4",
+            "value": "High-output LED array"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Architectural mounting hardware"
+          }
+        ]
+      }
     ]
   },
   {
@@ -250,21 +342,6 @@
       "Entertainment venues",
       "Adaptive architectural lighting"
     ],
-    "specs": [
-      "Type: Zoom lens LED projector",
-      "Power: 24V LED system",
-      "Variable zoom optical system",
-      "Adjustable beam angle",
-      "Professional control interface"
-    ],
-    "keyStats": [
-      "Variable zoom",
-      "24V system",
-      "Adjustable beam"
-    ],
-    "coverage": "Variable projection",
-    "weightKg": 2.8,
-    "ipRating": "IP44",
     "image": "K_array_images/light_images/RAIL Projector Zoom 24V_main.png",
     "lifestyle": [
       {
@@ -278,6 +355,33 @@
       {
         "src": "K_array_images/light_images/RAIL Projector Zoom 24V_3.png",
         "alt": "RAIL Projector Zoom 24V variable lighting"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Zoom lens LED projector"
+          },
+          {
+            "label": "Power",
+            "value": "24V LED system"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Variable zoom optical system"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Adjustable beam angle"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Professional control interface"
+          }
+        ]
       }
     ]
   },
@@ -300,21 +404,6 @@
       "Large venue lighting",
       "Professional installations"
     ],
-    "specs": [
-      "Type: High-power zoom LED projector",
-      "Power: 48V LED system",
-      "Enhanced zoom optical system",
-      "High-output LED array",
-      "Professional installation hardware"
-    ],
-    "keyStats": [
-      "High power",
-      "Enhanced zoom",
-      "Professional grade"
-    ],
-    "coverage": "High-power variable projection",
-    "weightKg": 3.5,
-    "ipRating": "IP54",
     "image": "K_array_images/light_images/RAIL Projector Zoom 48V_main.png",
     "lifestyle": [
       {
@@ -332,6 +421,33 @@
       {
         "src": "K_array_images/light_images/RAIL Projector Zoom 48V_4.png",
         "alt": "RAIL Projector Zoom 48V professional installation"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "High-power zoom LED projector"
+          },
+          {
+            "label": "Power",
+            "value": "48V LED system"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Enhanced zoom optical system"
+          },
+          {
+            "label": "Spec 4",
+            "value": "High-output LED array"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Professional installation hardware"
+          }
+        ]
       }
     ]
   },
@@ -354,26 +470,38 @@
       "Commercial spaces",
       "Dynamic architectural lighting"
     ],
-    "specs": [
-      "Type: Suspended track LED lighting",
-      "Power: 48V LED system",
-      "Flexible track positioning",
-      "Suspended mounting system",
-      "Dynamic lighting configuration"
-    ],
-    "keyStats": [
-      "Suspended mounting",
-      "Flexible tracks",
-      "Dynamic lighting"
-    ],
-    "coverage": "Flexible track lighting",
-    "weightKg": 4.2,
-    "ipRating": "IP44",
     "image": "K_array_images/light_images/RAIL Suspended track light 48V_main.png",
     "lifestyle": [
       {
         "src": "K_array_images/light_images/RAIL Suspended track light 48V_1.png",
         "alt": "RAIL Suspended Track Light installation"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Suspended track LED lighting"
+          },
+          {
+            "label": "Power",
+            "value": "48V LED system"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Flexible track positioning"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Suspended mounting system"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Dynamic lighting configuration"
+          }
+        ]
       }
     ]
   }

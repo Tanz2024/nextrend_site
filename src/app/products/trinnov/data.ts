@@ -9,11 +9,15 @@ export type TrinnovProduct = {
   headline: string;
   description: string;
   story: string;
-  series: string;
+  series?: string;
   finish: string;
   collaboration: string;
   image: string;
   specs: string[];
+  specGroups?: Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
   features?: string[];
   applications?: string[];
   resources?: Array<{ label: string; href: string }>;
@@ -106,6 +110,36 @@ const normalizeResources = (value: unknown) => {
     .filter(Boolean) as Array<{ label: string; href: string }>;
 };
 
+const normalizeSpecGroups = (value: unknown) => {
+  if (!Array.isArray(value)) return [];
+
+  return value
+    .map((group) => {
+      if (!group || typeof group !== "object") return null;
+      const record = group as Record<string, unknown>;
+      const title = asString(record.title).trim();
+      const items = Array.isArray(record.items)
+        ? record.items
+            .map((item: unknown) => {
+              if (!item || typeof item !== "object") return null;
+              const entry = item as Record<string, unknown>;
+              const label = asString(entry.label).trim();
+              const value = asString(entry.value).trim();
+              if (!label && !value) return null;
+              return { label, value };
+            })
+            .filter(Boolean)
+        : [];
+
+      if (!title && items.length === 0) return null;
+      return { title, items };
+    })
+    .filter(Boolean) as Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
+};
+
 const rawProducts = asArray((content as any).trinnovProducts ?? (content as any).products);
 
 export const trinnovProducts: TrinnovProduct[] = rawProducts.map((item) => {
@@ -114,6 +148,7 @@ export const trinnovProducts: TrinnovProduct[] = rawProducts.map((item) => {
   const slug = asString(record.slug) || (name ? slugify(name) : "");
 
   const resources = normalizeResources(record.resources);
+  const specGroups = normalizeSpecGroups(record.specGroups);
 
   return {
     slug,
@@ -121,11 +156,12 @@ export const trinnovProducts: TrinnovProduct[] = rawProducts.map((item) => {
     headline: asString(record.headline),
     description: asString(record.description),
     story: asString(record.story),
-    series: asString(record.series),
+    series: asString(record.series).trim() || undefined,
     finish: asString(record.finish),
     collaboration: asString(record.collaboration),
     image: buildTrinnovUrl(asString(record.image)),
     specs: asStringArray(record.specs),
+    specGroups,
     features: asStringArray(record.features),
     applications: asStringArray(record.applications),
     resources: resources.length ? resources : undefined,

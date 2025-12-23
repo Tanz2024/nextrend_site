@@ -1,59 +1,73 @@
 [
-  {
-    "slug": "gs2",
-    "name": "KGEAR GS2",
-    "headline": "Single 18-inch compact passive subwoofer",
-    "description": "A compact single 18-inch birch subwoofer that quietly underpins lounges, studios and sanctuaries with musical, controlled low end.",
-    "story": "GS2 is the workhorse sub for rooms that need honest bass without consuming floor space. The birch enclosure, SpeakON connectivity and 134 dB ceiling make it a natural partner for GP columns and distributed hospitality systems, as well as modern houses of worship.",
-    "definition": "Single 18-inch birch subwoofer delivering 34 Hz to 150 Hz response for boutique venues and worship spaces.",
-    "series": "GS Subwoofers",
-    "category": "Subwoofers",
-    "finish": "Birch Cabinet",
-    "collaboration": "Passive",
-    "power": "Passive",
-    "type": "Passive 18\" subwoofer",
-    "drivers": "Single 18\" ferrite woofer",
-    "applications": [
-      "Studios and lounges",
-      "Hospitality venues",
-      "Houses of worship"
-    ],
-    "specs": [
-      "Type: Passive enclosure with single 18\" ferrite driver",
-      "Frequency response 34 Hz - 150 Hz (-6 dB)",
-      "Max SPL 134 dB with omni coverage",
-      "Power handling 800 W at 8 ohm",
-      "Dimensions 546 x 610 x 590 mm",
-      "Birch plywood cabinet with IP43 rating"
-    ],
-    "keyStats": [
-      "134 dB max",
-      "34 Hz floor",
-      "800 W handling"
-    ],
-    "frequency": [
-      34,
-      150
-    ],
-    "coverage": "Omni",
-    "weightKg": 32.7,
-    "ipRating": "IP43",
-    "image": "Subwoofers_images/GS2_main.png",
-    "lifestyle": [
-      {
-        "src": "Subwoofers_images/GS2_1.png",
-        "alt": "GS2 18-inch subwoofer shown at an angle"
-      },
-      {
-        "src": "Subwoofers_images/GS2_2.png",
-        "alt": "Close-up of the GS2 front grille and logo"
-      },
-      {
-        "src": "Subwoofers_images/GS2_3.png",
-        "alt": "Rear panel of GS2 with SpeakON connectors and hardware"
-      }
-    ]
-  },
+ {
+  "slug": "gs2",
+  "name": "KGEAR GS2",
+  "headline": "Single 18-inch compact passive subwoofer",
+  "definition": "Single 18-inch birch subwoofer delivering a 34 Hz to 150 Hz response for boutique venues, hospitality spaces, and houses of worship.",
+  "description": "A compact single 18-inch birch subwoofer that quietly underpins lounges, studios, and sanctuaries with musical, controlled low end.",
+  "story": "GS2 is the workhorse sub for rooms that need honest bass without consuming floor space. Its reinforced birch plywood enclosure, SpeakON connectivity, and 134 dB maximum SPL make it a natural partner for GP columns and distributed hospitality systems, as well as modern houses of worship.",
+  "series": "GS Subwoofers",
+  "category": "Subwoofers",
+  "finish": "Birch Cabinet",
+  "collaboration": "Passive",
+  "power": "Passive",
+  "type": "Passive 18\" subwoofer",
+
+  "drivers": "Single 18\" ferrite magnet woofer",
+
+  "applications": [
+    "Studios and lounges",
+    "Hospitality venues",
+    "Houses of worship"
+  ],
+
+  "image": "Subwoofers_images/GS2_main.png",
+
+  "lifestyle": [
+    {
+      "src": "Subwoofers_images/GS2_1.png",
+      "alt": "GS2 18-inch subwoofer shown at an angle"
+    },
+    {
+      "src": "Subwoofers_images/GS2_2.png",
+      "alt": "Close-up of the GS2 front grille and logo"
+    },
+    {
+      "src": "Subwoofers_images/GS2_3.png",
+      "alt": "Rear panel of GS2 with SpeakON connectors and hardware"
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "General",
+      "items": [
+        { "label": "Type", "value": "Passive subwoofer" },
+        { "label": "Transducers", "value": "18\" ferrite magnet woofer" },
+        { "label": "Frequency Response", "value": "34 Hz – 150 Hz (-6 dB)" },
+        { "label": "Max SPL", "value": "134 dB" },
+        { "label": "Rated Power", "value": "800 W" },
+        { "label": "Nominal Impedance", "value": "8 Ω" },
+        { "label": "Coverage", "value": "Omnidirectional" },
+        { "label": "Connectors", "value": "2 × SpeakON NL4" }
+      ]
+    },
+    {
+      "title": "Handling & Finishes",
+      "items": [
+        {
+          "label": "Dimensions (W x H x D)",
+          "value": "546 x 610 x 590 mm (21.49 x 24.02 x 23.22 in)"
+        },
+        { "label": "Weight", "value": "32.7 kg (72.1 lb)" },
+        { "label": "Material", "value": "Birch plywood" },
+        { "label": "Colors", "value": "Black" },
+        { "label": "IP Rating", "value": "IP43" }
+      ]
+    }
+  ]
+}
+,
   {
     "slug": "gs4",
     "name": "KGEAR GS4",
@@ -73,26 +87,6 @@
       "Ballrooms",
       "Outdoor marquees"
     ],
-    "specs": [
-      "Type: Passive dual 18\" enclosure",
-      "Frequency response 34 Hz - 150 Hz (-6 dB)",
-      "Max SPL 139 dB with omni coverage",
-      "Power handling 1600 W at 4 ohm",
-      "Dimensions 1025 x 610 x 590 mm",
-      "Birch plywood shell with IP43 rating"
-    ],
-    "keyStats": [
-      "139 dB ceiling",
-      "Dual 18\" drivers",
-      "1600 W load"
-    ],
-    "frequency": [
-      34,
-      150
-    ],
-    "coverage": "Omni",
-    "weightKg": 55.7,
-    "ipRating": "IP43",
     "image": "Subwoofers_images/GS4_main.png",
     "lifestyle": [
       {
@@ -128,27 +122,6 @@
       "Residential media rooms",
       "Boutique hospitality"
     ],
-    "specs": [
-      "Type: Active compact enclosure with six woofers",
-      "Frequency response 55 Hz - 140 Hz (-6 dB)",
-      "Max SPL 108 dB with omni coverage",
-      "Class-D amplifier delivers 100 W @ 2 ohm (24 V DC)",
-      "Connectors: dual Phoenix (balanced in, mute, power pass), 24 V DC input",
-      "Operates on 12-24 V DC, draws 30 W at 1/8 power",
-      "Dimensions 170 x 310 x 310 mm, 3.2 kg, IP43"
-    ],
-    "keyStats": [
-      "108 dB max",
-      "100 W class-D",
-      "Runs on 12-24 V"
-    ],
-    "frequency": [
-      55,
-      140
-    ],
-    "coverage": "Omni",
-    "weightKg": 3.2,
-    "ipRating": "IP43",
     "image": "Subwoofers_images/GS6A_main.jpg",
     "lifestyle": [
       {
@@ -180,27 +153,6 @@
       "Outdoor events",
       "Nightlife flagships"
     ],
-    "specs": [
-      "Type: Dual 18\" enclosure with onboard amplification",
-      "Frequency response 30 Hz - 150 Hz (-6 dB)",
-      "Max SPL 138 dB with omni coverage",
-      "Class-D engine rated 4 x 1500 W @ 4 ohm",
-      "Power handling 3000 W and 4 ohm nominal impedance",
-      "Dimensions 1035 x 614 x 600 mm, 59 kg",
-      "Birch plywood, IP43 rating, SpeakON and power I/O"
-    ],
-    "keyStats": [
-      "138 dB output",
-      "4 x 1500 W amp",
-      "30 Hz floor"
-    ],
-    "frequency": [
-      30,
-      150
-    ],
-    "coverage": "Omni",
-    "weightKg": 59,
-    "ipRating": "IP43",
     "image": "Subwoofers_images/GS218A_main.jpg",
     "lifestyle": [
       {
@@ -236,26 +188,6 @@
       "Residential",
       "Boutique installations"
     ],
-    "specs": [
-      "Type: Passive enclosure with single 12\" ferrite driver",
-      "Frequency response 45 Hz - 150 Hz (-6 dB)",
-      "Max SPL 128 dB with omni coverage",
-      "Power handling 500 W at 8 ohm",
-      "Dimensions 400 x 450 x 420 mm",
-      "Birch plywood cabinet with IP43 rating"
-    ],
-    "keyStats": [
-      "128 dB max",
-      "45 Hz floor",
-      "500 W handling"
-    ],
-    "frequency": [
-      45,
-      150
-    ],
-    "coverage": "Omni",
-    "weightKg": 18.5,
-    "ipRating": "IP43",
     "image": "Subwoofers_images/GS1_main.png",
     "lifestyle": [
       {
@@ -291,26 +223,6 @@
       "Retail environments",
       "Residential"
     ],
-    "specs": [
-      "Type: Passive enclosure with six compact drivers",
-      "Frequency response 60 Hz - 140 Hz (-6 dB)",
-      "Max SPL 118 dB with omni coverage",
-      "Power handling 200 W at 8 ohm",
-      "Dimensions 200 x 350 x 350 mm",
-      "Compact design, IP43 rating"
-    ],
-    "keyStats": [
-      "118 dB max",
-      "Compact design",
-      "6-driver array"
-    ],
-    "frequency": [
-      60,
-      140
-    ],
-    "coverage": "Omni",
-    "weightKg": 8.2,
-    "ipRating": "IP43",
     "image": "Subwoofers_images/GS6_main.jpg",
     "lifestyle": [
       {
@@ -338,26 +250,6 @@
       "Touring",
       "Festival systems"
     ],
-    "specs": [
-      "Type: Passive dual 18\" enclosure",
-      "Frequency response 30 Hz - 150 Hz (-6 dB)",
-      "Max SPL 136 dB with omni coverage",
-      "Power handling 2000 W at 4 ohm",
-      "Dimensions 1035 x 614 x 600 mm",
-      "Birch plywood shell with IP43 rating"
-    ],
-    "keyStats": [
-      "136 dB ceiling",
-      "Dual 18\" drivers",
-      "2000 W load"
-    ],
-    "frequency": [
-      30,
-      150
-    ],
-    "coverage": "Omni",
-    "weightKg": 52,
-    "ipRating": "IP43",
     "image": "Subwoofers_images/GS218_main.jpg",
     "lifestyle": [
       {
@@ -393,27 +285,6 @@
       "High-end systems",
       "Compact setups"
     ],
-    "specs": [
-      "Type: Active 10\" subwoofer",
-      "Driver: 10\" high-excursion woofer with 400W Class D amplifier",
-      "Frequency response 35 Hz - 120 Hz (-3 dB)",
-      "Max SPL 120 dB with precision response",
-      "Input: XLR/TRS combo, volume control",
-      "Dimensions 300 x 350 x 350 mm",
-      "Premium cabinet with advanced DSP processing"
-    ],
-    "keyStats": [
-      "120 dB max",
-      "400W Class D",
-      "Ultra-compact"
-    ],
-    "frequency": [
-      35,
-      120
-    ],
-    "coverage": "Omni",
-    "weightKg": 12.5,
-    "ipRating": "Indoor",
     "image": "Subwoofers_images/GU210_main.jpg",
     "lifestyle": [
       {

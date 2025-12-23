@@ -109,6 +109,41 @@ const normalizeResources = (value: unknown) => {
     .filter(Boolean) as Array<{ label: string; href: string }>;
 };
 
+const normalizeSpecGroups = (value: unknown) => {
+  if (!Array.isArray(value)) return [];
+
+  return value
+    .map((group) => {
+      if (!group || typeof group !== "object") return null;
+      const record = group as Record<string, unknown>;
+      const title = asString(record.title).trim();
+      const items = Array.isArray(record.items)
+        ? record.items
+            .map((item: unknown) => {
+              if (!item || typeof item !== "object") return null;
+              const entry = item as Record<string, unknown>;
+              const label = asString(entry.label).trim();
+              const value = asString(entry.value).trim();
+              if (!label && !value) return null;
+              return { label, value };
+            })
+            .filter(Boolean)
+        : [];
+
+      if (!title && items.length === 0) return null;
+      return { title, items };
+    })
+    .filter(Boolean) as Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
+};
+
+const formatFrequency = (value?: [number, number]) => {
+  if (!value) return "";
+  return `${value[0]} Hz - ${value[1]} Hz`;
+};
+
 const mapProducts = (items: unknown, category: FrogisCategory) =>
   asArray(items)
     .map((item) => {
@@ -116,8 +151,69 @@ const mapProducts = (items: unknown, category: FrogisCategory) =>
       const record = item as Record<string, unknown>;
       const name = asString(record.name);
       const slug = asString(record.slug) || (name ? slugify(name) : "");
+      const seriesValue = asString(record.series).trim();
+      const categoryValue = asString(record.category).trim();
+      const assetCategory = categoryValue || category;
 
       const resources = normalizeResources(record.resources);
+      const specGroups = normalizeSpecGroups(record.specGroups);
+
+      const power = asString(record.power) || undefined;
+      const type = asString(record.type) || undefined;
+      const drivers = asString(record.drivers) || undefined;
+      const frequency = asNumberTuple(record.frequency);
+      const coverage = asString(record.coverage) || undefined;
+      const weightKg =
+        typeof record.weightKg == "number" ? record.weightKg : undefined;
+      const ipRating = asString(record.ipRating) || undefined;
+      const finish = asString(record.finish);
+
+      const fallbackSpecGroups = () => {
+        const generalItems: Array<{ label: string; value: string }> = [];
+        const performanceItems: Array<{ label: string; value: string }> = [];
+
+        if (type) generalItems.push({ label: "Type", value: type });
+        if (power) generalItems.push({ label: "Power", value: power });
+        if (drivers) generalItems.push({ label: "Drivers", value: drivers });
+        if (finish) generalItems.push({ label: "Finish", value: finish });
+        if (seriesValue) {
+          generalItems.push({ label: "Series", value: seriesValue });
+        }
+        if (categoryValue) {
+          generalItems.push({ label: "Category", value: categoryValue });
+        }
+
+        if (frequency) {
+          performanceItems.push({
+            label: "Frequency response",
+            value: formatFrequency(frequency),
+          });
+        }
+        if (coverage) {
+          performanceItems.push({ label: "Coverage", value: coverage });
+        }
+        if (typeof weightKg == "number") {
+          performanceItems.push({ label: "Weight", value: `${weightKg} kg` });
+        }
+        if (ipRating) {
+          performanceItems.push({ label: "IP rating", value: ipRating });
+        }
+
+        const groups: Array<{
+          title: string;
+          items: Array<{ label: string; value: string }>;
+        }> = [];
+        if (generalItems.length) {
+          groups.push({ title: "General", items: generalItems });
+        }
+        if (performanceItems.length) {
+          groups.push({ title: "Performance", items: performanceItems });
+        }
+        return groups;
+      };
+
+      const resolvedSpecGroups =
+        specGroups.length > 0 ? specGroups : fallbackSpecGroups();
 
       return {
         slug,
@@ -125,25 +221,26 @@ const mapProducts = (items: unknown, category: FrogisCategory) =>
         headline: asString(record.headline),
         description: asString(record.description),
         story: asString(record.story),
-        series: asString(record.series, category) as FrogisCategory,
-        category,
-        finish: asString(record.finish),
+        series: (seriesValue || undefined) as FrogisCategory | undefined,
+        category: (categoryValue || undefined) as FrogisCategory | undefined,
+        finish,
         collaboration: asString(record.collaboration),
-        power: asString(record.power) || undefined,
-        type: asString(record.type) || undefined,
-        drivers: asString(record.drivers) || undefined,
+        power,
+        type,
+        drivers,
         applications: asStringArray(record.applications),
-        image: resolveAsset(record.image, category),
-        lifestyle: mapLifestyle(record.lifestyle, name || "Frog-is", category),
+        image: resolveAsset(record.image, assetCategory),
+        lifestyle: mapLifestyle(record.lifestyle, name || "Frog-is", assetCategory),
         specs: asStringArray(record.specs),
+        specGroups: resolvedSpecGroups.length ? resolvedSpecGroups : undefined,
         resources: resources.length ? resources : undefined,
         definition: asString(record.definition) || undefined,
         features: asStringArray(record.features),
         keyStats: asStringArray(record.keyStats),
-        frequency: asNumberTuple(record.frequency),
-        coverage: asString(record.coverage) || undefined,
-        weightKg: typeof record.weightKg == "number" ? record.weightKg : undefined,
-        ipRating: asString(record.ipRating) || undefined,
+        frequency,
+        coverage,
+        weightKg,
+        ipRating,
       } as FrogisProduct;
     })
     .filter(Boolean) as FrogisProduct[];

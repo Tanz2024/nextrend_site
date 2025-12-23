@@ -4,11 +4,48 @@
     "name": "Sapphire 130iB",
     "headline": "Plaster-over invisible loudspeaker",
     "description": "The compact Sapphire that delivers refined, immersive sound with discreet integration—an elegant solution for boutique retail, luxury hospitality, and considered residential spaces.",
-    "story": "As the younger sibling of the full-size Sapphire loudspeakers, the Sapphire 130iB delivers immersive, high-quality sound while remaining discreetly integrated into your space. Featuring the proprietary ‘Symphony Cell’ resin-impregnated composite soundboard and a meticulously optimised aluminium frame, it offers a rich, articulate presentation with slightly less low-frequency extension than its larger siblings. Designed for projects where performance, discretion, and installation efficiency matter, the 130iB proves that a smaller form can still feel unmistakably sophisticated.",
-    "series": "Sapphire",
+    "heroCopy": "Compact Sapphire refinement — immersive sound, quietly concealed behind plaster.",
+    "story": "As the younger sibling of the full-size Sapphire loudspeakers, the Sapphire 130iB delivers immersive, high-quality sound while remaining discreetly integrated into your space. Featuring the proprietary Symphony Cell resin-impregnated composite soundboard and a meticulously optimised aluminium frame, it offers a rich, articulate presentation with slightly less low-frequency extension than its larger siblings. Designed for projects where performance, discretion, and installation efficiency matter, the 130iB proves that a smaller form can still feel unmistakably sophisticated.",
+    "definition": "Compact plaster-over invisible loudspeaker for refined distributed audio.",
+    "series": "Sapphire Series",
+    "category": "Invisible loudspeakers",
     "finish": "Plaster-over (2mm plaster skim or alternative finishes)",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Architectural Audio",
+    "power": "Passive",
+    "type": "Plaster-over invisible loudspeaker",
+    "drivers": "Symphony Cell soundboard with exciter drive system",
     "image": "Sapphire130-Rear-244x350.png",
+    "specs": [],
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "8 Ω" },
+          { "label": "Sensitivity", "value": "76 dB (82 dB SPL equivalent without plaster)" },
+          { "label": "Rated maximum SPL", "value": "90 dB SPL" },
+          { "label": "Frequency range (-10 dB)", "value": "60 Hz – 20 kHz" },
+          { "label": "Frequency response (-6 dB)", "value": "80 Hz – 20 kHz" },
+          { "label": "Coverage (H/V)", "value": "180° / 180°" },
+          { "label": "Power handling (RMS / Peak)", "value": "30 W / 60 W" },
+          { "label": "Recommended high-pass filter", "value": "40 Hz (24 dB per Oct.)" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          { "label": "Electrical connection", "value": "Wago Lever-Splice 16–10 AWG (1.5–6 mm²)" },
+          { "label": "Low-Z protection", "value": "Guardian 2 / 8 / 16" }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "402 mm × 304 mm × 77 mm" },
+          { "label": "Weight", "value": "2.6 kg" },
+          { "label": "Warranty", "value": "10 years" }
+        ]
+      }
+    ],
     "applications": [
       "Heritage properties with limited cavity space",
       "Conference facilities and meeting rooms (speech clarity)",
@@ -17,40 +54,25 @@
       "Multi-room audio with invisible integration",
       "Music-focused spaces (pair with subwoofer for full extension)"
     ],
-    "specs": [
-      "Nominal impedance 8 Ohms",
-      "Sensitivity 76dB (82dB SPL equivalent without plaster)",
-      "Rated maximum SPL 90dB SPL",
-      "Frequency range (-10dB) 60Hz - 20kHz",
-      "Frequency response (-6dB) 80Hz - 20kHz",
-      "Coverage (H/V) 180°/180°",
-      "Power handling (RMS/Peak) 30W/60W",
-      "Recommended high pass filter 40Hz (24dB per Oct.)",
-      "Electrical connection Wago Lever-Splice 16–10 AWG (1.5–6 mm²)",
-      "Product dimensions 402mm x 304mm x 77mm",
-      "Product weight 2.6kg",
-      "Low-Z protection Guardian 2/8/16",
-      "Manufacturer limited warranty 10 years"
-    ],
     "lifestyle": [
       {
         "src": "Sapphire130 - Corner Front.png",
-        "alt": "Corner",
+        "alt": "Sapphire 130iB corner front view",
         "caption": "A compact silhouette with a composed face—designed to vanish behind plaster while keeping the room’s architecture perfectly uninterrupted."
       },
       {
         "src": "Sapphire130 - Corner Rear 2.png",
-        "alt": "Rear",
+        "alt": "Sapphire 130iB rear corner view",
         "caption": "Rear geometry and mounting detail that support precise, efficient installation—built for discreet integration and long-term stability."
       },
       {
         "src": "Sapphire130 - Flat Rear.png",
-        "alt": "Back",
+        "alt": "Sapphire 130iB rear view",
         "caption": "A clean back view that underlines the engineered structure—optimised for controlled resonance and a refined, even presentation."
       }
     ],
     "resources": [
-      { "label": "Installation Guide (Sapphire 130iB)", "href": "Sapphire_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "Sapphire_Install_Guide.pdf" }
     ]
   },
   {
@@ -58,11 +80,51 @@
     "name": "Sapphire 250",
     "headline": "High performance fully-covered invisible loudspeaker",
     "description": "The Sapphire sweet spot—balanced, versatile, and exceptionally discreet, delivering confident full-bandwidth performance with remarkable installation flexibility.",
-    "story": "The Sapphire 250 represents a refined balance of performance, versatility, and installation flexibility. Built on years of acoustic innovation, it pairs a precision-engineered ‘Symphony Cell’ composite soundboard with an optimized dual-exciter configuration to deliver articulate, room-filling sound with complete invisibility. Its narrow form factor supports installation between studs or joists on 400mm centres or greater, while the slim profile enables placement in spaces where traditional speakers simply cannot fit.",
-    "series": "Sapphire",
+    "heroCopy": "The Sapphire balance — full-bandwidth clarity with flexible, fully-covered installation.",
+    "story": "The Sapphire 250 represents a refined balance of performance, versatility, and installation flexibility. Built on years of acoustic innovation, it pairs a precision-engineered Symphony Cell composite soundboard with an optimized dual-exciter configuration to deliver articulate, room-filling sound with complete invisibility. Its narrow form factor supports installation between studs or joists on 400mm centres or greater, while the slim profile enables placement in spaces where traditional speakers simply cannot fit.",
+    "definition": "Versatile fully-covered invisible loudspeaker delivering balanced full-range performance.",
+    "series": "Sapphire Series",
+    "category": "Invisible loudspeakers",
     "finish": "Fully-covered (2mm plaster skim or alternative finishes)",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Architectural Audio",
+    "power": "Passive",
+    "type": "Fully-covered invisible loudspeaker",
+    "drivers": "Symphony Cell soundboard with dual-exciter drive system",
     "image": "sapphire250.png",
+    "specs": [],
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "4 Ω" },
+          {
+            "label": "Sensitivity",
+            "value": "82 dB (2.83 V / 1 m) (88 dB SPL equivalent without plaster)"
+          },
+          { "label": "Rated maximum SPL", "value": "99 dB SPL" },
+          { "label": "Frequency range (-10 dB)", "value": "50 Hz – 20 kHz" },
+          { "label": "Frequency response (-6 dB)", "value": "52 Hz – 20 kHz" },
+          { "label": "Coverage (H/V)", "value": "180° / 180°" },
+          { "label": "Power handling (RMS / Peak)", "value": "50 W / 100 W" },
+          { "label": "Recommended high-pass filter", "value": "30 Hz (24 dB per Oct.)" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          { "label": "Electrical connection", "value": "Wago Lever-Splice 16–10 AWG (1.5–6 mm²)" },
+          { "label": "Low-Z protection", "value": "Guardian 2 / 8 / 16" }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "450 mm × 345 mm × 31 mm" },
+          { "label": "Weight", "value": "1.3 kg" },
+          { "label": "Warranty", "value": "10 years" }
+        ]
+      }
+    ],
     "applications": [
       "Heritage properties with limited cavity space",
       "Boutique hospitality and luxury suites",
@@ -70,40 +132,25 @@
       "High-end residential multi-room audio",
       "Music-focused environments requiring balanced full-range performance"
     ],
-    "specs": [
-      "Nominal impedance 4 Ohms",
-      "Sensitivity 82dB (2.83V / 1m) (88dB SPL equivalent without plaster)",
-      "Rated maximum SPL 99dB SPL",
-      "Frequency range (-10dB) 50Hz - 20kHz",
-      "Frequency response (-6dB) 52Hz - 20kHz",
-      "Coverage (H/V) 180°/180°",
-      "Power handling (RMS/Peak) 50W/100W",
-      "Recommended high pass filter 30Hz (24dB per Oct.)",
-      "Electrical connection Wago Lever-Splice 16–10 AWG (1.5–6 mm²)",
-      "Product dimensions 450mm x 345mm x 31mm",
-      "Product weight 1.3kg",
-      "Low-Z protection Guardian 2/8/16",
-      "Manufacturer limited warranty 10 years"
-    ],
     "lifestyle": [
       {
         "src": "Amina Sapphire 250_2.png",
-        "alt": "Profile",
+        "alt": "Sapphire 250 slim profile",
         "caption": "A slim, confident profile—engineered to disappear behind premium finishes while maintaining a composed, full-bandwidth presentation."
       },
       {
         "src": "Amina Sapphire 250_4.png",
-        "alt": "Detail",
+        "alt": "Sapphire 250 detail",
         "caption": "Precision detailing and controlled structure—designed to support clean finishing and a more linear, transparent sound."
       },
       {
         "src": "Amina Sapphire 250_6.png",
-        "alt": "Rear",
+        "alt": "Sapphire 250 rear view",
         "caption": "A rear view that reflects the engineering behind the silence—built for stability, resonance control, and discreet integration."
       }
     ],
     "resources": [
-      { "label": "Installation Guide (Sapphire 250)", "href": "Sapphire_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "Sapphire_Install_Guide.pdf" }
     ]
   },
   {
@@ -111,39 +158,51 @@
     "name": "Sapphire 375",
     "headline": "High output fully-covered invisible loudspeaker",
     "description": "Greater scale and authority for larger rooms—an invisible loudspeaker designed for elevated output while preserving Sapphire refinement and architectural discretion.",
+    "heroCopy": "More scale, more authority — Sapphire refinement, fully concealed.",
     "story": "Designed for spaces that demand more scale and authority, the Sapphire 375 extends the Sapphire experience with higher output capability and confident room-filling presence—while remaining completely concealed behind your chosen finish. Built around the same Sapphire principles of tonal transparency and architectural freedom, it supports premium installations where discretion is non-negotiable and performance must feel effortless.",
-    "series": "Sapphire",
+    "definition": "High-output fully-covered invisible loudspeaker for larger rooms and elevated background-to-foreground listening.",
+    "series": "Sapphire Series",
+    "category": "Invisible loudspeakers",
     "finish": "Fully-covered (2mm plaster skim or alternative finishes)",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Architectural Audio",
+    "power": "Passive",
+    "type": "High-output fully-covered invisible loudspeaker",
+    "drivers": "Symphony Cell soundboard with high-output exciter drive system",
     "image": "sapphire375.png",
+    "specs": [],
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Specifications", "value": "Refer to official Sapphire 375 datasheet for full specifications" }
+        ]
+      }
+    ],
     "applications": [
       "Large residential living spaces",
       "Luxury hospitality public areas",
       "Premium multi-room audio zones",
       "Higher-output background music systems"
     ],
-    "specs": [
-      "Refer to official Sapphire 375 datasheet for full specifications"
-    ],
     "lifestyle": [
       {
         "src": "Amina Sapphire 375_4.png",
-        "alt": "Profile",
+        "alt": "Sapphire 375 profile",
         "caption": "A composed profile that signals capability—built for larger spaces while remaining completely silent in the architecture."
       },
       {
         "src": "Amina Sapphire 375_6.png",
-        "alt": "Detail",
+        "alt": "Sapphire 375 detail",
         "caption": "Clean, engineered detailing—supporting refined finishing and controlled performance where output and discretion must coexist."
       },
       {
         "src": "Amina Sapphire 375_7.png",
-        "alt": "Rear",
+        "alt": "Sapphire 375 rear view",
         "caption": "A rear view that emphasises structure and stability—designed to support confident output with the Sapphire signature of restraint."
       }
     ],
     "resources": [
-      { "label": "Installation Guide (Sapphire 375)", "href": "Sapphire_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "Sapphire_Install_Guide.pdf" }
     ]
   }
 ]

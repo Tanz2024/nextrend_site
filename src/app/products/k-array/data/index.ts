@@ -80,7 +80,7 @@ const mapLifestyle = (items: unknown, fallback: string, category: string) =>
     })
     .filter(Boolean) as KArrayProduct["lifestyle"];
 
-const normalizeResources = (value: unknown) => {
+const normalizeResources = (value: unknown, category: string) => {
   const items = asArray(value);
 
   const labelFromHref = (href: string, fallback: string) => {
@@ -98,7 +98,7 @@ const normalizeResources = (value: unknown) => {
     const raw = (href || "").trim();
     if (!raw) return "";
     if (raw.startsWith("http://") || raw.startsWith("https://")) return raw;
-    return buildKArrayUrl(raw);
+    return resolveAsset(raw, category);
   };
 
   return items
@@ -131,16 +131,108 @@ const normalizeResources = (value: unknown) => {
     .filter(Boolean) as Array<{ label: string; href: string }>;
 };
 
+const normalizeSpecGroups = (value: unknown) => {
+  if (!Array.isArray(value)) return [];
+
+  return value
+    .map((group) => {
+      if (!group || typeof group !== "object") return null;
+      const record = group as Record<string, unknown>;
+      const title = asString(record.title).trim();
+      const items = Array.isArray(record.items)
+        ? record.items
+            .map((item) => {
+              if (!item || typeof item !== "object") return null;
+              const entry = item as Record<string, unknown>;
+              const label = asString(entry.label).trim();
+              const value = asString(entry.value).trim();
+              if (!label && !value) return null;
+              return { label, value };
+            })
+            .filter(Boolean)
+        : [];
+
+      if (!title && items.length === 0) return null;
+      return { title, items };
+    })
+    .filter(Boolean) as Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
+};
+
+const formatFrequency = (value?: [number, number]) => {
+  if (!value) return "";
+  return `${value[0]} Hz - ${value[1]} Hz`;
+};
+
 const mapProducts = (items: unknown, defaultCategory: string) =>
   asArray(items).map((item) => {
     const record = (item && typeof item == "object")
       ? (item as Record<string, unknown>)
       : {};
     const name = asString(record.name);
-    const category = asString(record.category, defaultCategory);
+    const rawCategory = asString(record.category).trim();
+    const category = rawCategory || undefined;
+    const assetCategory = rawCategory || defaultCategory;
     const slug = asString(record.slug) || (name ? slugify(name) : "");
 
-    const resources = normalizeResources(record.resources);
+    const resources = normalizeResources(record.resources, assetCategory);
+    const rawSeries = asString(record.series).trim();
+    const series = rawSeries || undefined;
+    const specGroups = normalizeSpecGroups(record.specGroups);
+
+    const power = asString(record.power);
+    const type = asString(record.type) || undefined;
+    const drivers = asString(record.drivers) || undefined;
+    const frequency = asNumberTuple(record.frequency);
+    const coverage = asString(record.coverage) || undefined;
+    const weightKg = typeof record.weightKg == "number" ? record.weightKg : undefined;
+    const ipRating = asString(record.ipRating) || undefined;
+    const finish = asString(record.finish);
+
+    const fallbackSpecGroups = () => {
+      const generalItems: Array<{ label: string; value: string }> = [];
+      const performanceItems: Array<{ label: string; value: string }> = [];
+
+      if (type) generalItems.push({ label: "Type", value: type });
+      if (power) generalItems.push({ label: "Power", value: power });
+      if (drivers) generalItems.push({ label: "Drivers", value: drivers });
+      if (finish) generalItems.push({ label: "Finish", value: finish });
+      if (series) generalItems.push({ label: "Series", value: series });
+      if (category) generalItems.push({ label: "Category", value: category });
+
+      if (frequency) {
+        performanceItems.push({
+          label: "Frequency response",
+          value: formatFrequency(frequency),
+        });
+      }
+      if (coverage) {
+        performanceItems.push({ label: "Coverage", value: coverage });
+      }
+      if (typeof weightKg == "number") {
+        performanceItems.push({ label: "Weight", value: `${weightKg} kg` });
+      }
+      if (ipRating) {
+        performanceItems.push({ label: "IP rating", value: ipRating });
+      }
+
+      const groups: Array<{
+        title: string;
+        items: Array<{ label: string; value: string }>;
+      }> = [];
+      if (generalItems.length) {
+        groups.push({ title: "General", items: generalItems });
+      }
+      if (performanceItems.length) {
+        groups.push({ title: "Performance", items: performanceItems });
+      }
+      return groups;
+    };
+
+    const resolvedSpecGroups =
+      specGroups.length > 0 ? specGroups : fallbackSpecGroups();
 
     return {
       slug,
@@ -149,22 +241,23 @@ const mapProducts = (items: unknown, defaultCategory: string) =>
       description: asString(record.description),
       story: asString(record.story),
       definition: asString(record.definition),
-      series: asString(record.series),
+      series,
       category,
-      finish: asString(record.finish),
+      finish,
+      specGroups: resolvedSpecGroups.length ? resolvedSpecGroups : undefined,
       collaboration: asString(record.collaboration),
-      power: asString(record.power),
-      image: resolveAsset(record.image, category),
-      lifestyle: mapLifestyle(record.lifestyle, name || "K-array", category),
+      power,
+      image: resolveAsset(record.image, assetCategory),
+      lifestyle: mapLifestyle(record.lifestyle, name || "K-array", assetCategory),
       specs: asStringArray(record.specs),
       resources: resources.length ? resources : undefined,
-      type: asString(record.type) || undefined,
-      drivers: asString(record.drivers) || undefined,
+      type,
+      drivers,
       keyStats: asStringArray(record.keyStats),
-      frequency: asNumberTuple(record.frequency),
-      coverage: asString(record.coverage) || undefined,
-      weightKg: typeof record.weightKg == "number" ? record.weightKg : undefined,
-      ipRating: asString(record.ipRating) || undefined,
+      frequency,
+      coverage,
+      weightKg,
+      ipRating,
       applications: asStringArray(record.applications),
     } as KArrayProduct;
   });

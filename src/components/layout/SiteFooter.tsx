@@ -14,7 +14,7 @@ import { useToast } from "@/components/ui/ToastProvider";
 const quickLinks = [
   { href: "/projects", label: "Projects" },
   { href: "/products", label: "Products" },
-  { href: "/blog", label: "Journal" },
+  { href: "/journal", label: "Journal" },
   { href: "/events", label: "Events" },
   { href: "/about", label: "About" },
   { href: "/contact", label: "Contact" },

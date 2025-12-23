@@ -1,63 +1,122 @@
 [
-  {
-    "slug": "mastiff-km112p",
-    "name": "K-array Mastiff KM112P",
-    "headline": "Compact 12\" Mastiff wedge for modern stages",
-    "description": "Mastiff KM112P is a compact 12-inch stage monitor that keeps vocals and instruments sitting effortlessly on top of the mix, even on loud stages.",
-    "story": "Built for touring engineers who want a low-profile wedge that still bites, KM112P combines a fast, articulate midrange with controlled low end so performers hear exactly what they need without washing the stage.",
-    "definition": "12\" active Mastiff stage monitor with high headroom and tight, vocal-forward response.",
-    "series": "Mastiff",
-    "category": "Monitors",
-    "finish": "Touring black polyurea with steel grille",
-    "collaboration": "K-array Italy",
-    "power": "Active",
-    "type": "Compact active stage monitor",
-    "drivers": "12\" low-frequency driver with coaxial high-frequency section",
-    "applications": [
-      "Touring stages",
-      "Houses of worship",
-      "Theatres and clubs",
-      "Broadcast stages"
-    ],
-    "specs": [
-      "12\" coaxial-style driver layout for point-source monitoring",
-      "Active amplification with DSP presets for vocal, band and DJ wedges",
-      "Low-profile cabinet geometry to keep sightlines clear",
-      "Road-ready finish and hardware for touring use",
-      "Multiple pole, floor and bracket mounting options"
-    ],
-    "keyStats": [
-      "Compact footprint",
-      "High headroom",
-      "Tour-ready build"
-    ],
-    "frequency": [
-      55,
-      19000
-    ],
-    "coverage": "Asymmetrical wedge pattern tailored to performer zone",
-    "weightKg": 18.5,
-    "ipRating": "IP20",
-    "image": "Mastiff-KM112P_main.jpg",
-    "lifestyle": [
-      {
-        "src": "Mastiff-KM112P_1.jpg",
-        "alt": "Mastiff KM112P as vocal wedge on stage"
-      },
-      {
-        "src": "Mastiff-KM112P_2.jpg",
-        "alt": "Mastiff KM112P side-profile low wedge"
-      },
-      {
-        "src": "Mastiff-KM112P_3.jpg",
-        "alt": "Mastiff KM112P close-up grille and logo"
-      },
-      {
-        "src": "Mastiff-KM112P_4.jpg",
-        "alt": "Mastiff KM112P on a live show riser"
-      }
+{
+  "slug": "mastiff-km112p",
+  "name": "K-array Mastiff KM112P",
+  "headline": "Passive compact 12\" coaxial stage monitor",
+  "definition": "Passive compact Mastiff stage monitor featuring a coaxial 12\" woofer for monitoring and drum-fill applications.",
+  "description": "Mastiff KM112P is a passive compact stage monitor designed to deliver clear, powerful monitoring on modern stages. Its coaxial 12-inch design ensures focused sound with high intelligibility, even at high output levels.",
+  "story": "Designed for stage monitoring and drum-fill applications, the KM112P combines a compact form factor with high headroom and controlled dispersion. When driven by K-array amplifiers with dedicated presets, it provides accurate and reliable monitoring for performers and engineers.",
+  "series": "Mastiff",
+  "category": "Monitors",
+  "finish": "Touring-grade finish",
+  "collaboration": "K-array Italy",
+  "power": "Passive",
+  "type": "Compact passive stage monitor",
+
+  "drivers": "Coaxial 12\" woofer + 2.4\" compression driver",
+  "ratedPower": "1200 W",
+  "nominalImpedance": "8 Ω",
+
+  "frequency": {
+    "range": "70 Hz – 19 kHz",
+    "measurement": "-6 dB"
+  },
+
+  "maxSPL": "133 dB peak",
+  "coverage": "Selectable: 30° / 100° or 100° / 30°",
+
+  "connectivity": {
+    "connectors": [
+      "SpeakOn NL4 1+ 1- (signal)",
+      "SpeakOn NL4 2+ 2- (through)"
     ]
   },
+
+  "physical": {
+    "dimensions": {
+      "metric": "450 x 351 x 530 mm",
+      "imperial": "17.7 x 13.8 x 20.9 in"
+    },
+    "weightKg": 21.2,
+    "material": "Wood / Stainless Steel",
+    "colors": ["Black", "White", "Custom RAL"]
+  },
+
+  "ipRating": "IP20",
+
+  "applications": [
+    "Stage monitoring",
+    "Drum fill",
+    "Touring stages",
+    "Theatres",
+    "Clubs",
+    "Broadcast stages"
+  ],
+
+  "image": "Mastiff-KM112P_main.jpg",
+
+  "lifestyle": [
+    {
+      "src": "Mastiff-KM112P_1.jpg",
+      "alt": "Mastiff KM112P used as a vocal stage monitor"
+    },
+    {
+      "src": "Mastiff-KM112P_2.jpg",
+      "alt": "Low-profile side view of Mastiff KM112P wedge"
+    },
+    {
+      "src": "Mastiff-KM112P_3.jpg",
+      "alt": "Close-up of Mastiff KM112P grille and logo"
+    },
+    {
+      "src": "Mastiff-KM112P_4.jpg",
+      "alt": "Mastiff KM112P deployed on a live performance riser"
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "System",
+      "items": [
+        { "label": "Type", "value": "Passive stage monitor" },
+        { "label": "Transducers", "value": "12\" coaxial woofer + 2.4\" compression driver" },
+        { "label": "Rated Power", "value": "1200 W" },
+        { "label": "Nominal Impedance", "value": "8 Ω" },
+        { "label": "Frequency Response", "value": "70 Hz – 19 kHz (-6 dB)" },
+        { "label": "Max SPL", "value": "133 dB peak" },
+        { "label": "Coverage", "value": "Selectable: 30°/100° or 100°/30°" }
+      ]
+    },
+    {
+      "title": "Connectivity",
+      "items": [
+        {
+          "label": "Input / Link",
+          "value": "SpeakOn NL4 (1+ 1- signal, 2+ 2- through)"
+        }
+      ]
+    },
+    {
+      "title": "Physical & Finish",
+      "items": [
+        { "label": "Dimensions (W x H x D)", "value": "450 x 351 x 530 mm" },
+        { "label": "Weight", "value": "21.2 kg" },
+        { "label": "Material", "value": "Wood / Stainless Steel" },
+        { "label": "Colors", "value": "Black, White, Custom RAL" },
+        { "label": "IP Rating", "value": "IP20" }
+      ]
+    }
+  ],
+
+  "resources": [
+    {
+      "label": "Product datasheet",
+      "href": "Mastiff-KM112P.pdf"
+    }
+  ]
+}
+
+,
   {
     "slug": "mastiff-km312p",
     "name": "K-array Mastiff KM312P",
@@ -78,25 +137,6 @@
       "Sidefill duties",
       "High-SPL rock and EDM shows"
     ],
-    "specs": [
-      "Triple 12\" configuration for massive headroom and impact",
-      "Active multi-channel amplification with DSP presets",
-      "Voiced for drum, bass and high-energy artist mixes",
-      "Cabinet angles optimised for nearfield and backline use",
-      "Heavy-duty hardware for touring and rental fleets"
-    ],
-    "keyStats": [
-      "Triple 12\" engine",
-      "Arena-level SPL",
-      "Flagship Mastiff"
-    ],
-    "frequency": [
-      42,
-      19000
-    ],
-    "coverage": "Focused wedge pattern for powerful on-axis response",
-    "weightKg": 32.4,
-    "ipRating": "IP20",
     "image": "Mastiff-KM312P_main.jpg",
     "lifestyle": [
       {
@@ -114,6 +154,33 @@
       {
         "src": "Mastiff-KM312P_4.jpg",
         "alt": "Mastiff KM312P side view showing cabinet profile"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Triple 12\" configuration for massive headroom and impact"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Active multi-channel amplification with DSP presets"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Voiced for drum, bass and high-energy artist mixes"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Cabinet angles optimised for nearfield and backline use"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Heavy-duty hardware for touring and rental fleets"
+          }
+        ]
       }
     ]
   },
@@ -137,25 +204,6 @@
       "Corporate stages and catwalks",
       "Houses of worship"
     ],
-    "specs": [
-      "Low-profile chassis designed to vanish from camera and audience sightlines",
-      "Integrated amplification with DSP presets for speech, vocal and band mixes",
-      "Tight pattern control to focus energy on the performer zone",
-      "Multiple mounting and coupling options for creative staging",
-      "Ideal where visuals and clean lines are as important as sound"
-    ],
-    "keyStats": [
-      "Ultra-low profile",
-      "Camera-friendly",
-      "Precision coverage"
-    ],
-    "frequency": [
-      70,
-      19000
-    ],
-    "coverage": "Controlled, shallow-throw stage coverage",
-    "weightKg": 12.8,
-    "ipRating": "IP20",
     "image": "Turtle-KRM33P_main.jpg",
     "lifestyle": [
       {
@@ -173,6 +221,33 @@
       {
         "src": "Turtle-KRM33P_4.jpg",
         "alt": "Turtle KRM33P discreet monitor on corporate stage"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Low-profile chassis designed to vanish from camera and audience sightlines"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Integrated amplification with DSP presets for speech, vocal and band mixes"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Tight pattern control to focus energy on the performer zone"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Multiple mounting and coupling options for creative staging"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Ideal where visuals and clean lines are as important as sound"
+          }
+        ]
       }
     ]
   }

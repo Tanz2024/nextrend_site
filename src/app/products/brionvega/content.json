@@ -1,123 +1,156 @@
+
+
 {
   "brionvegaProducts": [
-   {
-  "family": "radiofonografo-rr226",
-  "slug": "radiofonografo",
-  "name": "Radiofonografo",
-  "headline": "Radiofonografo",
-  "series": "RR226 FO-ST",
-  "collaboration": "",
-  "image": "Radiofonografo_White_main.jpeg",
-  "description": "A sculptural console that glides beside a low sofa — cubes swung in for late-evening vinyl, opened wide for room-filling stereo.",
-  "heroCopy": "Open the cubes, shape the soundstage, and let vinyl fill the room.",
-  "story": "Designed by Achille and Pier Giacomo Castiglioni.\n\nThe production process of each Radiofonografo requires at least eight weeks to be completed, following a rigorous, entirely handcrafted procedure. As a special service for Art Products Brionvega enthusiasts, only one Radiofonografo per month is available for immediate delivery — a unique opportunity to purchase this iconic product and receive it at home within a few days.",
-  "specs": [
-    "Integrated radio + turntable playback: AM/FM tuner, Pro-Ject turntable, and Ortofon stylus.",
-    "High-power performance: 125W + 125W self-limited amplification, designed for confident, room-filling listening.",
-    "Connectivity for a complete system: 2× RCA line inputs for external sources, 1× RCA line output for connection to an external amplification system, and 1× RCA line output for connecting an external subwoofer.",
-    "Private listening: dedicated 6.3 mm stereo headphone output.",
-    "Construction + power: forged aluminium pedestal with castors for easy transportation, power supply 220V 50Hz (on request 110V 60Hz, 220V 60Hz), and a 5V USB port (power only). Colours: white, orange, red, blue and ciliegio (limited edition)."
-  ],
-  "features": [
-    "Iconic console format combining radio and turntable.",
-    "Swivelling speaker cubes to shape the stereo image.",
-    "Tactile, analog control layout — designed to be used, not hidden.",
-    "A statement piece that reads as furniture and a hi-fi system."
-  ],
-  "applications": [
-    "Private listening rooms and lounges.",
-    "Hospitality suites, lobbies, and design-led residences.",
-    "Galleries / studios where the system is part of the interior.",
-    "Showrooms and premium retail environments."
-  ],
-  "finishes": [
     {
-      "key": "white",
-      "name": "White",
-      "hex": "#EDEDED",
-      "order": 1,
+      "family": "radiofonografo-rr226",
+      "slug": "radiofonografo",
+      "name": "Radiofonografo",
+      "headline": "Radiofonografo",
+      "series": "RR226 FO-ST",
+      "collaboration": "",
       "image": "Radiofonografo_White_main.jpeg",
-      "gallery": [
-        {
-          "src": "Radiofonografo_White_main.jpeg",
-          "alt": "Radiofonografo — White"
-        }
-      ],
-      "lifestyle": []
-    },
-    {
-      "key": "red",
-      "name": "Red",
-      "hex": "#B3132B",
-      "order": 2,
-      "image": "Radiofonografo_Red_2.jpeg",
-      "gallery": [
-        {
-          "src": "Radiofonografo_Red_2.jpeg",
-          "alt": "Radiofonografo — Red"
-        }
-      ],
-      "lifestyle": []
-    },
-    {
-      "key": "blue",
-      "name": "Blue",
-      "hex": "#1E4E8C",
-      "order": 3,
-      "image": "Radiofonografo_Blue_1.jpeg",
-      "gallery": [
-        {
-          "src": "Radiofonografo_Blue_1.jpeg",
-          "alt": "Radiofonografo — Blue"
-        }
-      ],
-      "lifestyle": []
-    },
-    {
-      "key": "orange",
-      "name": "Orange",
-      "hex": "#E56A1B",
-      "order": 4,
-      "image": "Radiofonografo_Orange_3.jpeg",
-      "gallery": [
-        {
-          "src": "Radiofonografo_Orange_3.jpeg",
-          "alt": "Radiofonografo — Orange"
-        }
-      ],
-      "lifestyle": []
-    }
-  ],
-  "gallery": [],
-  "lifestyle": [
-    {
-      "src": "Radiofonografo_lifestyle_main.jpg",
-      "alt": "A calm presence in the room, designed as furniture and built for great sound.",
-      "caption": "A sculptural presence in the room: poised like furniture, performing like a serious hi-fi system."
-    },
-    {
-      "src": "Radiofonografo_lifestyle3.jpg",
-      "alt": "Clear controls and fine details, made to be touched and enjoyed.",
-      "caption": "Detail and control: an analog interface designed to be touched, adjusted, and enjoyed."
-    },
-    {
-      "src": "Radiofonografo_lifestyle4.jpg",
-  "alt": "Sound you can shape",
-  "caption": "Move and open the cubes to adjust how the sound fills the room."
-}
+      "description": "A sculptural console that glides beside a low sofa — cubes swung in for late-evening vinyl, opened wide for room-filling stereo.",
+      "heroCopy": "Open the cubes, shape the soundstage, and let vinyl fill the room.",
+      "story": "Designed by Achille and Pier Giacomo Castiglioni.\n\nThe production process of each Radiofonografo requires at least eight weeks to be completed, following a rigorous, entirely handcrafted procedure. As a special service for Art Products Brionvega enthusiasts, only one Radiofonografo per month is available for immediate delivery — a unique opportunity to purchase this iconic product and receive it at home within a few days.",
 
-  ],
-  "resources": [
-    {
-      "label": "User manual (RR226 FO-ST)",
-      "href": "rr226fost_UserManual_IT_EN.pdf"
+      "specs": [],
+
+      "specGroups": [
+        {
+          "title": "Playback",
+          "items": [
+            { "label": "Radio", "value": "AM/FM tuner" },
+            { "label": "Turntable", "value": "Pro-Ject turntable" },
+            { "label": "Stylus", "value": "Ortofon stylus" }
+          ]
+        },
+        {
+          "title": "Performance",
+          "items": [
+            { "label": "Amplification", "value": "125W + 125W " }
+          ]
+        },
+        {
+          "title": "Connectivity",
+          "items": [
+            { "label": "Line inputs", "value": "2 × RCA" },
+            {
+              "label": "Line outputs",
+              "value": "1 × RCA (to external amplification) + 1 × RCA (subwoofer)"
+            },
+            { "label": "Headphone output", "value": "6.3 mm stereo" }
+          ]
+        },
+        {
+          "title": "Construction & Power",
+          "items": [
+            { "label": "Pedestal", "value": "Forged aluminium with castors" },
+            {
+              "label": "Power supply",
+              "value": "220V 50Hz (on request: 110V 60Hz, 220V 60Hz)"
+            },
+            { "label": "USB", "value": "5V (power only)" }
+          ]
+        },
+        {
+          "title": "Colours",
+          "items": [
+            {
+              "label": "Available",
+              "value": "White, Orange, Red, Blue, Ciliegio (limited edition)"
+            }
+          ]
+        }
+      ],
+
+      "features": [
+        "Iconic console format combining radio and turntable.",
+        "Swivelling speaker cubes to shape the stereo image.",
+        "Tactile, analog control layout — designed to be used, not hidden.",
+        "A statement piece that reads as furniture and a hi-fi system."
+      ],
+      "applications": [
+        "Private listening rooms and lounges.",
+        "Hospitality suites, lobbies, and design-led residences.",
+        "Galleries / studios where the system is part of the interior.",
+        "Showrooms and premium retail environments."
+      ],
+      "finishes": [
+        {
+          "key": "white",
+          "name": "White",
+          "hex": "#EDEDED",
+          "order": 1,
+          "image": "Radiofonografo_White_main.jpeg",
+          "gallery": [
+            { "src": "Radiofonografo_White_main.jpeg", "alt": "Radiofonografo — White" }
+          ],
+          "lifestyle": []
+        },
+        {
+          "key": "red",
+          "name": "Red",
+          "hex": "#B3132B",
+          "order": 2,
+          "image": "Radiofonografo_Red_2.jpeg",
+          "gallery": [
+            { "src": "Radiofonografo_Red_2.jpeg", "alt": "Radiofonografo — Red" }
+          ],
+          "lifestyle": []
+        },
+        {
+          "key": "blue",
+          "name": "Blue",
+          "hex": "#1E4E8C",
+          "order": 3,
+          "image": "Radiofonografo_Blue_1.jpeg",
+          "gallery": [
+            { "src": "Radiofonografo_Blue_1.jpeg", "alt": "Radiofonografo — Blue" }
+          ],
+          "lifestyle": []
+        },
+        {
+          "key": "orange",
+          "name": "Orange",
+          "hex": "#E56A1B",
+          "order": 4,
+          "image": "Radiofonografo_Orange_3.jpeg",
+          "gallery": [
+            { "src": "Radiofonografo_Orange_3.jpeg", "alt": "Radiofonografo — Orange" }
+          ],
+          "lifestyle": []
+        }
+      ],
+      "gallery": [],
+      "lifestyle": [
+        {
+          "src": "Radiofonografo_lifestyle_main.jpg",
+          "alt": "A calm presence in the room, designed as furniture and built for great sound.",
+          "caption": "A sculptural presence in the room: poised like furniture, performing like a serious hi-fi system."
+        },
+        {
+          "src": "Radiofonografo_lifestyle3.jpg",
+          "alt": "Clear controls and fine details, made to be touched and enjoyed.",
+          "caption": "Detail and control: an analog interface designed to be touched, adjusted, and enjoyed."
+        },
+        {
+          "src": "Radiofonografo_lifestyle4.jpg",
+          "alt": "Sound you can shape",
+          "caption": "Move and open the cubes to adjust how the sound fills the room."
+        }
+      ],
+      "resources": [
+        {
+          "label": "User manual (RR226 FO-ST)",
+          "href": "rr226fost_UserManual_IT_EN.pdf"
+        },
+        {
+          "label": "Product drawing",
+          "href": "radiofonografo_drawing.pdf"
+        }
+      ]
     },
-    {
-      "label": "Product drawing",
-      "href": "radiofonografo_drawing.pdf"
-    }
-  ]
-},
   
     {
       "family": "radiofonografo-60th",

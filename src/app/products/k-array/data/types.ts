@@ -13,14 +13,18 @@ export type KArrayProduct = {
   description: string;
   story: string;
   definition: string;
-  series: string;
-  category: string;
+  series?: string;
+  category?: string;
   finish: string;
   collaboration: string;
   power: string;
   image: string;
   lifestyle: Array<{ src: string; alt: string; caption?: string }>;
   specs: string[];
+  specGroups?: Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
   resources?: Array<{ label: string; href: string }>;
   type?: string;
   drivers?: string;

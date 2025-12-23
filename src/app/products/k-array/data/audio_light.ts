@@ -10,6 +10,27 @@ const mapProduct = (raw: any): KArrayProduct => {
       caption: item.caption,
     }));
 
+  const mapResources = (items: any[]) =>
+    (items || [])
+      .map((r) => {
+        if (!r) return null;
+        const label = (r.label || r.title || r.name || "Download PDF")
+          .toString()
+          .trim();
+        const href = (r.href || r.url || r.src || "").toString().trim();
+        if (!href) return null;
+        return {
+          label,
+          href: buildKArrayUrl(`K_array_images/audio_light_images/${href}`),
+        };
+      })
+      .filter(Boolean);
+
+  const series =
+    typeof raw.series == "string" && raw.series.trim() ? raw.series.trim() : undefined;
+  const category =
+    typeof raw.category == "string" && raw.category.trim() ? raw.category.trim() : undefined;
+
   return {
     slug: raw.slug,
     name: raw.name,
@@ -17,8 +38,8 @@ const mapProduct = (raw: any): KArrayProduct => {
     description: raw.description,
     story: raw.story,
     definition: raw.definition,
-    series: raw.series,
-    category: raw.category,
+    series,
+    category,
     finish: raw.finish,
     collaboration: raw.collaboration,
     power: raw.power,
@@ -33,7 +54,8 @@ const mapProduct = (raw: any): KArrayProduct => {
     ipRating: raw.ipRating,
     image: buildKArrayUrl(`K_array_images/audio_light_images/${raw.image}`),
     lifestyle: mapLifestyle(raw.lifestyle || []),
-    resources: raw.resources || undefined,
+    resources: raw.resources ? mapResources(raw.resources) : undefined,
+    specGroups: raw.specGroups || [],
   };
 };
 

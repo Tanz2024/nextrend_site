@@ -1,49 +1,77 @@
 [
-  {
-    "slug": "fi-mc100",
-    "name": "Frog-is FI-MC100",
-    "headline": "Condenser gooseneck microphone for speech and conference",
-    "description": "A standard-size electret condenser gooseneck microphone with desktop base, designed for fast setup in multipurpose and conference environments.",
-    "story": "FI-MC100 series microphones are built for situations where flexibility matters. The desktop base and attached long cable make them ideal for conference rooms and multipurpose spaces where permanent installation is impractical. Balanced output, logic control terminals, and clear LED indication ensure reliable and professional operation.",
-    "definition": "Electret condenser gooseneck desktop microphone with balanced output and programmable control.",
-    "series": "Microphones and accessories",
-    "category": "Conference microphones",
-    "finish": "Professional Black",
-    "collaboration": "Frog-is Professional",
-    "power": "Phantom",
-    "type": "Gooseneck condenser microphone",
-    "drivers": "Electret condenser capsule",
-    "features": [
-      "Wide dynamic range and frequency response for accurate sound reproduction",
-      "Interchangeable cartridges for different polar patterns",
-      "Balanced output for long cable runs with high noise immunity",
-      "Programmable on/off switch with LED indicator",
-      "Bright LED visibility under strong ambient lighting",
-      "Logic input and output terminals for remote control or automatic mixers",
-      "Snap-fit foam windscreen included"
-    ],
-    "applications": [
-      "Multi-purpose rooms",
-      "Conference rooms"
-    ],
-    "specs": [
-      "Frequency Response: 50–17,000 Hz",
-      "Polar Pattern: Supercardioid",
-      "Output Impedance (1kHz): 150Ω",
-      "Open Circuit Sensitivity (1kHz): -32.5 dBV (23.7 mV)",
-      "Maximum SPL: 122 dB (1% THD, 1kΩ load)",
-      "Equivalent Output Noise: 28 dB SPL (A-weighted)",
-      "Signal-to-Noise Ratio: 66 dB",
-      "Dynamic Range: 94 dB",
-      "Common Mode Rejection: ≥45 dB",
-      "Mute Switch Attenuation: ≥50 dB",
-      "Power Requirements: 11–52 VDC phantom, 2.0 mA",
-      "Environmental: -18°C to 57°C, 0–95% RH",
-      "Base Dimensions: 102 × 161 mm",
-      "Weight: 0.86 kg"
-    ],
-    "image": "FI-MC100_main.jpg"
-  },
+ {
+  "slug": "fi-mc100",
+  "name": "Frog-is FI-MC100",
+  "headline": "Condenser gooseneck microphone for speech and conference",
+  "definition": "Electret condenser gooseneck desktop microphone with balanced output and programmable control.",
+  "description": "FI-MC100 is a standard-size electret condenser gooseneck microphone with a desktop base, designed for fast deployment in conference and multipurpose environments. It delivers clear speech reproduction with reliable operation in professional settings.",
+  "story": "Built for situations where flexibility is essential, the FI-MC100 combines a desktop base with a long attached cable, making it ideal for rooms where permanent installation is impractical. Balanced output, logic control terminals, and clear LED indication ensure consistent, professional performance in meetings and presentations.",
+  "series": "Microphones and accessories",
+  "category": "Conference microphones",
+  "finish": "Professional Black",
+  "collaboration": "Frog-is Professional",
+  "power": "Phantom",
+  "type": "Gooseneck condenser microphone",
+
+  "drivers": "Electret condenser capsule",
+
+  "features": [
+    "Wide dynamic range and frequency response for accurate speech reproduction",
+    "Interchangeable cartridges supporting different polar patterns",
+    "Balanced output for long cable runs with strong noise immunity",
+    "Programmable on/off switch with LED status indicator",
+    "High-visibility LED suitable for bright ambient lighting",
+    "Logic input and output terminals for remote control or automatic mixers",
+    "Snap-fit foam windscreen included"
+  ],
+
+  "applications": [
+    "Multi-purpose rooms",
+    "Conference rooms"
+  ],
+
+  "image": "FI-MC100_main.jpg",
+
+  "specGroups": [
+    {
+      "title": "Audio Performance",
+      "items": [
+        { "label": "Frequency Response", "value": "50 Hz – 17 kHz" },
+        { "label": "Polar Pattern", "value": "Supercardioid" },
+        { "label": "Maximum SPL", "value": "122 dB (1% THD, 1 kΩ load)" },
+        { "label": "Dynamic Range", "value": "94 dB" },
+        { "label": "Signal-to-Noise Ratio", "value": "66 dB" },
+        { "label": "Equivalent Noise", "value": "28 dB SPL (A-weighted)" }
+      ]
+    },
+    {
+      "title": "Electrical",
+      "items": [
+        { "label": "Output Impedance", "value": "150 Ω @ 1 kHz" },
+        { "label": "Sensitivity", "value": "-32.5 dBV (23.7 mV) @ 1 kHz" },
+        { "label": "Common Mode Rejection", "value": "≥45 dB" },
+        { "label": "Mute Switch Attenuation", "value": "≥50 dB" },
+        { "label": "Power Requirements", "value": "11–52 VDC phantom power, 2.0 mA" }
+      ]
+    },
+    {
+      "title": "Environmental",
+      "items": [
+        { "label": "Operating Temperature", "value": "-18°C to 57°C" },
+        { "label": "Operating Humidity", "value": "0–95% RH" }
+      ]
+    },
+    {
+      "title": "Physical",
+      "items": [
+        { "label": "Base Dimensions", "value": "102 × 161 mm" },
+        { "label": "Weight", "value": "0.86 kg" },
+        { "label": "Finish", "value": "Professional Black" }
+      ]
+    }
+  ]
+}
+,
   {
     "slug": "fi-urm500",
     "name": "Frog-is FI-URM500",

@@ -41,7 +41,7 @@ export type BrionvegaProduct = {
   /** long form section copy */
   story: string;
 
-  series: string;
+  series?: string;
   collaboration: string;
 
   /** default hero image (built URL) */
@@ -49,6 +49,10 @@ export type BrionvegaProduct = {
 
   /** ✅ ALWAYS array in code (even if JSON uses { specs: [...] }) */
   specs: string[];
+  specGroups?: Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
 
   features: string[];
   applications: string[];
@@ -160,6 +164,34 @@ const normalizeSpecs = (value: unknown): string[] => {
   return [];
 };
 
+const normalizeSpecGroups = (value: unknown) => {
+  if (!Array.isArray(value)) return [];
+
+  return value
+    .map((group) => {
+      if (!isRecord(group)) return null;
+      const title = asString((group as any).title).trim();
+      const items = Array.isArray((group as any).items)
+        ? (group as any).items
+            .map((item: unknown) => {
+              if (!isRecord(item)) return null;
+              const label = asString((item as any).label).trim();
+              const value = asString((item as any).value).trim();
+              if (!label && !value) return null;
+              return { label, value };
+            })
+            .filter(Boolean)
+        : [];
+
+      if (!title && items.length === 0) return null;
+      return { title, items };
+    })
+    .filter(Boolean) as Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
+};
+
 const normalizeHeroVideo = (value: unknown) => {
   if (!isRecord(value)) return undefined;
 
@@ -262,10 +294,11 @@ export const brionvegaProducts: BrionvegaProduct[] = rawProducts
     const description = asString((record as any).description).trim();
     const story = asString((record as any).story).trim();
 
-    const series = asString((record as any).series).trim();
+    const series = asString((record as any).series).trim() || undefined;
     const collaboration = asString((record as any).collaboration).trim();
 
     const specs = normalizeSpecs((record as any).specs);
+    const specGroups = normalizeSpecGroups((record as any).specGroups);
     const features = asStringArray((record as any).features);
     const applications = asStringArray((record as any).applications);
 
@@ -296,6 +329,7 @@ export const brionvegaProducts: BrionvegaProduct[] = rawProducts
       image,
 
       specs,
+      specGroups,
       features,
       applications,
 

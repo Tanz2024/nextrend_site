@@ -1,50 +1,89 @@
 [
   {
-    "slug": "rail-24v",
-    "name": "Rail 24V",
-    "headline": "1.2 m linear LED rail with full-range audio",
-    "description": "Rail 24V is a 1.2 m architectural light with integrated full-range speakers, driven at 24 V for workplace, residential, and hospitality projects.",
-    "story": "Rail 24V fuses warm, homogeneous linear light with a distributed line of full-range cone drivers. It\u2019s designed so integrators can treat sound and light as a single, clean architectural element instead of separate fixtures.",
-    "definition": "1.2 m linear LED luminaire with integrated professional audio, powered at 24 V DC.",
-    "series": "Rail",
-    "category": "Audio & Light",
-    "finish": "24 V linear",
-    "collaboration": "KSCAPE by K-array",
-    "power": "24 V DC",
-    "type": "Audio + light linear rail",
-    "drivers": "3 \u00d7 1\" \u00d7 5\" neodymium cone drivers (line array) inside the profile",
-    "applications": [
-      "Corporate and education spaces",
-      "Residential living areas",
-      "Boutique hospitality and retail"
-    ],
-    "specs": [
-      "Type: Audio + Light linear rail",
-      "Length 1190 mm with homogeneous LED emission",
-      "24 V constant-voltage power supply",
-      "Multiple optic options (symmetric, asymmetric, diffused, electrified track variants)",
-      "Pairs with K-array Kommander amplifiers for audio presets"
-    ],
-    "keyStats": [
-      "Audio + Light",
-      "1.2 m module",
-      "24 V system"
-    ],
-    "frequency": [
-      60,
-      20000
-    ],
-    "coverage": "Vertical 10\u00b0 \u00d7 Horizontal 110\u00b0 (typical Rail pattern)",
-    "weightKg": 3,
-    "ipRating": "IP40",
-    "image": "K_array_images/audio_light_images/Rail 24V_main.png",
-    "lifestyle": [
-      {
-        "src": "K_array_images/audio_light_images/Rail 24V_1.png",
-        "alt": "Rail 24V linear audio and light integration"
-      }
-    ]
-  },
+  "slug": "rail-24v",
+  "name": "Rail 24V",
+  "headline": "1.2 m integrated audio and lighting rail system",
+  "definition": "1.2 m linear rail combining professional lighting and full-range audio in a single 24 V DC architectural element.",
+  "description": "Rail 24V is an integrated audio and lighting system designed for workplaces, residential interiors, and commercial environments. Its slim aluminium profile delivers uniform linear light alongside distributed full-range audio, allowing sound and light to function as one cohesive architectural feature.",
+  "story": "Designed to simplify integration, Rail 24V replaces separate lighting fixtures and speakers with a single, clean solution. With support for multiple optics, mounting configurations, and advanced control protocols, it adapts easily to modern interiors while maintaining a refined and minimal visual presence.",
+  "series": "Rail",
+  "category": "Audio & Light",
+  "finish": "24 V linear",
+  "collaboration": "KSCAPE by K-array",
+  "power": "24 V DC",
+  "type": "Audio + light linear rail",
+
+  "drivers": "3 × 1\" × 5\" neodymium magnet transducers with 0.65\" voice coils",
+
+  "applications": [
+    "Corporate and education spaces",
+    "Residential living areas",
+    "Boutique hospitality and retail"
+  ],
+
+  "image": "K_array_images/audio_light_images/Rail 24V_main.png",
+
+  "lifestyle": [
+    {
+      "src": "K_array_images/audio_light_images/Rail 24V_1.png",
+      "alt": "Rail 24V linear audio and light integration"
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "General",
+      "items": [
+        { "label": "Type", "value": "Audio + Light" },
+        { "label": "Dimensions (W x H x D)", "value": "1190 x 35 x 92 mm" },
+        { "label": "Weight", "value": "3 kg" },
+        { "label": "Material", "value": "Extruded aluminum body with stainless steel elements" },
+        { "label": "Colors", "value": "White / Black / Custom RAL" },
+        { "label": "IP Protection", "value": "IP40" }
+      ]
+    },
+    {
+      "title": "Lighting Characteristics",
+      "items": [
+        { "label": "LED", "value": "Cree + Osram" },
+        { "label": "Input Voltage", "value": "24 Vdc constant voltage" },
+        { "label": "Control Interface", "value": "24Vdc / DALI ready / Casambi ready" },
+        { "label": "LED Lifetime", "value": "Lm80 60,000 h @ 25°C" },
+        { "label": "Color Temperature", "value": "Tunable White 2700K – 5000K" }
+      ]
+    },
+    {
+      "title": "Audio Characteristics",
+      "items": [
+        { "label": "Audio Type", "value": "Distributed point source" },
+        { "label": "Transducers", "value": "3 × 1\" × 5\" neodymium transducers" },
+        { "label": "Frequency Response", "value": "60 Hz – 20 kHz (-6 dB) [full-range preset @ 84 dB max SPL]" },
+        { "label": "Frequency Response (with subwoofer)", "value": "200 Hz – 20 kHz (-6 dB) [preset @ 97 dB max SPL]" },
+        { "label": "Rated Power", "value": "75 W peak" },
+        { "label": "Max SPL", "value": "97 dB peak with dedicated preset" },
+        { "label": "Coverage", "value": "V: 10° | H: 110° (vertical orientation)" }
+      ]
+    },
+    {
+      "title": "System Options",
+      "items": [
+        { "label": "Mounting", "value": "Suspended / Recessed / Appliqué / Plafond" },
+        { "label": "Optics", "value": "Symmetric / Asymmetric / Diffused / Electrified track 24V" },
+        { "label": "Indirect Optic", "value": "Available for suspended mounting" },
+        { "label": "Amplifier Compatibility", "value": "K-array KA-14, KA28" }
+      ]
+    }
+  ],
+
+  "resources": [
+    {
+      "label": "Product datasheet",
+      "href": ""
+    }
+  ]
+}
+
+,
   {
     "slug": "rail-48v",
     "name": "Rail 48V",
@@ -58,36 +97,44 @@
     "collaboration": "KSCAPE by K-array",
     "power": "48 V DC",
     "type": "Audio + light linear rail",
-    "drivers": "3 \u00d7 1\" \u00d7 5\" neodymium cone transducers with dedicated amplifier presets",
+    "drivers": "3 \u00c3\u2014 1\" \u00c3\u2014 5\" neodymium cone transducers with dedicated amplifier presets",
     "applications": [
       "Corporate offices and boardrooms",
       "Museums and public galleries",
       "Large hospitality and retail spaces"
     ],
-    "specs": [
-      "Type: Audio + Light",
-      "Dimensions: approx. 1190 \u00d7 35 \u00d7 92 mm",
-      "48 V constant-voltage operation",
-      "Electronic remote driver with DALI-ready control",
-      "Compatible with K-array subs for extended low frequency response"
-    ],
-    "keyStats": [
-      "Audio + Light",
-      "1.2 m rail",
-      "48 V DC"
-    ],
-    "frequency": [
-      60,
-      20000
-    ],
-    "coverage": "Vertical 10\u00b0 \u00d7 Horizontal 110\u00b0",
-    "weightKg": 3,
-    "ipRating": "IP40",
     "image": "K_array_images/audio_light_images/Rail 48V_main.png",
     "lifestyle": [
       {
         "src": "K_array_images/audio_light_images/Rail 48V_1.png",
         "alt": "Rail 48V integrated linear lighting and audio"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Audio + Light"
+          },
+          {
+            "label": "Dimensions",
+            "value": "approx. 1190 \u00c3\u2014 35 \u00c3\u2014 92 mm"
+          },
+          {
+            "label": "Spec 3",
+            "value": "48 V constant-voltage operation"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Electronic remote driver with DALI-ready control"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Compatible with K-array subs for extended low frequency response"
+          }
+        ]
       }
     ]
   },
@@ -104,36 +151,44 @@
     "collaboration": "KSCAPE by K-array",
     "power": "24 V DC track",
     "type": "Track-ready audio + light rail",
-    "drivers": "3 \u00d7 1\" \u00d7 5\" neodymium cone drivers optimised for distributed background music",
+    "drivers": "3 \u00c3\u2014 1\" \u00c3\u2014 5\" neodymium cone drivers optimised for distributed background music",
     "applications": [
       "Track-based retail and gallery systems",
       "Hospitality with frequently changing layouts",
       "Showrooms and flexible exhibition spaces"
     ],
-    "specs": [
-      "Type: Audio + Light for 24 V multisystem track",
-      "Dimensions: approx. 1190 \u00d7 35 \u00d7 92 mm",
-      "24 V constant-voltage track connection",
-      "Cree / Osram LED engine with long lifetime",
-      "Standard 24 V control with DALI / Casambi-ready options"
-    ],
-    "keyStats": [
-      "Audio + Light",
-      "Track-ready",
-      "24 V system"
-    ],
-    "frequency": [
-      60,
-      20000
-    ],
-    "coverage": "Vertical 10\u00b0 \u00d7 Horizontal 110\u00b0",
-    "weightKg": 3,
-    "ipRating": "IP40",
     "image": "K_array_images/audio_light_images/RAIL track ready 24V_main.png",
     "lifestyle": [
       {
         "src": "K_array_images/audio_light_images/RAIL track ready 24V_1.png",
         "alt": "RAIL track ready 24V in an electrified track system"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Audio + Light for 24 V multisystem track"
+          },
+          {
+            "label": "Dimensions",
+            "value": "approx. 1190 \u00c3\u2014 35 \u00c3\u2014 92 mm"
+          },
+          {
+            "label": "Spec 3",
+            "value": "24 V constant-voltage track connection"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Cree / Osram LED engine with long lifetime"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Standard 24 V control with DALI / Casambi-ready options"
+          }
+        ]
       }
     ]
   },
@@ -150,45 +205,53 @@
     "collaboration": "KSCAPE by K-array",
     "power": "48 V DC track",
     "type": "Track-ready audio + light rail",
-    "drivers": "3 \u00d7 1\" \u00d7 5\" neodymium cone drivers with full-range and sub-assisted presets",
+    "drivers": "3 \u00c3\u2014 1\" \u00c3\u2014 5\" neodymium cone drivers with full-range and sub-assisted presets",
     "applications": [
       "Large galleries and museums on 48 V tracks",
       "Corporate lobbies and circulation spaces",
       "Retail concepts requiring long runs and zoning"
     ],
-    "specs": [
-      "Type: Audio + Light for 48 V multisystem track",
-      "Dimensions: approx. 1190 \u00d7 35 \u00d7 92 mm",
-      "48 V constant-voltage track operation",
-      "Integrated electrified track channel for projectors",
-      "Electronic remote driver, DALI-ready control"
-    ],
-    "keyStats": [
-      "Audio + Light",
-      "Track-ready",
-      "48 V system"
-    ],
-    "frequency": [
-      60,
-      20000
-    ],
-    "coverage": "Vertical 10\u00b0 \u00d7 Horizontal 110\u00b0",
-    "weightKg": 3,
-    "ipRating": "IP40",
     "image": "K_array_images/audio_light_images/RAIL track ready 48V_main.jpg",
     "lifestyle": [
       {
         "src": "K_array_images/audio_light_images/RAIL track ready 48V_1.jpg",
         "alt": "RAIL track ready 48V module in a 48 V track system"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Audio + Light for 48 V multisystem track"
+          },
+          {
+            "label": "Dimensions",
+            "value": "approx. 1190 \u00c3\u2014 35 \u00c3\u2014 92 mm"
+          },
+          {
+            "label": "Spec 3",
+            "value": "48 V constant-voltage track operation"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Integrated electrified track channel for projectors"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Electronic remote driver, DALI-ready control"
+          }
+        ]
+      }
     ]
   },
   {
     "slug": "rail-s-darklight",
-    "name": "RAIL S \u2013 DARKLIGHT",
+    "name": "RAIL S \u00e2\u20ac\u201c DARKLIGHT",
     "headline": "Stealth point-source audio with low-glare DARKLIGHT optic",
     "description": "RAIL S DARKLIGHT pairs a miniaturised point-source loudspeaker with DARKLIGHT optics for controlled, glare-reduced illumination and wide audio coverage.",
-    "story": "RAIL S DARKLIGHT is tuned for premium environments where fittings must almost disappear. The DARKLIGHT optic shapes the beam with low glare, while the K-array-powered point source delivers 140\u00b0 wide coverage from a discrete aperture.",
+    "story": "RAIL S DARKLIGHT is tuned for premium environments where fittings must almost disappear. The DARKLIGHT optic shapes the beam with low glare, while the K-array-powered point source delivers 140\u00c2\u00b0 wide coverage from a discrete aperture.",
     "definition": "1.2 m architectural track module with integrated point-source loudspeaker and DARKLIGHT optic.",
     "series": "Rail S",
     "category": "Audio & Light",
@@ -196,45 +259,53 @@
     "collaboration": "KSCAPE by K-array",
     "power": "24 / 48 V DC (remote driver)",
     "type": "Track-based audio + light with DARKLIGHT optic",
-    "drivers": "1 \u00d7 0.5\" neodymium point-source loudspeaker",
+    "drivers": "1 \u00c3\u2014 0.5\" neodymium point-source loudspeaker",
     "applications": [
       "Luxury retail and boutiques",
       "Galleries and museums",
       "Refined hospitality and lounge spaces"
     ],
-    "specs": [
-      "Type: Audio + Light (track system)",
-      "Dimensions: approx. 1190 \u00d7 35 \u00d7 59 mm",
-      "Miniaturised point-source loudspeaker powered by K-array audio technology",
-      "DARKLIGHT low-glare optic for precise accent lighting",
-      "24 / 48 V remote driver with DALI / Casambi-ready control options"
-    ],
-    "keyStats": [
-      "Audio + Light",
-      "DARKLIGHT optic",
-      "Wide 140\u00b0 coverage"
-    ],
-    "frequency": [
-      500,
-      18000
-    ],
-    "coverage": "Vertical 140\u00b0 \u00d7 Horizontal 140\u00b0",
-    "weightKg": 2.5,
-    "ipRating": "IP20",
     "image": "K_array_images/audio_light_images/RAIL S - DARKLIGHT_main.png",
     "lifestyle": [
       {
         "src": "K_array_images/audio_light_images/RAIL S - DARKLIGHT_1.png",
         "alt": "RAIL S DARKLIGHT with low-glare architectural lighting"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Audio + Light (track system)"
+          },
+          {
+            "label": "Dimensions",
+            "value": "approx. 1190 \u00c3\u2014 35 \u00c3\u2014 59 mm"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Miniaturised point-source loudspeaker powered by K-array audio technology"
+          },
+          {
+            "label": "Spec 4",
+            "value": "DARKLIGHT low-glare optic for precise accent lighting"
+          },
+          {
+            "label": "Spec 5",
+            "value": "24 / 48 V remote driver with DALI / Casambi-ready control options"
+          }
+        ]
+      }
     ]
   },
   {
     "slug": "rail-s-opal",
-    "name": "RAIL S \u2013 OPAL",
+    "name": "RAIL S \u00e2\u20ac\u201c OPAL",
     "headline": "Soft opal diffusion with integrated point-source audio",
     "description": "RAIL S OPAL uses an opal diffuser for soft, homogeneous light while a concealed point-source driver delivers wide coverage audio through the same 1.2 m profile.",
-    "story": "Where designers want softer, more diffuse light but still need integrated sound, RAIL S OPAL is the answer. It keeps the RAIL S point-source engine and 140\u00b0 coverage, but replaces the DARKLIGHT optic with an opal diffuser for a smoother visual presence.",
+    "story": "Where designers want softer, more diffuse light but still need integrated sound, RAIL S OPAL is the answer. It keeps the RAIL S point-source engine and 140\u00c2\u00b0 coverage, but replaces the DARKLIGHT optic with an opal diffuser for a smoother visual presence.",
     "definition": "1.2 m track-based audio + light module with opal linear diffuser and integrated point-source speaker.",
     "series": "Rail S",
     "category": "Audio & Light",
@@ -242,31 +313,12 @@
     "collaboration": "KSCAPE by K-array",
     "power": "24 / 48 V DC (remote driver)",
     "type": "Audio + light track module with opal optic",
-    "drivers": "1 \u00d7 0.5\" neodymium point-source loudspeaker",
+    "drivers": "1 \u00c3\u2014 0.5\" neodymium point-source loudspeaker",
     "applications": [
       "Soft ambient retail lighting with music",
       "Corporate and hospitality spaces needing low-glare light",
       "Gallery and lounge environments"
     ],
-    "specs": [
-      "Type: Audio + Light",
-      "Dimensions: approx. 1190 \u00d7 35 \u00d7 59 mm",
-      "Opal linear diffuser for soft, homogeneous light",
-      "Point-source audio with wide coverage and discrete appearance",
-      "Remote driver with DALI / Casambi-ready options"
-    ],
-    "keyStats": [
-      "Audio + Light",
-      "Opal diffuser",
-      "Wide 140\u00b0 coverage"
-    ],
-    "frequency": [
-      500,
-      18000
-    ],
-    "coverage": "Vertical 140\u00b0 \u00d7 Horizontal 140\u00b0",
-    "weightKg": 2.5,
-    "ipRating": "IP20",
     "image": "K_array_images/audio_light_images/RAIL S - OPAL_main.png",
     "lifestyle": [
       {
@@ -277,14 +329,41 @@
         "src": "K_array_images/audio_light_images/RAIL S - OPAL_2.png",
         "alt": "RAIL S OPAL profile detail with opal diffuser"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Audio + Light"
+          },
+          {
+            "label": "Dimensions",
+            "value": "approx. 1190 \u00c3\u2014 35 \u00c3\u2014 59 mm"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Opal linear diffuser for soft, homogeneous light"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Point-source audio with wide coverage and discrete appearance"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Remote driver with DALI / Casambi-ready options"
+          }
+        ]
+      }
     ]
   },
   {
     "slug": "rail-s-track",
-    "name": "RAIL S \u2013 TRACK",
+    "name": "RAIL S \u00e2\u20ac\u201c TRACK",
     "headline": "RAIL S audio + light integrated into a track channel",
     "description": "RAIL S TRACK brings the RAIL S point-source audio engine and linear light into a module that nests inside a traditional track system.",
-    "story": "For projects already built around track lighting, RAIL S TRACK adds integrated audio without changing the design language. It uses the same compact point-source driver as other RAIL S versions and maintains the same frequency response and wide 140\u00b0 dispersion.",
+    "story": "For projects already built around track lighting, RAIL S TRACK adds integrated audio without changing the design language. It uses the same compact point-source driver as other RAIL S versions and maintains the same frequency response and wide 140\u00c2\u00b0 dispersion.",
     "definition": "Track-integrated audio + light module using RAIL S point-source loudspeaker and linear light.",
     "series": "Rail S",
     "category": "Audio & Light",
@@ -292,36 +371,44 @@
     "collaboration": "KSCAPE by K-array",
     "power": "24 / 48 V DC (remote driver)",
     "type": "Audio + light track module",
-    "drivers": "1 \u00d7 0.5\" neodymium point-source loudspeaker",
+    "drivers": "1 \u00c3\u2014 0.5\" neodymium point-source loudspeaker",
     "applications": [
       "Track-light based galleries and showrooms",
       "Retail with existing track infrastructures",
       "Flexible hospitality track systems"
     ],
-    "specs": [
-      "Type: Audio + Light, track configuration",
-      "Uses RAIL S point-source audio platform",
-      "Designed for traditional architectural track systems",
-      "Remote driver and smart-control ready",
-      "Matches the acoustic and lighting performance of other RAIL S variants"
-    ],
-    "keyStats": [
-      "Audio + Light",
-      "Track integration",
-      "Wide 140\u00b0 coverage"
-    ],
-    "frequency": [
-      500,
-      18000
-    ],
-    "coverage": "Vertical 140\u00b0 \u00d7 Horizontal 140\u00b0",
-    "weightKg": 2.5,
-    "ipRating": "IP20",
     "image": "K_array_images/audio_light_images/RAIL S - TRACK_main.png",
     "lifestyle": [
       {
         "src": "K_array_images/audio_light_images/RAIL S - TRACK_1.png",
         "alt": "RAIL S TRACK integrated into a lighting track"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Audio + Light, track configuration"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Uses RAIL S point-source audio platform"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Designed for traditional architectural track systems"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Remote driver and smart-control ready"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Matches the acoustic and lighting performance of other RAIL S variants"
+          }
+        ]
       }
     ]
   }

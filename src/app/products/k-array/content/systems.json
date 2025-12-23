@@ -4,7 +4,7 @@
     "name": "K-array Azimut KAMUT2L II",
     "headline": "Invisible micro-system for premium hospitality rooms",
     "description": "Azimut KAMUT2L II is a turnkey micro-system pairing ultra-slim columns with a compact sub and amplifier for design-driven spaces that still expect hi-fi clarity.",
-    "story": "Created for hotel suites, lounges and concept retail, the KAMUT2L II hides powerful coverage in a d\u00e9cor-friendly footprint, with DSP, connections and presets tucked away in a single electronics hub.",
+    "story": "Created for hotel suites, lounges and concept retail, the KAMUT2L II hides powerful coverage in a d\u00c3\u00a9cor-friendly footprint, with DSP, connections and presets tucked away in a single electronics hub.",
     "definition": "Complete Azimut micro-system with slim columns, compact subwoofer and matched DSP amplifier.",
     "series": "Azimut",
     "category": "Systems",
@@ -18,25 +18,6 @@
       "Boutique retail",
       "Private lounges"
     ],
-    "specs": [
-      "Full Azimut system with ultra-slim columns, sub and control electronics",
-      "Integrated DSP amplifier with presets for music, speech and background modes",
-      "Flexible I/O for TV, streaming devices and background music sources",
-      "Wall, shelf and ceiling mounting options for columns",
-      "Compact subwoofer sized to hide under furniture or joinery"
-    ],
-    "keyStats": [
-      "Ultra-slim columns",
-      "Turnkey electronics",
-      "Interior-friendly form factor"
-    ],
-    "frequency": [
-      45,
-      20000
-    ],
-    "coverage": "Wide horizontal, controlled vertical spread",
-    "weightKg": 18,
-    "ipRating": "IP43",
     "image": "Azimut-KAMUT2L II_main.jpg",
     "lifestyle": [
       {
@@ -54,6 +35,33 @@
       {
         "src": "Azimut-KAMUT2L II_4.jpg",
         "alt": "Azimut KAMUT2L II complete room setup"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Full Azimut system with ultra-slim columns, sub and control electronics"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Integrated DSP amplifier with presets for music, speech and background modes"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Flexible I/O for TV, streaming devices and background music sources"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Wall, shelf and ceiling mounting options for columns"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Compact subwoofer sized to hide under furniture or joinery"
+          }
+        ]
       }
     ]
   },
@@ -76,25 +84,6 @@
       "Reading corners",
       "VIP booths"
     ],
-    "specs": [
-      "Compact Azimut package with one slim column, sub and control electronics",
-      "DSP presets for near-field listening and background sound",
-      "Flexible mounting accessories for column placement",
-      "Discreet cabling paths and plug-and-play connectivity",
-      "Optimised for smaller rooms and listening zones"
-    ],
-    "keyStats": [
-      "Compact footprint",
-      "Near-field voicing",
-      "Design-matched sub"
-    ],
-    "frequency": [
-      55,
-      19000
-    ],
-    "coverage": "Focused listening zone with wide horizontal spread",
-    "weightKg": 12,
-    "ipRating": "IP43",
     "image": "Azimut-KAMUT2L1 II_main.jpg",
     "lifestyle": [
       {
@@ -112,6 +101,33 @@
       {
         "src": "Azimut-KAMUT2L1 II_4.jpg",
         "alt": "Azimut KAMUT2L1 II installation detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Compact Azimut package with one slim column, sub and control electronics"
+          },
+          {
+            "label": "Spec 2",
+            "value": "DSP presets for near-field listening and background sound"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Flexible mounting accessories for column placement"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Discreet cabling paths and plug-and-play connectivity"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Optimised for smaller rooms and listening zones"
+          }
+        ]
       }
     ]
   },
@@ -134,25 +150,6 @@
       "Designer restaurants",
       "Premium hospitality suites"
     ],
-    "specs": [
-      "Tall micro columns for greater throw and smoother vertical coverage",
-      "High-performance subwoofer voiced for music and cinema",
-      "Advanced DSP presets and input routing for multi-source setups",
-      "Flexible mounting for floor, wall or ceiling applications",
-      "Ideal for medium to large design-forward spaces"
-    ],
-    "keyStats": [
-      "Extended column height",
-      "Room-filling coverage",
-      "Premium low end"
-    ],
-    "frequency": [
-      40,
-      20000
-    ],
-    "coverage": "Extended vertical line-source coverage",
-    "weightKg": 22,
-    "ipRating": "IP43",
     "image": "Azimut-KAMUT2L14 II_main.jpg",
     "lifestyle": [
       {
@@ -171,6 +168,33 @@
         "src": "Azimut-KAMUT2L14 II_4.jpg",
         "alt": "Azimut KAMUT2L14 II in restaurant installation"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Tall micro columns for greater throw and smoother vertical coverage"
+          },
+          {
+            "label": "Spec 2",
+            "value": "High-performance subwoofer voiced for music and cinema"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Advanced DSP presets and input routing for multi-source setups"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Flexible mounting for floor, wall or ceiling applications"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Ideal for medium to large design-forward spaces"
+          }
+        ]
+      }
     ]
   },
   {
@@ -178,7 +202,7 @@
     "name": "K-array Azimut KAMUT2V25 II",
     "headline": "Vertical design system with sculpted stereo field",
     "description": "Azimut KAMUT2V25 II uses vertically-oriented columns and a matching sub to create a tall, sculpted soundstage that hugs the architecture.",
-    "story": "From lobby feature walls to gallery spaces, the V25 configuration turns columns into part of the visual composition while delivering Azimut\u2019s signature intelligibility and warmth.",
+    "story": "From lobby feature walls to gallery spaces, the V25 configuration turns columns into part of the visual composition while delivering Azimut\u00e2\u20ac\u2122s signature intelligibility and warmth.",
     "definition": "Vertical Azimut column system with matching subwoofer and DSP-controlled amplifier.",
     "series": "Azimut",
     "category": "Systems",
@@ -192,25 +216,6 @@
       "Gallery spaces",
       "Show apartments"
     ],
-    "specs": [
-      "Twin vertical column layout for tall, immersive sound field",
-      "Compact subwoofer integrated into furniture or architectural details",
-      "DSP amplifier with presets for background, live music and cinema modes",
-      "Wall-mount and bracket kit included for flexible install",
-      "Designed for visually prominent but low-profile installations"
-    ],
-    "keyStats": [
-      "Vertical design",
-      "Twin columns",
-      "Architecture-first aesthetic"
-    ],
-    "frequency": [
-      50,
-      20000
-    ],
-    "coverage": "Tall stereo field with wide horizontal dispersion",
-    "weightKg": 20,
-    "ipRating": "IP43",
     "image": "Azimut-KAMUT2V25 II_main.jpg",
     "lifestyle": [
       {
@@ -228,6 +233,33 @@
       {
         "src": "Azimut-KAMUT2V25 II_4.jpg",
         "alt": "Azimut KAMUT2V25 II column mounting detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Twin vertical column layout for tall, immersive sound field"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Compact subwoofer integrated into furniture or architectural details"
+          },
+          {
+            "label": "Spec 3",
+            "value": "DSP amplifier with presets for background, live music and cinema modes"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Wall-mount and bracket kit included for flexible install"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Designed for visually prominent but low-profile installations"
+          }
+        ]
       }
     ]
   },
@@ -250,25 +282,6 @@
       "Premium retail",
       "Museums and galleries"
     ],
-    "specs": [
-      "Slim column loudspeakers for controlled vertical coverage",
-      "Companion low-frequency module for full-range performance",
-      "Optimised for speech clarity and unobtrusive music",
-      "Multiple mounting options for walls, pillars and structures",
-      "Neutral white finish to blend with modern interiors"
-    ],
-    "keyStats": [
-      "Even distributed coverage",
-      "Architectural finish",
-      "Scalable deployment"
-    ],
-    "frequency": [
-      70,
-      18000
-    ],
-    "coverage": "Distributed column pattern with controlled vertical spread",
-    "weightKg": 16,
-    "ipRating": "IP44",
     "image": "Dolomite-KRD202P_main.png",
     "lifestyle": [
       {
@@ -295,6 +308,33 @@
         "src": "Dolomite-KRD202P_6.png",
         "alt": "Dolomite KRD202P close-up of drivers"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Slim column loudspeakers for controlled vertical coverage"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Companion low-frequency module for full-range performance"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Optimised for speech clarity and unobtrusive music"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Multiple mounting options for walls, pillars and structures"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Neutral white finish to blend with modern interiors"
+          }
+        ]
+      }
     ]
   },
   {
@@ -316,25 +356,6 @@
       "Outdoor festivals",
       "Large touring shows"
     ],
-    "specs": [
-      "Digitally steerable line-array modules for 3D coverage control (with system DSP)",
-      "Compact frontal footprint with high power density",
-      "Optimised to pair with Firenze KS subs and amplifiers",
-      "Rigging system for fast, repeatable deployment",
-      "Weather-resistant touring enclosure construction"
-    ],
-    "keyStats": [
-      "Steerable arrays",
-      "High SPL",
-      "Arena-ready rigging"
-    ],
-    "frequency": [
-      50,
-      18000
-    ],
-    "coverage": "Digitally steerable vertical and horizontal coverage",
-    "weightKg": 46,
-    "ipRating": "IP45",
     "image": "Firenze-KH7P I_main.jpg",
     "lifestyle": [
       {
@@ -352,6 +373,33 @@
       {
         "src": "Firenze-KH7P I_4.jpg",
         "alt": "Firenze KH7P I stacked for transport"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Digitally steerable line-array modules for 3D coverage control (with system DSP)"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Compact frontal footprint with high power density"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Optimised to pair with Firenze KS subs and amplifiers"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Rigging system for fast, repeatable deployment"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Weather-resistant touring enclosure construction"
+          }
+        ]
       }
     ]
   },
@@ -374,25 +422,6 @@
       "Festivals",
       "Large touring productions"
     ],
-    "specs": [
-      "Self-powered array elements with multichannel Class D amplification",
-      "Electronic beam steering for precise audience coverage",
-      "Straight-array rigging for rapid deployment",
-      "Compatible with Firenze KS low-frequency modules",
-      "Networkable control for presets, monitoring and optimisation"
-    ],
-    "keyStats": [
-      "Self-powered arrays",
-      "Beam steering",
-      "Straight hangs"
-    ],
-    "frequency": [
-      55,
-      18000
-    ],
-    "coverage": "Electronically steerable vertical pattern, wide horizontal",
-    "weightKg": 52,
-    "ipRating": "IP45",
     "image": "Firenze-KH8_main.jpg",
     "lifestyle": [
       {
@@ -406,6 +435,33 @@
       {
         "src": "Firenze-KH8_3.jpg",
         "alt": "Firenze KH8 flown cluster in stadium"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Self-powered array elements with multichannel Class D amplification"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Electronic beam steering for precise audience coverage"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Straight-array rigging for rapid deployment"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with Firenze KS low-frequency modules"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Networkable control for presets, monitoring and optimisation"
+          }
+        ]
       }
     ]
   },
@@ -428,25 +484,6 @@
       "Festival LF grids",
       "Large arenas"
     ],
-    "specs": [
-      "Dual 21\" sub modules optimised for Firenze amplifier presets",
-      "Configurable in cardioid, end-fire or broadside arrays",
-      "Heavy-duty frames and hardware for truck-friendly touring",
-      "Designed to integrate visually with KH7/KH8 hangs",
-      "Suitable for indoor and outdoor high-SPL deployments"
-    ],
-    "keyStats": [
-      "Dual 21\" engine",
-      "Configurable LF arrays",
-      "Tour-grade hardware"
-    ],
-    "frequency": [
-      28,
-      120
-    ],
-    "coverage": "Omnidirectional or pattern-controlled in arrays",
-    "weightKg": 110,
-    "ipRating": "IP44",
     "image": "Firenze-KS7P I_main.png",
     "lifestyle": [
       {
@@ -460,6 +497,33 @@
       {
         "src": "Firenze-KS7P I_3.png",
         "alt": "Firenze KS7P I in festival deployment"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Dual 21\" sub modules optimised for Firenze amplifier presets"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Configurable in cardioid, end-fire or broadside arrays"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Heavy-duty frames and hardware for truck-friendly touring"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Designed to integrate visually with KH7/KH8 hangs"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Suitable for indoor and outdoor high-SPL deployments"
+          }
+        ]
       }
     ]
   },
@@ -482,25 +546,6 @@
       "Outdoor shows",
       "High-SPL events"
     ],
-    "specs": [
-      "Self-powered dual 21\" modules with built-in DSP",
-      "Network control for delay, EQ and array configuration",
-      "Optimised presets for Firenze tops and system voicings",
-      "Road-ready construction for touring use",
-      "Integration into Firenze software design environments"
-    ],
-    "keyStats": [
-      "Self-powered subs",
-      "Network control",
-      "Tour-ready"
-    ],
-    "frequency": [
-      28,
-      120
-    ],
-    "coverage": "Array-dependent low-frequency coverage",
-    "weightKg": 120,
-    "ipRating": "IP45",
     "image": "Firenze-KS7_main.jpg",
     "lifestyle": [
       {
@@ -515,46 +560,54 @@
         "src": "Firenze-KS7_3.jpg",
         "alt": "Firenze KS7 under Firenze line arrays"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Self-powered dual 21\" modules with built-in DSP"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Network control for delay, EQ and array configuration"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Optimised presets for Firenze tops and system voicings"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Road-ready construction for touring use"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Integration into Firenze software design environments"
+          }
+        ]
+      }
     ]
   },
   {
     "slug": "firenze-ks8-system",
     "name": "K-array Firenze KS8 System",
     "headline": "Compact IPAL-based LF system for precise touring bass",
-    "description": "Firenze KS8 systems employ IPAL\u00ae-equipped sub modules to deliver ultra-precise, phase-coherent low frequencies in compact touring grids.",
-    "story": "With integrated high-power amplification and IPAL\u00ae processing, KS8 arrays stay tight and controlled, even when stacked deep for large shows.",
-    "definition": "IPAL\u00ae-driven Firenze low-frequency system for precision touring applications.",
+    "description": "Firenze KS8 systems employ IPAL\u00c2\u00ae-equipped sub modules to deliver ultra-precise, phase-coherent low frequencies in compact touring grids.",
+    "story": "With integrated high-power amplification and IPAL\u00c2\u00ae processing, KS8 arrays stay tight and controlled, even when stacked deep for large shows.",
+    "definition": "IPAL\u00c2\u00ae-driven Firenze low-frequency system for precision touring applications.",
     "series": "Firenze",
     "category": "Systems",
     "finish": "Black touring finish",
     "collaboration": "K-array Italy",
     "power": "Active",
-    "type": "Compact IPAL\u00ae LF system",
-    "drivers": "Dual 21\" IPAL\u00ae sub modules with dedicated amplifiers",
+    "type": "Compact IPAL\u00c2\u00ae LF system",
+    "drivers": "Dual 21\" IPAL\u00c2\u00ae sub modules with dedicated amplifiers",
     "applications": [
       "Large theatres",
       "Arenas",
       "Precision touring rigs"
     ],
-    "specs": [
-      "IPAL\u00ae technology for tight LF control and reduced distortion",
-      "Self-powered with internal high-efficiency amplification",
-      "Designed for flown or ground-stacked Firenze LF arrays",
-      "Integrates into Firenze system design software",
-      "Weather-resistant build for outdoor deployments"
-    ],
-    "keyStats": [
-      "IPAL\u00ae engine",
-      "Precision bass",
-      "Compact LF grid"
-    ],
-    "frequency": [
-      30,
-      120
-    ],
-    "coverage": "Array-controlled low-frequency coverage",
-    "weightKg": 130,
-    "ipRating": "IP45",
     "image": "Firenze-KS8_main.jpg",
     "lifestyle": [
       {
@@ -568,6 +621,33 @@
       {
         "src": "Firenze-KS8_3.jpg",
         "alt": "Firenze KS8 under Firenze arrays"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "IPAL\u00c2\u00ae technology for tight LF control and reduced distortion"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Self-powered with internal high-efficiency amplification"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Designed for flown or ground-stacked Firenze LF arrays"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Integrates into Firenze system design software"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Weather-resistant build for outdoor deployments"
+          }
+        ]
       }
     ]
   },
@@ -590,25 +670,6 @@
       "Balcony delays",
       "Medium FOH"
     ],
-    "specs": [
-      "Coaxial driver layout for phase-coherent point-source behaviour",
-      "Rotatable waveguide for custom coverage patterns",
-      "Optimised Firenze presets for tonal continuity",
-      "Stainless steel build suitable for challenging environments",
-      "Supports flown, pole-mount and ground-stack configurations"
-    ],
-    "keyStats": [
-      "Coaxial design",
-      "Adjustable dispersion",
-      "Firenze voicing"
-    ],
-    "frequency": [
-      70,
-      18000
-    ],
-    "coverage": "Selectable coverage via rotatable waveguide",
-    "weightKg": 23,
-    "ipRating": "IP43",
     "image": "Firenze-KX12F I_main.png",
     "lifestyle": [
       {
@@ -622,6 +683,33 @@
       {
         "src": "Firenze-KX12F I_3.png",
         "alt": "Firenze KX12F I flown as delay"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Coaxial driver layout for phase-coherent point-source behaviour"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Rotatable waveguide for custom coverage patterns"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Optimised Firenze presets for tonal continuity"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Stainless steel build suitable for challenging environments"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Supports flown, pole-mount and ground-stack configurations"
+          }
+        ]
       }
     ]
   },
@@ -644,25 +732,6 @@
       "Theatres",
       "Corporate shows"
     ],
-    "specs": [
-      "Includes KH2 I array elements, matching subs and amplification package",
-      "Scalable system size for small to mid-sized audience areas",
-      "Dedicated presets for fast tuning and deployment",
-      "Compatible with Mugello rigging and flying hardware",
-      "Ideal rental solution for flexible event coverage"
-    ],
-    "keyStats": [
-      "Pre-configured rig",
-      "Mugello sound",
-      "Rental-friendly"
-    ],
-    "frequency": [
-      40,
-      19000
-    ],
-    "coverage": "Adjustable array coverage dependent on deployment",
-    "weightKg": 80,
-    "ipRating": "IP43",
     "image": "Mugello-KH2 I SYST12_main.jpg",
     "lifestyle": [
       {
@@ -676,6 +745,33 @@
       {
         "src": "Mugello-KH2 I SYST12_4.jpg",
         "alt": "Mugello KH2 I SYST12 rigging detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Includes KH2 I array elements, matching subs and amplification package"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Scalable system size for small to mid-sized audience areas"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Dedicated presets for fast tuning and deployment"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with Mugello rigging and flying hardware"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Ideal rental solution for flexible event coverage"
+          }
+        ]
       }
     ]
   },
@@ -698,25 +794,6 @@
       "Theatres",
       "Live venues"
     ],
-    "specs": [
-      "Self-powered array elements with onboard DSP presets",
-      "Reduced amp rack requirements and simpler power cabling",
-      "System-wide presets for speech, live and playback content",
-      "Mugello rigging hardware for quick hangs and stacks",
-      "Optimised integration with Mugello subwoofers"
-    ],
-    "keyStats": [
-      "Self-powered arrays",
-      "Fast setup",
-      "Tour-ready Mugello"
-    ],
-    "frequency": [
-      45,
-      19000
-    ],
-    "coverage": "Array-defined coverage for seated and standing venues",
-    "weightKg": 42,
-    "ipRating": "IP43",
     "image": "Mugello-KH2P I_main.jpg",
     "lifestyle": [
       {
@@ -734,6 +811,33 @@
       {
         "src": "Mugello-KH2P I_4.jpg",
         "alt": "Mugello KH2P I paired with subs"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Self-powered array elements with onboard DSP presets"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Reduced amp rack requirements and simpler power cabling"
+          },
+          {
+            "label": "Spec 3",
+            "value": "System-wide presets for speech, live and playback content"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Mugello rigging hardware for quick hangs and stacks"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Optimised integration with Mugello subwoofers"
+          }
+        ]
       }
     ]
   },
@@ -756,25 +860,6 @@
       "Large theatres",
       "Outdoor festivals"
     ],
-    "specs": [
-      "Self-powered KH3P I arrays with multi-way amplification",
-      "High SPL capability for demanding venues",
-      "Dedicated presets for indoor and outdoor voicings",
-      "Compatible with Mugello rigging hardware and subs",
-      "Networked control and monitoring for touring workflows"
-    ],
-    "keyStats": [
-      "High SPL",
-      "Self-powered",
-      "Arena-ready"
-    ],
-    "frequency": [
-      40,
-      19000
-    ],
-    "coverage": "Long-throw array coverage",
-    "weightKg": 48,
-    "ipRating": "IP43",
     "image": "Mugello-KH3P I_main.jpg",
     "lifestyle": [
       {
@@ -792,6 +877,33 @@
       {
         "src": "Mugello-KH3P I_4.jpg",
         "alt": "Mugello KH3P I stack with subs"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Self-powered KH3P I arrays with multi-way amplification"
+          },
+          {
+            "label": "Spec 2",
+            "value": "High SPL capability for demanding venues"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Dedicated presets for indoor and outdoor voicings"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with Mugello rigging hardware and subs"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Networked control and monitoring for touring workflows"
+          }
+        ]
       }
     ]
   },
@@ -814,25 +926,6 @@
       "Arenas",
       "Flagship venues"
     ],
-    "specs": [
-      "Highest-output Mugello array platform with self-contained amplification",
-      "Advanced DSP for coverage, voicing and protection presets",
-      "Integrated rigging for fast, repeatable deployment",
-      "Optimised to pair with Mugello subwoofer platforms",
-      "Networkable control for system-wide monitoring and tuning"
-    ],
-    "keyStats": [
-      "Flagship system",
-      "Maximum SPL",
-      "Touring workhorse"
-    ],
-    "frequency": [
-      38,
-      19000
-    ],
-    "coverage": "Long-throw array with configurable splay and aiming",
-    "weightKg": 55,
-    "ipRating": "IP43",
     "image": "Mugello-KH5P I_main.jpg",
     "lifestyle": [
       {
@@ -850,6 +943,33 @@
       {
         "src": "Mugello-KH5P I_4.jpg",
         "alt": "Mugello KH5P I stacked with subs"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Highest-output Mugello array platform with self-contained amplification"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Advanced DSP for coverage, voicing and protection presets"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Integrated rigging for fast, repeatable deployment"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Optimised to pair with Mugello subwoofer platforms"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Networkable control for system-wide monitoring and tuning"
+          }
+        ]
       }
     ]
   },
@@ -872,30 +992,38 @@
       "Touring bands",
       "Rental stock"
     ],
-    "specs": [
-      "Includes column arrays, subs and dedicated amplification package",
-      "Compact footprint tailored to small and mid-sized venues",
-      "Factory presets for speech, playback and live performance",
-      "Quick ground-stack deployment with minimal rigging",
-      "Designed as a complete front-of-house solution in one package"
-    ],
-    "keyStats": [
-      "Portable FOH",
-      "Complete package",
-      "Column + sub system"
-    ],
-    "frequency": [
-      40,
-      19000
-    ],
-    "coverage": "Wide horizontal, controlled vertical column coverage",
-    "weightKg": 40,
-    "ipRating": "IP43",
     "image": "Pinnacle-K-FoH2_main.jpg",
     "lifestyle": [
       {
         "src": "Pinnacle-K-FoH2_1.jpg",
         "alt": "Pinnacle K-FoH2 FOH setup"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Includes column arrays, subs and dedicated amplification package"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Compact footprint tailored to small and mid-sized venues"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Factory presets for speech, playback and live performance"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Quick ground-stack deployment with minimal rigging"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Designed as a complete front-of-house solution in one package"
+          }
+        ]
       }
     ]
   },
@@ -918,25 +1046,6 @@
       "Lounges",
       "Corporate events"
     ],
-    "specs": [
-      "Slim column arrays with controlled vertical coverage",
-      "Compact subwoofers delivering full-range performance",
-      "Integrated amplification and DSP presets",
-      "Ground-stack or pole-mount deployment options",
-      "Ideal for portable or semi-permanent installs"
-    ],
-    "keyStats": [
-      "Slim columns",
-      "Compact subs",
-      "Active system"
-    ],
-    "frequency": [
-      45,
-      19000
-    ],
-    "coverage": "Column-driven vertical pattern, wide horizontal",
-    "weightKg": 35,
-    "ipRating": "IP43",
     "image": "Pinnacle-KR102 II_main.jpg",
     "lifestyle": [
       {
@@ -967,6 +1076,33 @@
         "src": "Pinnacle-KR102 II_7.jpg",
         "alt": "Pinnacle KR102 II system in use"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Slim column arrays with controlled vertical coverage"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Compact subwoofers delivering full-range performance"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Integrated amplification and DSP presets"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Ground-stack or pole-mount deployment options"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Ideal for portable or semi-permanent installs"
+          }
+        ]
+      }
     ]
   },
   {
@@ -988,25 +1124,6 @@
       "Theatres",
       "Live music venues"
     ],
-    "specs": [
-      "Taller columns for increased throw and vertical control",
-      "Higher-output subs for more demanding program material",
-      "Active amplification with factory-configured presets",
-      "Suitable for portable or fixed installations",
-      "Designed for clear speech and musical performance"
-    ],
-    "keyStats": [
-      "Extended throw",
-      "Higher SPL",
-      "KR family voicing"
-    ],
-    "frequency": [
-      40,
-      19000
-    ],
-    "coverage": "Medium-throw column coverage",
-    "weightKg": 42,
-    "ipRating": "IP43",
     "image": "Pinnacle-KR202 II_main.jpg",
     "lifestyle": [
       {
@@ -1041,6 +1158,33 @@
         "src": "Pinnacle-KR202 II_8.jpg",
         "alt": "Pinnacle KR202 II system overview"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Taller columns for increased throw and vertical control"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Higher-output subs for more demanding program material"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Active amplification with factory-configured presets"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Suitable for portable or fixed installations"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Designed for clear speech and musical performance"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1062,25 +1206,6 @@
       "Large clubs",
       "Outdoor events"
     ],
-    "specs": [
-      "High-output columns for large audience coverage",
-      "Subwoofer stacks delivering club-level low-end",
-      "Integrated amplification and DSP tuned for high-energy content",
-      "Ground-stack or pole-mount deployment options",
-      "KR visual language suitable for premium venues"
-    ],
-    "keyStats": [
-      "Large-format KR",
-      "Festival-ready",
-      "High headroom"
-    ],
-    "frequency": [
-      38,
-      19000
-    ],
-    "coverage": "Longer-throw column coverage",
-    "weightKg": 52,
-    "ipRating": "IP43",
     "image": "Pinnacle-KR402 II_main.jpg",
     "lifestyle": [
       {
@@ -1111,6 +1236,33 @@
         "src": "Pinnacle-KR402 II_7.jpg",
         "alt": "Pinnacle KR402 II stage setup"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "High-output columns for large audience coverage"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Subwoofer stacks delivering club-level low-end"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Integrated amplification and DSP tuned for high-energy content"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Ground-stack or pole-mount deployment options"
+          },
+          {
+            "label": "Spec 5",
+            "value": "KR visual language suitable for premium venues"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1132,25 +1284,6 @@
       "Rental companies",
       "Touring events"
     ],
-    "specs": [
-      "KR402 acoustic engine matched to portable electronics",
-      "Integrated amplification for quick plug-and-play deployment",
-      "Designed for rental and mobile production workflows",
-      "Maintains KR voicing and coverage pattern",
-      "Supports fast teardown and packing"
-    ],
-    "keyStats": [
-      "Portable electronics",
-      "KR402 voicing",
-      "Rental-friendly"
-    ],
-    "frequency": [
-      38,
-      19000
-    ],
-    "coverage": "Large-format column coverage",
-    "weightKg": 50,
-    "ipRating": "IP43",
     "image": "Pinnacle-KR402YP II_main.jpg",
     "lifestyle": [
       {
@@ -1164,6 +1297,33 @@
       {
         "src": "Pinnacle-KR402YP II_3.jpg",
         "alt": "Pinnacle KR402YP II system detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "KR402 acoustic engine matched to portable electronics"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Integrated amplification for quick plug-and-play deployment"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Designed for rental and mobile production workflows"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Maintains KR voicing and coverage pattern"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Supports fast teardown and packing"
+          }
+        ]
       }
     ]
   },
@@ -1186,25 +1346,6 @@
       "Festivals",
       "Flexible venues"
     ],
-    "specs": [
-      "Modular design for scalable column and sub combinations",
-      "Integrated amplification and processing for each configuration",
-      "Designed to adapt to different venue sizes and formats",
-      "Compatible with KR accessories and mounting hardware",
-      "Offers both portable and installed deployment options"
-    ],
-    "keyStats": [
-      "Modular design",
-      "Scalable system",
-      "KR family integration"
-    ],
-    "frequency": [
-      38,
-      19000
-    ],
-    "coverage": "Configurable column coverage based on layout",
-    "weightKg": 48,
-    "ipRating": "IP43",
     "image": "Pinnacle-KR404P II_main.jpg",
     "lifestyle": [
       {
@@ -1231,13 +1372,40 @@
         "src": "Pinnacle-KR404P II_6.jpg",
         "alt": "Pinnacle KR404P II from rear"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Modular design for scalable column and sub combinations"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Integrated amplification and processing for each configuration"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Designed to adapt to different venue sizes and formats"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with KR accessories and mounting hardware"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Offers both portable and installed deployment options"
+          }
+        ]
+      }
     ]
   },
   {
     "slug": "pinnacle-kr802-ii",
     "name": "K-array Pinnacle KR802 II",
     "headline": "High-output KR system for main PA duties",
-    "description": "KR802 II is a high-output column system designed as a full main PA for clubs, theatres and outdoor events wanting KR\u2019s unique aesthetic and sound.",
+    "description": "KR802 II is a high-output column system designed as a full main PA for clubs, theatres and outdoor events wanting KR\u00e2\u20ac\u2122s unique aesthetic and sound.",
     "story": "With tall columns and muscular subs, KR802 II combines the efficiency of line-source behaviour with the impact needed for modern electronic and live music.",
     "definition": "High-output Pinnacle KR column and subwoofer system for main PA applications.",
     "series": "Pinnacle",
@@ -1252,25 +1420,6 @@
       "Outdoor stages",
       "Theatres"
     ],
-    "specs": [
-      "Tall column arrays with strong vertical control and throw",
-      "High-powered subs for modern music levels",
-      "Integrated amplification and DSP inside the system",
-      "Suitable for mobile or fixed main PA roles",
-      "KR voicing tuned for both live and playback content"
-    ],
-    "keyStats": [
-      "High output",
-      "Main PA",
-      "KR aesthetic"
-    ],
-    "frequency": [
-      35,
-      19000
-    ],
-    "coverage": "Long-throw column coverage",
-    "weightKg": 60,
-    "ipRating": "IP43",
     "image": "Pinnacle-KR802 II_main.jpg",
     "lifestyle": [
       {
@@ -1305,6 +1454,33 @@
         "src": "Pinnacle-KR802 II_8.jpg",
         "alt": "Pinnacle KR802 II side angle"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Tall column arrays with strong vertical control and throw"
+          },
+          {
+            "label": "Spec 2",
+            "value": "High-powered subs for modern music levels"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Integrated amplification and DSP inside the system"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Suitable for mobile or fixed main PA roles"
+          },
+          {
+            "label": "Spec 5",
+            "value": "KR voicing tuned for both live and playback content"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1326,25 +1502,6 @@
       "Rental inventories",
       "Touring events"
     ],
-    "specs": [
-      "Portable electronics integrated with KR802 acoustic components",
-      "Simplified connection scheme for faster job turnarounds",
-      "Maintains KR802 coverage and sonic profile",
-      "Designed for frequent load-in/load-out environments",
-      "Suitable for both indoor and outdoor use"
-    ],
-    "keyStats": [
-      "Portable variant",
-      "KR802 sound",
-      "Rental-focused"
-    ],
-    "frequency": [
-      35,
-      19000
-    ],
-    "coverage": "Long-throw column coverage",
-    "weightKg": 58,
-    "ipRating": "IP43",
     "image": "Pinnacle-KR802YP II_main.jpg",
     "lifestyle": [
       {
@@ -1358,6 +1515,33 @@
       {
         "src": "Pinnacle-KR802YP II_3.jpg",
         "alt": "Pinnacle KR802YP II branding close-up"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Portable electronics integrated with KR802 acoustic components"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Simplified connection scheme for faster job turnarounds"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Maintains KR802 coverage and sonic profile"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Designed for frequent load-in/load-out environments"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Suitable for both indoor and outdoor use"
+          }
+        ]
       }
     ]
   },
@@ -1380,25 +1564,6 @@
       "Theatres",
       "Outdoor performance spaces"
     ],
-    "specs": [
-      "Supports both ground-stacked and flown column configurations",
-      "High-output subs for modern program material",
-      "Integrated amplification and DSP for each system configuration",
-      "Designed to scale across different room sizes and formats",
-      "KR styling suitable for visible installations in premium venues"
-    ],
-    "keyStats": [
-      "Flexible configuration",
-      "High output",
-      "Ground or flown"
-    ],
-    "frequency": [
-      35,
-      19000
-    ],
-    "coverage": "Configurable column coverage",
-    "weightKg": 54,
-    "ipRating": "IP43",
     "image": "Pinnacle-KR804P II_main.jpg",
     "lifestyle": [
       {
@@ -1420,6 +1585,33 @@
       {
         "src": "Pinnacle-KR804P II_5.jpg",
         "alt": "Pinnacle KR804P II system detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Supports both ground-stacked and flown column configurations"
+          },
+          {
+            "label": "Spec 2",
+            "value": "High-output subs for modern program material"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Integrated amplification and DSP for each system configuration"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Designed to scale across different room sizes and formats"
+          },
+          {
+            "label": "Spec 5",
+            "value": "KR styling suitable for visible installations in premium venues"
+          }
+        ]
       }
     ]
   }

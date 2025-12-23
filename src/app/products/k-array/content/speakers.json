@@ -1,43 +1,97 @@
 [
   {
     "slug": "lyzard-kz1-i",
-    "name": "K-array Lyzard-KZ1 I",
-    "headline": "Ultra-miniature stainless-steel line array",
-    "description": "The Lyzard-KZ1 I is an ultra-compact line array element in a CNC-machined stainless-steel enclosure for discreet foreground sound.",
-    "story": "Created for interiors where you see architecture, not loudspeakers, KZ1 I disappears into millwork and fixtures while preserving speech clarity and sparkle.",
-    "definition": "Ultra-miniature passive line-array loudspeaker for premium, design-driven spaces.",
+    "name": "Lyzard-KZ1 I",
+    "headline": "Antique gold",
+    "description": "Exceptional clarity and performance from an ultra-compact loudspeaker designed to disappear into refined spaces.",
+    "story": "With a horizontal and vertical coverage of 140\u00c2\u00b0 and a frequency response from 500 Hz up to 18 kHz, KZ1 I provides clear audio reproduction and flawless intelligibility at a peak SPL of 86 dB, an impressive performance for a miniature loudspeaker.\n\nTo complete the full frequency range of your audio systems, Lyzard loudspeakers must be combined with one or more of the Truffle or Rumble subwoofers and driven by one of our Kommander amplifiers.\n\nLyzard loudspeakers are available in semi-matte black or white as standard, or any RAL colour, as well as several premium finishes, on request. Polished aluminium, 24K gold, rose gold or antique gold plating are among the most luxurious finishes.\n\nThe front of the loudspeaker cabinet is protected by a magnetic grille that can be removed with a small neodymium magnet knob, included in the package. This new feature makes the fixing point much faster to access, helping installers reduce set-up and maintenance times. The rear panel incorporates a small two-pole screw euro-block connector, so no specific connector is required, further streamlining the installation process.",
+    "definition": "Ultra-mini point source loudspeaker for premium installations.",
     "series": "Lyzard",
     "category": "Speakers",
-    "finish": "Polished Stainless Micro-Line",
+    "finish": "Antique gold",
     "collaboration": "Passive",
     "power": "Passive",
-    "type": "Ultra-compact line-array element",
-    "drivers": "1 \u00d7 ultra-miniature full-range transducer",
+    "type": "Point source",
+    "drivers": "0.5\" neodymium magnet woofer",
     "applications": [
       "Luxury retail",
       "Museums",
       "Hospitality lounges",
       "Residential feature walls"
     ],
-    "specs": [
-      "CNC-machined stainless-steel enclosure",
-      "Micro-sized full-range driver",
-      "High intelligibility for nearfield coverage",
-      "Multiple mounting accessories available",
-      "Matches K-array subs for full-range systems"
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Point source"
+          },
+          {
+            "label": "Transducers",
+            "value": "0.5\" neodymium magnet woofer"
+          },
+          {
+            "label": "Frequency Response",
+            "value": "500 Hz \u00e2\u20ac\u201c 18 kHz (-6 dB)"
+          },
+          {
+            "label": "Max SPL",
+            "value": "86 dB (peak)"
+          },
+          {
+            "label": "Rated Power",
+            "value": "3.5 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 140\u00c2\u00b0 | H. 140\u00c2\u00b0"
+          },
+          {
+            "label": "Connectors",
+            "value": "IN+ IN- screw terminals"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 \u00ce\u00a9"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "22 x 37 x 11 mm (0.9 x 1.5 x 0.4 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.021 kg (0.046 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP64"
+          }
+        ]
+      }
     ],
-    "keyStats": [
-      "Ultra-miniature",
-      "Architectural",
-      "Stainless steel"
-    ],
-    "frequency": [
-      150,
-      20000
-    ],
-    "coverage": "Tight vertical, wide horizontal",
-    "weightKg": 0.06,
-    "ipRating": "IP64",
     "image": "Lyzard-KZ1 I_main.jpg",
     "lifestyle": [
       {
@@ -56,6 +110,12 @@
         "src": "Lyzard-KZ1 I_4.jpg",
         "alt": "Lyzard-KZ1 I discrete architectural integration"
       }
+    ],
+    "resources": [
+      {
+        "label": "User manual (Lyzard-KZ1 I)",
+        "href": "Lyzard-KZ1I.pdf"
+      }
     ]
   },
   {
@@ -71,32 +131,13 @@
     "collaboration": "Passive",
     "power": "Passive",
     "type": "Recessed micro line-array",
-    "drivers": "1 \u00d7 ultra-miniature full-range transducer",
+    "drivers": "1 \u00c3\u2014 ultra-miniature full-range transducer",
     "applications": [
       "Hidden cinema channels",
       "Luxury residences",
       "Boutique hospitality",
       "Exhibitions"
     ],
-    "specs": [
-      "Recessed frame for flush installation",
-      "Stainless-steel front with micro-perf grille",
-      "Matches K-array subs and amplifiers",
-      "Colour-matching options via finishers",
-      "Optimised for speech and soft music"
-    ],
-    "keyStats": [
-      "Recessed",
-      "Invisible",
-      "Architectural"
-    ],
-    "frequency": [
-      150,
-      20000
-    ],
-    "coverage": "Tight vertical, wide horizontal",
-    "weightKg": 0.07,
-    "ipRating": "IP64",
     "image": "Lyzard-KZ1R I_main.jpg",
     "lifestyle": [
       {
@@ -114,6 +155,33 @@
       {
         "src": "Lyzard-KZ1R I_4.jpg",
         "alt": "Lyzard-KZ1R I integrated into millwork"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Recessed frame for flush installation"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Stainless-steel front with micro-perf grille"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Matches K-array subs and amplifiers"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Colour-matching options via finishers"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Optimised for speech and soft music"
+          }
+        ]
       }
     ]
   },
@@ -137,25 +205,6 @@
       "Retail podiums",
       "Hotel lobbies"
     ],
-    "specs": [
-      "Multiple micro drivers in a taller column",
-      "Ultra-slim stainless-steel enclosure",
-      "High speech intelligibility at distance",
-      "Supports vertical or horizontal mounting",
-      "Pairs with compact K-array subwoofers"
-    ],
-    "keyStats": [
-      "Higher output",
-      "Slim column",
-      "Design-led"
-    ],
-    "frequency": [
-      120,
-      20000
-    ],
-    "coverage": "Controlled vertical, wide horizontal",
-    "weightKg": 0.16,
-    "ipRating": "IP64",
     "image": "Lyzard-KZ14 I_main.jpg",
     "lifestyle": [
       {
@@ -173,6 +222,33 @@
       {
         "src": "Lyzard-KZ14 I_4.jpg",
         "alt": "Lyzard-KZ14 I slim form factor"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Multiple micro drivers in a taller column"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Ultra-slim stainless-steel enclosure"
+          },
+          {
+            "label": "Spec 3",
+            "value": "High speech intelligibility at distance"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Supports vertical or horizontal mounting"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Pairs with compact K-array subwoofers"
+          }
+        ]
       }
     ]
   },
@@ -196,25 +272,6 @@
       "Luxury spas",
       "Hospitality corridors"
     ],
-    "specs": [
-      "Recessed frame for invisible mounting",
-      "Tall stainless column for greater output",
-      "Architectural colour-matching options",
-      "Works with K-array DSP amplifiers",
-      "Suitable for speech and background music"
-    ],
-    "keyStats": [
-      "Recessed",
-      "Extended output",
-      "Micro profile"
-    ],
-    "frequency": [
-      120,
-      20000
-    ],
-    "coverage": "Controlled vertical, wide horizontal",
-    "weightKg": 0.18,
-    "ipRating": "IP64",
     "image": "Lyzard-KZ14R I_main.jpg",
     "lifestyle": [
       {
@@ -232,6 +289,33 @@
       {
         "src": "Lyzard-KZ14R I_4.jpg",
         "alt": "Lyzard-KZ14R I hidden architectural audio"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Recessed frame for invisible mounting"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Tall stainless column for greater output"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Architectural colour-matching options"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Works with K-array DSP amplifiers"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Suitable for speech and background music"
+          }
+        ]
       }
     ]
   },
@@ -255,25 +339,6 @@
       "Restaurants",
       "Museums"
     ],
-    "specs": [
-      "Slim stainless-steel column enclosure",
-      "Tightly spaced driver array",
-      "High direct-to-reverberant ratio",
-      "Wall and pole-mount accessories",
-      "Pairs with K-array subs for full-range systems"
-    ],
-    "keyStats": [
-      "Slim column",
-      "Stainless steel",
-      "Controlled coverage"
-    ],
-    "frequency": [
-      120,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 3.2,
-    "ipRating": "IP54",
     "image": "Kobra-KK52 I_main.jpg",
     "lifestyle": [
       {
@@ -291,6 +356,33 @@
       {
         "src": "Kobra-KK52 I_4.jpg",
         "alt": "Kobra-KK52 I installed beside architectural columns"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Slim stainless-steel column enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Tightly spaced driver array"
+          },
+          {
+            "label": "Spec 3",
+            "value": "High direct-to-reverberant ratio"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Wall and pole-mount accessories"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Pairs with K-array subs for full-range systems"
+          }
+        ]
       }
     ]
   },
@@ -314,25 +406,6 @@
       "Corporate atria",
       "Themed venues"
     ],
-    "specs": [
-      "Extended-height stainless-steel enclosure",
-      "Very narrow vertical directivity",
-      "Long-throw coverage in reflective rooms",
-      "Multiple rigging and mounting options",
-      "Works in distributed and point-source systems"
-    ],
-    "keyStats": [
-      "Extended height",
-      "Long throw",
-      "Slim profile"
-    ],
-    "frequency": [
-      90,
-      19000
-    ],
-    "coverage": "Very narrow vertical, wide horizontal",
-    "weightKg": 6,
-    "ipRating": "IP54",
     "image": "Kobra-KK102 I_main.jpg",
     "lifestyle": [
       {
@@ -350,6 +423,33 @@
       {
         "src": "Kobra-KK102 I_4.jpg",
         "alt": "Kobra-KK102 I integrated onto pillar"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Extended-height stainless-steel enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Very narrow vertical directivity"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Long-throw coverage in reflective rooms"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Multiple rigging and mounting options"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Works in distributed and point-source systems"
+          }
+        ]
       }
     ]
   },
@@ -369,29 +469,10 @@
     "drivers": "Multiple closely spaced full-range drivers",
     "applications": [
       "Hospitality",
-      "Retail fa\u00e7ades",
+      "Retail fa\u00c3\u00a7ades",
       "Gallery spaces",
       "Residential theaters"
     ],
-    "specs": [
-      "Slim, flat aluminium profile",
-      "High directivity line-array behaviour",
-      "Multiple colour options to match interiors",
-      "Mounts flush to walls and columns",
-      "Pairs with K-array subwoofers"
-    ],
-    "keyStats": [
-      "Flat profile",
-      "Compact column",
-      "Design-friendly"
-    ],
-    "frequency": [
-      110,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 2.6,
-    "ipRating": "IP54",
     "image": "Vyper-KV25 II_main.png",
     "lifestyle": [
       {
@@ -410,13 +491,40 @@
         "src": "Vyper-KV25 II_4.png",
         "alt": "Vyper-KV25 II detail with bracket"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Slim, flat aluminium profile"
+          },
+          {
+            "label": "Spec 2",
+            "value": "High directivity line-array behaviour"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Multiple colour options to match interiors"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Mounts flush to walls and columns"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Pairs with K-array subwoofers"
+          }
+        ]
+      }
     ]
   },
   {
     "slug": "vyper-kv25r-ii",
     "name": "K-array Vyper-KV25R II",
     "headline": "Curved-ready flat-panel column",
-    "description": "The Vyper-KV25R II adds a mechanically flexible rear plate to follow gentle curves in fa\u00e7ades and interiors.",
+    "description": "The Vyper-KV25R II adds a mechanically flexible rear plate to follow gentle curves in fa\u00c3\u00a7ades and interiors.",
     "story": "Architectural lines are rarely perfectly straight; KV25R II bends visually with features while keeping its acoustic performance intact.",
     "definition": "Flexible flat-panel line-array for gently curved mounting surfaces.",
     "series": "Vyper",
@@ -432,25 +540,6 @@
       "Feature ceilings",
       "Architectural ribbons"
     ],
-    "specs": [
-      "Flexible backing for gentle curves",
-      "Flat perforated metal front",
-      "Line-array directivity with slim form",
-      "Compatible with K-array wall hardware",
-      "Designed to pair with compact subs"
-    ],
-    "keyStats": [
-      "Flexible mount",
-      "Curved fa\u00e7ades",
-      "Slim column"
-    ],
-    "frequency": [
-      110,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 2.7,
-    "ipRating": "IP54",
     "image": "Vyper-KV25R II_main.png",
     "lifestyle": [
       {
@@ -468,6 +557,33 @@
       {
         "src": "Vyper-KV25R II_4.png",
         "alt": "Vyper-KV25R II column close-up"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Flexible backing for gentle curves"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Flat perforated metal front"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Line-array directivity with slim form"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with K-array wall hardware"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Designed to pair with compact subs"
+          }
+        ]
       }
     ]
   },
@@ -491,30 +607,38 @@
       "Boutique retail",
       "Hotel corridors"
     ],
-    "specs": [
-      "White-finished flat-panel enclosure",
-      "Line-array directivity in compact form",
-      "Wall-mount hardware for vertical installs",
-      "Ideal for speech and background music",
-      "Matches white d\u00e9cor and trim details"
-    ],
-    "keyStats": [
-      "White finish",
-      "Compact",
-      "Wall-mounted"
-    ],
-    "frequency": [
-      110,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 2.6,
-    "ipRating": "IP54",
     "image": "Vyper-KV25W I_main.png",
     "lifestyle": [
       {
         "src": "Vyper-KV25W I_1.jpg",
         "alt": "Vyper-KV25W I in white gallery wall"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "White-finished flat-panel enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Line-array directivity in compact form"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Wall-mount hardware for vertical installs"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Ideal for speech and background music"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Matches white d\u00c3\u00a9cor and trim details"
+          }
+        ]
       }
     ]
   },
@@ -538,25 +662,6 @@
       "Retail showrooms",
       "Museums"
     ],
-    "specs": [
-      "Medium-height flat aluminium enclosure",
-      "Highly controlled vertical directivity",
-      "Multiple rigging and wall-mount options",
-      "Compatible with K-array DSP amplifiers",
-      "Pairs with subs for full-range systems"
-    ],
-    "keyStats": [
-      "Medium height",
-      "Flat panel",
-      "Controlled coverage"
-    ],
-    "frequency": [
-      90,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 3.5,
-    "ipRating": "IP54",
     "image": "Vyper-KV52 II_main.png",
     "lifestyle": [
       {
@@ -573,7 +678,34 @@
       },
       {
         "src": "Vyper-KV52 II_4.png",
-        "alt": "Vyper-KV52 II installed alongside d\u00e9cor panels"
+        "alt": "Vyper-KV52 II installed alongside d\u00c3\u00a9cor panels"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Medium-height flat aluminium enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Highly controlled vertical directivity"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Multiple rigging and wall-mount options"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with K-array DSP amplifiers"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Pairs with subs for full-range systems"
+          }
+        ]
       }
     ]
   },
@@ -597,25 +729,6 @@
       "Premium hospitality",
       "Corporate lounges"
     ],
-    "specs": [
-      "Flush-mount frame and hardware",
-      "Flat perforated front grille",
-      "Controlled vertical beam",
-      "Compatible with K-array amps and DSP",
-      "Designed for integration into panels"
-    ],
-    "keyStats": [
-      "Flush mount",
-      "Flat grille",
-      "Architectural"
-    ],
-    "frequency": [
-      90,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 3.6,
-    "ipRating": "IP54",
     "image": "Vyper-KV52F II_main.png",
     "lifestyle": [
       {
@@ -634,14 +747,41 @@
         "src": "Vyper-KV52F II_4.png",
         "alt": "Vyper-KV52F II integration example"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Flush-mount frame and hardware"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Flat perforated front grille"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Controlled vertical beam"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with K-array amps and DSP"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Designed for integration into panels"
+          }
+        ]
+      }
     ]
   },
   {
     "slug": "vyper-kv52fr-ii",
     "name": "K-array Vyper-KV52FR II",
-    "headline": "Flush-mount column for curved fa\u00e7ades",
+    "headline": "Flush-mount column for curved fa\u00c3\u00a7ades",
     "description": "Vyper-KV52FR II adds flexible mounting to the flush KV52F format for subtle curves and complex surfaces.",
-    "story": "Fa\u00e7ades and feature walls rarely stay flat; KV52FR II gives designers freedom to follow those lines with a continuous sound source.",
+    "story": "Fa\u00c3\u00a7ades and feature walls rarely stay flat; KV52FR II gives designers freedom to follow those lines with a continuous sound source.",
     "definition": "Flexible flush-mount flat-panel column loudspeaker.",
     "series": "Vyper",
     "category": "Speakers",
@@ -654,32 +794,13 @@
       "Curved interior walls",
       "Architectural ribbons",
       "Feature ceilings",
-      "Retail fa\u00e7ades"
+      "Retail fa\u00c3\u00a7ades"
     ],
-    "specs": [
-      "Flexible frame for gentle curves",
-      "Flush-mount hardware kit",
-      "Line-array vertical directivity",
-      "Compatible with K-array system presets",
-      "Available in multiple finishes"
-    ],
-    "keyStats": [
-      "Flexible frame",
-      "Flush mount",
-      "Curved surfaces"
-    ],
-    "frequency": [
-      90,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 3.6,
-    "ipRating": "IP54",
     "image": "Vyper-KV52FR II_main.png",
     "lifestyle": [
       {
         "src": "Vyper-KV52FR II_1.png",
-        "alt": "Vyper-KV52FR II curved fa\u00e7ade installation"
+        "alt": "Vyper-KV52FR II curved fa\u00c3\u00a7ade installation"
       },
       {
         "src": "Vyper-KV52FR II_2.png",
@@ -693,6 +814,33 @@
         "src": "Vyper-KV52FR II_4.png",
         "alt": "Vyper-KV52FR II with supporting hardware"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Flexible frame for gentle curves"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Flush-mount hardware kit"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Line-array vertical directivity"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with K-array system presets"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Available in multiple finishes"
+          }
+        ]
+      }
     ]
   },
   {
@@ -700,7 +848,7 @@
     "name": "K-array Vyper-KV52R II",
     "headline": "Flexible flat-panel column",
     "description": "Vyper-KV52R II is the flexible variant of KV52 II for surface-mount applications along gently curved structures.",
-    "story": "Handrail, balcony, contour wall \u2013 KV52R II follows them gracefully, keeping the column visually continuous.",
+    "story": "Handrail, balcony, contour wall \u00e2\u20ac\u201c KV52R II follows them gracefully, keeping the column visually continuous.",
     "definition": "Flexible surface-mount flat-panel column loudspeaker.",
     "series": "Vyper",
     "category": "Speakers",
@@ -712,28 +860,9 @@
     "applications": [
       "Curved balustrades",
       "Atrium edges",
-      "Retail fa\u00e7ades",
+      "Retail fa\u00c3\u00a7ades",
       "Hospitality features"
     ],
-    "specs": [
-      "Flexible rear chassis for gentle curvature",
-      "Slim flat front grille",
-      "Narrow vertical dispersion",
-      "Works with K-array subwoofers and amps",
-      "Multiple colour options available"
-    ],
-    "keyStats": [
-      "Flexible",
-      "Medium height",
-      "Flat panel"
-    ],
-    "frequency": [
-      90,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 3.6,
-    "ipRating": "IP54",
     "image": "Vyper-KV52R II_main.png",
     "lifestyle": [
       {
@@ -751,6 +880,33 @@
       {
         "src": "Vyper-KV52R II_4.png",
         "alt": "Vyper-KV52R II installation detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Flexible rear chassis for gentle curvature"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Slim flat front grille"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Narrow vertical dispersion"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Works with K-array subwoofers and amps"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Multiple colour options available"
+          }
+        ]
       }
     ]
   },
@@ -774,25 +930,6 @@
       "Houses of worship",
       "Corporate auditoria"
     ],
-    "specs": [
-      "Tall flat aluminium enclosure",
-      "Very narrow vertical beam",
-      "Enhanced throw for reflective spaces",
-      "Wall, pole and flown mounting options",
-      "System presets with K-array amplifiers"
-    ],
-    "keyStats": [
-      "Full-height",
-      "Long throw",
-      "Flat profile"
-    ],
-    "frequency": [
-      80,
-      19000
-    ],
-    "coverage": "Very narrow vertical, wide horizontal",
-    "weightKg": 7,
-    "ipRating": "IP54",
     "image": "Vyper-KV102 II_main.png",
     "lifestyle": [
       {
@@ -810,6 +947,33 @@
       {
         "src": "Vyper-KV102 II_4.png",
         "alt": "Vyper-KV102 II wall-mounted"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Tall flat aluminium enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Very narrow vertical beam"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Enhanced throw for reflective spaces"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Wall, pole and flown mounting options"
+          },
+          {
+            "label": "Spec 5",
+            "value": "System presets with K-array amplifiers"
+          }
+        ]
       }
     ]
   },
@@ -833,25 +997,6 @@
       "Architectural ribbons",
       "High-design venues"
     ],
-    "specs": [
-      "Full-height flexible chassis",
-      "Flat front grille to follow curves",
-      "Narrow vertical dispersion, wide horizontal",
-      "Compatible with K-array processing",
-      "Available in standard and custom finishes"
-    ],
-    "keyStats": [
-      "Flexible full-height",
-      "Architectural",
-      "Line array"
-    ],
-    "frequency": [
-      80,
-      19000
-    ],
-    "coverage": "Very narrow vertical, wide horizontal",
-    "weightKg": 7.2,
-    "ipRating": "IP54",
     "image": "Vyper-KV102R II_main.png",
     "lifestyle": [
       {
@@ -868,7 +1013,34 @@
       },
       {
         "src": "Vyper-KV102R II_4.png",
-        "alt": "Vyper-KV102R II integrated into fa\u00e7ade"
+        "alt": "Vyper-KV102R II integrated into fa\u00c3\u00a7ade"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Full-height flexible chassis"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Flat front grille to follow curves"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Narrow vertical dispersion, wide horizontal"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with K-array processing"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Available in standard and custom finishes"
+          }
+        ]
       }
     ]
   },
@@ -892,25 +1064,6 @@
       "Restaurants",
       "Houses of worship"
     ],
-    "specs": [
-      "Slim extruded aluminium enclosure",
-      "Column of closely spaced drivers",
-      "High direct-to-reverberant ratio",
-      "Multiple mounting accessories",
-      "Works with K-array subs as main system"
-    ],
-    "keyStats": [
-      "Slim aluminium",
-      "High intelligibility",
-      "Column array"
-    ],
-    "frequency": [
-      90,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 7,
-    "ipRating": "IP55",
     "image": "Kayman-KY52_main.jpg",
     "lifestyle": [
       {
@@ -928,6 +1081,33 @@
       {
         "src": "Kayman-KY52_4.jpg",
         "alt": "Kayman-KY52 mounted by column"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Slim extruded aluminium enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Column of closely spaced drivers"
+          },
+          {
+            "label": "Spec 3",
+            "value": "High direct-to-reverberant ratio"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Multiple mounting accessories"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Works with K-array subs as main system"
+          }
+        ]
       }
     ]
   },
@@ -951,25 +1131,6 @@
       "Grand halls",
       "Rail stations"
     ],
-    "specs": [
-      "Tall aluminium enclosure with multiple drivers",
-      "Very narrow vertical beam",
-      "Long-throw coverage",
-      "Flexible mounting and aiming hardware",
-      "Designed to complement K-array subwoofers"
-    ],
-    "keyStats": [
-      "Full-height",
-      "Long throw",
-      "High intelligibility"
-    ],
-    "frequency": [
-      70,
-      19000
-    ],
-    "coverage": "Very narrow vertical, wide horizontal",
-    "weightKg": 13,
-    "ipRating": "IP55",
     "image": "Kayman-KY102_main.jpg",
     "lifestyle": [
       {
@@ -987,6 +1148,33 @@
       {
         "src": "Kayman-KY102_4.jpg",
         "alt": "Kayman-KY102 detail of grille and enclosure"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Tall aluminium enclosure with multiple drivers"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Very narrow vertical beam"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Long-throw coverage"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Flexible mounting and aiming hardware"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Designed to complement K-array subwoofers"
+          }
+        ]
       }
     ]
   },
@@ -1010,25 +1198,6 @@
       "High-end venues",
       "Demanding acoustics"
     ],
-    "specs": [
-      "Extended bass shading architecture",
-      "Tall aluminium column format",
-      "Tight vertical pattern control",
-      "System presets via K-array processing",
-      "Works with matching Kayman systems"
-    ],
-    "keyStats": [
-      "Extended bass",
-      "Pattern control",
-      "Column array"
-    ],
-    "frequency": [
-      65,
-      19000
-    ],
-    "coverage": "Very narrow vertical, wide horizontal",
-    "weightKg": 13,
-    "ipRating": "IP55",
     "image": "Kayman-KY102-EBS_main.jpg",
     "lifestyle": [
       {
@@ -1046,6 +1215,33 @@
       {
         "src": "Kayman-KY102-EBS_4.jpg",
         "alt": "Kayman-KY102-EBS column in venue"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Extended bass shading architecture"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Tall aluminium column format"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Tight vertical pattern control"
+          },
+          {
+            "label": "Spec 4",
+            "value": "System presets via K-array processing"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Works with matching Kayman systems"
+          }
+        ]
       }
     ]
   },
@@ -1069,25 +1265,6 @@
       "Retail zones",
       "Hospitality"
     ],
-    "specs": [
-      "Ultra-slim metal enclosure",
-      "Passive full-range design",
-      "Multiple mounting accessories",
-      "Can be paired with subs for extended LF",
-      "Available in standard architectural colours"
-    ],
-    "keyStats": [
-      "Ultra-slim",
-      "Full-range",
-      "Passive"
-    ],
-    "frequency": [
-      90,
-      19000
-    ],
-    "coverage": "Wide coverage",
-    "weightKg": 5,
-    "ipRating": "IP54",
     "image": "Domino-KF26_main.png",
     "lifestyle": [
       {
@@ -1105,6 +1282,33 @@
       {
         "src": "Domino-KF26_4.png",
         "alt": "Domino-KF26 in distributed system"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Ultra-slim metal enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Passive full-range design"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Multiple mounting accessories"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Can be paired with subs for extended LF"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Available in standard architectural colours"
+          }
+        ]
       }
     ]
   },
@@ -1127,25 +1331,6 @@
       "Retail canopies",
       "Architectural overhead zones"
     ],
-    "specs": [
-      "Enclosure optimised for ceiling/overhead mounting",
-      "Matches KF26 acoustic signature",
-      "Multiple bracket options",
-      "Full-range performance with optional subs",
-      "Discrete design for commercial interiors"
-    ],
-    "keyStats": [
-      "Ceiling-ready",
-      "Ultra-slim",
-      "Full-range"
-    ],
-    "frequency": [
-      90,
-      19000
-    ],
-    "coverage": "Wide coverage",
-    "weightKg": 5,
-    "ipRating": "IP54",
     "image": "Domino-KFC26_main.png",
     "lifestyle": [
       {
@@ -1163,6 +1348,33 @@
       {
         "src": "Domino-KFC26_4.png",
         "alt": "Domino-KFC26 in ceiling grid"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Enclosure optimised for ceiling/overhead mounting"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Matches KF26 acoustic signature"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Multiple bracket options"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Full-range performance with optional subs"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Discrete design for commercial interiors"
+          }
+        ]
       }
     ]
   },
@@ -1186,25 +1398,6 @@
       "Small theatres",
       "Corporate AV"
     ],
-    "specs": [
-      "Higher output than KF26",
-      "Full-range performance from slim box",
-      "Wall, ceiling and yoke mounting options",
-      "Pairs naturally with K-array subwoofers",
-      "Available in multiple finishes"
-    ],
-    "keyStats": [
-      "Higher SPL",
-      "Compact main",
-      "Full-range"
-    ],
-    "frequency": [
-      70,
-      19000
-    ],
-    "coverage": "Wide coverage",
-    "weightKg": 10,
-    "ipRating": "IP54",
     "image": "Domino-KF210_main.png",
     "lifestyle": [
       {
@@ -1223,6 +1416,33 @@
         "src": "Domino-KF210_4.png",
         "alt": "Domino-KF210 with yoke bracket"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Higher output than KF26"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Full-range performance from slim box"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Wall, ceiling and yoke mounting options"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Pairs naturally with K-array subwoofers"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Available in multiple finishes"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1230,7 +1450,7 @@
     "name": "K-array Domino-KF212",
     "headline": "High-output slim full-range loudspeaker",
     "description": "Domino-KF212 is the largest Domino model, aimed at high-SPL applications with a still-slim visual profile.",
-    "story": "It behaves like a compact club box, but visually stays aligned with Domino\u2019s flat, minimal design language.",
+    "story": "It behaves like a compact club box, but visually stays aligned with Domino\u00e2\u20ac\u2122s flat, minimal design language.",
     "definition": "High-output passive full-range loudspeaker.",
     "series": "Domino",
     "category": "Speakers",
@@ -1245,25 +1465,6 @@
       "Performance venues",
       "Large hospitality spaces"
     ],
-    "specs": [
-      "High SPL capability from slim form factor",
-      "Full-range response with strong LF",
-      "Multiple rigging and mounting solutions",
-      "Works with subs for club-level systems",
-      "Available in architectural colours"
-    ],
-    "keyStats": [
-      "High SPL",
-      "Slim profile",
-      "Full-range"
-    ],
-    "frequency": [
-      60,
-      19000
-    ],
-    "coverage": "Broad coverage",
-    "weightKg": 16,
-    "ipRating": "IP54",
     "image": "Domino-KF212_main.png",
     "lifestyle": [
       {
@@ -1281,6 +1482,33 @@
       {
         "src": "Domino-KF212_4.png",
         "alt": "Domino-KF212 venue application"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "High SPL capability from slim form factor"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Full-range response with strong LF"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Multiple rigging and mounting solutions"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Works with subs for club-level systems"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Available in architectural colours"
+          }
+        ]
       }
     ]
   },
@@ -1304,25 +1532,6 @@
       "Themed attractions",
       "FX channels"
     ],
-    "specs": [
-      "Compact cubic form factor",
-      "High intelligibility for voice and music",
-      "Multiple mounting and bracket options",
-      "Can be ceiling or surface mounted",
-      "Matches K-array subs for LF support"
-    ],
-    "keyStats": [
-      "Miniature",
-      "Point-source",
-      "Architectural"
-    ],
-    "frequency": [
-      120,
-      20000
-    ],
-    "coverage": "Conical dispersion",
-    "weightKg": 0.5,
-    "ipRating": "IP54",
     "image": "Tornado-KT2_main.jpg",
     "lifestyle": [
       {
@@ -1340,6 +1549,33 @@
       {
         "src": "Tornado-KT2_4.jpg",
         "alt": "Tornado-KT2 in interior design"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Compact cubic form factor"
+          },
+          {
+            "label": "Spec 2",
+            "value": "High intelligibility for voice and music"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Multiple mounting and bracket options"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Can be ceiling or surface mounted"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Matches K-array subs for LF support"
+          }
+        ]
       }
     ]
   },
@@ -1363,25 +1599,6 @@
       "Museums",
       "Boardrooms"
     ],
-    "specs": [
-      "Ceiling-optimised enclosure shape",
-      "Compact point-source dispersion",
-      "Fits between luminaires and services",
-      "Full-range voice and BGM reproduction",
-      "Works with K-array subs for additional bass"
-    ],
-    "keyStats": [
-      "Ceiling format",
-      "Miniature",
-      "Point-source"
-    ],
-    "frequency": [
-      120,
-      20000
-    ],
-    "coverage": "Conical dispersion",
-    "weightKg": 0.5,
-    "ipRating": "IP54",
     "image": "Tornado-KT2C_main.jpg",
     "lifestyle": [
       {
@@ -1399,6 +1616,33 @@
       {
         "src": "Tornado-KT2C_4.jpg",
         "alt": "Tornado-KT2C architectural detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Ceiling-optimised enclosure shape"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Compact point-source dispersion"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Fits between luminaires and services"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Full-range voice and BGM reproduction"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Works with K-array subs for additional bass"
+          }
+        ]
       }
     ]
   },
@@ -1422,25 +1666,6 @@
       "Corporate venues",
       "Houses of worship"
     ],
-    "specs": [
-      "Medium-height extruded enclosure",
-      "Line-array pattern with narrow vertical beam",
-      "High SPL capability for its size",
-      "Multiple rigging and wall-mount options",
-      "Pair with subs for extended LF"
-    ],
-    "keyStats": [
-      "Medium format",
-      "Line-array",
-      "High SPL"
-    ],
-    "frequency": [
-      80,
-      19000
-    ],
-    "coverage": "Narrow vertical, wide horizontal",
-    "weightKg": 12,
-    "ipRating": "IP55",
     "image": "Python-KP52 I_main.jpg",
     "lifestyle": [
       {
@@ -1458,6 +1683,33 @@
       {
         "src": "Python-KP52 I_4.jpg",
         "alt": "Python-KP52 I mounted to structure"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Medium-height extruded enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Line-array pattern with narrow vertical beam"
+          },
+          {
+            "label": "Spec 3",
+            "value": "High SPL capability for its size"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Multiple rigging and wall-mount options"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Pair with subs for extended LF"
+          }
+        ]
       }
     ]
   },
@@ -1481,25 +1733,6 @@
       "Live venues",
       "Large houses of worship"
     ],
-    "specs": [
-      "Tall extruded enclosure with many drivers",
-      "High SPL and long-throw performance",
-      "Narrow vertical coverage for reverberant rooms",
-      "Rigging options for flown or ground-stacked use",
-      "Preset libraries for K-array processing"
-    ],
-    "keyStats": [
-      "Full-height",
-      "High SPL",
-      "Long throw"
-    ],
-    "frequency": [
-      70,
-      19000
-    ],
-    "coverage": "Very narrow vertical, wide horizontal",
-    "weightKg": 18,
-    "ipRating": "IP55",
     "image": "Python-KP102 I_main.jpg",
     "lifestyle": [
       {
@@ -1518,6 +1751,33 @@
         "src": "Python-KP102 I_4.jpg",
         "alt": "Python-KP102 I flown installation"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Tall extruded enclosure with many drivers"
+          },
+          {
+            "label": "Spec 2",
+            "value": "High SPL and long-throw performance"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Narrow vertical coverage for reverberant rooms"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Rigging options for flown or ground-stacked use"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Preset libraries for K-array processing"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1525,7 +1785,7 @@
     "name": "K-array Anakonda-KAN200",
     "headline": "Flexible rope loudspeaker",
     "description": "Anakonda-KAN200 is a 2 m flexible loudspeaker that can wrap around structures, railings and fixtures.",
-    "story": "Born to solve \u2018where do we hide the speaker?\u2019 KAN200 literally bends around the architecture.",
+    "story": "Born to solve \u00e2\u20ac\u02dcwhere do we hide the speaker?\u00e2\u20ac\u2122 KAN200 literally bends around the architecture.",
     "definition": "Flexible modular loudspeaker for distributed and creative installs.",
     "series": "Anakonda",
     "category": "Speakers",
@@ -1533,32 +1793,13 @@
     "collaboration": "Passive",
     "power": "Passive",
     "type": "Flexible column/rope loudspeaker",
-    "drivers": "8 \u00d7 1\" full-range drivers in flexible body",
+    "drivers": "8 \u00c3\u2014 1\" full-range drivers in flexible body",
     "applications": [
       "Distributed systems",
       "Theme parks",
       "Museums",
       "Outdoor terraces"
     ],
-    "specs": [
-      "2 m long flexible enclosure",
-      "Eight closely spaced 1\" drivers",
-      "Modules can be linked for longer runs",
-      "Works with dedicated K-array presets",
-      "Can be used standalone or with subs"
-    ],
-    "keyStats": [
-      "Flexible",
-      "2 m module",
-      "Distributed audio"
-    ],
-    "frequency": [
-      150,
-      18000
-    ],
-    "coverage": "Wide coverage along mounting path",
-    "weightKg": 2,
-    "ipRating": "IP55",
     "image": "Anakonda-KAN200_main.png",
     "lifestyle": [
       {
@@ -1573,6 +1814,33 @@
         "src": "Anakonda-KAN200_3.png",
         "alt": "Anakonda-KAN200 used along wall feature"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "2 m long flexible enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Eight closely spaced 1\" drivers"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Modules can be linked for longer runs"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Works with dedicated K-array presets"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Can be used standalone or with subs"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1580,7 +1848,7 @@
     "name": "K-array Anakonda-KAN200+",
     "headline": "Flexible loudspeaker with extended bandwidth",
     "description": "Anakonda-KAN200+ is an evolution of KAN200, offering refined performance and presets for more demanding applications.",
-    "story": "Keeps the \u2018rope of sound\u2019 concept but tightens performance for modern BGM and light foreground systems.",
+    "story": "Keeps the \u00e2\u20ac\u02dcrope of sound\u00e2\u20ac\u2122 concept but tightens performance for modern BGM and light foreground systems.",
     "definition": "Enhanced flexible loudspeaker module with refined response.",
     "series": "Anakonda",
     "category": "Speakers",
@@ -1595,25 +1863,6 @@
       "Exhibitions",
       "Outdoor walkways"
     ],
-    "specs": [
-      "Flexible 2 m module with refined tuning",
-      "Linkable with dedicated connectors",
-      "Improved bandwidth over original KAN200",
-      "Compatible with K-array subs and processing",
-      "Designed for foreground/background hybrid roles"
-    ],
-    "keyStats": [
-      "Flexible",
-      "Refined tuning",
-      "Module-based"
-    ],
-    "frequency": [
-      120,
-      18000
-    ],
-    "coverage": "Wide coverage along mounting path",
-    "weightKg": 2,
-    "ipRating": "IP55",
     "image": "Anakonda-KAN200+_main.png",
     "lifestyle": [
       {
@@ -1628,6 +1877,33 @@
         "src": "Anakonda-KAN200+_3.png",
         "alt": "Anakonda-KAN200+ along curved surface"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Flexible 2 m module with refined tuning"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Linkable with dedicated connectors"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Improved bandwidth over original KAN200"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with K-array subs and processing"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Designed for foreground/background hybrid roles"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1635,7 +1911,7 @@
     "name": "K-array Anakonda-KAN200+8",
     "headline": "Extended Anakonda system segment",
     "description": "Anakonda-KAN200+8 is a flexible loudspeaker segment that integrates into extended Anakonda system runs.",
-    "story": "Used where long lines and complex paths of audio are required while preserving Anakonda\u2019s visual lightness.",
+    "story": "Used where long lines and complex paths of audio are required while preserving Anakonda\u00e2\u20ac\u2122s visual lightness.",
     "definition": "Flexible loudspeaker module optimised for extended arrays.",
     "series": "Anakonda",
     "category": "Speakers",
@@ -1649,25 +1925,6 @@
       "Theme environments",
       "Outdoor paths"
     ],
-    "specs": [
-      "Flexible module for extended array chains",
-      "Mechanical and acoustic continuity with KAN200+",
-      "Configurable via K-array processors",
-      "Mounting accessories for railings and structures",
-      "Ideal for imaginative sound design"
-    ],
-    "keyStats": [
-      "System module",
-      "Flexible",
-      "Long runs"
-    ],
-    "frequency": [
-      120,
-      18000
-    ],
-    "coverage": "Wide coverage along mounting path",
-    "weightKg": 2,
-    "ipRating": "IP55",
     "image": "Anakonda-KAN200+8_main.png",
     "lifestyle": [
       {
@@ -1681,6 +1938,33 @@
       {
         "src": "Anakonda-KAN200+8_3.png",
         "alt": "Anakonda-KAN200+8 curved rail installation"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Flexible module for extended array chains"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Mechanical and acoustic continuity with KAN200+"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Configurable via K-array processors"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Mounting accessories for railings and structures"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Ideal for imaginative sound design"
+          }
+        ]
       }
     ]
   },
@@ -1704,25 +1988,6 @@
       "Theatres",
       "High-impact hospitality"
     ],
-    "specs": [
-      "High-SPL point-source design",
-      "Flexible orientation (monitor or FOH)",
-      "Multiple rigging options and hardware",
-      "Pairs with KXT subwoofers for full systems",
-      "Robust finish for touring or install"
-    ],
-    "keyStats": [
-      "High SPL",
-      "Point-source",
-      "Versatile"
-    ],
-    "frequency": [
-      60,
-      19000
-    ],
-    "coverage": "Controlled conical dispersion",
-    "weightKg": 20,
-    "ipRating": "IP54",
     "image": "Dragon-KX12 I_main.png",
     "lifestyle": [
       {
@@ -1736,6 +2001,33 @@
       {
         "src": "Dragon-KX12 I_4.png",
         "alt": "Dragon-KX12 I mount detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "High-SPL point-source design"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Flexible orientation (monitor or FOH)"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Multiple rigging options and hardware"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Pairs with KXT subwoofers for full systems"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Robust finish for touring or install"
+          }
+        ]
       }
     ]
   },
@@ -1752,32 +2044,13 @@
     "collaboration": "Passive",
     "power": "Passive",
     "type": "Passive compact subwoofer",
-    "drivers": "1 \u00d7 12\" long-excursion driver",
+    "drivers": "1 \u00c3\u2014 12\" long-excursion driver",
     "applications": [
       "Small live rigs",
       "Club installs",
       "Theatre sub arrays",
       "Portable PA"
     ],
-    "specs": [
-      "High-excursion 12\" driver",
-      "Optimised for pairing with Dragon tops",
-      "Pole-mount and ground-stack options",
-      "Robust cabinet with touring hardware",
-      "Compatible with K-array system presets"
-    ],
-    "keyStats": [
-      "12\" sub",
-      "Compact",
-      "Dragon-matched"
-    ],
-    "frequency": [
-      40,
-      150
-    ],
-    "coverage": "Omnidirectional LF",
-    "weightKg": 26,
-    "ipRating": "IP54",
     "image": "Dragon-KXT12P_main.png",
     "lifestyle": [
       {
@@ -1796,6 +2069,33 @@
         "src": "Dragon-KXT12P_4.png",
         "alt": "Dragon-KXT12P used in small rig"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "High-excursion 12\" driver"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Optimised for pairing with Dragon tops"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Pole-mount and ground-stack options"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Robust cabinet with touring hardware"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Compatible with K-array system presets"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1811,32 +2111,13 @@
     "collaboration": "Passive",
     "power": "Passive",
     "type": "Passive high-output subwoofer",
-    "drivers": "1 \u00d7 18\" high-excursion driver",
+    "drivers": "1 \u00c3\u2014 18\" high-excursion driver",
     "applications": [
       "Clubs",
       "Live venues",
       "Theatres",
       "Large hospitality spaces"
     ],
-    "specs": [
-      "Large-format 18\" driver",
-      "High power handling and SPL capability",
-      "Ground-stack and array options",
-      "Matched presets with K-array processing",
-      "Rugged finish for touring or fixed install"
-    ],
-    "keyStats": [
-      "18\" driver",
-      "High output",
-      "Dragon system"
-    ],
-    "frequency": [
-      30,
-      120
-    ],
-    "coverage": "Omnidirectional LF",
-    "weightKg": 40,
-    "ipRating": "IP54",
     "image": "Dragon-KXT18P_main.png",
     "lifestyle": [
       {
@@ -1855,6 +2136,33 @@
         "src": "Dragon-KXT18P_4.png",
         "alt": "Dragon-KXT18P rear and connector panel"
       }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Large-format 18\" driver"
+          },
+          {
+            "label": "Spec 2",
+            "value": "High power handling and SPL capability"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Ground-stack and array options"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Matched presets with K-array processing"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Rugged finish for touring or fixed install"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1862,7 +2170,7 @@
     "name": "K-array Firenze KH8",
     "headline": "Firenze line-array module",
     "description": "Firenze KH8 is a high-performance line-array element within the Firenze touring system family.",
-    "story": "Born for large-scale productions, KH8 brings Firenze\u2019s precision and Italian design language to stadium and arena sound.",
+    "story": "Born for large-scale productions, KH8 brings Firenze\u00e2\u20ac\u2122s precision and Italian design language to stadium and arena sound.",
     "definition": "Touring-grade line-array module with Firenze acoustic signature.",
     "series": "Firenze",
     "category": "Speakers",
@@ -1877,25 +2185,6 @@
       "Festival rigs",
       "Large tours"
     ],
-    "specs": [
-      "High-power touring enclosure",
-      "Precision pattern control",
-      "Designed for large-format arrays",
-      "Compatible with Firenze system processing",
-      "Robust hardware and rigging"
-    ],
-    "keyStats": [
-      "Touring",
-      "High output",
-      "Line-array"
-    ],
-    "frequency": [
-      50,
-      18000
-    ],
-    "coverage": "Arrayable pattern",
-    "weightKg": 42,
-    "ipRating": "IP54",
     "image": "Firenze-KH8_main.jpg",
     "lifestyle": [
       {
@@ -1909,6 +2198,33 @@
       {
         "src": "Firenze-KH8_3.jpg",
         "alt": "Firenze KH8 rigging detail"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "High-power touring enclosure"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Precision pattern control"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Designed for large-format arrays"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Compatible with Firenze system processing"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Robust hardware and rigging"
+          }
+        ]
       }
     ]
   },
@@ -1932,25 +2248,6 @@
       "Event spaces",
       "Firenze hybrid systems"
     ],
-    "specs": [
-      "Integrated high-power amplification",
-      "Multi-way Firenze acoustic design",
-      "Flexible rigging for arrays or point-source",
-      "System integration with Firenze processing",
-      "Suitable for touring and fixed install"
-    ],
-    "keyStats": [
-      "Powered",
-      "Point-source",
-      "Firenze system"
-    ],
-    "frequency": [
-      55,
-      19000
-    ],
-    "coverage": "Controlled point-source",
-    "weightKg": 38,
-    "ipRating": "IP54",
     "image": "Firenze-KH7P I_main.jpg",
     "lifestyle": [
       {
@@ -1969,60 +2266,32 @@
         "src": "Firenze-KH7P I_4.jpg",
         "alt": "Firenze KH7P I in touring application"
       }
-    ]
-  },
-  {
-    "slug": "firenze-ks7p-i",
-    "name": "K-array Firenze KS7P I",
-    "headline": "Powered luxury installation speaker",
-    "description": "Firenze KS7P I combines Firenze acoustic heritage with integrated amplification for high-end installations.",
-    "story": "It focuses the Firenze sound on projects where architectural integration and premium finishing are key.",
-    "definition": "Powered luxury installation loudspeaker from the Firenze family.",
-    "series": "Firenze",
-    "category": "Speakers",
-    "finish": "Luxury Powered",
-    "collaboration": "Active",
-    "power": "Active",
-    "type": "Powered installation speaker",
-    "drivers": "Premium multi-way system with onboard amplification",
-    "applications": [
-      "Luxury hospitality",
-      "High-end clubs",
-      "Premium auditoria",
-      "Flagship venues"
     ],
-    "specs": [
-      "Built-in amplification and processing",
-      "Firenze-grade acoustic performance",
-      "Luxury finishing options",
-      "Flexible mounting hardware for install",
-      "Seamless integration with Firenze subs"
-    ],
-    "keyStats": [
-      "Powered",
-      "Luxury install",
-      "Firenze voicing"
-    ],
-    "frequency": [
-      65,
-      19000
-    ],
-    "coverage": "Controlled directional",
-    "weightKg": 9.2,
-    "ipRating": "IP44",
-    "image": "Firenze-KS7P I_main.png",
-    "lifestyle": [
+    "specGroups": [
       {
-        "src": "Firenze-KS7P I_1.png",
-        "alt": "Firenze KS7P I in luxury retail"
-      },
-      {
-        "src": "Firenze-KS7P I_2.png",
-        "alt": "Firenze KS7P I close-up"
-      },
-      {
-        "src": "Firenze-KS7P I_3.png",
-        "alt": "Firenze KS7P I installed on column"
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Integrated high-power amplification"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Multi-way Firenze acoustic design"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Flexible rigging for arrays or point-source"
+          },
+          {
+            "label": "Spec 4",
+            "value": "System integration with Firenze processing"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Suitable for touring and fixed install"
+          }
+        ]
       }
     ]
   },
@@ -2045,25 +2314,6 @@
       "Premium hospitality",
       "Design-focused venues"
     ],
-    "specs": [
-      "Passive design for external amplifiers",
-      "Signature Firenze acoustic character",
-      "Luxury finishing options",
-      "Supports a variety of mounting schemes",
-      "Pairs with Firenze and K-array subs"
-    ],
-    "keyStats": [
-      "Passive",
-      "Luxury",
-      "Architectural"
-    ],
-    "frequency": [
-      70,
-      18500
-    ],
-    "coverage": "Architectural dispersion",
-    "weightKg": 7.5,
-    "ipRating": "IP44",
     "image": "Firenze-KS7_main.jpg",
     "lifestyle": [
       {
@@ -2099,25 +2349,6 @@
       "High-end hospitality",
       "Luxury residential cinemas"
     ],
-    "specs": [
-      "Enhanced components for higher performance",
-      "Premium Firenze design language",
-      "Exclusive finish options",
-      "Flexible mounting and aiming",
-      "Pairs with matching subs and processing"
-    ],
-    "keyStats": [
-      "Premium",
-      "Luxury",
-      "Enhanced performance"
-    ],
-    "frequency": [
-      65,
-      19000
-    ],
-    "coverage": "Controlled dispersion",
-    "weightKg": 8.8,
-    "ipRating": "IP44",
     "image": "Firenze-KS8_main.jpg",
     "lifestyle": [
       {
@@ -2131,6 +2362,33 @@
       {
         "src": "Firenze-KS8_3.jpg",
         "alt": "Firenze KS8 premium finish"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Enhanced components for higher performance"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Premium Firenze design language"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Exclusive finish options"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Flexible mounting and aiming"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Pairs with matching subs and processing"
+          }
+        ]
       }
     ]
   },
@@ -2154,25 +2412,6 @@
       "Prestige hospitality",
       "High-end residential"
     ],
-    "specs": [
-      "Advanced multi-way driver topology",
-      "Integrated high-end amplification and DSP",
-      "Flagship Firenze industrial design",
-      "Installation-focused rigging and hardware",
-      "Fully voiced within Firenze ecosystem"
-    ],
-    "keyStats": [
-      "Flagship",
-      "Luxury",
-      "High output"
-    ],
-    "frequency": [
-      50,
-      20000
-    ],
-    "coverage": "Flagship precision",
-    "weightKg": 15.5,
-    "ipRating": "IP44",
     "image": "Firenze-KX12F I_main.png",
     "lifestyle": [
       {
@@ -2186,6 +2425,33 @@
       {
         "src": "Firenze-KX12F I_3.png",
         "alt": "Firenze KX12F I in premium venue"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Advanced multi-way driver topology"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Integrated high-end amplification and DSP"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Flagship Firenze industrial design"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Installation-focused rigging and hardware"
+          },
+          {
+            "label": "Spec 5",
+            "value": "Fully voiced within Firenze ecosystem"
+          }
+        ]
       }
     ]
   },
@@ -2209,25 +2475,6 @@
       "Boutique hotels",
       "Corporate theatres"
     ],
-    "specs": [
-      "Integrated Class-D amplification",
-      "Mugello acoustic voicing",
-      "Compact footprint for install",
-      "Flexible rigging and mounting",
-      "System presets via K-array software"
-    ],
-    "keyStats": [
-      "Powered",
-      "Compact",
-      "Mugello sound"
-    ],
-    "frequency": [
-      70,
-      19000
-    ],
-    "coverage": "Directional",
-    "weightKg": 8.5,
-    "ipRating": "IP54",
     "image": "Mugello-KH2P I_main.jpg",
     "lifestyle": [
       {
@@ -2245,6 +2492,33 @@
       {
         "src": "Mugello-KH2P I_4.jpg",
         "alt": "Mugello KH2P I front grille"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Integrated Class-D amplification"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Mugello acoustic voicing"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Compact footprint for install"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Flexible rigging and mounting"
+          },
+          {
+            "label": "Spec 5",
+            "value": "System presets via K-array software"
+          }
+        ]
       }
     ]
   },
@@ -2268,25 +2542,6 @@
       "High-end retail",
       "Theatres"
     ],
-    "specs": [
-      "Enhanced Class-D amplification",
-      "Higher output than KH2P I",
-      "Mugello series industrial design",
-      "Complete mounting and rigging options",
-      "System integration with K-array subs"
-    ],
-    "keyStats": [
-      "Mid-size",
-      "Powered",
-      "Mugello design"
-    ],
-    "frequency": [
-      60,
-      19000
-    ],
-    "coverage": "Wide dispersion",
-    "weightKg": 12.2,
-    "ipRating": "IP54",
     "image": "Mugello-KH3P I_main.jpg",
     "lifestyle": [
       {
@@ -2304,6 +2559,33 @@
       {
         "src": "Mugello-KH3P I_4.jpg",
         "alt": "Mugello KH3P I mounting hardware"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "Enhanced Class-D amplification"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Higher output than KH2P I"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Mugello series industrial design"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Complete mounting and rigging options"
+          },
+          {
+            "label": "Spec 5",
+            "value": "System integration with K-array subs"
+          }
+        ]
       }
     ]
   },
@@ -2327,25 +2609,6 @@
       "Performance halls",
       "Premium clubs"
     ],
-    "specs": [
-      "High-power Class-D amplification",
-      "Flagship Mugello acoustics",
-      "Robust touring-inspired hardware",
-      "Arrayable and clusterable in venues",
-      "System presets with K-array processing"
-    ],
-    "keyStats": [
-      "Flagship",
-      "High output",
-      "Powered"
-    ],
-    "frequency": [
-      50,
-      20000
-    ],
-    "coverage": "Precise directional",
-    "weightKg": 18.7,
-    "ipRating": "IP54",
     "image": "Mugello-KH5P I_main.jpg",
     "lifestyle": [
       {
@@ -2363,6 +2626,33 @@
       {
         "src": "Mugello-KH5P I_4.jpg",
         "alt": "Mugello KH5P I loudspeaker front"
+      }
+    ],
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Spec 1",
+            "value": "High-power Class-D amplification"
+          },
+          {
+            "label": "Spec 2",
+            "value": "Flagship Mugello acoustics"
+          },
+          {
+            "label": "Spec 3",
+            "value": "Robust touring-inspired hardware"
+          },
+          {
+            "label": "Spec 4",
+            "value": "Arrayable and clusterable in venues"
+          },
+          {
+            "label": "Spec 5",
+            "value": "System presets with K-array processing"
+          }
+        ]
       }
     ]
   }

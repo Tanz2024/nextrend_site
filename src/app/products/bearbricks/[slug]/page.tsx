@@ -123,6 +123,38 @@ export default function ProductPage({ params }: Props) {
   const next = index < productData.length - 1 ? productData[index + 1] : null;
 
   const specs = useMemo(() => cleanList(product.specs || []), [product.specs]);
+  const specGroups = useMemo(() => {
+    const raw = (product as any).specGroups;
+    if (!Array.isArray(raw)) return [];
+    return raw
+      .map((group) => {
+        if (!group || typeof group !== "object") return null;
+        const title =
+          typeof (group as any).title === "string"
+            ? (group as any).title.trim()
+            : "";
+        const items = Array.isArray((group as any).items)
+          ? (group as any).items
+              .map((item: any) => {
+                if (!item || typeof item !== "object") return null;
+                const label =
+                  typeof item.label === "string" ? item.label.trim() : "";
+                const value =
+                  typeof item.value === "string" ? item.value.trim() : "";
+                if (!label && !value) return null;
+                return { label, value };
+              })
+              .filter(Boolean)
+          : [];
+
+        if (!title && items.length === 0) return null;
+        return { title, items };
+      })
+      .filter(Boolean) as Array<{
+      title: string;
+      items: Array<{ label: string; value: string }>;
+    }>;
+  }, [product]);
   const features = useMemo(
     () => cleanList(product.features || []),
     [product.features]
@@ -170,7 +202,7 @@ export default function ProductPage({ params }: Props) {
       items: string[] | Array<{ label: string; href: string }>;
     }> = [];
 
-    if (specs.length) {
+    if (specs.length || specGroups.length) {
       sections.push({
         key: "specifications",
         label: "Specifications",
@@ -207,7 +239,7 @@ export default function ProductPage({ params }: Props) {
     }
 
     return sections;
-  }, [specs, features, applications, resources]);
+  }, [specs, specGroups, features, applications, resources]);
 
   const [activeSection, setActiveSection] = useState<string | null>(null);
 
@@ -824,6 +856,67 @@ const onLightboxTouchEnd = () => {
   </ul>
 </m.div>
 
+      );
+    };
+
+  const SpecGroupsLayer = ({
+    groups,
+  }: {
+    groups: Array<{
+      title: string;
+      items: Array<{ label: string; value: string }>;
+    }>;
+  }) => {
+    if (!groups.length) return null;
+
+    const norm = (value: string) => (value || "").trim().toLowerCase();
+    const isRegulation = (title: string) => norm(title).includes("regulation");
+
+    return (
+      <m.div
+        initial={{ opacity: 0, y: 12, filter: "blur(6px)" }}
+        whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+        viewport={{ once: true, amount: 0.35 }}
+        transition={{ duration: 0.9, ease: [0.19, 1.0, 0.22, 1.0] }}
+        className="w-full pt-6 sm:pt-7 lg:pt-8"
+      >
+        <div className="grid gap-10 md:grid-cols-2 md:gap-x-9 lg:gap-x-10 2xl:gap-x-12">
+          {groups.map((group, index) => {
+            const title = group.title || "Specifications";
+            const reg = isRegulation(title);
+
+            return (
+              <section
+                key={`${title}-${index}`}
+                className={["min-w-0", reg ? "md:col-start-1" : ""].join(" ")}
+              >
+                <div>
+                  <div className="text-[0.82rem] font-[600] tracking-[0.02em] text-[#1A1A1A]/85 uppercase">
+                    {title}
+                  </div>
+                  <div className="mt-4 h-px w-full bg-black/10" />
+                </div>
+
+                <dl className="mt-5 space-y-4">
+                  {(group.items || []).map((item, idx) => (
+                    <div
+                      key={`${item.label}-${idx}`}
+                      className="grid grid-cols-[10.5rem_minmax(0,1fr)] gap-x-6 gap-y-1 sm:grid-cols-[11.5rem_minmax(0,1fr)] xl:grid-cols-[12.5rem_minmax(0,1fr)] 2xl:grid-cols-[13rem_minmax(0,1fr)] 2xl:gap-x-7"
+                    >
+                      <dt className="text-[15px] leading-[1.9] font-[600] text-black/70 normal-case tracking-[0]">
+                        {item.label}:
+                      </dt>
+                      <dd className="text-[15px] leading-[1.9] font-[400] text-black/55 break-words">
+                        {item.value}
+                      </dd>
+                    </div>
+                  ))}
+                </dl>
+              </section>
+            );
+          })}
+        </div>
+      </m.div>
     );
   };
 
@@ -1293,7 +1386,7 @@ leading-[1.04] sm:leading-[1.035] lg:leading-[1.025] 2xl:leading-[1.015]
           <section className="mt-10 sm:mt-12 lg:mt-14">
             {/* Desktop (tabs) */}
             <div className="hidden md:block">
-              <div className="mb-8 sm:mb-10 lg:mb-12 w-full max-w-[68ch] overflow-x-auto scrollbar-hide">
+              <div className="mb-8 sm:mb-10 lg:mb-12 w-full max-w-[92ch] lg:max-w-[104ch] 2xl:max-w-[120ch] overflow-x-auto scrollbar-hide">
                 <div className="flex items-center gap-0 min-w-max">
                   {detailSections.map((section, idx) => (
                     <button
@@ -1321,13 +1414,19 @@ leading-[1.04] sm:leading-[1.035] lg:leading-[1.025] 2xl:leading-[1.015]
                 </div>
               </div>
 
-              <div className="w-full max-w-[68ch]">
+              <div className="w-full max-w-[92ch] lg:max-w-[104ch] 2xl:max-w-[120ch]">
                 <AnimatePresence mode="wait">
                   {activeDetail?.type === "list" && (
-                    <PremiumSection
-                      items={activeDetail.items as string[]}
-                      mode={activeDetail.key}
-                    />
+                    <>
+                      <PremiumSection
+                        items={activeDetail.items as string[]}
+                        mode={activeDetail.key}
+                      />
+                      {activeDetail.key === "specifications" &&
+                        specGroups.length > 0 && (
+                          <SpecGroupsLayer groups={specGroups} />
+                        )}
+                    </>
                   )}
                   {activeDetail?.type === "resources" && (
                     <ResourcesSection
@@ -1392,10 +1491,16 @@ leading-[1.04] sm:leading-[1.035] lg:leading-[1.025] 2xl:leading-[1.015]
                           >
                             <div className="pt-1">
                               {section.type === "list" && (
-                                <PremiumSection
-                                  items={section.items as string[]}
-                                  mode={section.key}
-                                />
+                                <>
+                                  <PremiumSection
+                                    items={section.items as string[]}
+                                    mode={section.key}
+                                  />
+                                  {section.key === "specifications" &&
+                                    specGroups.length > 0 && (
+                                      <SpecGroupsLayer groups={specGroups} />
+                                    )}
+                                </>
                               )}
                               {section.type === "resources" && (
                                 <ResourcesSection
@@ -1426,7 +1531,8 @@ leading-[1.04] sm:leading-[1.035] lg:leading-[1.025] 2xl:leading-[1.015]
           {/* design story */}
 {product.story && (
   <section className="mt-10 sm:mt-12 lg:mt-16">
-    <div className="mb-8 h-px w-full max-w-[68ch] bg-black/10" />
+<div className="mb-8 h-px w-full max-w-[68ch] bg-black/10 md:hidden" />
+
     <m.div
       variants={motionReady ? storyVariants : undefined}
       initial={motionReady ? "hidden" : undefined}

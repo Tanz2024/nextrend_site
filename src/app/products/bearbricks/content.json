@@ -13,14 +13,54 @@
       "description": "A sculptural portable speaker that delivers an enveloping 360° presentation from a compact 400% silhouette.",
       "story": "Built around the QUAD’360™ architecture with tweeters in the ears and dual woofers in the head, the Audio 400 turns a familiar collectible form into a room-filling sound object.",
       "resources": ["Bearbrick_Audio_400_User_Manual_V01.pdf"],
-      "specs": [
-        "Rinaro QUAD’360™ 360° acoustic architecture",
-        "Transducers: 2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)",
-        "Bluetooth® wireless playback; stereo link with a second unit",
-        "Battery up to ~6 hours; USB-C fast charge ~1.5 hours",
-        "Controls on hands: volume / track",
-        "Size: 132 × 280 × 70 mm (400% scale)",
-        "Weight: ~904 g"
+      "specGroups": [
+        {
+          "title": "Acoustic System",
+          "items": [
+            {
+              "label": "Architecture",
+              "value": "Rinaro QUAD'360™ 360° acoustic architecture"
+            },
+            {
+              "label": "Transducers",
+              "value": "2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)"
+            }
+          ]
+        },
+        {
+          "title": "Connectivity & Power",
+          "items": [
+            {
+              "label": "Wireless",
+              "value": "Bluetooth® wireless playback; stereo link with a second unit"
+            },
+            {
+              "label": "Battery Life",
+              "value": "Up to ~6 hours"
+            },
+            {
+              "label": "Charging",
+              "value": "USB-C fast charge ~1.5 hours"
+            }
+          ]
+        },
+        {
+          "title": "Physical",
+          "items": [
+            {
+              "label": "Controls",
+              "value": "Volume / track on hands"
+            },
+            {
+              "label": "Dimensions",
+              "value": "132 × 280 × 70 mm (400% scale)"
+            },
+            {
+              "label": "Weight",
+              "value": "~904 g"
+            }
+          ]
+        }
       ],
       "video": "BE@RBRICK AUDIO 400_ Clear16-9 4k.mp4",
       "finishes": [
@@ -106,14 +146,54 @@
       "description": "Gold, Platinum, and Silver Chrome editions bring mirror-like presence to the 400% silhouette while maintaining the same room-filling QUAD’360™ performance.",
       "story": "Chrome Editions explore reflection as design — bold in daylight, cinematic at night. Choose the finish that best matches the interior palette; acoustics remain consistent across all variants.",
       "resources": ["Bearbrick_Audio_400_User_Manual_V01.pdf"],
-      "specs": [
-        "Rinaro QUAD’360™ 360° acoustic architecture",
-        "Transducers: 2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)",
-        "Bluetooth® wireless playback; stereo link with a second unit",
-        "Battery up to ~6 hours; USB-C fast charge ~1.5 hours",
-        "Controls on hands: volume / track",
-        "Size: 132 × 280 × 70 mm (400% scale)",
-        "Weight: ~904 g"
+      "specGroups": [
+        {
+          "title": "Acoustic System",
+          "items": [
+            {
+              "label": "Architecture",
+              "value": "Rinaro QUAD'360™ 360° acoustic architecture"
+            },
+            {
+              "label": "Transducers",
+              "value": "2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)"
+            }
+          ]
+        },
+        {
+          "title": "Connectivity & Power",
+          "items": [
+            {
+              "label": "Wireless",
+              "value": "Bluetooth® wireless playback; stereo link with a second unit"
+            },
+            {
+              "label": "Battery Life",
+              "value": "Up to ~6 hours"
+            },
+            {
+              "label": "Charging",
+              "value": "USB-C fast charge ~1.5 hours"
+            }
+          ]
+        },
+        {
+          "title": "Physical",
+          "items": [
+            {
+              "label": "Controls",
+              "value": "Volume / track on hands"
+            },
+            {
+              "label": "Dimensions",
+              "value": "132 × 280 × 70 mm (400% scale)"
+            },
+            {
+              "label": "Weight",
+              "value": "~904 g"
+            }
+          ]
+        }
       ],
       "lifestyle": [
         {
@@ -169,14 +249,54 @@
       "description": "Statement finishes that play with architectural lighting while maintaining the same room-filling 360° presentation.",
       "story": "Studio Editions explore colour, depth, and surface geometry — designed to live comfortably in hospitality suites, galleries, and modern residences.",
       "resources": ["Bearbrick_Audio_400_User_Manual_V01.pdf"],
-      "specs": [
-        "Rinaro QUAD’360™ 360° acoustic architecture",
-        "Transducers: 2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)",
-        "Bluetooth® wireless playback; stereo link with a second unit",
-        "Battery up to ~6 hours; USB-C fast charge ~1.5 hours",
-        "Controls on hands: volume / track",
-        "Size: 132 × 280 × 70 mm (400% scale)",
-        "Weight: ~904 g"
+      "specGroups": [
+        {
+          "title": "Acoustic System",
+          "items": [
+            {
+              "label": "Architecture",
+              "value": "Rinaro QUAD'360™ 360° acoustic architecture"
+            },
+            {
+              "label": "Transducers",
+              "value": "2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)"
+            }
+          ]
+        },
+        {
+          "title": "Connectivity & Power",
+          "items": [
+            {
+              "label": "Wireless",
+              "value": "Bluetooth® wireless playback; stereo link with a second unit"
+            },
+            {
+              "label": "Battery Life",
+              "value": "Up to ~6 hours"
+            },
+            {
+              "label": "Charging",
+              "value": "USB-C fast charge ~1.5 hours"
+            }
+          ]
+        },
+        {
+          "title": "Physical",
+          "items": [
+            {
+              "label": "Controls",
+              "value": "Volume / track on hands"
+            },
+            {
+              "label": "Dimensions",
+              "value": "132 × 280 × 70 mm (400% scale)"
+            },
+            {
+              "label": "Weight",
+              "value": "~904 g"
+            }
+          ]
+        }
       ],
       "finishes": [
         {
@@ -244,14 +364,54 @@
       "description": "Archival Mickey graphics meet the 400% form factor. Under the art, the same QUAD’360™ array delivers an enveloping, balanced presentation.",
       "story": "A numbered collaboration finished with licensed Disney artwork. The standard BE@RBRICK AUDIO engine remains unchanged for consistent performance.",
       "resources": ["Bearbrick_Audio_400_User_Manual_V01.pdf"],
-      "specs": [
-        "Rinaro QUAD’360™ 360° acoustic architecture",
-        "Transducers: 2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)",
-        "Bluetooth® wireless playback; stereo link with a second unit",
-        "Battery up to ~6 hours; USB-C fast charge ~1.5 hours",
-        "Controls on hands: volume / track",
-        "Size: 132 × 280 × 70 mm (400% scale)",
-        "Weight: ~904 g"
+      "specGroups": [
+        {
+          "title": "Acoustic System",
+          "items": [
+            {
+              "label": "Architecture",
+              "value": "Rinaro QUAD'360™ 360° acoustic architecture"
+            },
+            {
+              "label": "Transducers",
+              "value": "2 × 20 mm (ears, tweeters) + 2 × 40 mm (head, woofers)"
+            }
+          ]
+        },
+        {
+          "title": "Connectivity & Power",
+          "items": [
+            {
+              "label": "Wireless",
+              "value": "Bluetooth® wireless playback; stereo link with a second unit"
+            },
+            {
+              "label": "Battery Life",
+              "value": "Up to ~6 hours"
+            },
+            {
+              "label": "Charging",
+              "value": "USB-C fast charge ~1.5 hours"
+            }
+          ]
+        },
+        {
+          "title": "Physical",
+          "items": [
+            {
+              "label": "Controls",
+              "value": "Volume / track on hands"
+            },
+            {
+              "label": "Dimensions",
+              "value": "132 × 280 × 70 mm (400% scale)"
+            },
+            {
+              "label": "Weight",
+              "value": "~904 g"
+            }
+          ]
+        }
       ],
       "video": "BEA@RRICK MICKEY_MOUSE.mp4",
       "finishes": [

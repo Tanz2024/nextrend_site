@@ -3,169 +3,203 @@
     "slug": "alf40",
     "name": "ALF40",
     "headline": "Discreet bass-enhancer",
-    "description": "A compact, hidden bass-enhancer with an adjustable ported design—built to disappear into walls, ceilings, cabinetry, or joinery while adding weight and warmth to distributed audio.",
-    "story": "The ALF40 is a passive bass-enhancer designed for spaces where visual quiet is essential. Its adjustable ported architecture lets it blend into the build—venting cleanly with minimal visual impact—while reinforcing low frequencies for a fuller, more composed listening experience in distributed systems.",
-    "series": "ALF",
+    "description": "A compact, hidden bass-enhancer designed to disappear into walls, ceilings, cabinetry, or joinery while subtly reinforcing low frequencies in distributed audio systems.",
+    "heroCopy": "A subtle lift in bass — concealed within the architecture, precisely vented for clean support.",
+    "story": "ALF40 is designed for spaces where visual quiet is essential. Its adjustable ported architecture allows it to integrate seamlessly into the build, reinforcing low frequencies without visual intrusion. Ideal for distributed audio systems requiring gentle, controlled bass support.",
+    "definition": "Ultra-discreet passive bass-enhancer for distributed architectural audio systems.",
+    "series": "ALF Series",
+    "category": "Discreet subwoofers",
     "finish": "Concealed in wall / ceiling / cabinetry / joinery",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Invisible Audio",
+    "power": "Passive",
+    "type": "Discreet bass-enhancer",
+    "drivers": "Band-pass bass-enhancer (concealed enclosure)",
     "image": "alf40.png",
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "8 Ω" },
+          { "label": "Power handling (continuous / peak)", "value": "30 W / 60 W" },
+          { "label": "Sensitivity", "value": "88 dB @ 1 m / 2.83 V (half space)" },
+          { "label": "Frequency response", "value": "65 Hz – 155 Hz (-6 dB)" },
+          { "label": "Max SPL", "value": "103 dB @ 1 m (half space)" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          { "label": "Port configuration", "value": "Side or end-firing" },
+          { "label": "Port adjustment", "value": "80 mm adjustable port tube" },
+          { "label": "Connection", "value": "Push-button spring terminals" }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "359 × 157 × 134 mm" },
+          { "label": "Weight", "value": "3.2 kg" },
+          { "label": "Warranty", "value": "3 years" }
+        ]
+      }
+    ],
     "applications": [
-      "Distributed audio systems needing gentle bass support",
-      "Living rooms and open-plan spaces (with invisible speakers)",
-      "Hospitality suites and lounge areas",
-      "Retail and boutique environments",
-      "Cabinetry and joinery integrations"
+      "Distributed audio systems",
+      "Living rooms with invisible speakers",
+      "Hospitality lounges and suites",
+      "Retail and boutique interiors",
+      "Cabinetry and joinery integration"
     ],
-    "specs": [
-      "Nominal impedance 8 Ohms",
-      "Power handling (continuous/peak) 30W / 60W",
-      "Sensitivity (@1m/2.83Vrms) 88dB (half space)",
-      "Frequency response (-6dB) 65Hz - 155Hz (18dB/octave band-pass)",
-      "Max SPL 103dB @ 1m (half space)",
-      "Electrical connection Push button spring terminals",
-      "Dimensions 359mm x 157mm x 134mm",
-      "Product weight 3.2kg",
-      "Port locations Side or end-firing",
-      "Port diameter (inner/outer) 39mm / 43mm",
-      "Port tube length adjustment 80mm",
-      "Manufacturer limited warranty 3 years"
-    ],
-    "lifestyle": [],
     "resources": [
-      { "label": "Installation Guide (ALF40)", "href": "ALF40_InstallGuide.pdf" }
+      { "label": "Installation Guide", "href": "ALF40_InstallGuide.pdf" }
     ]
   },
+
   {
     "slug": "alf80",
     "name": "ALF80",
-    "headline": "High performance discreet subwoofer",
-    "description": "A discreet, passive subwoofer with adjustable porting—designed to integrate into walls, ceilings, cabinetry, or joinery while delivering deeper extension and higher output for music and media rooms.",
-    "story": "The ALF80 is engineered for applications that need more authority without visible hardware. With an adjustable port tube and multiple port-location options, it can vent into the room cleanly while remaining concealed—adding impact, scale, and low-frequency reach that elevates both music and cinema experiences.",
-    "series": "ALF",
+    "headline": "High-performance discreet subwoofer",
+    "description": "A concealed passive subwoofer delivering deeper extension and greater output while remaining fully integrated within architectural elements.",
+    "heroCopy": "Greater depth and authority — concealed within the structure.",
+    "story": "ALF80 is engineered for spaces requiring more bass presence without visible hardware. Adjustable porting and flexible vent locations allow it to remain hidden while delivering scale and impact suitable for music and media environments.",
+    "definition": "High-output discreet passive subwoofer for architectural audio systems.",
+    "series": "ALF Series",
+    "category": "Discreet subwoofers",
     "finish": "Concealed in wall / ceiling / cabinetry / joinery",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Invisible Audio",
+    "power": "Passive",
+    "type": "Discreet subwoofer",
+    "drivers": "Band-pass subwoofer (concealed enclosure)",
     "image": "alf80.png",
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "4 Ω" },
+          { "label": "Power handling (continuous / peak)", "value": "150 W / 200 W" },
+          { "label": "Frequency response", "value": "36 Hz – 140 Hz (-6 dB)" },
+          { "label": "Max SPL", "value": "104 dB @ 1 m (half space)" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          { "label": "Port configuration", "value": "Side, front, or end-firing" },
+          { "label": "Port adjustment", "value": "110 mm adjustable port tube" }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "605 × 270 × 156 mm" },
+          { "label": "Weight", "value": "9.2 kg" },
+          { "label": "Warranty", "value": "3 years" }
+        ]
+      }
+    ],
     "applications": [
-      "Music and media rooms requiring deeper bass",
-      "High-quality distributed audio with invisible speakers",
-      "Luxury residential living spaces",
-      "Boutique hospitality suites and lounges",
-      "Cabinetry / kickboard / under-furniture installations"
+      "Media rooms",
+      "High-quality distributed audio",
+      "Luxury residential interiors",
+      "Hospitality suites and lounges"
     ],
-    "specs": [
-      "Nominal impedance 4 Ohms",
-      "Power handling (continuous/peak) 150W / 200W",
-      "Sensitivity (@1m/2.83Vrms) 86dB (half space)",
-      "Frequency response (-6dB) 36Hz - 140Hz (18dB/octave band-pass)",
-      "Max SPL 104dB @ 1m (half space)",
-      "Electrical connection Push button spring terminals",
-      "Dimensions 605mm x 270mm x 156mm",
-      "Product weight 9.2kg",
-      "Port locations Side, front, or end-firing",
-      "Port diameter (inner/outer) 50.8mm / 55.8mm",
-      "Port tube length adjustment 110mm",
-      "Manufacturer limited warranty 3 years"
-    ],
-    "lifestyle": [],
     "resources": [
-      { "label": "Installation Guide (ALF80)", "href": "ALF80_InstallGuide.pdf" }
+      { "label": "Installation Guide", "href": "ALF80_InstallGuide.pdf" }
     ]
   },
+
   {
     "slug": "alf100cv",
     "name": "ALF100CV",
-    "headline": "High performance discreet subwoofer",
-    "description": "A hidden 4th-order bandpass subwoofer engineered for deep, controlled low-frequency power—mechanically isolated to minimise vibration transfer into the building structure.",
-    "story": "The ALF100CV is designed for demanding applications where deep bass and architectural discretion must coexist. Its fail-safe mounting system mechanically isolates the enclosure from surrounding construction to reduce vibration transfer, while configurable port orientation supports both front-firing and end-firing installations in cavity ceilings, walls, or cabinetry.",
-    "series": "ALF",
-    "finish": "Concealed in cavity wall / cavity ceiling / cabinetry",
-    "collaboration": "Amina Architectural Audio",
+    "headline": "Mechanically isolated discreet subwoofer",
+    "description": "A concealed 4th-order band-pass subwoofer designed to deliver deep, controlled bass while minimising vibration transfer into the building structure.",
+    "heroCopy": "Deep bass with structural isolation — power without vibration.",
+    "story": "ALF100CV is built for demanding architectural installations where vibration control is critical. Its mechanically isolated mounting system reduces structure-borne resonance while configurable venting allows flexible integration within cavity construction.",
+    "definition": "High-performance discreet subwoofer with mechanical isolation.",
+    "series": "ALF Series",
+    "category": "Discreet subwoofers",
+    "finish": "Concealed in cavity wall / ceiling / cabinetry",
+    "collaboration": "Amina · Invisible Audio",
+    "power": "Passive",
+    "type": "Discreet subwoofer (isolated)",
+    "drivers": "4th-order band-pass subwoofer",
     "image": "alf100cv.png",
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Frequency response", "value": "28 Hz – 120 Hz (-6 dB)" },
+          { "label": "Power handling", "value": "200 W continuous" },
+          { "label": "Max SPL", "value": "109 dB @ 1 m (half space)" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          { "label": "Minimum cavity depth", "value": "115 mm" },
+          { "label": "Port orientation", "value": "Front or end-firing" }
+        ]
+      }
+    ],
     "applications": [
-      "High-end residential systems needing deep bass to 28Hz",
-      "Luxury hospitality and lounge spaces requiring impact without visible subs",
-      "Cabinetry, kickboard, and under-sofa placements",
-      "Installations on 400mm to 600mm stud/joist centres (115mm+ cavity depth)",
-      "Projects requiring reduced vibration transfer into building structure"
+      "High-end residential systems",
+      "Luxury hospitality environments",
+      "Projects requiring vibration control"
     ],
-    "specs": [
-      "Nominal impedance 4 Ohms",
-      "Power handling 200W continuous",
-      "Sensitivity 89dB @ 1m/2.83Vrms (half-space)",
-      "Frequency response 28Hz - 120Hz (-6dB)",
-      "Max SPL 109dB RMS @ 1m (half-space)",
-      "Electrical connection Push button spring terminals",
-      "Dimensions (excluding mounting hardware) 109mm x 310mm x 1000mm",
-      "Installation dimensions (including mounting hardware) 115mm x 330–520mm x 1100mm",
-      "Product weight (including mounting hardware) 14.9kg",
-      "Port locations Configurable as front-firing or end-firing",
-      "Port dimensions 20mm x 274mm",
-      "Minimum cavity depth requirement 115mm",
-      "Manufacturer limited warranty 3 years"
-    ],
-    "lifestyle": [],
     "resources": [
-      { "label": "Installation Guide (ALF100CV)", "href": "ALF100CV_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "ALF100CV_Install_Guide.pdf" }
     ]
   },
+
   {
     "slug": "alf100sm",
     "name": "ALF100SM",
-    "headline": "High performance discreet subwoofer",
-    "description": "Amina’s powerful discreet passive subwoofer—built for media/cinema rooms and high-pressure stereo systems, delivering serious output with plaster-up-to integration.",
-    "story": "The ALF100SM is designed for large-room performance where bass must be felt—but never seen. It mounts between studs or joists, replacing a section of plasterboard/drywall while requiring minimal cavity depth. A discrete slot port vents into the room and can be hidden within baseboards or architectural detailing for truly invisible low-frequency reinforcement.",
-    "series": "ALF",
-    "finish": "Plaster-up-to / integrated into cavity construction",
-    "collaboration": "Amina Architectural Audio",
+    "headline": "Plaster-up-to discreet subwoofer",
+    "description": "A high-output discreet subwoofer designed to plaster directly into cavity construction for seamless architectural integration.",
+    "heroCopy": "Powerful bass, seamlessly finished — plaster-up-to integration.",
+    "story": "ALF100SM is intended for large rooms where bass performance must be felt but never seen. It integrates directly into cavity walls or ceilings, venting discreetly through architectural detailing.",
+    "definition": "High-output plaster-up-to discreet subwoofer.",
+    "series": "ALF Series",
+    "category": "Discreet subwoofers",
+    "finish": "Plaster-up-to cavity integration",
+    "collaboration": " Invisible Audio",
+    "power": "Passive",
+    "type": "Discreet subwoofer",
+    "drivers": "Band-pass subwoofer with slot port",
     "image": "ALF100-Product-transparentWEB.png",
     "applications": [
-      "Media rooms and cinema rooms",
-      "High-pressure stereo systems in large rooms",
-      "Luxury residential installations needing strong LF output",
-      "Cavity wall / ceiling installations with limited depth",
-      "Systems pairing with Amina invisible loudspeakers"
+      "Media and cinema rooms",
+      "Large residential spaces",
+      "High-pressure stereo systems"
     ],
-    "specs": [
-      "Nominal impedance 4 Ohms",
-      "Power handling 200W continuous",
-      "Sensitivity 90dB @ 1m/2.83Vrms (half space)",
-      "Frequency response 30Hz - 160Hz (-6dB)",
-      "Max SPL 110dB RMS @ 1m (half space)",
-      "Electrical connection Push button spring terminals",
-      "Dimensions 99mm x 409mm x 1066mm",
-      "Product weight 20kg",
-      "Port locations Front, 20mm from short edge",
-      "Port dimensions 20mm x 307mm (corners R10mm)",
-      "Minimum cavity depth requirement 89mm",
-      "Manufacturer limited warranty 3 years"
-    ],
-    "lifestyle": [],
     "resources": [
-      { "label": "Installation Guide (ALF100SM)", "href": "ALF100SM_installguide.pdf" }
+      { "label": "Installation Guide", "href": "ALF100SM_installguide.pdf" }
     ]
   },
+
   {
     "slug": "alf50sm",
     "name": "ALF50SM",
-    "headline": "High performance discreet subwoofer",
-    "description": "A compact discreet subwoofer designed for architectural integration—adding controlled low-frequency support where space and finish quality matter.",
-    "story": "ALF50SM is built for projects that require discreet bass support with clean architectural integration. It is intended to pair seamlessly with Amina invisible loudspeakers, reinforcing low frequencies while keeping the visual language of the room intact.",
-    "series": "ALF",
-    "finish": "Integrated into cavity construction / cabinetry (project-dependent)",
-    "collaboration": "Amina Architectural Audio",
+    "headline": "Compact discreet subwoofer",
+    "description": "A compact architectural subwoofer providing controlled low-frequency reinforcement with minimal visual impact.",
+    "heroCopy": "Compact bass support — designed for invisible integration.",
+    "story": "ALF50SM offers discreet low-frequency reinforcement for smaller architectural spaces, pairing naturally with Amina invisible loudspeakers while preserving the visual language of the interior.",
+    "definition": "Compact discreet subwoofer for architectural audio systems.",
+    "series": "ALF Series",
+    "category": "Discreet subwoofers",
+    "finish": "Integrated into cavity construction or cabinetry",
+    "collaboration": " Invisible Audio",
+    "power": "Passive",
+    "type": "Discreet subwoofer",
+    "drivers": "Concealed subwoofer enclosure",
     "image": "alf50sm.png",
     "applications": [
-      "Residential spaces needing discreet bass reinforcement",
-      "Hospitality guestrooms and lounge",
-      "Distributed audio zones",
-      "Projects where minimal visual impact is required"
+      "Residential interiors",
+      "Hospitality guestrooms",
+      "Distributed audio zones"
     ],
-    "specs": [
-      "Refer to official ALF50SM datasheet for full specifications"
-    ],
-    "lifestyle": [],
     "resources": [
-      { "label": "Installation Guide (ALF50SM)", "href": "ALF50SM_installguide.pdf" }
+      { "label": "Installation Guide", "href": "ALF50SM_installguide.pdf" }
     ]
   }
 ]

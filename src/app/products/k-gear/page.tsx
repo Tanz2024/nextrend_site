@@ -23,10 +23,13 @@ const kgearProductFont = Playfair_Display({
   weight: ["400", "500", "600", "700"],
 });
 /* ---------- helpers ---------- */
-const getDisplayParts = (name: string, series: string) => {
+const getDisplayParts = (name: string, series?: string) => {
   const cleanName = name.replace(/^KGEAR\s+/, "");
-  return { title: cleanName, subtitle: series.toUpperCase() };
+  return { title: cleanName, subtitle: series ? series.toUpperCase() : "" };
 };
+
+const getModelNumber = (name: string) =>
+  name.replace(/^(KGEAR|K-?Gear)\s+/i, "").trim();
 
 const products = kgearProducts.map((product) => ({
   slug: product.slug,
@@ -35,10 +38,12 @@ const products = kgearProducts.map((product) => ({
   series: product.series,
   category: product.category,
   power: product.power,
+  model: getModelNumber(product.name),
   image: product.image,
 }));
 
-const unique = (values: string[]) => Array.from(new Set(values));
+const unique = (values: (string | null | undefined)[]) =>
+  Array.from(new Set(values.filter(Boolean))) as string[];
 
 const seriesByCategory = {
   Systems: ["GP Portable Systems", "GP Performance Systems"],
@@ -69,6 +74,11 @@ const filtersConfig = [
     key: "category",
     title: "Category",
     options: unique(products.map((p) => p.category)),
+  },
+  {
+    key: "model",
+    title: "Model",
+    options: unique(products.map((p) => p.model)),
   },
   {
     key: "power",
@@ -122,7 +132,8 @@ const sorterFns: Record<
   featured: () => 0,
   "name-asc": (a, b) => a.name.localeCompare(b.name),
   series: (a, b) =>
-    a.series.localeCompare(b.series) || a.name.localeCompare(b.name),
+    (a.series || "").localeCompare(b.series || "") ||
+    a.name.localeCompare(b.name),
 };
 
 const sortOptions = [
@@ -517,6 +528,7 @@ export default function KGearCollection() {
   >({});
   const [expandedGroups, setExpandedGroups] = useState<Record<string, boolean>>({
     Category: true,
+    Model: true,
     Power: true,
   });
 
@@ -649,6 +661,16 @@ export default function KGearCollection() {
 
     return [...filtered].sort(sorterFns[sortKey]);
   }, [filters, search, sortKey]);
+
+  const modelOptions = useMemo(() => {
+    const selectedCategories = filters.category;
+    const source = selectedCategories.length
+      ? products.filter((product) =>
+          selectedCategories.includes(product.category)
+        )
+      : products;
+    return unique(source.map((product) => product.model));
+  }, [filters.category]);
 
   /* pagination (same logic as Code 1) */
   const totalPages = Math.ceil(productsList.length / itemsPerPage) || 1;
@@ -964,6 +986,86 @@ const FiltersPanel = ({
                             );
                           })}
                         </div>
+                      </div>
+                    );
+                  })}
+                </div>
+              </m.div>
+            )}
+          </AnimatePresence>
+        </m.div>
+
+        {/* Model group */}
+        <m.div initial={false}>
+          <m.button
+            type="button"
+            whileHover={{ scale: 1.005 }}
+            whileTap={{ scale: 0.995 }}
+            onClick={() => toggleGroupExpansion("Model")}
+            className="flex w-full h-12 lg:h-14 items-center justify-between px-4 text-left"
+          >
+            <span className="text-[14px] font-medium text-black">Model</span>
+            <m.div
+              animate={{ rotate: expandedGroups["Model"] ? 180 : 0 }}
+              transition={{ duration: 0.18 }}
+              className="text-black/60"
+            >
+              <IconChevron className="w-4 h-4" />
+            </m.div>
+          </m.button>
+
+          <AnimatePresence initial={false}>
+            {expandedGroups["Model"] && (
+              <m.div
+                initial={{ height: 0, opacity: 0 }}
+                animate={{ height: "auto", opacity: 1 }}
+                exit={{ height: 0, opacity: 0 }}
+                transition={{
+                  duration: 0.25,
+                  ease: [0.04, 0.62, 0.23, 0.98],
+                }}
+              >
+                <div className="px-4 pb-3 pt-1 space-y-2">
+                  {modelOptions.map((opt) => {
+                    const checked = filters.model.includes(opt);
+                    return (
+                      <div key={opt}>
+                        {isDesktop ? (
+                          <label className="flex cursor-pointer items-center gap-3 py-1 rounded-md -mx-1 px-1 hover:bg-black/[0.03] transition-colors">
+                            <input
+                              type="checkbox"
+                              checked={checked}
+                              onChange={() => toggleFilterValue("model", opt)}
+                              className="h-[22px] w-[22px] sm:h-[18px] sm:w-[18px] rounded-[3px] border border-black/60 bg-white accent-[#C4A777]"
+                            />
+                            <span className="text-[13px] text-black/85">
+                              {opt}
+                            </span>
+                          </label>
+                        ) : (
+                          <label className="flex cursor-pointer items-center gap-3 py-2 rounded-md -mx-1 px-1 hover:bg-black/[0.03] active:bg-black/[0.06] transition-colors [touch-action:manipulation]">
+                            <input
+                              type="checkbox"
+                              checked={checked}
+                              onChange={() => toggleFilterValue("model", opt)}
+                              className="sr-only"
+                            />
+                            <span
+                              className={`flex h-[22px] w-[22px] items-center justify-center rounded-[3px] border ${
+                                checked
+                                  ? "border-[#C4A777] bg-[#C4A777]"
+                                  : "border-black/60 bg-white"
+                              }`}
+                            >
+                              {checked && (
+                                <span className="h-2.5 w-2.5 rounded-[2px] bg-white" />
+                              )}
+                            </span>
+                            <span className="text-[13px] text-black/85 text-left">
+                              {opt}
+                            </span>
+                          </label>
+                        )}
                       </div>
                     );
                   })}

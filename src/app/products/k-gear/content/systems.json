@@ -1,60 +1,115 @@
 [
-  {
-    "slug": "gp8a",
-    "name": "KGEAR GP8A",
-    "headline": "Portable column PA with integrated 8-inch sub",
-    "description": "A compact column system that combines four 2.5-inch drivers with an 8-inch subwoofer in a single carry-ready enclosure, voiced for speech, background music and small live sets.",
-    "story": "GP8A stacks a slim column on top of an 8-inch sub in a travel-friendly footprint, delivering up to 113 dB with the controlled vertical pattern you expect from a true line-source. The built-in player, Bluetooth link and combo inputs mean you can cover a lounge, caf\u00e9 or pop-up stage with minimal external gear.",
-    "definition": "Self-powered column PA with 8-inch sub, four 2.5-inch drivers and onboard Bluetooth / media player for portable sound reinforcement.",
-    "series": "GP Portable Systems",
-    "category": "Systems",
-    "finish": "Column Stack",
-    "collaboration": "Active",
-    "power": "Active",
-    "type": "Powered 8\" sub + column system",
-    "drivers": "8\" subwoofer + 4 x 2.5\" PATr modules",
-    "applications": [
-      "Pop-up gigs",
-      "Corporate hospitality",
-      "Boutique retail activations"
-    ],
-    "specs": [
-      "Type: Powered 8\" sub + column module stack",
-      "Transducers: 8\" subwoofer with four 2.5\" ferrite drivers",
-      "Frequency response 45 Hz - 16 kHz (-6 dB)",
-      "Max SPL 113 dB with 40 deg V x 100 deg H coverage",
-      "Class-D amplifier delivers 200 W with onboard Bluetooth, USB, and SD playback",
-      "I/O: dual combo XLR, 3.5 mm aux, USB charge, SD slot, Bluetooth TWS link",
-      "Weight 14.5 kg, IP41 sub / IP54 column, 317 x 1863 x 400 mm footprint"
-    ],
-    "keyStats": [
-      "113 dB max SPL",
-      "45 Hz - 16 kHz",
-      "40 deg x 100 deg pattern"
-    ],
-    "frequency": [
-      45,
-      16000
-    ],
-    "coverage": "40 deg V x 100 deg H",
-    "weightKg": 14.5,
-    "ipRating": "IP41 sub / IP54 top",
-    "image": "Systems/GP8A_main.jpg",
-    "lifestyle": [
-      {
-        "src": "Systems/GP8A_1.jpg",
-        "alt": "GP8A column system set up beside a small stage"
-      },
-      {
-        "src": "Systems/GP8A_2.jpg",
-        "alt": "GP8A base section showing the subwoofer and connection panel"
-      },
-      {
-        "src": "Systems/GP8A_3.jpg",
-        "alt": "Close-up of the GP8A column highlighting the 2.5-inch drivers"
-      }
-    ]
-  },
+{
+  "slug": "gp8a",
+  "name": "KGEAR GP8A",
+  "headline": "Portable active column system with integrated 8-inch subwoofer",
+  "definition": "Self-powered portable column PA system combining an 8-inch subwoofer with modular column speakers featuring K-array™ PAT® technology.",
+  "description": "GP8A is a portable and powerful active column system that combines an 8-inch subwoofer with three modular column elements, each using a 4 × 2.5-inch transducer array. Designed for fast setup and mobility, it delivers clear, controlled sound for speech, music, and small live performances.",
+  "story": "Built around a simple plug-and-play concept, GP8A integrates amplification, mixing, and media playback into a single, lightweight system. With Bluetooth, USB playback, and multiple analog inputs, it’s equally at home at cocktail events, pop-up gigs, corporate functions, or lively karaoke sessions, all while maintaining the controlled dispersion expected from a column-based system.",
+  "series": "GP Portable Systems",
+  "category": "Systems",
+  "finish": "Column Stack",
+  "collaboration": "Active",
+  "power": "Active",
+  "type": "Powered 8\" sub + column speakers system",
+
+  "drivers": "SUB: 8\" woofer | TOP: 4 × 2.5\" ferrite magnet woofers per column (PAT® technology)",
+
+  "applications": [
+    "Pop-up gigs",
+    "Cocktail parties and events",
+    "Corporate hospitality",
+    "Boutique retail activations",
+    "Home karaoke and private functions"
+  ],
+
+  "image": "Systems/GP8A_main.jpg",
+
+  "lifestyle": [
+    {
+      "src": "Systems/GP8A_1.jpg",
+      "alt": "GP8A column system set up beside a small stage"
+    },
+    {
+      "src": "Systems/GP8A_2.jpg",
+      "alt": "GP8A base section showing the subwoofer and connection panel"
+    },
+    {
+      "src": "Systems/GP8A_3.jpg",
+      "alt": "Close-up of the GP8A column highlighting the 2.5-inch drivers"
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "General",
+      "items": [
+        { "label": "Type", "value": "Powered 8\" sub + column speakers system" },
+        {
+          "label": "Transducers",
+          "value": "SUB: 8\" woofer | TOP: 4 × 2.5\" ferrite magnet woofers"
+        },
+        { "label": "Frequency Response", "value": "45 Hz – 16 kHz (-6 dB)" },
+        { "label": "Max SPL", "value": "113 dB" },
+        { "label": "Rated Power", "value": "200 W" },
+        { "label": "Coverage", "value": "V: 40° | H: 100°" }
+      ]
+    },
+    {
+      "title": "Connectivity & Control",
+      "items": [
+        {
+          "label": "Inputs",
+          "value": "2 × Combo jack / XLR female, 1 × 3.5 mm stereo jack"
+        },
+        {
+          "label": "Media & Wireless",
+          "value": "USB player, SD card slot, Bluetooth 4.2 with TWS pairing"
+        },
+        {
+          "label": "Controllers",
+          "value": "Master level, mic/line input levels, mic effect, sub level, MP3 player controls"
+        }
+      ]
+    },
+    {
+      "title": "Amplification & Power",
+      "items": [
+        { "label": "Amplifier Module", "value": "2-channel Class-D" },
+        { "label": "Output Power", "value": "200 W" },
+        { "label": "Power Consumption", "value": "70 W (peak)" },
+        {
+          "label": "Protections",
+          "value": "Short circuit, DC offset, over temperature, under/over voltage"
+        },
+        { "label": "Operating Range", "value": "100–240 V AC, 50–60 Hz" }
+      ]
+    },
+    {
+      "title": "Handling & Finishes",
+      "items": [
+        {
+          "label": "Dimensions (W x H x D)",
+          "value": "317 x 1863 x 400 mm (12.5 x 73.3 x 15.7 in)"
+        },
+        { "label": "Weight", "value": "14.5 kg (31.97 lb)" },
+        { "label": "Material", "value": "ABS" },
+        { "label": "Colors", "value": "Black" },
+        { "label": "IP Rating", "value": "SUB: IP41" }
+      ]
+    }
+  ],
+
+  "resources": [
+    {
+      "label": "User guide",
+      "href": "Systems/KGEAR_GP8A_GP8_UG_1.0.pdf"
+    }
+  ]
+}
+
+
+,
   {
     "slug": "gp12a",
     "name": "KGEAR GP12A",
@@ -74,27 +129,6 @@
       "Houses of worship",
       "AV rental lounges"
     ],
-    "specs": [
-      "Type: Active 12\" subwoofer with modular PATr column",
-      "Transducers: 12\" sub plus two modules of eight 2\" drivers",
-      "Frequency response 45 Hz - 20 kHz (-6 dB)",
-      "Max SPL 123 dB with 25 deg V x 140 deg H dispersion",
-      "4-channel Class-D amplifier (4 x 750 W @ 4 ohm) with DSP over RJ45",
-      "Nominal impedance: sub 4 ohm / column 16 ohm",
-      "20 kg system, 405 x 2080 x 430 mm, IP41 sub / IP54 column"
-    ],
-    "keyStats": [
-      "123 dB headroom",
-      "25 deg x 140 deg throw",
-      "Networkable DSP"
-    ],
-    "frequency": [
-      45,
-      20000
-    ],
-    "coverage": "25 deg V x 140 deg H",
-    "weightKg": 20,
-    "ipRating": "IP41 sub / IP54 top",
     "image": "Systems/GP12A_main.jpg",
     "lifestyle": [
       {
@@ -134,27 +168,6 @@
       "Small theaters",
       "Live music restaurants"
     ],
-    "specs": [
-      "Type: Powered 18\" sub paired with three PATr columns",
-      "Transducers: 18\" subwoofer plus three 8 x 2\" driver modules",
-      "Frequency response 30 Hz - 20 kHz (-6 dB)",
-      "Max SPL 125 dB with 20 deg V x 140 deg H coverage",
-      "4-channel Class-D engine rated 4 x 1500 W @ 4 ohm",
-      "Nominal impedance: sub 8 ohm / column modules 16 ohm each",
-      "43 kg system, 545 x 600 x 2230 mm, IP41 sub / IP54 top"
-    ],
-    "keyStats": [
-      "125 dB peak",
-      "30 Hz low extension",
-      "4 x 1500 W drive"
-    ],
-    "frequency": [
-      30,
-      20000
-    ],
-    "coverage": "20 deg V x 140 deg H",
-    "weightKg": 43,
-    "ipRating": "IP41 sub / IP54 top",
     "image": "Systems/GP18A_main.jpg",
     "lifestyle": [
       {
@@ -194,27 +207,6 @@
       "Touring rigs",
       "High-SPL installs"
     ],
-    "specs": [
-      "Type: System stack with dual 18\" subs and four 12\" coax arrays",
-      "Transducers: 2 x 18\" woofers + 4 x 12\" coax with compression drivers",
-      "Frequency response 30 Hz - 20 kHz (-6 dB)",
-      "Max SPL 140 dB with 25 deg V x 90 deg H coverage",
-      "Power handling: sub 3000 W, tops 1600 W",
-      "Nominal impedance: sub 4 ohm / tops 8 ohm",
-      "Chassis weighs 115.6 kg with IP43 sub / IP54 top rating"
-    ],
-    "keyStats": [
-      "140 dB max",
-      "25 deg x 90 deg throw",
-      "Dual 18\" foundation"
-    ],
-    "frequency": [
-      30,
-      20000
-    ],
-    "coverage": "25 deg V x 90 deg H",
-    "weightKg": 115.6,
-    "ipRating": "IP43 sub / IP54 top",
     "image": "Systems/GPX_main.jpg",
     "lifestyle": [
       {
@@ -254,27 +246,6 @@
       "Theater installs",
       "Corporate venues"
     ],
-    "specs": [
-      "Type: Passive 12\" subwoofer with modular PATr column",
-      "Transducers: 12\" sub plus two modules of eight 2\" drivers",
-      "Frequency response 45 Hz - 20 kHz (-6 dB)",
-      "Max SPL 121 dB with 25 deg V x 140 deg H dispersion",
-      "Power handling: sub 1000 W, column 800 W",
-      "Nominal impedance: sub 8 ohm / column 16 ohm",
-      "18 kg system, 405 x 2080 x 430 mm, IP41 sub / IP54 column"
-    ],
-    "keyStats": [
-      "121 dB max",
-      "25 deg x 140 deg throw",
-      "Passive design"
-    ],
-    "frequency": [
-      45,
-      20000
-    ],
-    "coverage": "25 deg V x 140 deg H",
-    "weightKg": 18,
-    "ipRating": "IP41 sub / IP54 top",
     "image": "Systems/GP12_main.jpg",
     "lifestyle": [
       {
@@ -310,27 +281,6 @@
       "Large theaters",
       "Premium installs"
     ],
-    "specs": [
-      "Type: Passive 18\" sub paired with three PATr columns",
-      "Transducers: 18\" subwoofer plus three 8 x 2\" driver modules",
-      "Frequency response 30 Hz - 20 kHz (-6 dB)",
-      "Max SPL 123 dB with 20 deg V x 140 deg H coverage",
-      "Power handling: sub 1500 W, columns 1200 W total",
-      "Nominal impedance: sub 8 ohm / column modules 16 ohm each",
-      "38 kg system, 545 x 600 x 2230 mm, IP41 sub / IP54 top"
-    ],
-    "keyStats": [
-      "123 dB peak",
-      "30 Hz extension",
-      "Passive design"
-    ],
-    "frequency": [
-      30,
-      20000
-    ],
-    "coverage": "20 deg V x 140 deg H",
-    "weightKg": 38,
-    "ipRating": "IP41 sub / IP54 top",
     "image": "Systems/GP18_main.jpg",
     "lifestyle": [
       {
@@ -370,27 +320,6 @@
       "Large venues",
       "Festival systems"
     ],
-    "specs": [
-      "Type: Active dual 18\" subwoofers with 12\" mid-high array",
-      "Transducers: 2 x 18\" woofers + 12\" coax with compression driver",
-      "Frequency response 28 Hz - 20 kHz (-6 dB)",
-      "Max SPL 142 dB with 30 deg V x 120 deg H coverage",
-      "Multi-channel Class-D amplification with DSP control",
-      "Power handling: 4000 W system power",
-      "125 kg system, touring-grade construction"
-    ],
-    "keyStats": [
-      "142 dB max",
-      "28 Hz floor",
-      "4000 W system"
-    ],
-    "frequency": [
-      28,
-      20000
-    ],
-    "coverage": "30 deg V x 120 deg H",
-    "weightKg": 125,
-    "ipRating": "IP43 sub / IP54 top",
     "image": "Systems/GP1812A_main.jpg",
     "lifestyle": [
       {
@@ -430,27 +359,6 @@
       "Custom installs",
       "Large venues"
     ],
-    "specs": [
-      "Type: Passive dual 18\" subwoofers with 12\" mid-high array",
-      "Transducers: 2 x 18\" woofers + 12\" coax with compression driver",
-      "Frequency response 28 Hz - 20 kHz (-6 dB)",
-      "Max SPL 140 dB with 30 deg V x 120 deg H coverage",
-      "Power handling: sub 3000 W, tops 2000 W",
-      "Nominal impedance: configurable",
-      "118 kg system, professional construction"
-    ],
-    "keyStats": [
-      "140 dB max",
-      "28 Hz extension",
-      "Passive design"
-    ],
-    "frequency": [
-      28,
-      20000
-    ],
-    "coverage": "30 deg V x 120 deg H",
-    "weightKg": 118,
-    "ipRating": "IP43 sub / IP54 top",
     "image": "Systems/GP1812_main.jpg",
     "lifestyle": [
       {
@@ -490,27 +398,6 @@
       "Medium venues",
       "Portable sound"
     ],
-    "specs": [
-      "Type: Active dual 8\" sub with column module stack",
-      "Transducers: 2 x 8\" subwoofers with four 2.5\" ferrite drivers",
-      "Frequency response 42 Hz - 16 kHz (-6 dB)",
-      "Max SPL 116 dB with 40 deg V x 100 deg H coverage",
-      "Class-D amplifier delivers 300 W with DSP control",
-      "I/O: combo XLR, 3.5 mm aux, Bluetooth connectivity",
-      "Weight 18.5 kg, IP41 sub / IP54 column"
-    ],
-    "keyStats": [
-      "116 dB max SPL",
-      "42 Hz floor",
-      "Dual 8\" design"
-    ],
-    "frequency": [
-      42,
-      16000
-    ],
-    "coverage": "40 deg V x 100 deg H",
-    "weightKg": 18.5,
-    "ipRating": "IP41 sub / IP54 top",
     "image": "Systems/GP8AB_main.jpg",
     "lifestyle": [
       {

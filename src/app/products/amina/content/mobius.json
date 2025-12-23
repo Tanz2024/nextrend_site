@@ -4,45 +4,73 @@
     "name": "Mobius 3i",
     "headline": "Compact fully-covered invisible loudspeaker",
     "description": "Most compact Mobius model for tight stud or joist spacing and cost-sensitive invisible audio, delivering clear natural performance with consistent Mobius voicing.",
-    "story": "The Mobius 3i is the most compact model in Amina’s Mobius range, designed for installations where stud or joist spacing is limited, or where a discreet and cost-effective solution is required. Despite its smaller size, it employs the same core technologies as the flagship Mobius 7i — including proprietary transducers with Optidrive®, Opti-damping® and Reduced Resonance Exciter® innovations — to deliver clear, natural performance that extends well into the ultrasonic region. Perfect for use in secondary spaces such as guest rooms, corridors, or ancillary areas, the Mobius 3i ensures a consistent listening experience across larger projects while maintaining the seamless integration of invisible audio.",
-    "series": "Mobius",
+    "heroCopy": "Compact scale, consistent voicing — fully covered for a seamless finish.",
+    "story": "Mobius 3i is designed for projects with tight stud or joist spacing where a smaller panel is essential. Despite its compact footprint, it maintains the Mobius family’s signature clarity and openness, providing a coherent listening experience across multi-room installations. Fully covered behind a 2mm skim (or alternative finish), it preserves clean architectural surfaces while supporting reliable, natural background-to-medium level listening.",
+    "definition": "Compact fully-covered invisible loudspeaker for distributed architectural audio.",
+    "series": "Mobius Series",
+    "category": "Invisible loudspeakers",
     "finish": "Fully-covered (2mm plaster skim or alternative finishes)",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Invisible Audio",
+    "power": "Passive",
+    "type": "Fully-covered invisible loudspeaker",
+    "drivers": "Distributed panel exciter system",
     "image": "mobius3i.png",
+    "specs": [],
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "4 Ω" },
+          { "label": "Power handling (continuous / peak)", "value": "30 W / 60 W" },
+          { "label": "Sensitivity", "value": "82 dB @ 1 m / 2.83 V" },
+          { "label": "Frequency response", "value": "90 Hz – 19 kHz (-6 dB)" },
+          { "label": "Usable frequency range", "value": "80 Hz – 21 kHz (±10 dB)" },
+          { "label": "Dispersion", "value": "180° × 180°" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          {
+            "label": "Fixing requirements",
+            "value": "Backbox CV300 / SW300 or Mounting Blocks / Tab Mounting Kit"
+          },
+          { "label": "Protection", "value": "Guardian 2 / 8 / 16 (in-line)" },
+          {
+            "label": "Connection",
+            "value": "Blue butt-splice crimp terminals (14–16 AWG)"
+          }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "400 × 300 × 30.7 mm" },
+          { "label": "Weight", "value": "1.1 kg" },
+          { "label": "Warranty", "value": "10 years" }
+        ]
+      }
+    ],
     "applications": [
       "Invisible audio installations with space limitations",
-      "Distributed audio and medium-level listening within residential properties such as MDUs",
-      "Cost-sensitive commercial background music applications",
-      "Medium-level full-bandwidth music listening when paired with a subwoofer"
-    ],
-    "specs": [
-      "Nominal impedance 4 Ohms",
-      "Power handling (100 hour continuous/peak) 30W/60W",
-      "Sensitivity (@ 1m/2.83Vrms) 82dB",
-      "Frequency response (-6dB) 90Hz - 19kHz",
-      "Useable frequency range (+/-10dB) 80Hz - 21kHz",
-      "Dispersion angle 180° x 180°",
-      "Electrical connection Blue butt-splice crimp terminals (14–16 AWG)",
-      "Dimensions 400mm x 300mm x 30.7mm",
-      "Product weight 1.1kg",
-      "Fixing requirements Backbox CV300/SW300 or Mounting Blocks / Tab Mounting Kit",
-      "In-line protection unit Guardian 2/8/16",
-      "Manufacturer limited warranty 10 years"
+      "Distributed audio and medium-level listening in residential projects (MDUs)",
+      "Cost-sensitive commercial background music",
+      "Medium-level full-bandwidth music listening (with subwoofer)"
     ],
     "lifestyle": [
       {
         "src": "Amina Mobius3i Corner.png",
-        "alt": "Corner",
-        "caption": "A clean corner perspective that highlights the panel’s slim build and straightforward integration behind a 2mm skim—designed to disappear once finished."
+        "alt": "Mobius 3i integrated behind finished surface",
+        "caption": "A compact panel designed to disappear behind a 2mm skim, preserving clean lines while keeping voicing consistent across a project."
       },
       {
         "src": "Amina Mobius3i Side.png",
-        "alt": "Side profile",
-        "caption": "A refined side view showing the low-profile depth and edge geometry—ideal for tight stud spacing while keeping the finished surface perfectly uninterrupted."
+        "alt": "Mobius 3i slim side profile",
+        "caption": "A refined low-profile build suited to tight stud spacing and shallow cavities—fully concealed once finished."
       }
     ],
     "resources": [
-      { "label": "Installation Guide (Mobius 3i)", "href": "MobiusiB_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "MobiusiB_Install_Guide.pdf" }
     ]
   },
   {
@@ -50,37 +78,65 @@
     "name": "Mobius 5i",
     "headline": "High performance fully-covered loudspeaker",
     "description": "Versatile Mobius panel delivering signature clarity and openness for residential and commercial invisible audio systems.",
-    "story": "The Mobius 5i delivers the signature clarity and openness of Amina’s Mobius range in a versatile format suited to a wide variety of applications. Drawing on over two decades of research and development, it incorporates proprietary transducers together with Optidrive®, Opti-damping® and Reduced Resonance Exciter® technologies to achieve smooth, detailed performance well into the ultrasonic region.",
-    "series": "Mobius",
+    "heroCopy": "The versatile core of Mobius — clarity and openness, fully covered.",
+    "story": "Mobius 5i delivers the signature clarity and openness of the Mobius range in a balanced, versatile format. Designed to be fully covered behind a 2mm skim (or alternative finish), it integrates invisibly into walls and ceilings while supporting a wide range of residential and commercial distributed-audio applications. Ideal as the main workhorse panel for consistent performance across multiple zones.",
+    "definition": "Versatile fully-covered invisible loudspeaker for premium distributed audio.",
+    "series": "Mobius Series",
+    "category": "Invisible loudspeakers",
     "finish": "Fully-covered (2mm plaster skim or alternative finishes)",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Invisible Audio",
+    "power": "Passive",
+    "type": "Fully-covered invisible loudspeaker",
+    "drivers": "Distributed panel exciter system",
     "image": "mobius5i.png",
+    "specs": [],
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "4 Ω" },
+          { "label": "Power handling (continuous / peak)", "value": "50 W / 100 W" },
+          { "label": "Usable frequency range", "value": "65 Hz – 23 kHz (±10 dB)" },
+          { "label": "Dispersion", "value": "180° × 180°" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          {
+            "label": "Fixing requirements",
+            "value": "Backbox CV345 / SW345 or Mounting Blocks / Tab Mounting Kit"
+          },
+          { "label": "Protection", "value": "Guardian 2 / 8 / 16 (in-line)" },
+          {
+            "label": "Connection",
+            "value": "Blue butt-splice crimp terminals (14–16 AWG)"
+          }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "450 × 345 × 30.7 mm" },
+          { "label": "Weight", "value": "1.4 kg" },
+          { "label": "Warranty", "value": "10 years" }
+        ]
+      }
+    ],
     "applications": [
       "Residential audio solutions",
       "Mid-power multi-channel surround sound",
       "High-end commercial installations"
     ],
-    "specs": [
-      "Nominal impedance 4 Ohms",
-      "Power handling (100 hour continuous/peak) 50W/100W",
-      "Useable frequency range (+/-10dB) 65Hz - 23kHz",
-      "Dispersion angle 180° x 180°",
-      "Electrical connection Blue butt-splice crimp terminals (14–16 AWG)",
-      "Dimensions 450mm x 345mm x 30.7mm",
-      "Product weight 1.4kg",
-      "Fixing requirements Backbox CV345/SW345 or Mounting Blocks / Tab Mounting Kit",
-      "In-line protection unit Guardian 2/8/16",
-      "Manufacturer limited warranty 10 years"
-    ],
     "lifestyle": [
       {
         "src": "Amina Mobius5i Side.png",
-        "alt": "Side profile",
-        "caption": "Balanced proportions and a composed footprint—built for seamless plaster finishing while delivering the scale and openness the Mobius range is known for."
+        "alt": "Mobius 5i plaster-finish meaningfully concealed",
+        "caption": "Balanced proportions for seamless plaster finishing—built to deliver Mobius openness without visual presence."
       }
     ],
     "resources": [
-      { "label": "Installation Guide (Mobius 5i)", "href": "MobiusiB_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "MobiusiB_Install_Guide.pdf" }
     ]
   },
   {
@@ -88,43 +144,68 @@
     "name": "Mobius 5i / S200",
     "headline": "Slimline fully-covered loudspeaker",
     "description": "Slimline Mobius panel engineered for restricted spaces and gently curved walls or ceilings.",
-    "story": "The Mobius 5i/S200 is the slimline counterpart to the Mobius 5i, engineered for installations where space is restricted or where curved surfaces demand a more flexible solution. At just 200mm wide, it integrates seamlessly into shallow stud walls and tight joist layouts.",
-    "series": "Mobius",
+    "heroCopy": "Slimline 200mm format — made for tight cavities and curved surfaces.",
+    "story": "Mobius 5i / S200 is the slimline Mobius solution for constrained installations and gently curved surfaces. With a narrow 200mm width, it fits where standard panels cannot—supporting clean detailing in shallow stud walls, tight joist layouts, and curved architectural features. Fully covered behind a 2mm skim (or alternative finish), it maintains the Mobius family’s consistent voicing while enabling elegant, space-efficient integration.",
+    "definition": "Slimline fully-covered invisible loudspeaker for restricted spaces and curved applications.",
+    "series": "Mobius Series",
+    "category": "Invisible loudspeakers",
     "finish": "Fully-covered (2mm plaster skim or alternative finishes)",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Invisible Audio",
+    "power": "Passive",
+    "type": "Slimline fully-covered invisible loudspeaker",
+    "drivers": "Distributed panel exciter system (slimline format)",
     "image": "mobius5i-s200.png",
+    "specs": [],
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "4 Ω" },
+          { "label": "Power handling (continuous / peak)", "value": "50 W / 100 W" },
+          { "label": "Sensitivity", "value": "82 dB @ 1 m / 2.83 V" },
+          { "label": "Frequency response", "value": "81 Hz – 19 kHz (-6 dB)" },
+          { "label": "Usable frequency range", "value": "70 Hz – 21 kHz (±10 dB)" },
+          { "label": "Dispersion", "value": "180° × 180°" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          {
+            "label": "Fixing requirements",
+            "value": "Backbox CV200 / SW200 or Mounting Blocks / Tab Mounting Kit"
+          },
+          { "label": "Protection", "value": "Guardian 2 / 8 / 16 (in-line)" }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "450 × 200 × 32 mm" },
+          { "label": "Weight", "value": "1.1 kg" },
+          { "label": "Warranty", "value": "10 years" }
+        ]
+      }
+    ],
     "applications": [
       "Installations with limited depth",
       "Curved wall or ceiling applications",
-      "High impedance audio systems (optional 100/70V transformer)"
-    ],
-    "specs": [
-      "Nominal impedance 4 Ohms",
-      "Power handling (100 hour continuous/peak) 50W/100W",
-      "Sensitivity (@ 1m/2.83Vrms) 82dBSPL",
-      "Frequency response (-6dB) 81Hz - 19kHz",
-      "Useable frequency range (+/-10dB) 70Hz - 21kHz",
-      "Dispersion angle 180° x 180°",
-      "Dimensions 450mm x 200mm x 32mm",
-      "Product weight 1.1kg",
-      "Fixing requirements Backbox CV200/SW200 or Mounting Blocks / Tab Mounting Kit",
-      "In-line protection unit Guardian 2/8/16",
-      "Manufacturer limited warranty 10 years"
+      "High impedance systems (optional 70V/100V transformer)"
     ],
     "lifestyle": [
       {
         "src": "Amina Mobius5i-S200 Corner.png",
-        "alt": "Corner",
-        "caption": "A corner angle that underlines the slim 200mm format—purpose-built for constrained cavities and clean detailing where every millimetre matters."
+        "alt": "Mobius 5i / S200 slimline corner detail",
+        "caption": "A slim 200mm format designed for constrained cavities and refined detailing where every millimetre matters."
       },
       {
         "src": "Amina Mobius5i-S200 Side.png",
-        "alt": "Side profile",
-        "caption": "A crisp side profile that shows the narrow silhouette—suited to shallow walls and gentle curves, while remaining fully concealed once finished."
+        "alt": "Mobius 5i / S200 side profile",
+        "caption": "A narrow silhouette suited to shallow walls and gentle curves—fully concealed once finished."
       }
     ],
     "resources": [
-      { "label": "Installation Guide (Mobius 5i / S200)", "href": "MobiusiB_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "MobiusiB_Install_Guide.pdf" }
     ]
   },
   {
@@ -132,48 +213,73 @@
     "name": "Mobius 7i",
     "headline": "Flagship fully-covered loudspeaker",
     "description": "Highest performance Mobius invisible loudspeaker with extended low-frequency reach and high output.",
-    "story": "The Mobius 7i represents the pinnacle of Amina’s Mobius range, combining proprietary transducers with Optidrive®, Opti-damping® and Reduced Resonance Exciter® technologies to deliver exceptional clarity, openness, and dynamic range from a fully concealed form factor.",
-    "series": "Mobius",
+    "heroCopy": "Flagship output and extension — fully concealed behind the finish.",
+    "story": "Mobius 7i is the flagship of the Mobius range, engineered to deliver the greatest scale, dynamic range, and low-frequency reach from a fully concealed panel. Designed to be fully covered behind a 2mm skim (or alternative finish), it preserves architectural purity while supporting high-performance listening environments in premium residential and commercial projects.",
+    "definition": "Flagship fully-covered invisible loudspeaker for high-output architectural audio systems.",
+    "series": "Mobius Series",
+    "category": "Invisible loudspeakers",
     "finish": "Fully-covered (2mm plaster skim or alternative finishes)",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Invisible Audio",
+    "power": "Passive",
+    "type": "Fully-covered invisible loudspeaker",
+    "drivers": "High-output distributed panel exciter system",
     "image": "mobius7i.png",
+    "specs": [],
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "4 Ω" },
+          { "label": "Power handling (continuous / peak)", "value": "75 W / 150 W" },
+          { "label": "Sensitivity", "value": "83 dB @ 1 m / 2.83 V" },
+          { "label": "Frequency response", "value": "40 Hz – 21 kHz (-6 dB)" },
+          { "label": "Usable frequency range", "value": "37 Hz – 22 kHz (±10 dB)" },
+          { "label": "Dispersion", "value": "180° × 180°" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          {
+            "label": "Fixing requirements",
+            "value": "Backbox CV345 / SW345 or Mounting Blocks / Tab Mounting Kit"
+          },
+          { "label": "Protection", "value": "Guardian 2 / 8 / 16 (in-line)" }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "450 × 345 × 30.7 mm" },
+          { "label": "Weight", "value": "1.8 kg" },
+          { "label": "Warranty", "value": "10 years" }
+        ]
+      }
+    ],
     "applications": [
       "Residential audio solutions",
       "High-power multi-channel surround sound",
       "High-end commercial installations"
     ],
-    "specs": [
-      "Nominal impedance 4 Ohms",
-      "Power handling (100 hour continuous/peak) 75W/150W",
-      "Sensitivity (@ 1m/2.83Vrms) 83dBSPL",
-      "Frequency response (-6dB) 40Hz - 21kHz",
-      "Useable frequency range (+/-10dB) 37Hz - 22kHz",
-      "Dispersion angle 180° x 180°",
-      "Dimensions 450mm x 345mm x 30.7mm",
-      "Product weight 1.8kg",
-      "Fixing requirements Backbox CV345/SW345 or Mounting Blocks / Tab Mounting Kit",
-      "In-line protection unit Guardian 2/8/16",
-      "Manufacturer limited warranty 10 years"
-    ],
     "lifestyle": [
       {
         "src": "Amina Mobius7i Corner.png",
-        "alt": "Corner",
-        "caption": "A composed corner view that reflects the flagship panel’s scale—engineered for high output while remaining visually silent behind the finish."
+        "alt": "Mobius 7i flagship panel integrated invisibly",
+        "caption": "Flagship scale engineered for high output—designed to remain visually silent behind the finish."
       },
       {
         "src": "Amina Mobius7i Side.png",
-        "alt": "Side profile",
-        "caption": "A side profile that reveals the panel’s refined build—designed for confident performance and a seamless plaster finish with no visual compromise."
+        "alt": "Mobius 7i side profile",
+        "caption": "A refined build intended for confident performance and a seamless plaster finish."
       },
       {
         "src": "Amina Mobius7i Back Corner.png",
-        "alt": "Rear detail",
-        "caption": "A rear corner detail highlighting the structural design—built to reduce resonance and support a more linear, controlled presentation once installed."
+        "alt": "Mobius 7i rear corner detail",
+        "caption": "Structural detailing designed to reduce resonance and support a more controlled presentation once installed."
       }
     ],
     "resources": [
-      { "label": "Installation Guide (Mobius 7i)", "href": "MobiusiB_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "MobiusiB_Install_Guide.pdf" }
     ]
   },
   {
@@ -181,31 +287,59 @@
     "name": "MobiusDuali",
     "headline": "Dual-channel fully-covered loudspeaker",
     "description": "Single-panel stereo invisible loudspeaker for spaces where a stereo pair cannot be accommodated.",
-    "story": "MobiusDuali delivers high-quality dual-channel audio reproduction from a single invisible panel, using OptiDrive®, OptiDamping® and Reduced Resonance Exciter® technologies. Ideal where stereo width is less critical but sound quality and even dispersion remain essential.",
-    "series": "Mobius",
+    "heroCopy": "True dual-channel audio from one panel — a clean solution for compact rooms.",
+    "story": "MobiusDuali delivers dual-channel (stereo) reproduction from a single invisible panel for spaces where two speakers are not feasible. It is designed to maintain even dispersion and strong intelligibility while keeping surfaces visually uninterrupted. Ideal for compact rooms, corridors, and distributed audio zones where simplicity and architectural discretion are priorities.",
+    "definition": "Dual-channel fully-covered invisible loudspeaker for single-panel stereo installations.",
+    "series": "Mobius Series",
+    "category": "Invisible loudspeakers",
     "finish": "Fully-covered (2mm plaster skim or alternative finishes)",
-    "collaboration": "Amina Architectural Audio",
+    "collaboration": "Amina · Invisible Audio",
+    "power": "Passive",
+    "type": "Dual-channel fully-covered invisible loudspeaker",
+    "drivers": "Dual-channel distributed panel exciter system",
     "image": "AminaMobiusDual_i.png",
+    "specs": [],
+    "specGroups": [
+      {
+        "title": "System",
+        "items": [
+          { "label": "Nominal impedance", "value": "2 × 6 Ω" },
+          { "label": "Power handling (continuous / peak)", "value": "2 × 30 W / 60 W" },
+          { "label": "Sensitivity", "value": "83 dB @ 1 m / 2.83 V" },
+          { "label": "Frequency response", "value": "105 Hz – 29 kHz" },
+          { "label": "Usable frequency range", "value": "90 Hz – 32 kHz (±10 dB)" },
+          { "label": "Dispersion", "value": "180° × 180°" }
+        ]
+      },
+      {
+        "title": "Installation",
+        "items": [
+          {
+            "label": "Fixing requirements",
+            "value": "Backbox CV345 / SW345 or Mounting Blocks"
+          },
+          {
+            "label": "Protection",
+            "value": "2 × APUi30C / APU-RS8iC / APU-RS16iC (in-line)"
+          }
+        ]
+      },
+      {
+        "title": "Physical",
+        "items": [
+          { "label": "Dimensions", "value": "450 × 345 × 30.7 mm" },
+          { "label": "Weight", "value": "2.1 kg" },
+          { "label": "Warranty", "value": "10 years" }
+        ]
+      }
+    ],
     "applications": [
       "Rooms with insufficient space for a stereo pair",
       "Residential or commercial distributed audio"
     ],
-    "specs": [
-      "Nominal impedance 2 × 6 Ohms",
-      "Power handling (100 hour continuous/peak) 2 × 30W/60W",
-      "Sensitivity (@1m/2.83Vrms) 83dB",
-      "Frequency response 105Hz - 29kHz",
-      "Useable frequency range (+/-10dB) 90Hz - 32kHz",
-      "Dispersion angle 180° x 180°",
-      "Dimensions 450mm x 345mm x 30.7mm",
-      "Product weight 2.1kg",
-      "Fixing requirements Backbox CV/SW345 or Mounting Blocks",
-      "In-line protection unit 2 × APUi30C / APU-RS8iC / APU-RS16iC",
-      "Manufacturer limited warranty 10 years"
-    ],
     "lifestyle": [],
     "resources": [
-      { "label": "Installation Guide (Mobius Duali)", "href": "MobiusiB_Install_Guide.pdf" }
+      { "label": "Installation Guide", "href": "MobiusiB_Install_Guide.pdf" }
     ]
   }
 ]

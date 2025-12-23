@@ -1,74 +1,105 @@
 [
   {
-    "slug": "fs12",
-    "name": "Frogis FS12",
-    "headline": "Portable Line Array PA System – Subwoofer 12”",
-    "description": "A streamlined, plug-and-play column system that pairs an 8 × 3.25” array with a 12” bass reflex subwoofer—built for fast setups, discreet presence, and confident full-range sound.",
-    "story": "FS12 is designed for musicians, presenters, and rental work that demand a compact footprint with polished coverage. The slimline array keeps speech intelligible and music detailed, while the 12” sub delivers the foundation—indoors or outdoors, from corporate rooms to lively venues.",
-    "definition": "Two-way powered portable line array PA system with 12” subwoofer, onboard mixer and DSP.",
-    "series": "Slimline array speaker systems",
-    "category": "Slimline array speaker systems",
-    "finish": "Professional Black",
-    "collaboration": "Frogis Professional",
-    "power": "Active",
-    "type": "Portable line array PA system",
-    "drivers": "8 × 3.25” array + 12” bass reflex subwoofer",
-    "features": [
-      "Compact Plug and Play line array System",
-      "Discreet look for inconspicuous use",
-      "Line array element configuration (8 x 3,25” speakers) offers exceptional sound coverage",
-      "Compact speaker system for concerts, conferences and events and more",
-      "Two-way speaker with built-in DSP for EQ and dynamic limiter",
-      "Extremely efficient 12’’ woofer driver provides incredibly deep bass and acoustic power",
-      "Equipped with handles for easy carrying",
-      "Provided with Bluetooth technology",
-      "Delivers 90° of horizontal coverage and 10° vertical coverage",
-      "Integrated USB/SD MP3 player",
-      "Designed, engineered and tuned in Italy"
-    ],
-    "applications": [
-      "Mobile and installed applications",
-      "All sizes of indoor/outdoor live event",
-      "Disco",
-      "Night club",
-      "Conference",
-      "School auditorium",
-      "Places of worship"
-    ],
-    "specs": [
-      "Frequency response: 45 Hz - 19000 Hz (-3dB - +1dB)",
-      "Power Voltage: 100 - 230 Vac 50-60 Hz",
-      "Operating Voltage: 90-264 Vac",
-      "Power rating: 600W + 240W",
-      "SPL 1W@1mt: 96 dB",
-      "Maximum SPL: 118dB (cont.) - 124 dB (peak)",
-      "Impedence: 4 Ω + 8 Ω",
-      "Coverage: Horizontal 90° / Vertical 10°",
-      "Transducers: Low Frequency 12’’ bass reflex / High Frequency 8x3.25’’ array",
-      "Preamp: 2 IN on-board with low noise; Balanced DSP output on CH2; Input limiter; Phantom power on mic inputs (12Vdc)",
-      "Microphone input gain: 30dB",
-      "Crossover: Two-way speaker with built-in DSP for EQ and dynamic limiter",
-      "USB/SD MP3 player",
-      "Amplifiers: Power Voltage 100-240 Vac , 50-60 Hz; Operating Voltage 90 - 264 V; Power Factor cosΨ = 0,9@360W",
-      "Max Output @ 1% sine 1Khz: 600 W (@ 4 Ω ) + 600 W ( @ 4 Ω )",
-      "Protections: Short Circuit , Thermal Protection ( Power Limiting - Thermal shutdown ) , Overload, High frequency output protection",
-      "Max Out: 85V peak",
-      "Gain: 26 dB",
-      "S/N: 115 dB",
-      "Damping factor: 8 Ω > 1000 @ 8 Ω",
-      "Net Weight: 24 kg (53 lb)",
-      "System size W/H/L: 34.8 cm x 173.3 cm x 47.5 cm (13.7”x 68.2”x 18.7”)",
-      "Woofer size W/H/L: 34.8 cm X 35 cm X 47.5 cm (13.7”x 13.8”x 18.7”)"
-    ],
-    "image": "FS12_main.jpg",
-    "lifestyle": [
-      {
-        "src": "FS12-Array_main.jpg",
-        "alt": "FS12 column and 12-inch subwoofer system assembled",
-        "caption": "A refined column profile with a matching 12” bass module—quick to deploy, easy to place."
-      }
-    ]
-  },
+  "slug": "fs12",
+  "name": "Frogis FS12",
+  "headline": "Portable line array PA system with 12\" subwoofer",
+  "definition": "Two-way powered portable line array PA system with 12\" subwoofer, onboard mixer and DSP.",
+  "description": "FS12 is a compact, plug-and-play column PA system that combines a slim 8 × 3.25\" line array with a powerful 12\" bass reflex subwoofer. Designed for fast setup and discreet visual presence, it delivers confident full-range sound for a wide range of applications.",
+  "story": "Engineered for musicians, presenters, and rental use, FS12 balances portability with performance. The column array ensures excellent speech intelligibility and even coverage, while the 12\" subwoofer provides solid low-frequency support—indoors or outdoors, from corporate environments to energetic live venues.",
+  "series": "Slimline array speaker systems",
+  "category": "Slimline array speaker systems",
+  "finish": "Professional Black",
+  "collaboration": "Frogis Professional",
+  "power": "Active",
+  "type": "Portable line array PA system",
+
+  "drivers": "8 × 3.25\" line array drivers + 12\" bass reflex subwoofer",
+
+  "features": [
+    "Compact plug-and-play line array system",
+    "Discreet column design for inconspicuous installations",
+    "Line array configuration for consistent sound coverage",
+    "Two-way system with built-in DSP for EQ and dynamic limiting",
+    "High-efficiency 12\" woofer for deep, powerful bass",
+    "Integrated handles for easy transport",
+    "Bluetooth connectivity for wireless playback",
+    "Integrated USB / SD MP3 player",
+    "Designed, engineered, and tuned in Italy"
+  ],
+
+  "applications": [
+    "Mobile and installed sound reinforcement",
+    "Indoor and outdoor live events",
+    "Disco and night club venues",
+    "Conferences and corporate events",
+    "School auditoriums",
+    "Places of worship"
+  ],
+
+  "image": "FS12_main.jpg",
+
+  "lifestyle": [
+    {
+      "src": "FS12-Array_main.jpg",
+      "alt": "FS12 column and 12-inch subwoofer system assembled",
+      "caption": "A refined column profile with a matching 12\" bass module—quick to deploy and easy to place."
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "Performance",
+      "items": [
+        { "label": "Frequency Response", "value": "45 Hz – 19 kHz (-3 dB / +1 dB)" },
+        { "label": "Sensitivity", "value": "96 dB (1 W / 1 m)" },
+        { "label": "Maximum SPL", "value": "118 dB continuous / 124 dB peak" },
+        { "label": "Coverage", "value": "Horizontal 90° / Vertical 10°" }
+      ]
+    },
+    {
+      "title": "Power & Amplification",
+      "items": [
+        { "label": "Power Rating", "value": "600 W + 240 W" },
+        { "label": "Amplifier Output", "value": "600 W (@ 4 Ω) + 600 W (@ 4 Ω)" },
+        { "label": "Operating Voltage", "value": "90 – 264 Vac" },
+        { "label": "Power Supply", "value": "100 – 230 Vac, 50–60 Hz" }
+      ]
+    },
+    {
+      "title": "Audio & DSP",
+      "items": [
+        { "label": "DSP", "value": "Built-in EQ and dynamic limiter" },
+        { "label": "Preamp", "value": "2 onboard inputs with low noise and input limiter" },
+        { "label": "Microphone Gain", "value": "30 dB" },
+        { "label": "Phantom Power", "value": "12 Vdc on microphone inputs" }
+      ]
+    },
+    {
+      "title": "Connectivity & Media",
+      "items": [
+        { "label": "Wireless", "value": "Bluetooth audio streaming" },
+        { "label": "Media Player", "value": "USB / SD MP3 player" }
+      ]
+    },
+    {
+      "title": "Protection & Reliability",
+      "items": [
+        { "label": "Protections", "value": "Short circuit, thermal protection, overload, high-frequency output protection" },
+        { "label": "Signal-to-Noise Ratio", "value": "115 dB" },
+        { "label": "Damping Factor", "value": ">1000 @ 8 Ω" }
+      ]
+    },
+    {
+      "title": "Physical & Dimensions",
+      "items": [
+        { "label": "System Dimensions (W × H × D)", "value": "34.8 × 173.3 × 47.5 cm" },
+        { "label": "Subwoofer Dimensions (W × H × D)", "value": "34.8 × 35 × 47.5 cm" },
+        { "label": "Net Weight", "value": "24 kg (53 lb)" }
+      ]
+    }
+  ]
+}
+,
   {
     "slug": "fs15",
     "name": "Frogis FS15",

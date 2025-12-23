@@ -1,65 +1,82 @@
 [
-  {
-    "slug": "gc3",
-    "name": "KGEAR GC3",
-    "headline": "Ultra-compact 3-inch architectural coaxial speaker",
-    "description": "A palm-sized coaxial loudspeaker that disappears into ceilings or millwork while filling intimate spaces with open, articulate sound.",
-    "story": "GC3 is designed for projects where the loudspeaker must visually vanish but still deliver coherent coverage. The compact ABS enclosure and spring terminals keep installation quick, while the coaxial motor maintains phase alignment across a wide seating area for background music and speech.",
-    "definition": "3-inch coaxial architectural loudspeaker with 130-degree coverage for discreet ceiling or wall mounting.",
-    "series": "GC Architectural Speakers",
-    "category": "Speakers",
-    "finish": "Compact Coax",
-    "collaboration": "Passive",
-    "power": "Passive",
-    "type": "Passive 3\" coaxial speaker",
-    "drivers": "3\" coax woofer + 0.5\" mylar dome tweeter",
-    "applications": [
-      "Boutique retail",
-      "Wellness suites",
-      "Hospitality corridors"
-    ],
-    "specs": [
-      "Type: Passive loudspeaker",
-      "Transducers: 3\" coax woofer with 0.5\" mylar tweeter",
-      "Frequency response 120 Hz - 20 kHz (-10 dB)",
-      "Max SPL 106 dB (peak)",
-      "Coverage 130 deg conical",
-      "Rated power 40 W (16 ohm)",
-      "Spring terminal connector, ABS enclosure, white or black options",
-      "Dimensions 116 x 100 x 58 mm, weight 0.4 kg"
-    ],
-    "keyStats": [
-      "106 dB peak",
-      "120 Hz - 20 kHz",
-      "130 deg coverage"
-    ],
-    "frequency": [
-      120,
-      20000
-    ],
-    "coverage": "130 deg",
-    "weightKg": 0.4,
-    "ipRating": "Indoor",
-    "image": "speaker_images/GC3_main.jpg",
-    "lifestyle": [
-      {
-        "src": "speaker_images/GC3_1.jpg",
-        "alt": "GC3 loudspeaker shown at an angle with its front grille"
-      },
-      {
-        "src": "speaker_images/GC3_2.jpg",
-        "alt": "GC3 mounted on a wall bracket in a small interior"
-      },
-      {
-        "src": "speaker_images/GC3_3.jpg",
-        "alt": "Front-on view of the GC3 coaxial driver and baffle"
-      },
-      {
-        "src": "speaker_images/GC3_4.jpg",
-        "alt": "Close-up of the GC3 grille texture and frame detail"
-      }
-    ]
-  },
+ {
+  "slug": "gc3",
+  "name": "KGEAR GC3",
+  "headline": "Ultra-compact 3-inch architectural coaxial speaker",
+  "definition": "3-inch coaxial architectural loudspeaker with 130-degree coverage for discreet ceiling or wall mounting.",
+  "description": "A palm-sized coaxial loudspeaker that disappears into ceilings or millwork while filling intimate spaces with open, articulate sound.",
+  "story": "GC3 is designed for projects where the loudspeaker must visually vanish but still deliver coherent coverage. The compact ABS enclosure and spring terminals keep installation quick, while the coaxial motor maintains phase alignment across a wide seating area for background music and speech.",
+  "series": "GC Architectural Speakers",
+  "category": "Speakers",
+  "finish": "Compact Coax",
+  "collaboration": "Passive",
+  "power": "Passive",
+  "type": "Passive 3\" coaxial speaker",
+
+  "drivers": "3\" coax ferrite magnet woofer with 0.5\" mylar dome tweeter",
+
+  "applications": [
+    "Boutique retail",
+    "Wellness suites",
+    "Hospitality corridors"
+  ],
+
+  "image": "speaker_images/GC3_main.jpg",
+
+  "lifestyle": [
+    {
+      "src": "speaker_images/GC3_1.jpg",
+      "alt": "GC3 loudspeaker shown at an angle with its front grille"
+    },
+    {
+      "src": "speaker_images/GC3_2.jpg",
+      "alt": "GC3 mounted on a wall bracket in a small interior"
+    },
+    {
+      "src": "speaker_images/GC3_3.jpg",
+      "alt": "Front-on view of the GC3 coaxial driver and baffle"
+    },
+    {
+      "src": "speaker_images/GC3_4.jpg",
+      "alt": "Close-up of the GC3 grille texture and frame detail"
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "General",
+      "items": [
+        { "label": "Type", "value": "Passive loudspeaker" },
+        {
+          "label": "Transducers",
+          "value": "3\" coax ferrite magnet woofer + 0.5\" mylar dome tweeter"
+        },
+        {
+          "label": "Frequency Response",
+          "value": "120 Hz – 20 kHz (-10 dB)"
+        },
+        { "label": "Max SPL", "value": "106 dB" },
+        { "label": "Rated Power", "value": "40 W" },
+        { "label": "Coverage", "value": "130°" },
+        { "label": "Connectors", "value": "Spring terminals" },
+        { "label": "Nominal Impedance", "value": "16 Ω" }
+      ]
+    },
+    {
+      "title": "Handling & Finishes",
+      "items": [
+        {
+          "label": "Dimensions (W x H x D)",
+          "value": "116 x 100 x 58 mm (4.57 x 4 x 2.3 in)"
+        },
+        { "label": "Weight", "value": "0.4 kg (0.88 lb)" },
+        { "label": "Material", "value": "ABS" },
+        { "label": "Colors", "value": "White / Black" }
+      ]
+    }
+  ]
+}
+,
   {
     "slug": "gc5",
     "name": "KGEAR GC5",
@@ -79,28 +96,6 @@
       "Premium retail",
       "Hotel suites"
     ],
-    "specs": [
-      "Type: Passive loudspeaker",
-      "Transducers: 5.25\" coax ferrite woofer with 0.75\" titanium tweeter",
-      "Frequency response 70 Hz - 20 kHz (-10 dB)",
-      "Max SPL 109 dB (peak)",
-      "Coverage 130 deg conical",
-      "Rated power 80 W at 8 ohm",
-      "Spring terminal connector, ABS enclosure, white or black finishes",
-      "Dimensions 196 x 179 x 75 mm, weight 1.08 kg"
-    ],
-    "keyStats": [
-      "109 dB peak",
-      "70 Hz - 20 kHz",
-      "130 deg coverage"
-    ],
-    "frequency": [
-      70,
-      20000
-    ],
-    "coverage": "130 deg",
-    "weightKg": 1.08,
-    "ipRating": "Indoor",
     "image": "speaker_images/GC5_main.jpg",
     "lifestyle": [
       {
@@ -140,28 +135,6 @@
       "Corporate campuses",
       "Retail chains"
     ],
-    "specs": [
-      "Type: Passive loudspeaker with 70/100 V taps",
-      "Transducers: 6.5\" coax ferrite woofer with 0.75\" titanium tweeter",
-      "Frequency response 60 Hz - 20 kHz (-10 dB)",
-      "Max SPL 110 dB (peak)",
-      "Coverage 130 deg conical",
-      "Tap selections 4/8/16/32 W @ 100 V (2/4/8/16 W @ 70 V)",
-      "Spring terminals, ABS shell, white or black options",
-      "Dimensions 227 x 210 x 87 mm, weight 1.52 kg"
-    ],
-    "keyStats": [
-      "110 dB peak",
-      "60 Hz floor",
-      "70/100 V taps"
-    ],
-    "frequency": [
-      60,
-      20000
-    ],
-    "coverage": "130 deg",
-    "weightKg": 1.52,
-    "ipRating": "Indoor",
     "image": "speaker_images/GC6T_main.jpg",
     "lifestyle": [
       {
@@ -201,28 +174,6 @@
       "Restaurants",
       "Corporate spaces"
     ],
-    "specs": [
-      "Type: Passive 6.5\" coaxial loudspeaker",
-      "Transducers: 6.5\" coax ferrite woofer with 1\" titanium dome tweeter",
-      "Frequency response 60 Hz - 20 kHz (-10 dB)",
-      "Max SPL 112 dB (peak)",
-      "Coverage 120 deg conical",
-      "Rated power 80 W (8 ohm)",
-      "Binding post connectors, ABS enclosure, white or black finish",
-      "Dimensions 220 x 201 x 95 mm, weight 1.8 kg"
-    ],
-    "keyStats": [
-      "112 dB peak",
-      "60 Hz - 20 kHz",
-      "120 deg coverage"
-    ],
-    "frequency": [
-      60,
-      20000
-    ],
-    "coverage": "120 deg",
-    "weightKg": 1.8,
-    "ipRating": "Indoor",
     "image": "speaker_images/GC6_main.jpg",
     "lifestyle": [
       {
@@ -262,28 +213,6 @@
       "Hotels",
       "Conference centers"
     ],
-    "specs": [
-      "Type: Passive 8\" coaxial loudspeaker",
-      "Transducers: 8\" coax ferrite woofer with 1.5\" titanium compression driver",
-      "Frequency response 50 Hz - 20 kHz (-10 dB)",
-      "Max SPL 115 dB (peak)",
-      "Coverage 110 deg conical",
-      "Rated power 120 W (8 ohm)",
-      "Professional binding posts, reinforced ABS shell",
-      "Dimensions 280 x 251 x 120 mm, weight 2.8 kg"
-    ],
-    "keyStats": [
-      "115 dB peak",
-      "50 Hz extension",
-      "110 deg pattern"
-    ],
-    "frequency": [
-      50,
-      20000
-    ],
-    "coverage": "110 deg",
-    "weightKg": 2.8,
-    "ipRating": "Indoor",
     "image": "speaker_images/GC8 I_main.jpg",
     "lifestyle": [
       {
@@ -323,28 +252,6 @@
       "Warehouses",
       "Outdoor covered areas"
     ],
-    "specs": [
-      "Type: Surface mount 8\" coaxial loudspeaker",
-      "Transducers: 8\" coax ferrite woofer with 1.5\" titanium compression driver",
-      "Frequency response 50 Hz - 20 kHz (-10 dB)",
-      "Max SPL 115 dB (peak)",
-      "Coverage 110 deg conical",
-      "Rated power 120 W (8 ohm)",
-      "Weather-resistant enclosure, IP54 rating",
-      "Dimensions 300 x 271 x 180 mm, weight 3.2 kg"
-    ],
-    "keyStats": [
-      "115 dB peak",
-      "IP54 rating",
-      "Surface mount"
-    ],
-    "frequency": [
-      50,
-      20000
-    ],
-    "coverage": "110 deg",
-    "weightKg": 3.2,
-    "ipRating": "IP54",
     "image": "speaker_images/GC8S_main.jpg",
     "lifestyle": [
       {
@@ -384,28 +291,6 @@
       "Fine dining",
       "Luxury hospitality"
     ],
-    "specs": [
-      "Type: Passive 2\" full-range speaker",
-      "Transducers: 2\" neodymium full-range driver",
-      "Frequency response 150 Hz - 15 kHz (-10 dB)",
-      "Max SPL 98 dB (peak)",
-      "Coverage 160 deg conical",
-      "Rated power 15 W (16 ohm)",
-      "Ultra-compact design, 80 x 65 x 45 mm",
-      "Weight 0.15 kg, multiple mounting options"
-    ],
-    "keyStats": [
-      "98 dB peak",
-      "Ultra-compact",
-      "160 deg spread"
-    ],
-    "frequency": [
-      150,
-      15000
-    ],
-    "coverage": "160 deg",
-    "weightKg": 0.15,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF22_main.jpg",
     "lifestyle": [
       {
@@ -441,28 +326,6 @@
       "Museums",
       "Premium retail"
     ],
-    "specs": [
-      "Type: Passive two-way architectural speaker",
-      "Transducers: 4\" ferrite woofer with 2\" fabric dome tweeter",
-      "Frequency response 80 Hz - 18 kHz (-10 dB)",
-      "Max SPL 108 dB (peak)",
-      "Coverage 140 deg conical",
-      "Rated power 60 W (8 ohm)",
-      "Professional mounting hardware included",
-      "Dimensions 160 x 140 x 95 mm, weight 1.1 kg"
-    ],
-    "keyStats": [
-      "108 dB peak",
-      "80 Hz - 18 kHz",
-      "140 deg pattern"
-    ],
-    "frequency": [
-      80,
-      18000
-    ],
-    "coverage": "140 deg",
-    "weightKg": 1.1,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF42 I_main.jpg",
     "lifestyle": [
       {
@@ -498,28 +361,6 @@
       "Conference rooms",
       "Modern retail"
     ],
-    "specs": [
-      "Type: Active two-way architectural speaker",
-      "Transducers: 4\" woofer + 2\" tweeter with 50 W Class-D amplification",
-      "Frequency response 75 Hz - 18 kHz (-6 dB)",
-      "Max SPL 110 dB with 140 deg coverage",
-      "Inputs: XLR, 3.5mm, Bluetooth",
-      "DSP presets for various applications",
-      "PoE+ powered option available",
-      "Dimensions 180 x 160 x 110 mm, weight 1.8 kg"
-    ],
-    "keyStats": [
-      "110 dB max",
-      "50 W integrated",
-      "Multiple inputs"
-    ],
-    "frequency": [
-      75,
-      18000
-    ],
-    "coverage": "140 deg",
-    "weightKg": 1.8,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF42A I_main.jpg",
     "lifestyle": [
       {
@@ -555,28 +396,6 @@
       "Retail chains",
       "Hospitality"
     ],
-    "specs": [
-      "Type: Two-way speaker with 70/100V transformer",
-      "Transducers: 4\" woofer + 2\" tweeter with multi-tap transformer",
-      "Frequency response 80 Hz - 18 kHz (-10 dB)",
-      "Max SPL 108 dB (peak)",
-      "Coverage 140 deg conical",
-      "Tap selections 2.5/5/10/20 W @ 70V (5/10/20/40 W @ 100V)",
-      "Professional installation hardware",
-      "Dimensions 180 x 160 x 110 mm, weight 1.5 kg"
-    ],
-    "keyStats": [
-      "108 dB peak",
-      "70/100V taps",
-      "Professional install"
-    ],
-    "frequency": [
-      80,
-      18000
-    ],
-    "coverage": "140 deg",
-    "weightKg": 1.5,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF42T I_main.jpg",
     "lifestyle": [
       {
@@ -612,28 +431,6 @@
       "Premium hotels",
       "Concert halls"
     ],
-    "specs": [
-      "Type: Premium two-way architectural speaker",
-      "Transducers: 8\" ferrite woofer with 2\" compression driver",
-      "Frequency response 55 Hz - 18 kHz (-10 dB)",
-      "Max SPL 115 dB (peak)",
-      "Coverage 120 deg conical",
-      "Rated power 120 W (8 ohm)",
-      "Premium mounting system with multiple angles",
-      "Dimensions 280 x 240 x 150 mm, weight 3.5 kg"
-    ],
-    "keyStats": [
-      "115 dB peak",
-      "55 Hz extension",
-      "Premium design"
-    ],
-    "frequency": [
-      55,
-      18000
-    ],
-    "coverage": "120 deg",
-    "weightKg": 3.5,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF82 I_main.jpg",
     "lifestyle": [
       {
@@ -669,28 +466,6 @@
       "Corporate flagships",
       "High-end retail"
     ],
-    "specs": [
-      "Type: Active flagship architectural speaker",
-      "Transducers: 8\" woofer + 2\" compression driver with 150 W Class-D",
-      "Frequency response 50 Hz - 18 kHz (-6 dB)",
-      "Max SPL 118 dB with 120 deg coverage",
-      "Advanced DSP with room correction",
-      "Multiple inputs: XLR, network, Bluetooth",
-      "PoE++ or local power options",
-      "Dimensions 300 x 260 x 170 mm, weight 4.8 kg"
-    ],
-    "keyStats": [
-      "118 dB max",
-      "150 W integrated",
-      "Advanced DSP"
-    ],
-    "frequency": [
-      50,
-      18000
-    ],
-    "coverage": "120 deg",
-    "weightKg": 4.8,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF82A I_main.jpg",
     "lifestyle": [
       {
@@ -726,28 +501,6 @@
       "Airport terminals",
       "Convention centers"
     ],
-    "specs": [
-      "Type: Premium speaker with high-power 70/100V transformer",
-      "Transducers: 8\" woofer + 2\" compression driver",
-      "Frequency response 55 Hz - 18 kHz (-10 dB)",
-      "Max SPL 115 dB (peak)",
-      "Coverage 120 deg conical",
-      "Tap selections 5/10/20/40 W @ 70V (10/20/40/80 W @ 100V)",
-      "Heavy-duty mounting system",
-      "Dimensions 300 x 260 x 170 mm, weight 4.2 kg"
-    ],
-    "keyStats": [
-      "115 dB peak",
-      "High-power taps",
-      "Premium transformer"
-    ],
-    "frequency": [
-      55,
-      18000
-    ],
-    "coverage": "120 deg",
-    "weightKg": 4.2,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF82T I_main.jpg",
     "lifestyle": [
       {
@@ -783,28 +536,6 @@
       "Airports",
       "Stadium concourses"
     ],
-    "specs": [
-      "Type: Ultra-performance two-way architectural speaker",
-      "Transducers: 16\" ferrite woofer with 2\" titanium compression driver",
-      "Frequency response 35 Hz - 18 kHz (-10 dB)",
-      "Max SPL 125 dB (peak)",
-      "Coverage 90 deg conical",
-      "Rated power 400 W (8 ohm)",
-      "Heavy-duty installation hardware",
-      "Dimensions 500 x 420 x 280 mm, weight 12.5 kg"
-    ],
-    "keyStats": [
-      "125 dB peak",
-      "35 Hz extension",
-      "400 W handling"
-    ],
-    "frequency": [
-      35,
-      18000
-    ],
-    "coverage": "90 deg",
-    "weightKg": 12.5,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF162 I_main.jpg",
     "lifestyle": [
       {
@@ -840,28 +571,6 @@
       "Train stations",
       "Mega retail"
     ],
-    "specs": [
-      "Type: Ultra-performance speaker with ultra-high-power transformer",
-      "Transducers: 16\" woofer + 2\" titanium compression driver",
-      "Frequency response 35 Hz - 18 kHz (-10 dB)",
-      "Max SPL 125 dB (peak)",
-      "Coverage 90 deg conical",
-      "Tap selections 20/40/80/160 W @ 70V (40/80/160/320 W @ 100V)",
-      "Industrial-grade mounting system",
-      "Dimensions 520 x 440 x 300 mm, weight 15.2 kg"
-    ],
-    "keyStats": [
-      "125 dB peak",
-      "Ultra-high-power",
-      "Industrial grade"
-    ],
-    "frequency": [
-      35,
-      18000
-    ],
-    "coverage": "90 deg",
-    "weightKg": 15.2,
-    "ipRating": "Indoor",
     "image": "speaker_images/GF162T I_main.jpg",
     "lifestyle": [
       {
@@ -881,73 +590,105 @@
   {
     "slug": "gh4",
     "name": "KGEAR GH4",
-    "headline": "4\" studio monitor for precision mixing",
-    "description": "A compact 4-inch studio monitor that invites you in close, revealing mixes with honest detail and fatigue-free balance.",
-    "story": "GH4 delivers studio-grade accuracy in a compact 4\" format, perfect for nearfield monitoring and critical listening applications.",
-    "definition": "Professional 4\" studio monitor with precision drivers for critical listening.",
-    "series": "GH Studio Monitors",
+    "headline": "Ultra-compact point source",
+    "description": "High-performance sound and controlled coverage from an ultra-compact point source loudspeaker designed for demanding fixed installations.",
+    "story": "GH4 is a high-performance, ultra-compact point source satellite loudspeaker engineered to deliver powerful and controlled sound from a remarkably small enclosure. Featuring a 4\" full-range driver with a dual-coil neodymium magnet, GH4 supports variable impedance operation from 4 \u00ce\u00a9 to 16 \u00ce\u00a9, allowing system designers to optimise performance across different amplifier configurations.\n\nThe unique cabinet design significantly reduces rear-side sound emission, improving sound control and minimising energy loss in complex acoustic environments. This results in enhanced intelligibility, tighter coverage, and more efficient sound distribution, particularly in reverberant spaces.\n\nConstructed from robust stainless steel, GH4 is built for long-term reliability in demanding installations. Its sealed enclosure design ensures durability and consistent performance across a wide range of fixed-installation environments.\n\nGH4 can be deployed individually or combined into arrays to achieve higher output and extended coverage. It is available in a passive low-impedance version, as well as an active variant (GH4A) featuring a built-in 60 W amplifier for simplified installation. For harsher environments, GH4M provides a fully sealed solution with enhanced protection and marine-grade anti-corrosion treatment.",
+    "definition": "Ultra-compact point source loudspeaker for fixed installations requiring high output, controlled coverage, and long-term reliability.",
+    "series": "GH Series",
     "category": "Speakers",
-    "finish": "Studio Monitor",
-    "collaboration": "Active",
-    "power": "Active",
-    "type": "Active 4\" studio monitor",
-    "drivers": "4\" woofer + 1\" silk dome tweeter",
+    "finish": "Stainless steel",
+    "collaboration": "Passive",
+    "power": "Passive",
+    "type": "Point source",
+    "drivers": "4\" neodymium magnet full-range driver",
     "applications": [
-      "Home studios",
-      "Podcasting",
-      "Critical listening"
+      "Live entertainment venues",
+      "Hospitality spaces",
+      "Transportation hubs",
+      "Broadcast facilities",
+      "Theatres",
+      "Houses of worship",
+      "Residential installations"
     ],
-    "specs": [
-      "Type: Active nearfield studio monitor",
-      "Transducers: 4\" woofer + 1\" silk dome tweeter",
-      "Frequency response 65 Hz - 22 kHz (-3 dB)",
-      "Max SPL 105 dB with precise imaging",
-      "Bi-amped design: 30 W woofer + 20 W tweeter",
-      "XLR and TRS inputs with level control",
-      "Room position EQ switches",
-      "Dimensions 165 x 245 x 195 mm, weight 3.2 kg each"
+    "specGroups": [
+      {
+        "title": "General",
+        "items": [
+          {
+            "label": "Type",
+            "value": "Passive loudspeaker"
+          },
+          {
+            "label": "Transducers",
+            "value": "4\" neodymium magnet full-range driver"
+          },
+          {
+            "label": "Frequency Response",
+            "value": "150 Hz \u00e2\u20ac\u201c 20 kHz (-6 dB)"
+          },
+          {
+            "label": "Max SPL",
+            "value": "122 dB"
+          },
+          {
+            "label": "Rated Power",
+            "value": "140 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 90\u00c2\u00b0 | H. 90\u00c2\u00b0"
+          },
+          {
+            "label": "Connectors",
+            "value": "Phoenix connector (4-pin euroblock)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "4 \u00ce\u00a9 \u00e2\u20ac\u201c 16 \u00ce\u00a9 selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "112 x 112 x 94 mm (4.41 x 4.41 x 3.70 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "1.2 kg (2.65 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Stainless steel"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White"
+          }
+        ]
+      }
     ],
-    "keyStats": [
-      "105 dB precision",
-      "65 Hz - 22 kHz",
-      "Bi-amped design"
-    ],
-    "frequency": [
-      65,
-      22000
-    ],
-    "coverage": "Nearfield",
-    "weightKg": 3.2,
-    "ipRating": "Indoor",
     "image": "speaker_images/GH4_main.jpg",
     "lifestyle": [
       {
         "src": "speaker_images/GH4_2.jpg",
-        "alt": "GH4 studio setup"
+        "alt": "GH4 fixed installation in a professional venue"
       },
       {
         "src": "speaker_images/GH4_3.jpg",
-        "alt": "GH4 driver detail"
+        "alt": "GH4 stainless steel enclosure detail"
       },
       {
         "src": "speaker_images/GH4_4.jpg",
-        "alt": "GH4 control panel"
-      },
+        "alt": "GH4 rear connection panel"
+      }
+    ],
+    "resources": [
       {
-        "src": "speaker_images/GH4_5.png",
-        "alt": "GH4 frequency response"
-      },
-      {
-        "src": "speaker_images/GH4_6.png",
-        "alt": "GH4 polar pattern"
-      },
-      {
-        "src": "speaker_images/GH4_7.png",
-        "alt": "GH4 specifications"
-      },
-      {
-        "src": "speaker_images/GH4_8.png",
-        "alt": "GH4 dimensions"
+        "label": "User manual (GH4)",
+        "href": "KGEAR_GH4_UG_v.5.pdf"
       }
     ]
   },
@@ -970,28 +711,6 @@
       "Broadcast",
       "Mastering suites"
     ],
-    "specs": [
-      "Type: DSP-enhanced active studio monitor",
-      "Transducers: 4\" precision woofer + 1\" silk dome tweeter",
-      "Frequency response 60 Hz - 22 kHz (-3 dB)",
-      "Max SPL 108 dB with room correction",
-      "Advanced DSP with room tuning presets",
-      "Digital AES/EBU and analog inputs",
-      "Network control and monitoring",
-      "Dimensions 165 x 245 x 195 mm, weight 3.8 kg each"
-    ],
-    "keyStats": [
-      "108 dB with DSP",
-      "Room correction",
-      "Network control"
-    ],
-    "frequency": [
-      60,
-      22000
-    ],
-    "coverage": "Nearfield",
-    "weightKg": 3.8,
-    "ipRating": "Indoor",
     "image": "speaker_images/GH4A_main.jpg",
     "lifestyle": [
       {
@@ -1027,28 +746,6 @@
       "Reference listening",
       "Quality control"
     ],
-    "specs": [
-      "Type: Reference-grade active studio monitor",
-      "Transducers: 4\" reference woofer + 1\" beryllium dome tweeter",
-      "Frequency response 55 Hz - 25 kHz (-1 dB)",
-      "Max SPL 110 dB with reference accuracy",
-      "Ultra-low distortion bi-amped design",
-      "Precision balanced inputs with reference level",
-      "Temperature-compensated protection circuits",
-      "Dimensions 165 x 245 x 195 mm, weight 4.1 kg each"
-    ],
-    "keyStats": [
-      "110 dB reference",
-      "55 Hz - 25 kHz",
-      "Beryllium tweeter"
-    ],
-    "frequency": [
-      55,
-      25000
-    ],
-    "coverage": "Nearfield",
-    "weightKg": 4.1,
-    "ipRating": "Indoor",
     "image": "speaker_images/GH4R_main.jpg",
     "lifestyle": [
       {
@@ -1084,28 +781,6 @@
       "Character monitoring",
       "Hybrid workflows"
     ],
-    "specs": [
-      "Type: Transformer-coupled reference monitor",
-      "Transducers: 4\" reference woofer + 1\" beryllium dome tweeter",
-      "Frequency response 55 Hz - 25 kHz (-1 dB)",
-      "Max SPL 110 dB with transformer character",
-      "Premium transformer-coupled input stage",
-      "Vintage/modern mode switching",
-      "Hand-matched driver pairs",
-      "Dimensions 165 x 245 x 195 mm, weight 4.5 kg each"
-    ],
-    "keyStats": [
-      "110 dB reference",
-      "Transformer coupling",
-      "Vintage character"
-    ],
-    "frequency": [
-      55,
-      25000
-    ],
-    "coverage": "Nearfield",
-    "weightKg": 4.5,
-    "ipRating": "Indoor",
     "image": "speaker_images/GH4RT_main.jpg",
     "lifestyle": [
       {
@@ -1141,28 +816,6 @@
       "Stage wedges",
       "Mobile studios"
     ],
-    "specs": [
-      "Type: Live-optimized active monitor",
-      "Transducers: 4\" tour-grade woofer + 1\" titanium dome tweeter",
-      "Frequency response 70 Hz - 20 kHz (-3 dB)",
-      "Max SPL 112 dB with stage optimization",
-      "Rugged touring construction",
-      "Multiple monitor mix inputs",
-      "High-power amplification with limiting",
-      "Dimensions 165 x 245 x 195 mm, weight 3.9 kg each"
-    ],
-    "keyStats": [
-      "112 dB live",
-      "Tour construction",
-      "Stage optimization"
-    ],
-    "frequency": [
-      70,
-      20000
-    ],
-    "coverage": "Nearfield",
-    "weightKg": 3.9,
-    "ipRating": "Touring",
     "image": "speaker_images/GH4LIVE_main.jpg",
     "lifestyle": [
       {
@@ -1198,28 +851,6 @@
       "Mixing suites",
       "Post production"
     ],
-    "specs": [
-      "Type: Active 2.1 studio monitoring system",
-      "Satellites: 2 x GH4 monitors (4\" + 1\" each)",
-      "Subwoofer: 12\" active sub with 150 W amplification",
-      "System frequency response 35 Hz - 22 kHz",
-      "Crossover at 80 Hz with variable control",
-      "Individual satellite and sub level controls",
-      "Comprehensive connectivity and bypass options",
-      "System weight: satellites 6.4 kg, sub 18.5 kg"
-    ],
-    "keyStats": [
-      "35 Hz extension",
-      "2.1 system",
-      "150 W subwoofer"
-    ],
-    "frequency": [
-      35,
-      22000
-    ],
-    "coverage": "Full-range",
-    "weightKg": 24.9,
-    "ipRating": "Indoor",
     "image": "speaker_images/GH412_main.jpg",
     "lifestyle": [
       {
@@ -1255,28 +886,6 @@
       "Large studios",
       "Mixing consoles"
     ],
-    "specs": [
-      "Type: Active midfield studio monitor",
-      "Transducers: 8\" precision woofer + 1.5\" compression driver",
-      "Frequency response 40 Hz - 22 kHz (-3 dB)",
-      "Max SPL 118 dB with midfield projection",
-      "Bi-amped design: 120 W woofer + 60 W tweeter",
-      "Multiple input options with level matching",
-      "Room position and proximity compensation",
-      "Dimensions 285 x 445 x 325 mm, weight 12.8 kg each"
-    ],
-    "keyStats": [
-      "118 dB midfield",
-      "40 Hz - 22 kHz",
-      "120 W woofer"
-    ],
-    "frequency": [
-      40,
-      22000
-    ],
-    "coverage": "Midfield",
-    "weightKg": 12.8,
-    "ipRating": "Indoor",
     "image": "speaker_images/GH8_main.jpg",
     "lifestyle": [
       {
@@ -1336,28 +945,6 @@
       "Mixing studios",
       "Mastering suites"
     ],
-    "specs": [
-      "Type: Active farfield studio monitor",
-      "Transducers: 12\" precision woofer + 2\" compression driver",
-      "Frequency response 32 Hz - 22 kHz (-3 dB)",
-      "Max SPL 125 dB with farfield projection",
-      "Tri-amped design with dedicated midrange",
-      "Professional XLR inputs with calibrated levels",
-      "Advanced room correction and time alignment",
-      "Dimensions 385 x 585 x 425 mm, weight 28.5 kg each"
-    ],
-    "keyStats": [
-      "125 dB farfield",
-      "32 Hz extension",
-      "Tri-amped design"
-    ],
-    "frequency": [
-      32,
-      22000
-    ],
-    "coverage": "Farfield",
-    "weightKg": 28.5,
-    "ipRating": "Indoor",
     "image": "speaker_images/GH12_main.jpg",
     "lifestyle": [
       {
@@ -1393,28 +980,6 @@
       "Portable sound",
       "Weather-exposed installs"
     ],
-    "specs": [
-      "Type: Weather-resistant portable speaker",
-      "Transducers: 6.5\" marine-grade woofer + 1\" titanium dome tweeter",
-      "Frequency response 55 Hz - 18 kHz (-6 dB)",
-      "Max SPL 110 dB with outdoor projection",
-      "IP65 weather resistance rating",
-      "Multiple input options with volume control",
-      "Rechargeable battery with 8-hour runtime",
-      "Dimensions 250 x 380 x 200 mm, weight 4.8 kg"
-    ],
-    "keyStats": [
-      "110 dB outdoor",
-      "IP65 rated",
-      "8-hour battery"
-    ],
-    "frequency": [
-      55,
-      18000
-    ],
-    "coverage": "Outdoor",
-    "weightKg": 4.8,
-    "ipRating": "IP65",
     "image": "speaker_images/GG6_main.jpg",
     "lifestyle": [
       {
@@ -1458,28 +1023,6 @@
       "Premium venues",
       "Tower arrays"
     ],
-    "specs": [
-      "Type: Three-way tower speaker for architectural installation",
-      "Transducers: 12\" woofer + 5.25\" midrange + 1\" silk dome tweeter",
-      "Frequency response 38 Hz - 20 kHz (-6 dB)",
-      "Max SPL 120 dB with point-source clarity",
-      "Coverage 60 deg H x 40 deg V",
-      "Power handling 300 W (8 ohm)",
-      "Premium architectural finish options",
-      "Dimensions 350 x 1200 x 280 mm, weight 24.5 kg"
-    ],
-    "keyStats": [
-      "120 dB max",
-      "38 Hz extension",
-      "Three-way design"
-    ],
-    "frequency": [
-      38,
-      20000
-    ],
-    "coverage": "60 deg H x 40 deg V",
-    "weightKg": 24.5,
-    "ipRating": "Indoor",
     "image": "speaker_images/GT12_main.png",
     "lifestyle": [
       {

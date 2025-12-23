@@ -1,60 +1,106 @@
 [
-  {
-    "slug": "fa-x4t",
-    "name": "Frogis FA-X4T",
-    "headline": "Two way 4 inch Mini Line Array Speaker System",
-    "description": "A compact two-way mini line-array module with an aluminum die-cast enclosure, built for clear speech and controlled coverage in tight spaces and AV installs.",
-    "story": "FA-X4T combines a rugged all-weather aluminum body with neodymium transducers for a high performance-to-size ratio. It is designed for small theatres, workshops, auditoriums and audio-visual installations where controlled directivity and tidy rigging matter.",
-    "definition": "Two-way 4-inch mini line-array speaker module with neodymium tweeters and neodymium woofer in an aluminum die-cast enclosure.",
-    "series": "High Performance array speaker systems",
-    "category": "High Performance array speaker systems",
-    "finish": "Aluminum die-cast enclosure",
-    "collaboration": "Frogis Professional",
-    "power": "Passive",
-    "type": "Mini line array module",
-    "drivers": "1×4” neodymium woofer + 3× neodymium tweeters",
-    "features": [
-      "Good ratio of performance to product size",
-      "Flat Amplitude and Phase Response",
-      "Aluminum die casting shell suitable for all-weather and outdoor use",
-      "Waterproof grade IPX6"
-    ],
-    "applications": [
-      "Clubs",
-      "Churches",
-      "School",
-      "Sound reinforcement for tight space",
-      "Small size theaters",
-      "Concerts",
-      "Auditoriums",
-      "Workshops",
-      "Audio-visual installations"
-    ],
-    "specs": [
-      "Frequency response: 100Hz-20KHz(-10dB)",
-      "Sensitivity(1W/1m): 90dB",
-      "Maximum SPL: 103dB",
-      "Impedance: 8 Ohm",
-      "Coverage: Horizontal 120° / Vectical 20°",
-      "Attachment Points: Adjustable Rigging system & Vertical Splay in 0°- 4°- 8°- 12°increments from 0°- 12°",
-      "Drivers: Mid-low 1x4” Neodymium woofer with 1” Voice Coil (8Ω); Tweeter 3 x Neodymium Tweeter with 0.5” Voice Coil (8Ω)",
-      "Max Power: 120W",
-      "Rated Power: 60W",
-      "Crossover: Build-in Crossover",
-      "Crossover Frequency: 3.0Khz",
-      "Parallel or Series: 6.3mm Socket / Selection Switch",
-      "Weight: 1.46Kg / 3.22 lbs",
-      "Dimensions W x H x L: 141 x 170 x 162 mm / 5.55” x 6.69” x 6.38”"
-    ],
-    "image": "FA-X4T_main.jpg",
-    "lifestyle": [
-      {
-        "src": "FA-X4T_1.jpg",
-        "alt": "FA-X4T mini line array module front view",
-        "caption": "A compact, all-weather mini array module for clean coverage in tight architectural spaces."
-      }
-    ]
-  },
+ {
+  "slug": "fa-x4t",
+  "name": "Frogis FA-X4T",
+  "headline": "Two-way 4\" mini line array speaker module",
+  "definition": "Two-way 4-inch mini line-array speaker module with neodymium drivers housed in an aluminum die-cast enclosure.",
+  "description": "FA-X4T is a compact two-way mini line-array module engineered for clear speech and controlled coverage in space-restricted AV and sound reinforcement applications. Its rigid aluminum enclosure and efficient driver layout ensure reliable performance in demanding environments.",
+  "story": "Designed to deliver a high performance-to-size ratio, FA-X4T combines an all-weather aluminum die-cast body with neodymium transducers. It is well suited for small theatres, auditoriums, workshops, and audio-visual installations where precise directivity, compact form, and clean rigging are essential.",
+  "series": "High Performance array speaker systems",
+  "category": "High Performance array speaker systems",
+  "finish": "Aluminum die-cast enclosure",
+  "collaboration": "Frogis Professional",
+  "power": "Passive",
+  "type": "Mini line array module",
+
+  "drivers": "1 × 4\" neodymium woofer + 3 × neodymium tweeters",
+
+  "features": [
+    "High performance-to-size ratio",
+    "Flat amplitude and phase response",
+    "All-weather aluminum die-cast enclosure",
+    "Waterproof construction rated IPX6"
+  ],
+
+  "applications": [
+    "Clubs",
+    "Churches",
+    "Schools",
+    "Small theatres",
+    "Concerts",
+    "Auditoriums",
+    "Workshops",
+    "Audio-visual installations",
+    "Sound reinforcement in tight spaces"
+  ],
+
+  "image": "FA-X4T_main.jpg",
+
+  "lifestyle": [
+    {
+      "src": "FA-X4T_1.jpg",
+      "alt": "FA-X4T mini line array module front view",
+      "caption": "A compact, all-weather mini array module designed for controlled coverage in architectural spaces."
+    }
+  ],
+
+  "specGroups": [
+    {
+      "title": "Performance",
+      "items": [
+        { "label": "Frequency Response", "value": "100 Hz – 20 kHz (-10 dB)" },
+        { "label": "Sensitivity", "value": "90 dB (1 W / 1 m)" },
+        { "label": "Maximum SPL", "value": "103 dB" },
+        { "label": "Coverage", "value": "Horizontal 120° / Vertical 20°" }
+      ]
+    },
+    {
+      "title": "Power & Electrical",
+      "items": [
+        { "label": "Impedance", "value": "8 Ω" },
+        { "label": "Rated Power", "value": "60 W" },
+        { "label": "Maximum Power", "value": "120 W" },
+        { "label": "Crossover", "value": "Built-in crossover at 3.0 kHz" }
+      ]
+    },
+    {
+      "title": "Drivers",
+      "items": [
+        {
+          "label": "Woofer",
+          "value": "1 × 4\" neodymium woofer with 1\" voice coil (8 Ω)"
+        },
+        {
+          "label": "Tweeters",
+          "value": "3 × neodymium tweeters with 0.5\" voice coils (8 Ω)"
+        }
+      ]
+    },
+    {
+      "title": "Installation & Rigging",
+      "items": [
+        {
+          "label": "Rigging",
+          "value": "Adjustable rigging system with vertical splay options at 0°, 4°, 8°, and 12°"
+        },
+        {
+          "label": "Connection",
+          "value": "6.3 mm socket with parallel / series selection switch"
+        }
+      ]
+    },
+    {
+      "title": "Physical & Protection",
+      "items": [
+        { "label": "Dimensions (W × H × L)", "value": "141 × 170 × 162 mm" },
+        { "label": "Weight", "value": "1.46 kg (3.22 lb)" },
+        { "label": "Enclosure", "value": "Aluminum die-cast" },
+        { "label": "IP Rating", "value": "IPX6" }
+      ]
+    }
+  ]
+}
+,
   {
     "slug": "fa-2x6t",
     "name": "Frogis FA-2X6T",

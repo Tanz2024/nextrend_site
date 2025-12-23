@@ -14,8 +14,8 @@ export type FrogisProduct = {
   headline: string;
   description: string;
   story: string;
-  series: FrogisCategory; // used as filter
-  category: FrogisCategory; // product category
+  series?: FrogisCategory; // used as filter
+  category?: FrogisCategory; // product category
   finish: string;
   collaboration: string;
   power?: string;
@@ -29,6 +29,10 @@ export type FrogisProduct = {
     caption?: string;
   }>;
   specs: string[]; // features + applications + notes
+  specGroups?: Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
   resources?: Array<{ label: string; href: string }>;
   definition?: string;
   features?: string[];

@@ -12,8 +12,8 @@ export type KGearProduct = {
   description: string;
   story: string;
   definition: string;
-  series: string;
-  category: "Systems" | "Speakers" | "Subwoofers";
+  series?: string;
+  category?: "Systems" | "Speakers" | "Subwoofers" | string;
   finish: string;
   collaboration: "Active" | "Passive" | "Transformer" | string;
   power: "Active" | "Passive" | string;
@@ -21,6 +21,10 @@ export type KGearProduct = {
   video?: string;
   lifestyle: Array<{ src: string; alt: string; caption?: string }>;
   specs: string[];
+  specGroups?: Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
   resources?: Array<{ label: string; href: string }>;
   applications?: string[];
   type?: string;
@@ -126,6 +130,36 @@ const normalizeResources = (value: unknown) => {
     .filter(Boolean) as Array<{ label: string; href: string }>;
 };
 
+const normalizeSpecGroups = (value: unknown) => {
+  if (!Array.isArray(value)) return [];
+
+  return value
+    .map((group) => {
+      if (!group || typeof group !== "object") return null;
+      const record = group as Record<string, unknown>;
+      const title = asString(record.title).trim();
+      const items = Array.isArray(record.items)
+        ? record.items
+            .map((item) => {
+              if (!item || typeof item !== "object") return null;
+              const entry = item as Record<string, unknown>;
+              const label = asString(entry.label).trim();
+              const value = asString(entry.value).trim();
+              if (!label && !value) return null;
+              return { label, value };
+            })
+            .filter(Boolean)
+        : [];
+
+      if (!title && items.length === 0) return null;
+      return { title, items };
+    })
+    .filter(Boolean) as Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
+};
+
 const mapProducts = (items: unknown) =>
   asArray(items).map((item) => {
     const record = (item && typeof item == "object") ? (item as Record<string, unknown>) : {};
@@ -141,8 +175,8 @@ const mapProducts = (items: unknown) =>
       description: asString(record.description),
       story: asString(record.story),
       definition: asString(record.definition),
-      series: asString(record.series),
-      category: asString(record.category) as KGearProduct["category"],
+      series: asString(record.series).trim() || undefined,
+      category: asString(record.category).trim() || undefined,
       finish: asString(record.finish),
       collaboration: asString(record.collaboration),
       power: asString(record.power),
@@ -150,6 +184,7 @@ const mapProducts = (items: unknown) =>
       video: asString(record.video) ? buildKGearUrl(asString(record.video)) : undefined,
       lifestyle: mapLifestyle(record.lifestyle, name || "KGEAR"),
       specs: asStringArray(record.specs),
+      specGroups: normalizeSpecGroups(record.specGroups),
       resources: resources.length ? resources : undefined,
       applications: asStringArray(record.applications),
       type: asString(record.type) || undefined,

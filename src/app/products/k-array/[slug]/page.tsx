@@ -125,6 +125,38 @@ export default function ProductPage({ params }: Props) {
   const next = index < productData.length - 1 ? productData[index + 1] : null;
 
   const specs = useMemo(() => cleanList(product.specs || []), [product.specs]);
+  const specGroups = useMemo(() => {
+    const raw = (product as any).specGroups;
+    if (!Array.isArray(raw)) return [];
+    return raw
+      .map((group, index) => {
+        if (!group || typeof group !== "object") return null;
+        const title =
+          typeof (group as any).title === "string"
+            ? (group as any).title.trim()
+            : "";
+        const items = Array.isArray((group as any).items)
+          ? (group as any).items
+              .map((item: any) => {
+                if (!item || typeof item !== "object") return null;
+                const label =
+                  typeof item.label === "string" ? item.label.trim() : "";
+                const value =
+                  typeof item.value === "string" ? item.value.trim() : "";
+                if (!label && !value) return null;
+                return { label, value };
+              })
+              .filter(Boolean)
+          : [];
+
+        if (!title && items.length === 0) return null;
+        return { title, items };
+      })
+      .filter(Boolean) as Array<{
+      title: string;
+      items: Array<{ label: string; value: string }>;
+    }>;
+  }, [product]);
   const features = useMemo(
     () => cleanList(product.features || []),
     [product.features]
@@ -172,7 +204,7 @@ export default function ProductPage({ params }: Props) {
       items: string[] | Array<{ label: string; href: string }>;
     }> = [];
 
-    if (specs.length) {
+    if (specs.length || specGroups.length) {
       sections.push({
         key: "specifications",
         label: "Specifications",
@@ -209,7 +241,7 @@ export default function ProductPage({ params }: Props) {
     }
 
     return sections;
-  }, [specs, features, applications, resources]);
+  }, [specs, specGroups, features, applications, resources]);
 
   const [activeSection, setActiveSection] = useState<string | null>(null);
 
@@ -293,13 +325,39 @@ export default function ProductPage({ params }: Props) {
     yellow: "Yellow",
   };
 
-  const finishLabel =
-    (activeFinish?.key && finishLabels[activeFinish.key]) ||
-    activeFinish?.name ||
-    (finishes?.[0]?.key && finishLabels[finishes[0].key]) ||
-    finishes?.[0]?.name ||
-    product.series ||
-    "Edition";
+const finishLabel =
+  (activeFinish?.key && finishLabels[activeFinish.key]) ||
+  activeFinish?.name ||
+  (finishes?.[0]?.key && finishLabels[finishes[0].key]) ||
+  finishes?.[0]?.name ||
+  product.finish ||     // ✅ use product.finish for single-finish products
+  "";
+
+
+  const technicalSpecs = useMemo(() => {
+    const items: Array<{ label: string; value: string }> = [];
+
+    const generalRegulation =
+      (typeof (product as any).regulation === "string" &&
+        (product as any).regulation.trim()) ||
+      (typeof product.ipRating === "string" && product.ipRating.trim()) ||
+      "";
+
+    if (generalRegulation) {
+      items.push({ label: "General regulation", value: generalRegulation });
+    }
+
+    const finishValue =
+      (typeof activeFinish?.name === "string" && activeFinish.name.trim()) ||
+      (typeof product.finish === "string" && product.finish.trim()) ||
+      "";
+
+    if (finishValue) {
+      items.push({ label: "Handle finish", value: finishValue });
+    }
+
+    return items;
+  }, [product, activeFinish]);
 
   function ColorPalette({ compact = false }: { compact?: boolean }) {
     if (!hasVariants || !activeFinish) return null;
@@ -765,13 +823,13 @@ const onLightboxTouchEnd = () => {
   }, []);
 
   const PremiumSection = ({
-    items,
-    mode,
-  }: {
-    items: string[];
-    mode: string;
-  }) => {
-    if (!items.length) return null;
+      items,
+      mode,
+    }: {
+      items: string[];
+      mode: string;
+    }) => {
+      if (!items.length) return null;
 
     const sharedStyle = {
       textSize: "text-[0.85rem] sm:text-[0.94rem] lg:text-[1.02rem]",
@@ -822,12 +880,86 @@ const onLightboxTouchEnd = () => {
   </ul>
 </m.div>
 
-    );
-  };
+      );
+    };
 
-  const ResourcesSection = ({
-  items,
+   const SpecGroupsLayer = ({
+  groups,
 }: {
+  groups: Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
+}) => {
+  if (!groups.length) return null;
+
+  return (
+    <m.div
+      initial={{ opacity: 0, y: 12, filter: "blur(6px)" }}
+      whileInView={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+      viewport={{ once: true, amount: 0.35 }}
+      transition={{ duration: 0.9, ease: [0.19, 1.0, 0.22, 1.0] }}
+className="w-full pt-6 sm:pt-7 lg:pt-8"
+
+
+    >
+      {/* ✅ responsive two-column layout */}
+ <div className="grid gap-10 md:grid-cols-2 md:gap-x-9 lg:gap-x-10 2xl:gap-x-12">
+
+
+        {groups.map((group, index) => {
+          const title = group.title || "Specifications";
+          return (
+            <section
+              key={`${title}-${index}`}
+              className="min-w-0"
+            >
+              {/* header like the reference */}
+           <div>
+  <div className="text-[0.82rem] font-[600] tracking-[0.02em] text-[#1A1A1A]/85 uppercase">
+    {title}
+  </div>
+ <div className="mt-4 h-px w-full bg-black/10" />
+
+</div>
+
+
+              {/* rows */}
+              <dl className="mt-5 space-y-4">
+                {(group.items || []).map((item, idx) => (
+               <div
+  key={`${item.label}-${idx}`}
+className="grid grid-cols-[10.5rem_minmax(0,1fr)] gap-x-6 gap-y-1
+           sm:grid-cols-[11.5rem_minmax(0,1fr)]
+          xl:grid-cols-[12.5rem_minmax(0,1fr)]
+2xl:grid-cols-[13rem_minmax(0,1fr)] 2xl:gap-x-7"
+
+>
+
+     <dt className="text-[15px] leading-[1.9] font-[600] text-black/70 normal-case tracking-[0]">
+  {item.label}:
+</dt>
+
+<dd className="text-[15px] leading-[1.9] font-[400] text-black/55 break-words">
+  {item.value}
+</dd>
+
+
+                  </div>
+                ))}
+              </dl>
+            </section>
+          );
+        })}
+      </div>
+    </m.div>
+  );
+};
+
+  
+    const ResourcesSection = ({
+    items,
+  }: {
   items: Array<{ label: string; href: string }>;
 }) => {
   if (!items.length) return null;
@@ -923,7 +1055,8 @@ const onLightboxTouchEnd = () => {
           ["--tile-shadow" as any]: "0 18px 48px rgba(0,0,0,0.08)",
         }}
       >
-        <section className="relative z-10 mx-auto w-full max-w-[1280px] px-4 pb-8 pt-4 sm:px-6 sm:pb-16 sm:pt-8 md:px-12 md:pb-20 md:pt-12 lg:px-20">
+<section className="relative z-10 mx-auto w-full max-w-[1280px] px-4 pb-8 pt-4 sm:px-6 sm:pb-16 sm:pt-8 md:px-12 md:pb-20 md:pt-12 lg:px-20 2xl:max-w-[1560px] 2xl:px-24">
+
           {/* breadcrumbs */}
           <m.nav
             {...fadeUp}
@@ -1184,7 +1317,7 @@ const onLightboxTouchEnd = () => {
                 {...fadeUp}
                 className="text-[9px] sm:text-[10px] lg:text-[11px] uppercase tracking-[0.24em] sm:tracking-[0.32em] text-[#7f7460]"
               >
-                {product.series} · {finishLabel} · {product.collaboration}
+                {product.series} / {product.collaboration}
               </m.p>
 
               <m.h1
@@ -1221,7 +1354,9 @@ const onLightboxTouchEnd = () => {
           <section className="mt-10 sm:mt-12 lg:mt-14">
             {/* Desktop (tabs) */}
             <div className="hidden md:block">
-              <div className="mb-8 sm:mb-10 lg:mb-12 w-full max-w-[68ch] overflow-x-auto scrollbar-hide">
+         <div className="mb-8 sm:mb-10 lg:mb-12 w-full max-w-[92ch] lg:max-w-[104ch] 2xl:max-w-[120ch] overflow-x-auto scrollbar-hide">
+
+
                 <div className="flex items-center gap-0 min-w-max">
                   {detailSections.map((section, idx) => (
                     <button
@@ -1249,13 +1384,21 @@ const onLightboxTouchEnd = () => {
                 </div>
               </div>
 
-              <div className="w-full max-w-[68ch]">
+<div className="w-full max-w-[92ch] lg:max-w-[104ch] 2xl:max-w-[120ch]">
+
+
                 <AnimatePresence mode="wait">
                   {activeDetail?.type === "list" && (
-                    <PremiumSection
-                      items={activeDetail.items as string[]}
-                      mode={activeDetail.key}
-                    />
+                    <>
+                      <PremiumSection
+                        items={activeDetail.items as string[]}
+                        mode={activeDetail.key}
+                      />
+                      {activeDetail.key === "specifications" &&
+                        specGroups.length > 0 && (
+                          <SpecGroupsLayer groups={specGroups} />
+                        )}
+                    </>
                   )}
                   {activeDetail?.type === "resources" && (
                     <ResourcesSection
@@ -1320,10 +1463,16 @@ const onLightboxTouchEnd = () => {
                           >
                             <div className="pt-1">
                               {section.type === "list" && (
-                                <PremiumSection
-                                  items={section.items as string[]}
-                                  mode={section.key}
-                                />
+                                <>
+                                  <PremiumSection
+                                    items={section.items as string[]}
+                                    mode={section.key}
+                                  />
+                                  {section.key === "specifications" &&
+                                    specGroups.length > 0 && (
+                                      <SpecGroupsLayer groups={specGroups} />
+                                    )}
+                                </>
                               )}
                               {section.type === "resources" && (
                                 <ResourcesSection
@@ -1354,7 +1503,8 @@ const onLightboxTouchEnd = () => {
           {/* design story */}
 {product.story && (
   <section className="mt-10 sm:mt-12 lg:mt-16">
-    <div className="mb-8 h-px w-full max-w-[68ch] bg-black/10" />
+<div className="mb-8 h-px w-full max-w-[68ch] bg-black/10 md:hidden" />
+
     <m.div
       variants={motionReady ? storyVariants : undefined}
       initial={motionReady ? "hidden" : undefined}

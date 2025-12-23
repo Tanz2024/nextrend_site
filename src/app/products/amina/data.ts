@@ -12,11 +12,15 @@ export type AminaProduct = {
   headline: string;
   description: string;
   story: string;
-  series: string;
+  series?: string;
   finish: string;
   collaboration: string;
   image: string;
   specs: string[];
+  specGroups?: Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
   applications?: string[];
   features?: string[];
   resources?: Array<{ label: string; href: string }>;
@@ -131,6 +135,36 @@ const normalizeResources = (value: unknown) => {
     .filter(Boolean) as Array<{ label: string; href: string }>;
 };
 
+const normalizeSpecGroups = (value: unknown) => {
+  if (!Array.isArray(value)) return [];
+
+  return value
+    .map((group) => {
+      if (!group || typeof group !== "object") return null;
+      const record = group as Record<string, unknown>;
+      const title = asString(record.title).trim();
+      const items = Array.isArray(record.items)
+        ? record.items
+            .map((item: unknown) => {
+              if (!item || typeof item !== "object") return null;
+              const entry = item as Record<string, unknown>;
+              const label = asString(entry.label).trim();
+              const value = asString(entry.value).trim();
+              if (!label && !value) return null;
+              return { label, value };
+            })
+            .filter(Boolean)
+        : [];
+
+      if (!title && items.length === 0) return null;
+      return { title, items };
+    })
+    .filter(Boolean) as Array<{
+    title: string;
+    items: Array<{ label: string; value: string }>;
+  }>;
+};
+
 const mapProducts = (items: unknown) =>
   asArray(items).map((item) => {
     const record = item && typeof item == "object" ? (item as Record<string, unknown>) : {};
@@ -139,6 +173,7 @@ const mapProducts = (items: unknown) =>
     const image = asString(record.image);
 
     const resources = normalizeResources(record.resources);
+    const specGroups = normalizeSpecGroups(record.specGroups);
 
     return {
       slug,
@@ -146,11 +181,12 @@ const mapProducts = (items: unknown) =>
       headline: asString(record.headline),
       description: asString(record.description),
       story: asString(record.story),
-      series: asString(record.series),
+      series: asString(record.series).trim() || undefined,
       finish: asString(record.finish),
       collaboration: asString(record.collaboration),
       image: buildAminaUrl(image),
       specs: asStringArray(record.specs),
+      specGroups,
       applications: asStringArray(record.applications),
       features: asStringArray(record.features),
       resources: resources.length ? resources : undefined,
