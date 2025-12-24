@@ -1626,8 +1626,6 @@ const onLightboxTouchEnd = () => {
               style={{ fontFamily: '"Playfair Display","Times New Roman",ui-serif,Georgia,serif' }}
             >
               <div className="mb-4 flex items-center gap-3 text-[0.62rem] sm:text-[0.68rem] lg:text-[0.74rem] uppercase tracking-[0.24em] text-[#6f6552]">
-              
-                <span>Scene {String(i + 1).padStart(2, "0")}</span>
               </div>
               <h3 className="text-[clamp(1.4rem,3.8vw,2.3rem)] font-light leading-[1.1] text-[#1A1A1A]">
                 {shot.alt || product.name}

@@ -359,15 +359,15 @@ export function EventDetailView({ detail, summary }: Props) {
                 <h3
                   className={`${cormorant.className} text-[0.9rem] sm:text-[0.95rem] md:text-[1rem] font-semibold uppercase tracking-[0.12em] sm:tracking-[0.14em] text-[#C6AA76]`}
                 >
-                  The Story
+                  Profile
                 </h3>
-                <article className="prose prose-neutral max-w-none prose-p:leading-[1.85] sm:prose-p:leading-[2] md:prose-p:leading-[2.15] prose-p:text-[0.95rem] sm:prose-p:text-[1.05rem] md:prose-p:text-[1.08rem] prose-p:text-[#2A2A2A]">
-                  {detail.profile.map((p) => (
-                    <p key={p} className="font-[300]">
-                      {p}
-                    </p>
-                  ))}
-                </article>
+                <article className="prose prose-neutral max-w-none space-y-6 prose-p:leading-[1.85] sm:prose-p:leading-[2] md:prose-p:leading-[2.15] prose-p:text-[0.95rem] sm:prose-p:text-[1.05rem] md:prose-p:text-[1.08rem] prose-p:text-[#2A2A2A]">
+              {detail.profile.map((p) => (
+                <p key={p} className="font-[300]">
+                  {p}
+                </p>
+              ))}
+            </article>
               </motion.section>
             ) : null}
 
@@ -415,7 +415,7 @@ export function EventDetailView({ detail, summary }: Props) {
                 <h3
                   className={`${cormorant.className} text-[0.9rem] sm:text-[0.95rem] md:text-[1rem] font-semibold uppercase tracking-[0.12em] sm:tracking-[0.14em] text-[#C6AA76]`}
                 >
-                  Moments That Mattered
+                  Event Overview
                 </h3>
                 <article className="prose prose-neutral max-w-none prose-p:leading-[1.85] sm:prose-p:leading-[2] md:prose-p:leading-[2.15] prose-p:text-[0.95rem] sm:prose-p:text-[1.05rem] md:prose-p:text-[1.08rem] prose-p:text-[#2A2A2A]">
                   {detail.additionalNotes.map((p) => (
@@ -483,12 +483,6 @@ export function EventDetailView({ detail, summary }: Props) {
                             </div>
                           </div>
                         </div>
-
-                        <figcaption className="mx-auto max-w-[52rem] px-4 sm:px-0 text-center">
-                          <p className="uppercase text-[#6F6F6F] text-[0.64rem] sm:text-[0.72rem] tracking-[0.18em] sm:tracking-[0.24em]">
-                            {photoAddress}
-                          </p>
-                        </figcaption>
                       </figure>
 
                       {blockText ? (
@@ -531,7 +525,7 @@ export function EventDetailView({ detail, summary }: Props) {
                 <h3
                   className={`${cormorant.className} text-[0.9rem] sm:text-[0.95rem] md:text-[1rem] font-semibold uppercase tracking-[0.12em] sm:tracking-[0.14em] text-[#C6AA76]`}
                 >
-                  What Was Used
+                  Sound System
                 </h3>
                 <ul className="space-y-2.5 sm:space-y-3 text-[0.95rem] sm:text-[1.05rem] leading-[1.9] sm:leading-[2.1] text-[#2A2A2A] list-disc pl-4 sm:pl-5 marker:text-[#C6AA76]/70">
                   {detail.keyProducts.map((p) => (

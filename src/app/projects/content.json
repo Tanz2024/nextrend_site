@@ -41,23 +41,23 @@
         "completion": "December 2021"
       },
       {
-        "title": "Souled Out",
-        "context": "Restaurants and Cafes",
-        "location": "Desa Sri Hartamas, Kuala Lumpur",
-        "profile": "SOULed OUT began in 1996 as a small neighbourhood café in Mont Kiara and moved to its current premise in Desa Sri Hartamas in December 1999. A restaurant that has received numerous accolades and awards over the years, SOULed OUT has served over five million patrons and grown into a well-loved destination with a fun-loving spirit. Its eclectic mix of local, Western, and Northern Indian food and beverages makes it a place where friends and family come together to share good food and camaraderie.",
-        "focus": [
-          "The restaurant’s design prioritizes discretion, requiring speaker cabinets to remain visually unobtrusive to patrons. K-Array speakers excel in such environments. The K-Array Vyper-KV102 integrates seamlessly with the existing LED screen, fitting perfectly within its frame, while the K-Array Thunder-KMT18 is elegantly positioned atop each stone column, complementing the outdoor architectural design."
-        ],
-        "system": {
-          "Restaurant & Outdoor Zones": [
-            "Invisible line array integration for LED screen and dining area",
-            "K-array Pinnacle-KR202 x 2 nos",
-            "K-array Vyper-KV52 x 4 nos",
-            "K-array Kommander-KA14 Power Amplifier"
-          ]
-        },
-        "completion": "October 2021"
-      },
+  "title": "SOULed OUT",
+  "context": "Restaurant & Café",
+  "location": "Desa Sri Hartamas, Kuala Lumpur",
+  "profile": "SOULed OUT began in 1996 as a small neighbourhood café in Mont Kiara and moved to her current premise in Desa Sri Hartamas in December 1999. A restaurants that has received numerous accolades and awards over the years. More than a decade on and having served over 5 million patrons, SOULed OUT has matured into an assured personality with a fun loving spirit. An eclectic mix Local, Western and Northern Indian food and beverages make it a place for friends and family to foster the spirit of friendship and camaraderie.",
+  "focus": [
+    "The restaurant’s design prioritizes discretion, requiring speaker cabinets to remain visually unobtrusive to patrons. K-Array speakers excel in such environments. The K-Array Vyper-KV102 integrates seamlessly with the existing LED screen, fitting perfectly within its frame, while the K-Array Thunder-KMT18 is elegantly positioned atop each stone column, complementing the outdoor architectural design."
+  ],
+  "system": {
+    "Sound System": [
+      "K-Array Thunder-KMT18 x2",
+      "K-Array Vyper-KV52 x4",
+      "K-Array Kommander-KA14 Power Amp"
+    ]
+  },
+  "completion": "October 2021"
+},
+
       {
         "title": "Berjaya Café",
         "context": "Restaurants and Cafes",
@@ -77,93 +77,90 @@
         },
         "completion": "October 2020"
       },
-      {
+          {
         "title": "Sapore Italian Restaurant",
-        "context": "Restaurants and Cafes",
+        "context": "Restaurant & Café",
         "location": "Ampang, Kuala Lumpur",
-        "profile": "Sapore is an Italian and Spanish-Mediterranean restaurant located in Ampang, neighbouring Kuala Lumpur. Led by Chef Fabio Ruggiero from Bari, Italy, the restaurant celebrates authentic Mediterranean flavours in a refined dining setting.",
+        "profile": "Sapore is an Italian, Spanish-Mediterranean Restaurant located at Ampang, the neighbouring city at Kuala Lumpur. Located within 5-10 km away from Suria KLCC. Chef Fabio Ruggiero, originally from Bari, the capital city of southern Italy’s Puglia region, the restaurateur and executive chef, will delight you with great Italian and Spanish food. The restaurant highlight the authentic taste of Italian and Spanish food.",
         "focus": [
-          "An evenly distributed sound system was implemented to deliver immersive yet unobtrusive audio coverage across the dining area, supporting both everyday ambience and flexible operational needs."
+          "Sapore’s interior décor captures the essence of Italian, Spanish, and Mediterranean influences. To provide an even and immersive audio coverage across the dining area, four Frog-Is SMS4-B loudspeakers were deployed in a four-corner distributed configuration. This setup delivers full coverage of the restaurant floor and is complemented by a powerful Frog-Is Sub10P subwoofer to reinforce low-frequency performance.\n\nServing as the system’s control hub, the Frog-Is AMP4D an all-in-one 4-channel Class D DSP amplifier with integrated USB and Bluetooth media playback was implemented to meet the client’s complete audio requirements. Two preset configurations, 2.1 and 4.1, were programmed to allow the client to switch seamlessly between operating modes, providing flexibility for different usage scenarios."
         ],
         "system": {
           "Sound System": [
-            "Frog-Is SMS4-B x 4 nos",
-            "Frog-Is Sub10P x 1 no",
-            "Frog-Is AMP4D x 1 no"
+            "Frog-Is SMS4-B x4",
+            "Frog-Is Sub10P x1",
+            "Frog-Is AMP4D x1"
           ]
         },
         "completion": "2019"
       },
       {
-        "title": "Pop Pizza",
-        "context": "Restaurant · Kuala Lumpur",
-        "location": "Mid Valley Megamall, Kuala Lumpur",
-        "profile": "Step into the world 80’s Pizza where things are on-the-go and fun! Taste pizza from the heart of New York City where every dream is possible. Try authentic Italian flavours mixed with incredible recipes for pizza made just the way you like it, whether its with dashes of soulful salsa or smoky barbeque. Sit back, hang loose and enjoy yourself in this 80’s style diner decorated with neon lights, great service and famous rock n’ roll music.",
-        "focus": [
-          "Consult, Design and Installation",
-          "We provided a simple and easy-to-operate sound system without neglecting high audio quality. Frog-is is the perfect solution for Pop Pizza’s patrons and their staff."
-        ],
-        "system": {
-          "Restaurant": [
-            "Frog-is SMS4-B × 7",
-            "Frog-is Sub10P × 3",
-            "Frog-is Amp 4D × 2"
+          "title": "Pop Pizza",
+          "context": "Restaurant & Café",
+          "location": "Midvalley Megamall, Kuala Lumpur",
+          "profile": "An retro 80’s Style Diner that serves New York Style pizzas decorated with neon lights, providing great service and famous rock n’ roll music.",
+          "focus": [
+            "Ease of operation for staff was a key requirement of this project. To address this, the Frog-Is series was selected as an ideal solution for the client’s audio needs. At the core of the system is the Frog-Is AMP4, an all-in-one 4-channel Class-D DSP amplifier featuring an intuitive built-in USB and Bluetooth media player for background music playback.\n\nSeven Frog-Is SMS4-B loudspeakers were strategically installed throughout the restaurant to ensure even sound coverage, while three Frog-Is Sub10P subwoofers provide sufficient low-frequency reinforcement to deliver a balanced and full-bodied audio experience."
           ],
-          "Notes": [
-            "Frog-is AMP4D: all-in-one 4-channel Class-D DSP amplifier with USB & Bluetooth media player",
-            "Preset options for 2.1 or 4.1 with crossover between tops and subwoofers"
-          ]
-        },
-        "completion": "December 2019"
+          "system": {
+            "Sound System": [
+              "Frog-Is SMS4-B x7",
+              "Frog-Is Sub10P x3",
+              "Frog-Is Amp 4D x2"
+            ]
+          },
+          "completion": "December 2019"
       },
       {
-        "title": "Quivo",
-        "context": "Restaurant · Johor Bahru, Malaysia",
-        "location": "Mid Valley Southkey, Johor Bahru, Malaysia",
-        "profile": "A hidden gem. QUIVO is a Mediterranean-influenced restaurant and bar in chic atmosphere and great service. Fresh, crisp flavours of margaritas, falafel that evokes the Mediterranean street feel plays in tune to sublime and creamy risotto that may have come straight from Italy! Come and dive straight into the depth of Mediterranean cuisine, mingle around you never know who you will find!",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "K-array KK102 – Stainless steel line array element with 2” drivers",
-            "K-array KU212 – Stainless steel line array bass element",
-            "K-array KV52 – Ultra-miniature aluminium line array element",
-            "K-array KU210 – Stainless steel line array bass element",
-            "Frog-is SMS4 – Two-way surface-mounted speaker",
-            "Frog-is FP8 – Mini self-powered full-range speaker",
-            "K-array KA14 – All-in-one stainless steel amplifier and processor",
-            "K-array KA84 – All-in-one stainless steel amplifier and processor",
-            "Frog-is Amp 4D – 4-channel Class D DSP power amplifier",
-            "Frog-is POW12 – 12-outlet power sequencer",
-            "Frog-is WP2V – Dual-channel UHF wireless handheld microphone",
-            "Yamaha TF-3 Mixer",
-            "Yamaha TIO-1608D Digital I/O Interface"
-          ],
-          "Lighting System": [
-            "12 × Quad 5W LED Parcan",
-            "Moving Head Fixtures",
-            "Lighting Controller: Sunlite Suite 2"
-          ]
-        },
-        "completion": "February 2020"
-      },
+    "title": "Quivo",
+    "context": "Restaurant & Café",
+    "location": "Mid Valley Southkey Quivo, Johor Bahru Malaysia",
+    "profile": "QUIVO is a Mediterranean-influenced restaurant and bar with an elegant chic design. This hidden gem evokes prestige with a colour scheme that accentuates a playful atmosphere. It also offers a semi-outdoor seating area with a space for live music performances.",
+    "focus": [
+      "Quivo required a comprehensive audio and lighting solution to support both an outdoor live performance stage and the surrounding dining areas. To meet these needs, a carefully selected combination of K-Array and Frog-Is products was implemented to serve each application effectively.\n\nIn line with the client’s brief, the live performance stage features a large LED screen that had to remain completely unobstructed. To achieve this, a pair of K-Array Kobra-KK102 loudspeakers and a K-Array Rumble-KU210 subwoofer were strategically positioned on either side of the stage. The slim profile of the KK102 blends seamlessly with the stage aesthetics, while the addition of the KU210 subwoofer provides ample power and a full-range frequency response suitable for both live music and DJ performances. Portable and highly capable Frog-Is FP8 full-range loudspeakers were also deployed as stage monitors for the artists.\n\nComplementing the audio setup, a complete lighting system was installed, comprising professional lighting fixtures, twelve LED PAR cans, and Sunlite Suite 2 lighting control software.\n\nFor the dining areas, a combination of K-Array Vyper-KV52 and Frog-Is SM54 loudspeakers were discreetly installed at key locations to deliver an immersive musical ambience for patrons."
+    ],
+    "system": {
+      "Sound System": [
+        "K-Array KK102 x4",
+        "K-Array KU210 x2",
+        "K-Array KV52 x2",
+        "Frog-Is SMS4 x4",
+        "Frog-Is FP8 x2",
+        "K-Array KA14 x1",
+        "K-Array KA84 x1",
+        "Frog-Is Amp 4D x1",
+        "Frog-Is POW12 x1",
+        "Frog-Is WP2V x2",
+        "Yamaha Mixer TF-3 Series",
+        "Yamaha TIO-1608D"
+      ],
+      "Lighting System": [
+        "Beam 230 x4",
+        "Chauvet DJ SlimPAR Q12 USB x6"
+      ],
+      "Control System": [
+        "DBX ZonePro"
+      ]
+    },
+    "completion": "February 2020"
+  },
       {
-        "title": "Nobu",
-        "context": "Fine dining · KLCC, Malaysia",
-        "location": "KLCC, Malaysia",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "K-array KT2 – 2″ audio speaker carved from aluminium",
-            "Sonab CSW – Subwoofer"
-          ]
-        },
-        "completion": "July 2015"
-      },
+    "title": "Nobu Kuala Lumpur",
+    "context": "Restaurant & Café",
+    "location": "KLCC, Malaysia",
+    "profile": "Nobu Kuala Lumpur is critically-acclaimed fine dining restaurant with South-American influences. Its interior features pristine wooden motif and Japanese influence décor. Nobu Restaurant Kuala Lumpur conveys a sense of relaxed elegance offering high-end experiences and adventurous yet accessible exploring a contemporary Nobu style of Japanese cuisine.",
+    "focus": [
+      "Miniature K-Array Tornado-KT2 loudspeakers were discreetly installed throughout the restaurant to preserve the restaurant’s luxurious design. They deliver immersive and evenly distributed music across the entire dining area without disrupting the interior aesthetics.\n\nSonab CSW wireless subwoofers were also incorporated into the system to provide flexibility to position the subwoofers in optimal locations without interfering with the architectural design of the restaurant."
+    ],
+    "system": {
+      "Sound System": [
+        "K-Array Tornado-KT2",
+        "Sonab CSW Subwoofer"
+      ]
+    },
+    "completion": "July 2015"
+  },
+
       {
         "title": "Atmosphere 360",
         "location": "KL Tower, Malaysia",
@@ -459,98 +456,106 @@
         "completion": " April 2016"
       },
       {
-        "title": "KL BT",
-        "context": "Commercial / corporate · Kuala Lumpur",
-        "focus": [
-          "Corporate/commercial",
-          "Clarity",
-          "Ambient layer"
-        ]
-      }
+  "title": "KL BT",
+  "context": "Residential",
+  "location": "Kuala Lumpur",
+  "profile": "KL BT is a luxury residential neighbourhood in Kuala Lumpur",
+  "focus": [
+    "For this residential project, two Amina AIW1 and ten Amina AIW3 invisible speakers were installed and completely concealed within the ceiling, while delivering high-quality audio. The speakers were carefully spaced to ensure consistent and even sound coverage across the entire floor. Four REL Q108 8-inch active subwoofers were integrated into the space to extend the low-frequency response and create a richer, more immersive listening experience.\n\nThree Audica Microplus 4-channel 40W power amplifiers were used to power all Amina speakers. An Audica MicroZone system was implemented to configure independent audio zones allowing different music sources and volume levels to be controlled in that area."
+  ],
+  "system": {
+    "Sound System": [
+      "Amina AIW1 x2",
+      "Amina AIW3 x10",
+      "REL Q108 x4",
+      "Audica Microplus 4-channel 40W Power Amplifier x3",
+      "Audica MicroZone"
+    ]
+  },
+  "completion": "August 2010"
+}
+
     ],
     "Commercial & Retail": [
       {
-        "title": "Iskandar Malaysia",
-        "context": "Corporate / civic · Johor",
-        "location": "Iskandar Malaysia, Johor",
-        "profile": "Iskandar Malaysia, formerly known as Iskandar Development Region and South Johor Economic Region, is the main southern development corridor in Johor, Malaysia. It was established on 8 November 2006.",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "Amina AIW5 x 4  – Invisible loudspeaker"
-          ]
-        },
-        "completion": "2016"
-      },
+    "title": "Iskandar Malaysia",
+    "context": "Residential",
+    "location": "Iskandar, Johor",
+    "profile": "Iskandar Malaysia, formerly known as Iskandar Development Region and South Johor Economic Region, is the main southern development corridor in Johor, Malaysia. It was established on 8 November 2006.",
+    "focus": [
+      "The client requested a clean installation with all speakers concealed from view. Given the need for discretion, the Amina AIW5 invisible wall loudspeakers were an ideal choice for the space. Four Amina AIW5 units were seamlessly integrated within the walls, delivering ample and evenly distributed sound coverage while fully meeting the client’s aesthetic and performance requirements."
+    ],
+    "system": {
+      "Sound System": [
+        "Amina AIW5 x4"
+      ]
+    },
+    "completion": "2016"
+  },
+
       {
         "title": "Etiqa Insurance and Takaful",
-        "context": "Corporate environment",
-        "location": "Jalan Maarof, Bangsa, Malaysia",
-        "profile": "Etiqa is the insurance and takaful business of the Malaysian banking group Maybank. It offers life and general insurance as well as family and general takaful products through its 14,000 agents, 30 branches and 450 Maybank branches using the bancassurance model. Etiqa Insurance is one of the top conventional insurers in Malaysia by gross premiums written; while Etiqa Takaful is the takaful market leader with 47 percent and 21 percent market shares in general and family takaful respectively in 2014.",
+        "context": "Corporate",
+        "location": "Jalan Maarof, Bangsar, Malaysia",
+        "profile": "Etiqa is the insurance and takaful business of the Malaysian banking group Maybank.\n\nIt offers life and general insurance as well as family and general takaful products through its 14,000 agents, 30 branches and 450 Maybank branches using the bancassurance model.\n\nEtiqa Insurance is one of the top conventional insurers in Malaysia by gross premiums written; while Etiqa Takaful is the takaful market leader with 47 percent and 21 percent market shares in general and family takaful respectively in 2014.",
         "focus": [
-          "Consult, Design and Installation"
+          "The client required a speaker solution that would complement the LED screen without causing visual distraction. As the sound system design called for a discreet approach, the K-Array line array series was an ideal choice for the project.\n\nA pair of K-Array Vyper-KV52 loudspeakers were installed on either side of the LED screen seamlessly integrating with its border and maintaining a clean, unobtrusive appearance. Despite their slim and elegant form factor, the KV52 delivers exceptional sound quality without compromising the visual impact of the display."
         ],
         "system": {
           "Sound System": [
-            "K-array KV52"
+            "K-Array Vyper-KV52 x2"
           ]
         },
         "completion": "September 2019"
       },
       {
-        "title": "Lendlease Site Office",
-        "context": "Corporate site office",
-        "location": "Lendlease, The Exchange TRX, Malaysia",
-        "profile": "Lendlease is a leading international property and infrastructure group, with approximately 12,000 employees internationally. They combine their core capabilities of development, construction, investment and property management across the property value chain to offer innovative and integrated solutions for their clients. Headquartered in Sydney but with over 35 years’ experience in Malaysia, they are proud to have delivered some of the most iconic and award-winning projects locally and globally. Every day, millions of people around the world live, work, shop and play via an asset created by Lendlease.",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Visual System": [
-            "LG 65″ UHD 4K TV"
-          ],
-          "Control System": [
-            "Gefen Matrix Controller",
-            "Gefen HDMI Extender",
-            "Aten HDMI Splitter"
-          ]
-        },
-        "completion": "March 2019"
-      },
+  "title": "Lendlease Site Office",
+  "context": "Corporate & Retail",
+  "location": "Malaysia",
+  "profile": "Lendlease is a leading international property and infrastructure group, with approximately 12,000 employees internationally. We combine our core capabilities of development, construction, investment and property management across the property value chain to offer innovative and integrated solutions for our clients. Headquartered in Sydney but with over 35 years’ experience in Malaysia, we are proud to have delivered some of the most iconic and award-winning projects locally and globally. Every day, millions of people around the world live, work, shop and play via an asset created by Lendlease.",
+  "focus": [
+    "The client requested a comprehensive video solution for their site office, for multiple LCD displays to be installed throughout the space. LG 65” UHD 4K TV was selected for their optimal screen size and exceptional visual clarity, ensuring on-screen content remains clearly visible to all personnel on site.\n\nGefen matrix controller and HDMI extenders were implemented to enable seamless content distribution and control, which allowed centralized management and uniform content playback across all displays within the office."
+  ],
+  "system": {
+    "Video System": [
+      "LG 65” UHD 4K TV",
+      "Gefen Matrix Controller",
+      "HDMI Extenders"
+    ]
+  },
+  "completion": "March 2019"
+},
+
       {
-        "title": "Menara JCorp Lendlease",
-        "context": "Corporate tower",
-        "location": "Lendlease Menara JCorp, Malaysia",
-        "profile": "Lendlease is a leading international property and infrastructure group, with approximately 12,000 employees internationally. They combine their core capabilities of development, construction, investment and property management across the property value chain to offer innovative and intergrated solutions for their clients. Headquartered in Sydney but with with more than 35 years’ experience in Malaysia, they are proud to have delivered some of the most iconic and award-winning projects locally and globally. Every day, millions of people around the world live, work, shop and play via an asset created by Lendlease.",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sound System": [
-            "K-array KT2 x 12 – 2” audio speaker carved from aluminium",
-            "K-array KU26 x 5 – Stainless steel ultra-thin line array bass element"
-          ],
-          "Visual System": [
-            "Samsung 75” Full HD Display",
-            "Samsung 55” Full HD Display",
-            "Samsung 49” Full HD Display",
-            "Gefen HDMI Matrix Switcher",
-            "Extron ShareLink Wireless Presentation"
-          ],
-          "Control System": [
-            "Command Fusion",
-            "DBX ZonePro"
-          ]
-        },
-        "completion": "July 2018"
-      },
-      {
+    "title": "Menara JCorp Lendlease",
+    "context": "Corporate",
+    "location": "Lendlease Menara JCorp, Malaysia",
+    "profile": "Lendlease is a leading international property and infrastructure group, with approximately 12,000 employees internationally. We combine our core capabilities of development, construction, investment and property management across the property value chain to offer innovative and integrated solutions for our clients. Headquartered in Sydney but with more than 35 years’ experience in Malaysia, we are proud to have delivered some of the most iconic and award-winning projects locally and globally. Every day, millions of people around the world live, work, shop and play via an asset created by Lendlease.",
+    "focus": [
+      "This project required a comprehensive audio-visual solution encompassing a fully integrated sound system, multiple LCD display installations, and a robust centralised control system.\n\nThe space features an industrial-modern design with exposed steel beams spanning the ceiling. Taking these architectural elements into consideration, K-Array Tornado-KT2 loudspeakers were selected for their compact form factor and versatile mounting options. A total of twelve KT2 units were strategically installed on walls and steel beams to deliver consistent audio coverage and balanced tonal performance throughout the space. Low-frequency reinforcement was provided by five K-Array Rumble KU26 subwoofers, ensuring depth and impact across the audio spectrum.\n\nFor visual display, three Samsung Full HD LCD screens of varying sizes were installed to suit their respective locations within the venue. A Gefen matrix switcher was implemented to route audio and video signals from multiple sources to the displays, enabling flexible content management.\n\nDigital audio processing was handled by a DBX ZonePro system to ensure consistent output levels and tonal balance across all loudspeakers. To complete the installation, CommandFusion control system was utilized to provide intuitive and centralised control of the entire AV system."
+    ],
+    "system": {
+      "Sound System": [
+        "K-Array KT2 x12",
+        "K-Array KU26 x5"
+      ],
+      "Visual System": [
+        "Samsung 75” Full HD Display",
+        "Samsung 55” Full HD Display",
+        "Samsung 49” Full HD Display",
+        "Gefen HDMI Matrix Switcher",
+        "Extron ShareLink Wireless Presentation",
+        "Command Fusion",
+        "DBX ZonePro"
+      ]
+    },
+    "completion": "July 2018"
+  },
+          {
         "title": "Maxis Communications",
-        "context": "Corporate",
+        "context": "Corporate & Retail",
         "location": "Sentral, Kuala Lumpur",
-        "profile": "-",
+        "profile": "Maxis is one of the largest and oldest telecommunications provider in Malaysia. Known for its extensive network coverage across the country, it has cemented itself as one of the key players in Malaysia telecom industry.",
         "focus": [
           "Consult, Design and Installation"
         ],
@@ -733,16 +738,16 @@
       },
       {
         "title": "Ermenegildo Zegna",
-        "context": "Luxury menswear retail",
+        "context": "Corporate & Retail",
         "location": "KLCC, Malaysia",
-        "profile": "-",
+        "profile": "Ermengildo Zegna is a luxury menswear retailer located in KLCC. The premium outlet exudes prestige and status following the Company’s founding principle of embodying purpose, precision and elegance.",
         "focus": [
-          "Consult, Design and Installation"
+          "The cutting-edge Amina AIW1 invisible speakers were installed behind the walls of the store to preserve the store’s luxurious atmosphere. The speakers were perfectly concealed and delivered an immersive soundscape throughout the space. The compact REL Q108 premium subwoofer was integrated to the system to enhance low-frequency performance adding depth and warmth without compromising the store’s refined aesthetic."
         ],
         "system": {
           "Sound System": [
-            "Amina AIW1 – Invisible Speaker",
-            "REL Q108 – Subwoofer"
+            "Amina AIW1",
+            "REL Q108"
           ]
         },
         "completion": "November 2007"
@@ -796,46 +801,42 @@
         "completion": "Completed June 2022"
       },
       {
-        "title": "SJKC SOO",
-        "context": "Multipurpose school hall · Kapar, Malaysia",
-        "location": "Kapar, Malaysia",
-        "profile": "SJK(C) Soo Jin is a primary school in Pekan Kapar with a multipurpose hall the size of three badminton courts. The upgrade brief called for an affordable yet high-quality sound system that could fully cover the hall for school events, assemblies and performances.",
-        "focus": [
-          "Consult, Design and Installation",
-          "Budget-conscious hall reinforcement without compromising speech clarity or musical impact.",
-          "Full-coverage system using a compact combination of front-of-house and delay loudspeakers."
-        ],
-        "system": {
-          "Sound System": [
-            "Frog-is FP15p – Large format passive full range 15” speaker",
-            "Frog-is FP12p – Compact passive full range 12” speaker",
-            "Frog-is FP8p – Mini passive full range 8” speaker",
-            "Frog-is FI-Amp8 – 8 channel bridgeable Class D power amplifier"
-          ],
-          "Control System": [
-            "DBX DriveRack"
-          ]
-        },
-        "completion": "August 2018"
-      },
+  "title": "SJK(C) Soo Jin Multipurpose Hall",
+  "context": "Auditorium & Sport Venues",
+  "location": "Pekan Kapar, Malaysia",
+  "profile": "SJK(C) Soo Jin is a primary school in Pekan Kapar with a multipurpose hall the size of three badminton courts that also functions as a space for school events, assemblies and performances, which requires an upgraded audio systems.",
+  "focus": [
+    "The upgrade brief from the client called for an affordable sound system capable of delivering full coverage throughout the hall without compromising speech clarity or musical impact.\n\nWith these budget considerations in mind, a Frog-Is loudspeaker system was designed and implemented for the multipurpose hall. Two Frog-Is FP15P 15-inch full-range loudspeakers were installed at front-of-house on either side of the stage, providing primary sound reinforcement. These were supported by two Frog-Is FP12P 12-inch loudspeakers positioned mid-hall and two Frog-Is FP8P 8-inch full-range loudspeakers installed at the rear of the space.\n\nBy incorporating these delayed loudspeakers, a consistent audio coverage was achieved across the entire hall, ensuring clear speech and impactful sound for a wide range of events."
+  ],
+  "system": {
+    "Sound System": [
+      "Frog-Is FP15P x2",
+      "Frog-Is FP12P x2",
+      "Frog-Is FP8P x2",
+      "Frog-Is FI-AMP8"
+    ]
+  },
+  "completion": "August 2018"
+},
+
       {
-        "title": "TZU CHI INTERNATIONAL SCHOOL",
-        "context": "International school auditorium · Bukit Jalil, Malaysia",
-        "location": "Tzu Chi International School, Bukit Jalil, Malaysia",
-        "profile": "Tzu Chi International School (TCISKL) offers the Cambridge curriculum together with Tzu Chi’s humanistic lessons on a 7.67-acre campus. This project focused on delivering powerful, controlled sound reinforcement for two auditoriums used for assemblies, performances and events.",
-        "focus": [
-          "Consult and Supply",
-          "High-output, controlled-coverage systems for Auditorium 1 and Auditorium 2.",
-          "Consistent speech intelligibility and musical impact across every seat."
-        ],
-        "system": {
-          "Sound System": [
-            "Auditorium 1: 2 sets of K-array Axle KRX402",
-            "Auditorium 2: 2 sets of K-array Pinnacle KR202"
-          ]
-        },
-        "completion": "February 2020"
-      },
+    "title": "Tzu Chi International School",
+    "context": "Auditorium & Sport Venues",
+    "location": "Bandar Kinrara, Malaysia",
+    "profile": "Tzu Chi International School (TCISKL), located on a 7.67 acres site between Bandar Kinrara 9 and Bukit Jalil offers the Cambridge curriculum in conjunction with Tzu Chi’s humanistic lessons.",
+    "focus": [
+      "The primary objective of the audio system design was to deliver consistent speech intelligibility and musical impact to every seat across both auditorium. To achieve this, the loudspeaker systems were required to provide high output levels capable of delivering the appropriate dBSPL for full auditorium coverage while maintaining audio clarity and control.\nIn Auditorium 1, two flown arrays of K-Array Dragon KX12 loudspeakers were installed, with each array comprising of six KX12 units positioned on either side of the stage. The substantial output capability of the Dragon KX12 combined with carefully calculated vertical angling of the lower elements ensured uniform sound coverage across the entire seating area.\nAuditorium 2 employed a slightly different system design while following the same acoustic principles. Two flown arrays of K-Array Kobra KK102 loudspeakers, with each array consisting of four KK102 units, were installed on either side of the stage. Similar to Auditorium 1, the high output and precise array angling provided consistent full-range coverage throughout the auditorium.\nAlthough different loudspeaker systems were utilised in each space, both auditoriums achieved comparable performance and was successfully in meeting the project’s core objective of providing clear, impactful, and evenly distributed sound for all listeners."
+    ],
+    "system": {
+      "Sound System": [
+        "K-Array Dragon KX12 x12",
+        "K-Array Kobra KK102 x8",
+        "Frog-Is FI-Amp8"
+      ]
+    },
+    "completion": "Feb 2020"
+  },
+
       {
         "title": "Islamic Museum Art Malaysia",
         "context": "Museum",
@@ -868,61 +869,60 @@
         "completion": "October 2011"
       },
       {
-        "title": "BMW M",
-        "context": "Automotive brand space",
+        "title": "BMW M Series Showroom",
+        "context": "Automotive & Property Showroom",
         "location": "Jurong East, Singapore",
-        "profile": "-",
+        "profile": "A BMW automobile showroom located in Jurong East, Singapore, which showcases various models from the well-known BMW brand. The space consist of décor that presents the functionality of the cars and architectural design that seamlessly complements the designs of the car.",
         "focus": [
-          "Consult, Design and Installation"
+          "An inconspicuous audio system design was essential to complement the architecture of the space. Amina AIW1 invisible wall loudspeakers, paired with the Amina ALF80 invisible subwoofer, were selected for their ability to integrate seamlessly within walls.\n\nInstalled behind the showroom walls, the Amina speaker system delivers a fully immersive soundscape without any visible hardware, enhancing the overall ambience and elevating the customer browsing experience."
         ],
         "system": {
           "Sound System": [
-            "Amina AIW1 – Invisible Speaker",
-            "ALF80 – Subwoofer"
+            "Amina AIW1 Invisible Speaker",
+            "Amina ALF80 Subwoofer"
           ]
         },
         "completion": "August 2010"
       },
       {
-        "title": "Lexus Mutiara Showroom",
-        "context": "Automotive luxury showroom",
-        "location": "Lexus Mutiara Damansara, Malaysia",
-        "profile": "-",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Sales Gallery": [
-            "K-array KV52 x 4 – Ultra-flat line array element",
-            "K-array KU26 x 2 – Ultra thin, high power passive subwoofer"
-          ],
-          "Lounge": [
-            "Audac Ateo 6 x 3 – Wall Speaker with CLEVERMOUNT™ 6",
-            "Audac Celo 8 x 2 – High-end 2-Way 8″ Ceiling Speaker",
-            "Audac Celo 2D x 2 – High-end Ceiling Speaker 2"
-          ],
-          "Control System": [
-            "Audac Pre126 – Two Zone – 6 Channel Stereo Preamplifier"
-          ]
-        },
-        "completion": "August 2018"
-      },
+    "title": "Lexus Mutiara Showroom",
+    "context": "Automotive & Property Showroom",
+    "location": "Mutiara, Kuala Lumpur",
+    "profile": "Lexus is the luxury vehicle division of Japanese automaker Toyota. The Lexus marque is marketed in more than 70 countries and territories worldwide and has become Japan’s largest-selling make of premium cars. It has ranked among the 10 largest Japanese global brands in market value.",
+    "focus": [
+      "Findings from the initial site survey revealed that the two-storey sales gallery featured highly reflective surfaces, making it susceptible to excessive reverberation and long echo tails. Conventional point-source loudspeakers would have exacerbated these echo problems.\n\nTo address this, K-Array Vyper-KV52 loudspeakers were selected for their ultra-flat line-array design and proprietary Pure Array Technology. With a tight 10-degree vertical dispersion, the KV52 directs sound precisely towards the listening area, significantly reducing unwanted reflections and effectively minimising echo within the space.\n\nIn the Sales Gallery, Four KV52 units were deployed in a four-corner configuration and paired with a K-Array KU26 subwoofer, achieving immersive and evenly distributed audio coverage across the floor.\n\nIn the lounge area, high-end Audac Celo 8 and Celo 2D ceiling loudspeakers were installed alongside discreet Audac Ateo 6 wall-mounted speakers with CleverMount™ 6 brackets. This low-visibility solution delivers high-quality audio creating a premium and comfortable atmosphere for customers as they relax in the space."
+    ],
+    "system": {
+      "Sound System": [
+        "K-Array KV52 x4",
+        "K-Array KU26 x2",
+        "Audac Ateo 6 x3",
+        "Audac Celo 8 x2",
+        "Audac Celo 2D x2",
+        "Audac Pre126"
+      ]
+    },
+    "completion": "August 2018"
+  },
+
       {
-        "title": "SP Setia Sales Gallery",
-        "profile": "SP Setia Headquarters is the corporate home of SP Setia Berhad, one of Malaysia’s leading property developers, located in Setia Alam, Selangor. The building is designed to support both leadership and collaboration, bringing together a sales gallery, meeting suites, boardroom, and dedicated training spaces under one roof. As a central point for decision-making and engagement, the headquarters reflects the company’s established presence in the property industry and its focus on clarity, professionalism, and long-term growth.",
-        "focus": [
-          "For SP Setia Headquarters, the requirement was to create a clear, professional audio environment that supports presentations, meetings, and training sessions across multiple shared spaces. With areas ranging from boardrooms to sales and briefing zones, the sound needed to remain consistent, intelligible, and well balanced—supporting confident communication at every level. Our role covered consultation, design, and installation, delivering an integrated audio solution tailored to the scale and function of each space. Speakers were carefully selected and positioned to provide even coverage and clarity, while blending seamlessly with the building’s modern interiors. Working alongside the visual presentation system, the result is a polished, reliable environment where sound and visuals support effective collaboration without distracting from the architecture or the message being delivered."
-        ],
-        "system": {
-          "Sound System": [
-            "K-array Tornado-KT2",
-            "K-array Kobra-KK102",
-            "K-array Thunder-KMT18",
-            "K-array Rumble-KRM33"
-          ]
-        },
-        "completion": "Completed July 2014"
-      },
+  "title": "SETIA SPICE Aquatic Centre",
+  "context": "Auditorium & Sport Venues",
+  "location": "Setia Spice, Penang",
+  "profile": "SETIA SPICE Aquatic Centre, located in Penang, is a multipurpose recreational centre that includes large indoor Olympic-sized swimming pool and other amenities such as, badminton and squash court, gym, sports clinic, etc.",
+  "focus": [
+    "This project involved an outdoor sound system installation that required loudspeakers capable of providing wide-area coverage with clear speech intelligibility and high-quality music playback, while also being fully weatherproof and resistant to harsh environmental conditions.\n\nDuring the design phase, K-Array Kobra KK52, Python KP52, and Thunder KMT12 loudspeakers were selected for their durability and performance. All three models feature weather-resistant and waterproof coatings making them well suited for long-term outdoor use. The speakers can deliver optimal output levels and coverage to effectively serve both the swimming pool area and the adjacent event space. The line array speakers narrow sound dispersion minimises sound spill and reflections in the large venue.\n\nOn site, the speakers were strategically positioned throughout the venue to achieve the required dB SPL levels and optimal coverage. Careful system tuning and calibration were carried out to enhance speech intelligibility, deliver energetic and impactful music for events, and control reverberation within the outdoor environment."
+  ],
+  "system": {
+    "Sound System": [
+      "K-Array KK52",
+      "K-Array KP52",
+      "K-Array KMT12"
+    ]
+  },
+  "completion": "October 2015"
+},
+
       {
         "title": "Ekovest Sales Gallery",
         "location": "Taman Desa Gombak, Kuala Lumpur",
@@ -1238,45 +1238,33 @@
         ]
       },
       {
-        "title": "The Iron Fairies",
-        "context": "Nightclub & Bar · TREC, Kuala Lumpur",
-        "location": "TREC, Kuala Lumpur, Malaysia",
-        "profile": "The Iron Fairies KL in TREC is set to become a magical place for night-goers to come out and play. One of KL’s most expensive bars being built to date, it’s a venue where the imagination can run wild as you take in the intricate detail of the hand-cast designs by Ashley Sutton himself. A cult brand, The Iron Fairies origins’ draw back to the story books written by Australian iron ore miner-turned-interior designer Ashley Sutton who escaped into a fantasy world of fairies which then inspired the tale that immortalised into what is The Iron Fairies bars today.The Butterfly Room is where 50, 000 handmade butterflies hang from the ceiling and a DJ on Friday & Saturday is setting the tone accordingly with music ranging from old-school house to techno from midnight till 5am. Think along the style of Joey Negro, Frankie Knuckles, Derrick Carter, and so on. The Fairy Garden encapsulates the life & soul of The Iron Fairies. With different areas for seating and dancing reinforced with a powerful sound system by K-array, this rooftop is the ultimate adult’s playground that comes alive once you step inside. The DJ there assumes full responsibility in setting the mood for this area; they are bringing the best of house, disco, techno and every sub genre in between with influence from DJs such as Honey Dijon, Peggy Gou, and Hunee. Three floors starting from the enchanting outdoor rooftop Fairy Garden, heading down to the dark enclosed Butterfly Room and then finally deep underground into the cast iron space resembling an iron mine with a mythical twist, The Iron Fairies Kuala Lumpur is primed to be the flagship jewel of TREC occupying three units and two roof terraces which all comes together to unfold a visual story in each unique space.",
-        "focus": [
-          "Consult, Design and Installation"
-        ],
-        "system": {
-          "Live Band with PRO AUDIO Speakers": [
-            "K-array KN6 ×10 – High-technology self-powered point/line source speaker",
-            "K-array KO70 ×2 – Self-powered subwoofer element",
-            "Frog-is FP12P ×4 – Compact passive full-range speaker 12″",
-            "Frog-is FP12 ×4 – Self-powered stage monitor 12″"
-          ],
-          "Butterfly Room with PRO AUDIO Speakers": [
-            "K-array KN6 ×8 – Self-powered point/line source speaker",
-            "K-array KO70 ×2 – Self-powered subwoofer element",
-            "Frog-is FP8 ×2 – Self-powered full-range DJ monitor 8″"
-          ],
-          "Rooftop with PRO AUDIO Speakers": [
-            "K-array KN6 ×12 – Self-powered point/line source speaker",
-            "K-array KO70 ×2 – Self-powered subwoofer element"
-          ],
-          "Alfresco Area": [
-            "Frog-is FP8P ×16 – Mini passive full-range speaker 8″"
-          ],
-          "Ceiling Speakers": [
-            "Frog-is CS4W ×6 – Two-way ceiling speaker"
-          ],
-          "Lighting System": [
-            "Beam 230 ×4",
-            "Chauvet DJ SlimPAR Q12 USB ×6"
-          ],
-          "Control System": [
-            "DBX ZonePro"
-          ]
-        },
-        "completion": "September 2018"
-      },
+    "title": "The Iron Fairies",
+    "context": "Nightclubs & Lounges",
+    "location": "TREC, Kuala Lumpur",
+    "profile": "The Iron Fairies Kuala Lumpur is primed to be the flagship jewel of TREC occupying three units and two roof terraces which all comes together to unfold a visual story in each unique space. It is one of KL’s most expensive bars being built to date, it’s a venue where the imagination can run wild as you take in the intricate detail of the hand-cast designs by Ashley Sutton himself and with different areas for seating and dancing reinforced with a powerful sound system by K-Array.",
+    "focus": [
+      "Multiple K-Array KN6 point/line-source active loudspeakers, paired with K-Array KO70 active subwoofers, were installed throughout the main rooms of the venue. The self-powered design of these K-Array systems eliminates the need for external amplifiers, reducing equipment footprint and freeing up valuable real estate within the venue.\n\nTo further support live band performances, Frog-Is FP12P full-range loudspeakers were deployed to supplement the K-Array system, while Frog-Is FP12 loudspeakers were installed as active stage monitors for Live Bands and DJs.\n\nAudio coverage across the venue was further enhanced by Frog-Is CS4W ceiling speakers and Frog-Is FP8P compact full-range loudspeakers ensuring consistent sound in the venue and throughout the alfresco areas.\n\nThe fully integrated audio system delivers clear and powerful sound across all floors, creating a cohesive sonic identity for this flagship venue."
+    ],
+    "system": {
+      "Sound System": [
+        "K-Array KN6 x30",
+        "K-Array KO70 x6",
+        "Frog-Is FP12P x4",
+        "Frog-Is FP12 x4",
+        "Frog-Is FP8 x2",
+        "Frog-Is FP8P x16",
+        "Frog-Is CS4W x6"
+      ],
+      "Lighting System": [
+        "Beam 230 x4",
+        "Chauvet DJ SlimPAR Q12 USB x6"
+      ],
+      "Control System": [
+        "DBX ZonePro"
+      ]
+    },
+    "completion": "September 2018"
+  },
       {
         "title": "Handlebar Bar",
         "location": "Lock Road, Singapore",
@@ -1293,29 +1281,29 @@
         "completion": "April 2016"
       },
       {
-        "title": "Marc Residences",
-        "context": "Residence",
-        "location": "Jalan Pinang, Kuala Lumpur",
-        "profile": "WIP On The Park, located at Marc Residences, is an urban paradise for the senses and taste buds. Nestled within the stylish Marc Residence in Kuala Lumpur’s Golden Triangle, WIP is a hidden oasis that blends open-air spaces, resort-like ambience, and nature-inspired elements.",
-        "focus": [
-          "The sound system was designed to provide broad and even coverage across multiple seating areas, maintaining comfortable SPL for conversation while preserving the venue’s urban-chic aesthetic. The system also provides sufficient headroom for peak-time DJ sets and live band performances through a discreet, design-conscious loudspeaker deployment."
-        ],
-        "system": {
-          "Sound System": [
-            "K-array Kobra-KK102 I x 4 nos",
-            "K-array Vyper-KV52 x 2 nos",
-            "K-array Tornado-KT2 x 18 nos",
-            "KGear GC8TW x 4 nos",
-            "Frog-Is FI-SUB10P x 2 nos",
-            "Frog-Is FI-POW12 x 1 no",
-            "Frog-Is FI-AMP8 x 1 no",
-            "K-array Kommander-KA24 Power Amplifier x 2 nos",
-            "Behringer S16",
-            "Golden Voice KOD3TB"
-          ]
-        },
-        "completion": "October 2021"
-      },
+    "title": "WIP On The Park",
+    "context": "Restaurant & Café",
+    "location": "Marc Residences, Kuala Lumpur",
+    "profile": "WIP On The Park, located at Marc Residences, an urban paradise for your senses and taste buds. Nestled within the stylish Marc Residence in KL’s Golden Triangle, WIP is a hidden oasis, seamlessly blending the outdoors with open-air spaces, a resort-like ambiance, and nature-inspired elements that bring tranquillity to your experience.",
+    "focus": [
+      "The sound system requirements for the restaurant and bar called for broad and even coverage across multiple seating areas, ensuring comfortable SPL levels for conversation while preserving the venue’s urban-chic aesthetic. In addition, the system needed sufficient power and headroom to support peak-time DJ sets and live band performances.\nTo meet these criteria, visually discreet K-Array Tornado-KT2 point-source speakers were deployed. Mounted strategically in various corners of the venue, they provide consistent coverage across all listening areas while integrating seamlessly with the interior design.\nComplementing this discreet design approach, the sleek yet powerful K-Array Vyper-KV52 loudspeakers were used to reinforce key listening zones. For high-energy DJ and live performance applications, K-Array Kobra-KK102 systems paired with Frog-Is FI-SUB10P subwoofers were installed to deliver exceptional clarity, impact, and low-frequency performance."
+    ],
+    "system": {
+      "Sound System": [
+        "K-Array Kobra-KK102 x4",
+        "K-Array Vyper-KV52 x2",
+        "K-Array Tornado-KT2 x18",
+        "KGEAR GC8TW x4",
+        "Frog-Is FI-SUB10P x2",
+        "Frog-Is FI-POW12 x1",
+        "Frog-Is FI-AMP8 x1",
+        "K-Array Kommander-KA24 Power Amp x2",
+        "Behringer S16",
+        "Golden Voice KOD3TB"
+      ]
+    },
+    "completion": "October 2021"
+  },
       {
         "title": "GSC Aurum Kuala Lumpur",
         "location": "GSC Aurum Theatre, The Gardens Mall, Kuala Lumpur, Malaysia",
@@ -2526,23 +2514,23 @@
         }
       ]
     },
-    "the-kitch-n-club": {
-      "location": "Kota Damansara, Selangor, Malaysia",
-      "heroImage": "project_sites/KitchNClub_projects_main.jpg",
-      "galleryHighlightImage": "project_sites/KitchNClub_projects.jpg",
-      "galleryHighlightDescription": "Court-side spectators, gamers, and nightlife guests share a single audio experience that has been tuned with the same care as a luxury fragrance: precise for competitive play, cinematic for night programmes, and seamlessly even across every viewing position. The sound field is sculpted for clarity, warmth and impact, so the venue can move effortlessly from league-level focus to late-night social energy without ever feeling harsh, chaotic, or fatiguing.",
-      "galleryHighlightStyle": "plain",
-      "gallery": [
-        {
-          "src": "project_sites/KitchNClub_projects.jpg",
-          "label": "Courtside acoustic field",
-          "description": "From the main court, the sound feels quietly assertive rather than overtly loud — a tailored blend of intelligibility and low-end weight that keeps calls, rallies, and commentary effortlessly clear above the music. Courtside seating, social rail positions and gaming zones all sit inside the same carefully shaped coverage, so no guest ever feels off-axis or outside the experience. It is hospitality-led performance sound: immersive, precise and composed, with the gentle polish you would expect from a luxury maison rather than a typical sports venue."
-        },
-        {
-          "src": "project_sites/KitchNClub_projects1.jpg",
-          "label": "Architectural integration & night energy",
-          "description": "Along the extended court zone, architectural loudspeakers and subwoofers disappear into timber, glass and lighting lines, preserving a clean, gallery-like visual language. The system is voiced to deliver club-grade dynamics when the room shifts into DJ mode, yet remains refined and low-fatigue at background levels for coaching blocks or social afternoons. Time alignment, level calibration and preset-driven control mean operators can move from training, to match, to night programme with a single recall — maintaining the same luxurious tonal signature at every setting."
-        }
+      "the-kitch-n-club": {
+        "location": "Kota Damansara, Selangor, Malaysia",
+        "heroImage": "project_sites/KitchNClub_projects_main.jpg",
+        "galleryHighlightImage": "project_sites/KitchNClub_projects.jpg",
+        "galleryHighlightDescription": "Court-side spectators, gamers, and nightlife guests share a single audio experience that has been tuned with the same care as a luxury fragrance: precise for competitive play, cinematic for night programmes, and seamlessly even across every viewing position. The sound field is sculpted for clarity, warmth and impact, so the venue can move effortlessly from league-level focus to late-night social energy without ever feeling harsh, chaotic, or fatiguing.",
+        "galleryHighlightStyle": "plain",
+        "gallery": [
+          {
+            "src": "project_sites/KitchNClub_projects.jpg",
+            "label": "Courtside acoustic field",
+            "description": "From the main court, the sound feels quietly assertive rather than overtly loud — a tailored blend of intelligibility and low-end weight that keeps calls, rallies, and commentary effortlessly clear above the music. Courtside seating, social rail positions and gaming zones all sit inside the same carefully shaped coverage, so no guest ever feels off-axis or outside the experience. It is hospitality-led performance sound: immersive, precise and composed, with the gentle polish you would expect from a luxury maison rather than a typical sports venue."
+          },
+          {
+            "src": "project_sites/KitchNClub_projects1.jpg",
+            "label": "Architectural integration & night energy",
+            "description": "Along the extended court zone, architectural loudspeakers and subwoofers disappear into timber, glass and lighting lines, preserving a clean, gallery-like visual language. The system is voiced to deliver club-grade dynamics when the room shifts into DJ mode, yet remains refined and low-fatigue at background levels for coaching blocks or social afternoons. Time alignment, level calibration and preset-driven control mean operators can move from training, to match, to night programme with a single recall — maintaining the same luxurious tonal signature at every setting."
+          }
       ]
     }
   },
@@ -2577,14 +2565,14 @@
     "BMW M": "BMW M Series Showroom_project_main.jpg",
     "Lexus Mutiara Showroom": "Lexus Mutiara Damansara_project_main.jpg",
     "Sapore Italian Restaurant": "Sapore Italian Restaurant_project_main.jpg",
-    "Souled Out": "Soul_Out_project_main.jpg",
+    "SOULed OUT": "Soul_Out_project_main.jpg",
     "Pop Pizza": "POP PIZZA MID VALLEY MEGAMALL_project_main.jpeg",
     "GravyBaby": "GravyBaby Penang_project.jpg",
     "Quivo": "Mid Valley Southkey_Quivo_project_main.jpg",
     "Gordon Ramsay Bar & Grill": "Gordon_Ramsay_project.jpeg",
     "Nobu": "Nobu Japanese Restaurant_projects_main.JPG",
     "Wedge Range PJ": "wedge_project.jpeg",
-    "Marc Residences": "WIP On_project_main.jpg",
+    "WIP On The Park": "WIP On_project_main.jpg",
     "Brazzo Rivercity": "Brazzo Rivercity Batu Pahat_project_main.jpg",
     "Aspen CEC": "Aspen CEC Penang Malaysia_project.jpg",
     "Aspen Vervea": "Aspen Vervea_project_main.png",

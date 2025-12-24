@@ -25,7 +25,7 @@ const serviceTeasers = [
     href: "/services/design",
   },
   {
-    title: "Installation",
+    title: "Installation and Automation",
     summary:
       "Logistics, commissioning, and DSP tuning end-to-end, followed by documentation and concierge-style aftercare.",
     href: "/services/installation",
@@ -344,15 +344,11 @@ export default function ContactPage() {
               className="max-w-[36rem] text-white drop-shadow-[0_8px_35px_rgba(10,7,3,0.45)]"
             >
               <h1 className="nt-serif text-[2rem] leading-[1.12] sm:text-[2.4rem] lg:text-[3.2rem]">
-                <span className="block text-white">Architectural sound,</span>
-                <span className="block text-white/90">
-                  by private appointment.
-                </span>
+                <span className="block text-white">Contact Us</span>
               </h1>
 
               <p className="mt-3 text-[0.98rem] leading-relaxed text-white/85">
-                Reserve a discreet listening session in Kuala Lumpur or request
-                an on-site audit anywhere in Malaysia.
+                Schedule a consultation to experience tailored, luxury audio solutions that bring immersive sound and refined design to every space.
               </p>
             </motion.div>
           </div>

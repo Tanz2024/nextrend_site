@@ -3,7 +3,7 @@
     {
       "slug": "k-array-gdm",
       "category": "Global Summit",
-      "title": "K-array Global Distributor Meeting",
+      "title": "K-array GDM 2024",
       "shortDescription": "Against the rolling hills of Tuscany, sixty-four distributors from forty-three countries gathered at K-array's headquarters for an exclusive three-day summit. This intimate gathering showcased 2025's groundbreaking innovations, fostering partnerships that will shape the future of architectural audio across global markets.",
       "location": "Scarperia e San Piero, Florence, Italy",
       "dateLabel": "13-15 Oct 2024",
@@ -49,10 +49,10 @@
     {
       "slug": "reka-rix",
       "category": "Design Week",
-      "title": "REKA Interiors Exhibition (RiX)",
+      "title": "RIX - REKA Interiors Exhibition ",
       "shortDescription": "Within the CURIOS Pavilion at Malaysia's premier design showcase, architectural audio met Italian heritage. K-array's precision systems created immersive soundscapes while iconic Brionvega pieces—each with fifty years of design history—introduced visitors to the marriage of form and function.",
-      "location": "Kuala Lumpur Convention Centre, Malaysia",
-      "dateLabel": "31 Oct-3 Nov 2024",
+      "location": "KL Convention Centre, Kuala Lumpur | Malaysia",
+      "dateLabel": "October 31 - November 3, 2024",
       "narrative": "RiX gathered Malaysia's interior design community for showcases, forums, and installations; we delivered the total sound solution for the CURIOS Pavilion and SoundPod rooms.",
       "heroMedia": {
         "kind": "image",
@@ -143,8 +143,8 @@
       "category": "Collector Salon",
       "title": "Robb Report x AHAM Capital",
       "shortDescription": "Along the tranquil shores of Anantara Desaru, Robb Report Malaysia and AHAM Capital hosted an intimate salon for discerning collectors. Seamless indoor-outdoor sound design created atmospheric continuity as curated tastings and conversations unfolded beneath the Malaysian sunset.",
-      "location": "Anantara Desaru Coast Resort & Villas, Malaysia",
-      "dateLabel": "8 Nov 2024",
+      "location": "Anantara Desaru Coast Resort & Villas, Johor | Malaysia",
+      "dateLabel": "November 8, 2024",
       "narrative": "Robb Report Malaysia and AHAM Capital hosted high-net-worth guests for a seaside evening where curated listening lounges and tastings unfolded in sync.",
       "heroMedia": {
         "kind": "image",
@@ -188,31 +188,27 @@
   "details": {
     "k-array-gdm": {
       "slug": "k-array-gdm",
-      "category": "Global Summit",
-      "title": "K-array Global Distributor Meeting",
-      "location": "Scarperia e San Piero, Florence, Italy",
-      "dateRange": "13-15 October 2024",
-      "overview": "K-array hosted its annual Global Distributor Meeting at the Tuscan headquarters, welcoming sixty-four distributors from forty-three countries for three days of strategy, training, and product immersion.",
+      "category": "Event",
+      "title": "K-array GDM 2024",
+      "location": "Scarperia e San Piero, Tuscany | Italy",
+      "dateRange": "October 13-15, 2024",
       "profile": [
-        "K-array Audio Solutions is globally recognised for high-technology professional loudspeakers engineered in Italy since 1990.",
-        "The summit aligned distributors on innovation, architectural integration, and premium customer experiences."
+        "K-ARRAY Audio Solutions is globally renowned as one of the most innovative high-technology professional speaker manufacturers in the world founded in Italy. Since the formation of HP Sound Equipment in 1990 and K-ARRAY in 2005,the brand has been pioneering and innovating new audio solutions for live entertainment and the most demanding architectural designs."
+      ],
+      "additionalNotes": [
+        "K‑array’s GDM (General Distributor Meeting) is an exclusive annual event held at the K-array’s headquarters in the scenic Tuscan village of Scarperia e San Piero, Italy. Distributors and partners from around the world come together to discover the latest innovations, experience new products, and learn about K‑array’s advanced audio solutions."
       ],
       "eventNarrative": [
-        "Hands-on workshops explored the Anakonda flexible arrays, Thunder subwoofers, and Pinnacle systems, giving partners direct access to the 2025 release roadmap.",
-        "Roundtables and regional presentations enabled every distributor to share successes and insights that elevate projects worldwide."
-      ],
-      "keyProducts": [
-        "K-array Anakonda flexible line array ecosystem",
-        "K-array Thunder and Pinnacle solutions",
-        "K-array Kommander amplification and DSP control"
+        "The event features interactive product demonstrations and networking opportunities, giving distributors the chance to connect, learn, and share insights with industry peers. We had the opportunity to explore the latest and upcoming K‑array products and bring these innovations directly to our partners in Malaysia, ensuring they can offer cutting-edge audio solutions and an enhanced experience to their clients.",
+        "More than a meeting, K‑array GDM is a celebration of innovation, collaboration, and the shared passion for delivering exceptional audio experiences worldwide."
       ],
       "gallery": [
+        "K-array GDM_event2_4image.jpg",
+        "K-array GDM_event2_6image.jpg",
         "K-array GDM_event2_image.jpg",
         "K-array GDM_event2_2image.jpg",
         "K-array GDM_event2_3image.jpg",
-        "K-array GDM_event2_4image.jpg",
         "K-array GDM_event2_5image.jpg",
-        "K-array GDM_event2_6image.jpg",
         "K-array GDM_event2_7image.jpg"
       ],
       "heroMedia": {
@@ -224,29 +220,26 @@
     "suara-festival": {
       "slug": "suara-festival",
       "category": "Festival",
-      "title": "Suara Festival Bali",
-      "location": "Nyanyi Beach, Bali, Indonesia",
-      "dateRange": "2024 Edition",
-      "overview": "We are proud to be invited to the Suara Festival in Bali, Indonesia. Suara is an international event welcoming guests across seven seaside stages that blend music, thought leadership, art, culinary, wellness, and traditional Balinese performances on the cliffs of Nyanyi beach.",
+      "title": "K‑array Training & Suara Festival Bali 2024",
+      "location": "Nuanu Creative City, Bali | Indonesia",
+      "dateRange": "July 26–28, 2024",
+      "overview": "During our K‑array training in Bali, we gained in-depth product and software knowledge, learning how to maximize the performance of K‑array systems. We also visited a live installation at the Suara Festival, where K‑array speakers were used throughout the event. Seeing the system in action, we learned how and why the speakers were strategically placed, gaining practical insights into real-world applications and optimal sound delivery in diverse environments.",
       "profile": [
-        "Suara Festival is Indonesia's premier boutique festival, curating immersive experiences that seamlessly blend electronic music, wellness programming, culinary artistry, and Balinese culture.",
-        "Founded with a vision to create meaningful connections through music and mindfulness, Suara has become Southeast Asia's most sought-after festival destination, attracting conscious travelers and music enthusiasts from around the globe.",
-        "The festival's commitment to sustainability and cultural preservation has established it as a model for responsible event production in the region."
+      "The Suara Music and Arts Festival returns from July 26–28, 2024 at Nuanu, marking the official opening of the Creative City. Celebrated for its innovative programming and vibrant cultural experience, the festival brings together music, art, and community, offering a platform for both international and regional talent.",
+      
+      "K-ARRAY Audio Solutions is globally renowned as one of the most innovative high-technology professional speaker manufacturers in the world founded in Italy. Since the formation of HP Sound Equipment in 1990 and K-ARRAY in 2005, the brand has been pioneering and innovating new audio solutions for live entertainment and the most demanding architectural designs."
+    ],
+      "additionalNotes": [
+        "We are proud to have been invited to the Suara Festival 2024 in Bali, Indonesia—an international celebration of music, arts, and culture. Set against the stunning seaside cliffs of Nyanyi Beach, the festival featured 7 stages showcasing the best of international, regional, and local music talent, thought-provoking talks, immersive art installations, culinary experiences, wellness activities, and traditional Balinese performances."
       ],
       "eventNarrative": [
-        "This third edition welcomed more than nine thousand fans from over sixty countries during three incredible days. \"This past weekend was undoubtedly one of the highlights of my 27-year career in curating and producing events worldwide,\" shared Suara Co-Founder, CEO, and Creative Director Jason Swamy.",
-        "K-array loudspeakers played a vital role. Producer Alexander Solonin and Sound Engineer Semen Chumanikhin said, \"We had heard the power of K-array's flexible Anakonda line array system and Thunder-KS2 subwoofer at Nuanu recording studio, which sounded truly amazing.\" That confidence translated into a flawless festival experience."
-      ],
-      "additionalNotes": [
-        "We are thrilled to have contributed to such a successful edition, enhancing every moment with K-array products. We look forward to partnering again for the fourth Suara Festival."
-      ],
-      "keyProducts": [
-        "K-array Anakonda flexible line arrays across seven stages",
-        "K-array Thunder-KS2 subwoofers delivering powerful low end",
-        "Distributed control for seamless transitions between performances"
+        "This year marked the third edition of Suara Festival, welcoming over 9,000 fans from more than 60 countries over three days. The festival attracted a vibrant mix of Bali locals and visitors, creating a truly global cultural experience. As Suara Co-Founder, CEO, Jason Swamy said, “Partnering with Sergey Solonin to bring Suara to Nuanu is a dream come true. Nuanu’s visionary approach and stunning venues provide the perfect setting for an inclusive, cross-cultural festival experience that Bali has never seen before.”",
+        "K-array loudspeakers played a vital role in delivering exceptional sound throughout the festival. Their high-performance, flexible, and discreet design ensured consistent audio quality across all stages and event areas. Suara Producer Alexander Solonin and Sound Engineer Semen Chumanikhin shared, “We had heard the power of K-array’s flexible Anakonda line array system and Thunder-KS2 subwoofer at Nuanu recording studio, which sounded truly amazing.” This instilled strong confidence in the K-array loudspeakers used throughout the event."
       ],
       "gallery": [
         "Suara_Festival_Bali_1.jpg",
+        "Suara_Festival_Bali_6.jpg",
+        "Suara_Festival_Bali_7.jpg",
         "Suara_Festival_Bali_2.jpg",
         "Suara_Festival_Bali_3.jpg",
         "Suara_Festival_Bali_4.jpg",
@@ -255,27 +248,28 @@
       "heroMedia": {
         "kind": "video",
         "src": "event_title_video.mp4",
-        "poster": "Suara_Festival_Bali_1.jpg"
+        "poster": "Suara_Festival_Bali_5.jpg"
       }
     },
     "reka-rix": {
       "slug": "reka-rix",
       "category": "Design Week",
       "title": "REKA Interiors Exhibition (RiX)",
-      "location": "Kuala Lumpur Convention Centre, Malaysia",
-      "dateRange": "31 October-3 November 2024",
+      "location": "KL Convention Centre, Kuala Lumpur | Malaysia",
+      "dateRange": "October 31 - November 3, 2024",
       "overview": "RiX is presented by C.I.S under REKA Design Week as the annual gathering for Malaysia's interior design community, curated by the Malaysian Institute of Interior Designers.",
       "profile": [
-        "The exhibition showcases only the best of each exhibitor's collections, tapping into Malaysia's interior design industry with conferences, forums, talks, networking, and workshops."
+        "RiX is a platform presented by C.I.S as an official event held under the REKA Design Week, which is the annual event for the interior designers’ community by the Malaysian Institute of Interior Designers (MIID).",
+        "Committed to showcasing only the very best of each exhibitor’s collections and products, RiX taps into Malaysia’s interior design industry – Offering a truly outstanding experience in a typically crowded marketplace with power-packed programmes and activities such as conference and forums, industry talks and updates, discussions, networking and workshops for the design fraternity."
       ],
-      "role": [
-        "Nextrend Systems was invited to design the total sound solution for the CURIOS Pavilion and to speak on the topic \"Design Senses - Sound.\""
+      "additionalNotes": [
+        "Nextrend Systems was honored to design the Total Sound Solution for the CURIOS Pavilion and to present a talk at RiX on “Design Senses – Sound”. For this event, K-array speakers were selected as the premier audio solution, chosen specifically to complement the pavilion’s refined design. The Anakonda flexible line array was installed along the walkway, delivering a seamless and immersive auditory experience that harmonized perfectly with the elegant architecture."
       ],
       "eventNarrative": [
-        "We selected the K-array Anakonda flexible system to line the pavilion walkway, delivering a balanced, immersive experience while respecting the pavilion's refined design.",
-        "Iconic Brionvega Radiofonografo RR126 and Totem RR231 pieces, each with more than fifty years of heritage, introduced museum-grade design and audio to the installation.",
-        "Inside the SoundPod Room, compact yet powerful K-array Lyzard KZ14 speakers in each corner created an enveloping soundscape that encouraged visitors to linger.",
-        "A discreet K-array Vyper KV102 installation anchored the final station, maintaining a refined atmosphere for tasting and conversation, while the Pinnacle KR402 powered live talks and performances on stage."
+        "To enhance the visual and experiential impact, we presented the iconic Brionvega Radiofonografo RR226 and Totem RR231, both celebrated pieces in the MoMA collection. These legendary designs, with over 50 years of history, blend visionary aesthetics with exceptional sound quality, elevating the pavilion experience for all visitors.",
+        "Inside the SoundPod Room, we curated a fully immersive audio environment. Compact yet powerful K-array Lyzard KZ14 speakers were placed strategically in each of the four corners, creating a dynamic and enveloping soundscape that captivates visitors and draws them into the pure elegance of sound.",
+        "For more subtle areas, K-array Vyper KV102 speakers were installed in two corners, offering discreet yet powerful audio without impacting the aesthetic. The understated design ensures the auditory experience complements the pavilion’s ambiance, allowing guests to enjoy sound and space in perfect harmony.",
+        "For talks and stage performances, the K-array Pinnacle KR402 was deployed, providing crystal-clear, high-performance sound that elevates live presentations. The system delivers precise audio, supporting both the energy and sophistication of the stage while maintaining the overall elegance of the pavilion experience."
       ],
       "keyProducts": [
         "K-array Lyzard KZ14 micro line arrays",
@@ -408,27 +402,32 @@
       "slug": "robb-report-aham",
       "category": "Collector Salon",
       "title": "Robb Report x AHAM Capital Private Salon",
-      "location": "Anantara Desaru Coast Resort & Villas, Malaysia",
-      "dateRange": "8 November 2024",
-      "overview": "Robb Report Malaysia and AHAM Capital gathered high-net-worth guests for an exclusive seaside salon where curated tastings and performances unfolded across indoor and outdoor suites.",
+      "location": "Anantara Desaru Coast Resort & Villas, Johor | Malaysia",
+      "dateRange": "November 8, 2024",
+      "overview": "This project showcased how thoughtful speaker selection and precise placement can deliver an immersive sound experience while maintaining architectural harmony. By combining K-array’s discreet performance with Brionvega’s iconic design, we created a soundscape that complemented the luxury setting and elevated the overall event experience.",
       "profile": [
-        "Robb Report Malaysia is a leading luxury lifestyle publication connecting readers with curated experiences and craftsmanship.",
-        "AHAM Asset Management Berhad is an institutionally owned firm serving corporates, pension funds, government-linked companies, and high-net-worth clients since 2001."
+        "Robb Report Malaysia is the industry’s leading luxury lifestyle publication. An indispensable and intelligent resource, Robb Report connect with HNWIs with experiences and accoutrements to cultivate and elevate their appreciation of the finest things in life.",
+        "AHAM Asset Management Berhad (“AHAM Capital”) is an independently-managed, institutionally-owned asset management ﬁrm. Since its formation in 2001, AHAM Capital has served the wealth needs of corporates, institutions, pension funds, government-linked companies, high net worth individuals and the mass affluent."
       ],
-      "role": [
-        "Nextrend designed a sound system that moves seamlessly between terraces and lounges, using sleek architectural speakers that complement Anantara's ambience.",
-        "The goal was to deliver an immersive, captivating experience that enhanced every conversation and performance while remaining visually discreet."
+      "additionalNotes": [
+        "We were honoured to be part of House of Robb, introduced by Robb Report Malaysia in conjunction with AHAM Capital’s Generational Wealth Summit, held at a four-bedroom duplex villa at Anantara Desaru Coast Residences. For this exclusive event, we designed and delivered the complete sound experience, ensuring the audio system enhanced the atmosphere without compromising the refined aesthetics of the space."
+      ],
+      "eventNarrative": [
+        "Inside the residence, we integrated K-array Vyper ultra-slim speakers, featuring a discreet 1-inch profile, throughout the event areas. Their minimal form allowed the speakers to blend seamlessly into the architecture, preserving the visual elegance while delivering clear and balanced sound for conversations, background music, and live moments within the space.",
+        "For the outdoor and poolside areas, K-array Pinnacle KR402 speakers were deployed to provide consistent coverage across the swimming pool and surrounding outdoor spaces. To elevate the visual and experiential impact, the iconic Brionvega Radiofonografo was positioned beside the television as a design highlight—serving both as a functional audio piece and a statement of Italian design heritage."
       ],
       "keyProducts": [
-        "K-array Vyper KV102 x2",
-        "K-array Vyper KV52 x2",
-        "K-array Rumble KU210 x2",
-        "K-array Pinnacle KR402 x2",
-        "K-array Kommander KA28",
+        "K-array Vyper-KV102 x 2",
+        "K-array Vyper-KV52 x 2",
+        "K-array Rumble-KU210 x 2",
+        "K-array Pinnacle-KR402 x 2",
+        "K-array Kommander-KA28 x 1",
         "Nano M16 Mixer",
-        "Brionvega Radiofonografo RR126"
+        "Brionvega Radiofonografo-RR126 x 1"
       ],
       "gallery": [
+        "Robb Report x AHAM Capital_event_11image.jpg",
+        "Robb Report x AHAM Capital_event_12image.jpg",
         "Robb Report x AHAM Capital_event_1image.jpg",
         "Robb Report x AHAM Capital_event_2image.jpg",
         "Robb Report x AHAM Capital_event_3image.jpg",
@@ -442,7 +441,7 @@
       ],
       "heroMedia": {
         "kind": "image",
-        "src": "Robb Report x AHAM Capital_event_10image.jpg",
+        "src": "Robb Report x AHAM Capital_event_13image.jpg",
         "alt": "Seaside salon at Anantara Desaru"
       }
     },

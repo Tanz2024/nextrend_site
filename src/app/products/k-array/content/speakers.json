@@ -5,7 +5,7 @@
     "headline": "Antique gold",
     "description": "Exceptional clarity and performance from an ultra-compact loudspeaker designed to disappear into refined spaces.",
     "story": "With a horizontal and vertical coverage of 140\u00c2\u00b0 and a frequency response from 500 Hz up to 18 kHz, KZ1 I provides clear audio reproduction and flawless intelligibility at a peak SPL of 86 dB, an impressive performance for a miniature loudspeaker.\n\nTo complete the full frequency range of your audio systems, Lyzard loudspeakers must be combined with one or more of the Truffle or Rumble subwoofers and driven by one of our Kommander amplifiers.\n\nLyzard loudspeakers are available in semi-matte black or white as standard, or any RAL colour, as well as several premium finishes, on request. Polished aluminium, 24K gold, rose gold or antique gold plating are among the most luxurious finishes.\n\nThe front of the loudspeaker cabinet is protected by a magnetic grille that can be removed with a small neodymium magnet knob, included in the package. This new feature makes the fixing point much faster to access, helping installers reduce set-up and maintenance times. The rear panel incorporates a small two-pole screw euro-block connector, so no specific connector is required, further streamlining the installation process.",
-    "definition": "Ultra-mini point source loudspeaker for premium installations.",
+    "definition": "The Lyzard-KZ1 I ultra-mini point source loudspeaker is the smallest member of K-array’s Lyzard mid-high micro-loudspeaker range. Featuring a miniaturised ultra-resistant 2.2 x 3.7 1.1 cm milled aluminium enclosure housing a single 0.5” long-excursion neodymium magnet transducer for a total weight of just 21 g, the Lyzard-KZ1 ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.",
     "series": "Lyzard",
     "category": "Speakers",
     "finish": "Antique gold",
@@ -13,12 +13,6 @@
     "power": "Passive",
     "type": "Point source",
     "drivers": "0.5\" neodymium magnet woofer",
-    "applications": [
-      "Luxury retail",
-      "Museums",
-      "Hospitality lounges",
-      "Residential feature walls"
-    ],
     "specGroups": [
       {
         "title": "General",
@@ -132,12 +126,6 @@
     "power": "Passive",
     "type": "Recessed micro line-array",
     "drivers": "1 \u00c3\u2014 ultra-miniature full-range transducer",
-    "applications": [
-      "Hidden cinema channels",
-      "Luxury residences",
-      "Boutique hospitality",
-      "Exhibitions"
-    ],
     "image": "Lyzard-KZ1R I_main.jpg",
     "lifestyle": [
       {
@@ -199,12 +187,6 @@
     "power": "Passive",
     "type": "Extended micro line-array",
     "drivers": "Multi-driver ultra-miniature array",
-    "applications": [
-      "Cocktail bars",
-      "Fine-dining spaces",
-      "Retail podiums",
-      "Hotel lobbies"
-    ],
     "image": "Lyzard-KZ14 I_main.jpg",
     "lifestyle": [
       {
