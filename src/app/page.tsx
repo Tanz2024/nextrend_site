@@ -1,6 +1,4 @@
-﻿//latestmainpage_mimi
-
-// app/page.tsx (or app/(site)/page.tsx)
+﻿// app/page.tsx (or app/(site)/page.tsx)
 "use client";
 
 import dynamic from "next/dynamic";
@@ -1298,7 +1296,7 @@ function HomeContent() {
           }}
           className="mt-4 max-w-[40ch] text-[0.95rem] sm:text-[1rem] leading-[1.8] text-white/82"
         >
-          {"A fully integrated architectural audio system for the BYD Showroom, engineered to deliver crystal-clear sound, impactful performance, and a refined in-space experience. Expertly designed and installed to seamlessly blend with the showroom environment."
+          {"A fully integrated architectural audio system for the BYD showroom, designed for clarity, impact, and seamless environmental integration."
             .split(" ")
             .map((w, i) => (
               <motion.span

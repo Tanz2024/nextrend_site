@@ -631,24 +631,29 @@ export default function ProductsContent() {
 
       {/* ───────── LIFESTYLE AUDIO (WHITE) ───────── */}
       {showLifestyle && (
-        <section id="lifestyle" className="relative bg-white overflow-hidden">
+        <section id="lifestyle" className="relative bg-[#0B0B0C] overflow-hidden">
          <div
-  aria-hidden
-  className="pointer-events-none absolute inset-x-0 top-0 z-[1] h-[360px]"
-  style={{
-    background: `
-      linear-gradient(180deg,
-        rgba(255,255,255,0.92) 0%,
-        rgba(255,255,255,0.98) 45%,
-        rgba(255,255,255,1) 100%)
-    `,
-  }}
-/>
+            aria-hidden
+            className="pointer-events-none absolute inset-x-0 top-0 z-[1] h-[360px] backdrop-blur-2xl"
+            style={{
+              background: `
+                radial-gradient(900px 420px at 14% 0%,
+                  rgba(185, 174, 174, 0.22) 0%,
+                  rgba(184, 172, 172, 0.08) 28%,
+                  rgba(255, 248, 248, 0) 62%),
+                linear-gradient(180deg,
+                  rgba(0, 0, 0, 0.81) 0%,
+                  rgba(10,10,11,0.36) 45%,
+                  rgba(228, 228, 241, 0.12) 70%,
+                  rgba(255, 255, 255, 0) 100%)
+              `,
+            }}
+          />
 
 
           <div className="relative z-[2]">
             <SectionHeader
-              theme="light"
+              theme="dark"
               title="Lifestyle Audio"
               blurb="Audio as art — designer audio pieces that elevate your space, seamlessly blending into interiors while delivering immersive, crystal-clear audio."
             />
@@ -656,14 +661,14 @@ export default function ProductsContent() {
 
           <div className="relative z-0 flex flex-col">
             {lifestyleCapsules.map((c, i) => (
-              <VideoCapsule key={c.id} capsule={c} index={i} pageTheme="light" />
+              <VideoCapsule key={c.id} capsule={c} index={i} pageTheme="dark" />
             ))}
           </div>
 
           {/* ✅ SWITCH BEHAVIOR FIX */}
           {!showingBoth && (
             <SectionSwitch
-              theme="light"
+              theme="dark"
               label="Also explore"
               title="Custom Installation"
               blurb="Architectural audio, cinema-grade processing, and pro systems—designed, tuned, and integrated end-to-end."

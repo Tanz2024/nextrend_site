@@ -4,7 +4,7 @@
     "name": "Lyzard-KZ1 I",
     "headline": "Antique gold",
     "description": "Exceptional clarity and performance from an ultra-compact loudspeaker designed to disappear into refined spaces.",
-    "story": "With a horizontal and vertical coverage of 140\u00c2\u00b0 and a frequency response from 500 Hz up to 18 kHz, KZ1 I provides clear audio reproduction and flawless intelligibility at a peak SPL of 86 dB, an impressive performance for a miniature loudspeaker.\n\nTo complete the full frequency range of your audio systems, Lyzard loudspeakers must be combined with one or more of the Truffle or Rumble subwoofers and driven by one of our Kommander amplifiers.\n\nLyzard loudspeakers are available in semi-matte black or white as standard, or any RAL colour, as well as several premium finishes, on request. Polished aluminium, 24K gold, rose gold or antique gold plating are among the most luxurious finishes.\n\nThe front of the loudspeaker cabinet is protected by a magnetic grille that can be removed with a small neodymium magnet knob, included in the package. This new feature makes the fixing point much faster to access, helping installers reduce set-up and maintenance times. The rear panel incorporates a small two-pole screw euro-block connector, so no specific connector is required, further streamlining the installation process.",
+    "story": "The Lyzard-KZ1 I ultra-mini point source loudspeaker is the smallest member of K-array’s Lyzard mid-high micro-loudspeaker range. Featuring a miniaturised ultra-resistant 2.2 x 3.7 1.1 cm milled aluminium enclosure housing a single 0.5” long-excursion neodymium magnet transducer for a total weight of just 21 g, the Lyzard-KZ1 ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.",
     "definition": "The Lyzard-KZ1 I ultra-mini point source loudspeaker is the smallest member of K-array’s Lyzard mid-high micro-loudspeaker range. Featuring a miniaturised ultra-resistant 2.2 x 3.7 1.1 cm milled aluminium enclosure housing a single 0.5” long-excursion neodymium magnet transducer for a total weight of just 21 g, the Lyzard-KZ1 ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.",
     "series": "Lyzard",
     "category": "Speakers",
@@ -27,7 +27,7 @@
           },
           {
             "label": "Frequency Response",
-            "value": "500 Hz \u00e2\u20ac\u201c 18 kHz (-6 dB)"
+            "value": "500 Hz - 18 kHz (-6 dB)"
           },
           {
             "label": "Max SPL",
@@ -39,7 +39,7 @@
           },
           {
             "label": "Coverage",
-            "value": "V. 140\u00c2\u00b0 | H. 140\u00c2\u00b0"
+            "value": "V. 140\u00b0 | H. 140\u00b0"
           },
           {
             "label": "Connectors",
@@ -90,20 +90,24 @@
     "lifestyle": [
       {
         "src": "Lyzard-KZ1 I_1.jpg",
-        "alt": "Lyzard-KZ1 I ultra-miniature loudspeaker on surface mount"
-      },
+        "alt": "",
+        "caption": "With a horizontal and vertical coverage of 140° and a frequency response from 500 Hz up to 18 kHz, KZ1 I provides clear audio reproduction and flawless intelligibility at a peak SPL of 86 dB, an impressive performance for a miniature loudspeaker."
+        },
       {
         "src": "Lyzard-KZ1 I_2.jpg",
-        "alt": "Lyzard-KZ1 I in a refined interior"
-      },
+        "alt": "",
+        "caption": "To complete the full frequency range of your audio systems, Lyzard loudspeakers must be combined with one or more of the Truffle or Rumblesubwoofers and driven by one of our Kommanderamplifiers."
+        },
       {
         "src": "Lyzard-KZ1 I_3.jpg",
-        "alt": "Lyzard-KZ1 I close-up stainless enclosure"
-      },
+        "alt": "",
+        "caption": "Lyzard loudspeakers are available in semi-matte black or white as standard, or any RAL colour, as well as several premium finishes, on request. Polished aluminium, 24K gold, rose gold or antique gold plating are among the most luxurious finishes."
+        },
       {
         "src": "Lyzard-KZ1 I_4.jpg",
-        "alt": "Lyzard-KZ1 I discrete architectural integration"
-      }
+        "alt": "",
+        "caption": "The front of the loudspeaker cabinet is protected by a magnetic grille that can be removed with a small neodymium magnet knob, included in the package. This new feature makes the fixing point much faster to access, helping installers reduce set-up and maintenance times. The rear panel incorporates a small two-pole screw euro-block connector, so no specific connector is required, further streamlining the installation process."
+        }
     ],
     "resources": [
       {
@@ -117,8 +121,8 @@
     "name": "K-array Lyzard-KZ1R I",
     "headline": "Recessed ultra-miniature line array",
     "description": "The Lyzard-KZ1R I adds a recessed mounting frame for invisible integration into walls, ceilings or millwork.",
-    "story": "For interiors where every grille line matters, the KZ1R I vanishes into shadow gaps while maintaining the same micro-line performance as KZ1 I.",
-    "definition": "Ultra-miniature recessed line-array loudspeaker for invisible integration.",
+    "story": "The Lyzard-KZ1R I ultra-mini point source loudspeaker is the smallest member of K-array’s Lyzard mid-high micro-loudspeaker range. Featuring a miniaturised ultra-resistant 2.8 x 4.3 1.1 cm milled aluminium enclosure housing a single 0.5” long-excursion neodymium magnet transducer for a total weight of just 21 g, the Lyzard-KZ1R ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.  Lyzard-KZ1R is with a metallic spring clip for recessed in-wall installation and fast and easy mounting.",
+    "definition": "The Lyzard-KZ1R I ultra-mini point source loudspeaker is the smallest member of K-array’s Lyzard mid-high micro-loudspeaker range. Featuring a miniaturised ultra-resistant 2.8 x 4.3 1.1 cm milled aluminium enclosure housing a single 0.5” long-excursion neodymium magnet transducer for a total weight of just 21 g, the Lyzard-KZ1R ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.  Lyzard-KZ1R is with a metallic spring clip for recessed in-wall installation and fast and easy mounting.",
     "series": "Lyzard",
     "category": "Speakers",
     "finish": "Recessed Stainless",
@@ -130,44 +134,94 @@
     "lifestyle": [
       {
         "src": "Lyzard-KZ1R I_1.jpg",
-        "alt": "Lyzard-KZ1R I recessed into wall panel"
-      },
+        "alt": "",
+        "caption": "With a horizontal and vertical coverage of 140° and a frequency response from 500 Hz up to 18 kHz, KZ1 I provides clear audio reproduction and flawless intelligibility at a peak SPL of 86 dB, an impressive performance for a miniature loudspeaker."
+        },
       {
         "src": "Lyzard-KZ1R I_2.jpg",
-        "alt": "Lyzard-KZ1R I in architectural detail"
-      },
+        "alt": "",
+        "caption": "To complete the full frequency range of your audio systems, Lyzard loudspeakers must be combined with one or more of the Truffle or Rumblesubwoofers and driven by one of our Kommanderamplifiers."
+        },
       {
         "src": "Lyzard-KZ1R I_3.jpg",
-        "alt": "Lyzard-KZ1R I close-up recessed frame"
-      },
+        "alt": "",
+        "caption": "Lyzard loudspeakers are available in semi-matte black or white as standard, or any RAL colour, as well as several premium finishes, on request. Polished aluminium, 24K gold, rose gold or antique gold plating are among the most luxurious finishes."
+        },
       {
         "src": "Lyzard-KZ1R I_4.jpg",
-        "alt": "Lyzard-KZ1R I integrated into millwork"
-      }
+         "alt": "",
+        "caption": "The front of the loudspeaker cabinet is protected by a magnetic grille that can be removed with a small neodymium magnet knob, included in the package. This new feature makes the fixing point much faster to access, helping installers reduce set-up and maintenance times. The rear panel incorporates a small two-pole screw euro-block connector, so no specific connector is required, further streamlining the installation process."
+        }
     ],
     "specGroups": [
       {
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Recessed frame for flush installation"
+            "label": "Type",
+            "value": "Point source"
           },
           {
-            "label": "Spec 2",
-            "value": "Stainless-steel front with micro-perf grille"
+            "label": "Transducers",
+            "value": "0.5\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Matches K-array subs and amplifiers"
+            "label": "Frequency Response",
+            "value": "500 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Colour-matching options via finishers"
+            "label": "Max SPL",
+            "value": "86 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Optimised for speech and soft music"
+            "label": "Rated Power",
+            "value": "3.5 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 140\u00b0 | H. 140\u00b0"
+          },
+          {
+            "label": "Connectors",
+            "value": "IN+ IN- screw terminals"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "28 x 43 x 11 mm  (1.1 x 1.7 x 0.4 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.021 kg (0.046 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Antique Gold, Rose Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP64"
           }
         ]
       }
@@ -178,8 +232,8 @@
     "name": "K-array Lyzard-KZ14 I",
     "headline": "Extended micro column with higher output",
     "description": "The Lyzard-KZ14 I extends the Lyzard family with a taller column for greater output and throw from the same micro form factor.",
-    "story": "When KZ1 disappears too easily and you need more impact in the room, KZ14 scales up the line source while keeping the same jewellery-like finish.",
-    "definition": "Extended ultra-compact line-array loudspeaker for higher output applications.",
+    "story": "The Lyzard-KZ14 I ultra-mini line array loudspeaker is the smallest member of K-array’s Lyzard mid-high loudspeaker range. Featuring an ultra-resistant 2.2 x 10 x 1.1 cm milled aluminium enclosure housing 4 x long-excursion neodymium magnet transducers for a total weight of just 59 g, the Lyzard-KZ14 I ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.",
+    "definition": "The Lyzard-KZ14 I ultra-mini line array loudspeaker is the smallest member of K-array’s Lyzard mid-high loudspeaker range. Featuring an ultra-resistant 2.2 x 10 x 1.1 cm milled aluminium enclosure housing 4 x long-excursion neodymium magnet transducers for a total weight of just 59 g, the Lyzard-KZ14 I ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.",
     "series": "Lyzard",
     "category": "Speakers",
     "finish": "Polished Stainless Micro-Line",
@@ -191,15 +245,18 @@
     "lifestyle": [
       {
         "src": "Lyzard-KZ14 I_1.jpg",
-        "alt": "Lyzard-KZ14 I installed in premium bar"
+        "alt": "",
+        "caption":"With a vertical coverage of 40° and horizontal coverage of 140°, it is our smallest model to feature PAT array technology. With a frequency response from 500 Hz up to 18kHz, KZ14 I provides clear audio reproduction and flawless intelligibility at a peak SPL of 98 dB, an impressive performance for a miniature loudspeaker. To complete the full frequency range of your audio systems, Lyzard loudspeakers must be combined with one or more of the Truffle or Rumble subwoofers and driven by one of our Kommander amplifiers. Lyzard loudspeakers are available in semi-matte black or white as standard, or any RAL colour, as well as several premium finishes, on request. Polished aluminium, 24K gold, rose gold or antique gold plating are among the most luxurious finishes."
       },
       {
         "src": "Lyzard-KZ14 I_2.jpg",
-        "alt": "Lyzard-KZ14 I vertical column view"
+        "alt": "",
+        "caption":"The front of the loudspeaker cabinet is protected by a magnetic grille that can be removed with a small neodymium magnet knob, included in the package. This new feature makes the fixing point much faster to access, helping installers reduce set-up and maintenance times. The rear panel incorporates a small two-pole screw euro-block connector, so no specific connector is required, further streamlining the installation process."
       },
       {
         "src": "Lyzard-KZ14 I_3.jpg",
-        "alt": "Lyzard-KZ14 I detail against stone surface"
+         "alt": "",
+        "caption":"The Lyzard-KZ14 I is ideally suited for audio integrations in retail environments, small lounges and bars, home residences, hotels and museums, allowing venues to maintain their aesthetic whilst keeping listeners satisfied with high-quality sound."
       },
       {
         "src": "Lyzard-KZ14 I_4.jpg",
@@ -211,24 +268,78 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Multiple micro drivers in a taller column"
+            "label": "Type",
+            "value": "Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Ultra-slim stainless-steel enclosure"
+            "label": "Transducers",
+            "value": "0.5\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "High speech intelligibility at distance"
+            "label": "Frequency Response",
+            "value": "500 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Supports vertical or horizontal mounting"
+            "label": "Max SPL",
+            "value": "98 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Pairs with compact K-array subwoofers"
+            "label": "Rated Power",
+            "value": "15 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 40\u00b0 | H. 140\u00b0"
+          },
+          {
+            "label": "Connectors",
+            "value": "IN+ IN- screw terminals"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω"
+          },
+          {
+            "label": "Dislaimer",
+            "value": "Passive loudspeakers requires dedicated preset loaded on board of K-array amplifiers."
+          },
+          {
+            "label": "Disclaimer",
+            "value": "New materials and design are introduced into existing products without previous notice."
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "22 x 100 x 11 mm  (0.9 x 3.9 x 0.4 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.059 kg (0.130 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP64"
           }
         ]
       }
@@ -237,10 +348,10 @@
   {
     "slug": "lyzard-kz14r-i",
     "name": "K-array Lyzard-KZ14R I",
-    "headline": "Recessed extended micro line array",
+    "headline": "The Lyzard-KZ1R I ultra-mini point source loudspeaker is the smallest member of K-array’s Lyzard mid-high micro-loudspeaker range. Featuring a miniaturised ultra-resistant 2.8 x 4.3 1.1 cm milled aluminium enclosure housing a single 0.5” long-excursion neodymium magnet transducer for a total weight of just 21 g, the Lyzard-KZ1R ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.  Lyzard-KZ1R is with a metallic spring clip for recessed in-wall installation and fast and easy mounting.",
     "description": "The Lyzard-KZ14R I offers the KZ14 column with a recessed frame for seamless integration into walls and ceilings.",
-    "story": "Designed for interior architects who demand a continuous skin, KZ14R I hides the hardware but leaves the soundstage intact.",
-    "definition": "Recessed extended micro line-array loudspeaker.",
+    "story": "The Lyzard-KZ14R I ultra-mini line array loudspeaker is the smallest member of K-array’s Lyzard mid-high loudspeaker range. Featuring an ultra-resistant 2.8 x 10.6 x 1.1 cm milled aluminium enclosure housing 4 x long-excursion neodymium magnet transducers for a total weight of just 59 g, the Lyzard-KZ14 I ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.",
+    "definition": "The Lyzard-KZ14R I ultra-mini line array loudspeaker is the smallest member of K-array’s Lyzard mid-high loudspeaker range. Featuring an ultra-resistant 2.8 x 10.6 x 1.1 cm milled aluminium enclosure housing 4 x long-excursion neodymium magnet transducers for a total weight of just 59 g, the Lyzard-KZ14 I ensures uncompromised audio performance with minimum residual noise, despite its discreet dimensions. The form and quality of the Lyzard series make it the perfect solution for environments that require high-performance audio where decor and aesthetics cannot be compromised.",
     "series": "Lyzard",
     "category": "Speakers",
     "finish": "Recessed Stainless",
@@ -258,15 +369,18 @@
     "lifestyle": [
       {
         "src": "Lyzard-KZ14R I_1.jpg",
-        "alt": "Lyzard-KZ14R I recessed in wall"
+        "alt": "",
+        "caption":"With a vertical coverage of 40° and horizontal coverage of 140°, it is our smallest model to feature PAT array technology. With a frequency response from 500 Hz up to 18kHz, KZ14 I provides clear audio reproduction and flawless intelligibility at a peak SPL of 98 dB, an impressive performance for a miniature loudspeaker. To complete the full frequency range of your audio systems, Lyzard loudspeakers must be combined with one or more of the Truffle or Rumble subwoofers and driven by one of our Kommander amplifiers. Lyzard loudspeakers are available in semi-matte black or white as standard, or any RAL colour, as well as several premium finishes, on request. Polished aluminium, 24K gold, rose gold or antique gold plating are among the most luxurious finishes. "
       },
       {
         "src": "Lyzard-KZ14R I_2.jpg",
-        "alt": "Lyzard-KZ14R I detail shot"
+        "alt": "",
+        "caption":"The front of the loudspeaker cabinet is protected by a magnetic grille that can be removed with a small neodymium magnet knob, included in the package. This new feature makes the fixing point much faster to access, helping installers reduce set-up and maintenance times. The rear panel incorporates a small two-pole screw euro-block connector, so no specific connector is required, further streamlining the installation process. "
       },
       {
         "src": "Lyzard-KZ14R I_3.jpg",
-        "alt": "Lyzard-KZ14R I integrated into ceiling bulkhead"
+        "alt": "",
+        "caption":"The Lyzard KZ14R I is our newest model, designed with a metallic spring clip for recessed in-wall installation and fast and easy mounting. The Lyzard-KZ14R I is ideally suited for audio integrations in retail environments, small lounges and bars, home residences, hotels and museums, allowing venues to maintain their aesthetic whilst keeping listeners satisfied with high-quality sound. "
       },
       {
         "src": "Lyzard-KZ14R I_4.jpg",
@@ -278,24 +392,74 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Recessed frame for invisible mounting"
+            "label": "Type",
+            "value": "Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Tall stainless column for greater output"
+            "label": "Transducers",
+            "value": "4 x 0.5\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Architectural colour-matching options"
+            "label": "Frequency Response",
+            "value": "500 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Works with K-array DSP amplifiers"
+            "label": "Max SPL",
+            "value": "98 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Suitable for speech and background music"
+            "label": "Rated Power",
+            "value": "15 W"
+          },
+          {
+            "label": "Connectors",
+            "value": "IN+ IN- screw terminals"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω"
+          },
+          {
+            "label": "Disclaimer",
+            "value": "Passive loudspeakers requires dedicated preset loaded on board of K-array amplifiers."
+          },
+          {
+            "label": "Disclaimer",
+            "value": "New materials and design are introduced into existing products without previous notice."
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "28 x 106 x 11 mm  (1.1 x 4.2 x 0.4 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.059 kg (0.130 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Antique Gold, Rose Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP64"
           }
         ]
       }
@@ -304,10 +468,10 @@
   {
     "slug": "kobra-kk52-i",
     "name": "K-array Kobra-KK52 I",
-    "headline": "Compact stainless-steel line-array column",
+    "headline": "The Kobra-KK52 I is the half-meter model in the Kobra series. The passive speaker is comprised of eight closely-spaced 2\" cone woofers housed in a durable stainless steel frame that effectively reproduces quality sound naturally. Its selectable impedance feature (16 Ω / 64 Ω) offers easier use and integration with other speakers or amplifiers. With such a compact frame, the Kobra-KK52 I is perfect for discreet installations in restaurants, houses of worship and events.",
     "description": "Kobra-KK52 I is a slim stainless-steel passive column with closely spaced drivers for controlled, elegant coverage.",
-    "story": "From historic chapels to couture boutiques, the KK52 I delivers a tall, even sound field from an architectural column barely thicker than a hand.",
-    "definition": "Compact passive line-array column for design-sensitive installations.",
+    "story": "The Kobra-KK52 I is the half-meter model in the Kobra series. The passive speaker is comprised of eight closely-spaced 2\" cone woofers housed in a durable stainless steel frame that effectively reproduces quality sound naturally. Its selectable impedance feature (16 Ω / 64 Ω) offers easier use and integration with other speakers or amplifiers. With such a compact frame, the Kobra-KK52 I is perfect for discreet installations in restaurants, houses of worship and events.",
+    "definition": "The Kobra-KK52 I is the half-meter model in the Kobra series. The passive speaker is comprised of eight closely-spaced 2\" cone woofers housed in a durable stainless steel frame that effectively reproduces quality sound naturally. Its selectable impedance feature (16 Ω / 64 Ω) offers easier use and integration with other speakers or amplifiers. With such a compact frame, the Kobra-KK52 I is perfect for discreet installations in restaurants, houses of worship and events.",
     "series": "Kobra",
     "category": "Speakers",
     "finish": "Stainless Column",
@@ -345,24 +509,74 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Slim stainless-steel column enclosure"
+            "label": "Type",
+            "value": "Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Tightly spaced driver array"
+            "label": "Transducers",
+            "value": "8 x 2\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "High direct-to-reverberant ratio"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Wall and pole-mount accessories"
+            "label": "Max SPL",
+            "value": "120 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Pairs with K-array subs for full-range systems"
+            "label": "Rated Power",
+            "value": "200 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 10° - 60° | H. 120°"
+          },
+          {
+            "label": "Connectors",
+            "value": "SpeakOn NL4 1+ 1- (signal); 2+ 2- (through)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω / 64 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "59 x 497 x 81 mm  (2.3 x 19.6 x 3.2 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "2.3 kg (5.07 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Stainless Steel"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished, Brushed"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP64"
+          },
+           {
+            "label": "EN54-24",
+            "value": "EN 54-24:2008 compliant"
           }
         ]
       }
@@ -371,10 +585,10 @@
   {
     "slug": "kobra-kk102-i",
     "name": "K-array Kobra-KK102 I",
-    "headline": "Full-height stainless-steel line-array column",
+    "headline": "One meter long, the Kobra-KK102 I is a passive loudspeaker comprised of sixteen 2\" neodymium magnet woofers. With two different impedance values 8Ω / 32Ω, the Kobra-KK102 I allows the user to select between wide or narrow coverage. Featuring true line array characteristics, the Kobra-KK102 I is an excellent design element for retail, restaurants and hotels.",
     "description": "Kobra-KK102 I doubles the height of KK52 I for greater throw and consistency in tall or reverberant spaces.",
-    "story": "Where speech intelligibility is everything, KK102 I builds a taller line source to keep energy on the audience and off reflective surfaces.",
-    "definition": "Full-height passive line-array column for demanding architectural and worship spaces.",
+    "story": "One meter long, the Kobra-KK102 I is a passive loudspeaker comprised of sixteen 2\" neodymium magnet woofers. With two different impedance values 8Ω / 32Ω, the Kobra-KK102 I allows the user to select between wide or narrow coverage. Featuring true line array characteristics, the Kobra-KK102 I is an excellent design element for retail, restaurants and hotels.",
+    "definition": "One meter long, the Kobra-KK102 I is a passive loudspeaker comprised of sixteen 2\" neodymium magnet woofers. With two different impedance values 8Ω / 32Ω, the Kobra-KK102 I allows the user to select between wide or narrow coverage. Featuring true line array characteristics, the Kobra-KK102 I is an excellent design element for retail, restaurants and hotels.",
     "series": "Kobra",
     "category": "Speakers",
     "finish": "Stainless Column",
@@ -412,24 +626,74 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Extended-height stainless-steel enclosure"
+            "label": "Type",
+            "value": "Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Very narrow vertical directivity"
+            "label": "Transducers",
+            "value": "8 x 2\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Long-throw coverage in reflective rooms"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Multiple rigging and mounting options"
+            "label": "Max SPL",
+            "value": "120 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Works in distributed and point-source systems"
+            "label": "Rated Power",
+            "value": "200 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 10° - 60° | H. 120°"
+          },
+          {
+            "label": "Connectors",
+            "value": "SpeakOn NL4 1+ 1- (signal); 2+ 2- (through)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω / 64 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "59 x 497 x 81 mm  (2.3 x 19.6 x 3.2 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "2.3 kg (5.07 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Stainless Steel"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished, Brushed"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP64"
+          },
+           {
+            "label": "EN54-24",
+            "value": "EN 54-24:2008 compliant"
           }
         ]
       }

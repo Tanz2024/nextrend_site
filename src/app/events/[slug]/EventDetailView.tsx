@@ -387,7 +387,7 @@ export function EventDetailView({ detail, summary }: Props) {
                 <h3
                   className={`${cormorant.className} text-[0.9rem] sm:text-[0.95rem] md:text-[1rem] font-semibold uppercase tracking-[0.12em] sm:tracking-[0.14em] text-[#C6AA76]`}
                 >
-                  Behind the Scenes
+                  Event Overview
                 </h3>
                 <article className="prose prose-neutral max-w-none prose-p:leading-[1.85] sm:prose-p:leading-[2] md:prose-p:leading-[2.15] prose-p:text-[0.95rem] sm:prose-p:text-[1.05rem] md:prose-p:text-[1.08rem] prose-p:text-[#2A2A2A]">
                   {detail.role.map((p) => (
