@@ -36,7 +36,7 @@ const serviceHighlights = [
   {
     title: "Consultation",
     description:
-      "We begin by understanding your unique requirements through a personalized meeting. We explore your space, preferences, and performance goals to craft the ideal audio solution.",
+      "We begin by understanding your requirements through a personalized meeting. We explore your space, preferences, and performance goals to craft the ideal audio solution.",
     image: buildGeneralImageUrl("IMG_1329.JPEG"),
     imageAlt: "Consultation session reviewing architectural sound plans",
     href: "/services/consultation",

@@ -14,23 +14,23 @@ type ServiceMeta = {
 
 const SERVICE_META: Record<ServiceId, ServiceMeta> = {
   Consultation: {
-    accent: "Listening, first.",
+    accent: "Your Space, Your Sound",
     description:
-      "Immersive auditions and reconnaissance before anyone commits to a specification.",
+      "We explore your space, lifestyle, and performance goals to design high-end audio-visual solutions tailored to you.",
     cta: "Schedule a session",
     href: "/services/consultation",
   },
   Design: {
-    accent: "Architecture, tuned.",
+    accent: "Where Sound Meets Space",
     description:
-      "CAD-ready integrations, material guidance, and purposeful concealment of every speaker.",
+      "From speaker placement to material selection, every detail is crafted for immersive sound and seamless integration with your interior.",
     cta: "Explore the design work",
     href: "/services/design",
   },
   Installation: {
-    accent: "Delivery, commissioning, concierge.",
+    accent: "Seamless Setup & Smart Automation",
     description:
-      "Logistics, DSP tuning, and lifetime support so the finished system feels effortless.",
+      "Our experts handle professional speaker installation, DSP tuning, and app-controlled automation for effortless, high-end performance.",
     cta: "Book the technical team",
     href: "/services/installation",
   },
@@ -40,7 +40,7 @@ const SERVICE_ORDER: ServiceId[] = ["Consultation", "Design", "Installation"];
 
 const LEAD_COPY: Record<ServiceId, string> = {
   Consultation:
-    "While consultation is where you begin, peek at design and installation so the whole journey stays aligned.",
+    "From vision to reality, we guide you through every stage—consultation, design, and installation—so your audio-visual experience is seamless, elegant, and immersive.",
   Design:
     "Pair your design collaboration with consultation and installation to keep every decision aligned all the way through.",
   Installation:
@@ -93,7 +93,7 @@ export default function ServicesCrossPromo({ current }: ServicesCrossPromoProps)
             Continue exploring
           </p>
           <h3 className="text-[1.8rem] font-semibold tracking-tight text-neutral-900 sm:text-[2.1rem]">
-            The rest of the journey.
+            Your High-End AV Solution
           </h3>
           <p className="max-w-2xl text-sm leading-relaxed text-[rgba(68,60,54,0.95)]">
             {LEAD_COPY[current]}

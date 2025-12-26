@@ -331,7 +331,7 @@ export function SiteFooter() {
       {/* Kuala Lumpur (Bangsar) */}
       <address className="not-italic space-y-3 text-[var(--foreground)] border-t border-[var(--border-color)] pt-12 md:border-t-0 md:pt-0 md:pl-12 lg:pl-20">
         <p className="text-xs font-medium uppercase tracking-widest text-[var(--secondary)]/80 mb-4">
-          Kuala Lumpur — Bangsar
+          Bangsar
         </p>
         <div className="space-y-1 text-base leading-relaxed">
           <p>162, Jalan Maarof</p>

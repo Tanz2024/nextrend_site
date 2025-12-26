@@ -28,6 +28,8 @@ const serif = Playfair_Display({
   display: "swap",
 });
 
+const installationvideosrc = buildAssetUrl("VIDEO_SERVICES", "Installation_video.mp4");
+
 const EASE: [number, number, number, number] = [0.19, 1, 0.22, 1];
 
 const textStagger = {
@@ -235,6 +237,19 @@ export default function InstallationClient() {
           </motion.article>
         </div>
       </section>
+
+       <section className="mx-auto max-w-6xl px-6 pb-24 sm:px-8 lg:px-16">
+            <div className="overflow-hidden rounded-3xl bg-black shadow-sm">
+              <video
+                className="h-auto w-full"
+                src={installationvideosrc}
+                controls
+                playsInline
+                preload="metadata"
+                poster="" // optional: add a poster image url if you have one
+              />
+            </div>
+          </section>
 
       <ServicesCrossPromo current="Installation" />
     </main>
