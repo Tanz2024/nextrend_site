@@ -15,19 +15,19 @@ const serviceTeasers = [
   {
     title: "Consultation",
     summary:
-      "Private listening sessions and on-site audits so you experience cinema impact, ambience control, and clarity before you commit.",
+      "We begin by understanding your requirements through a personalized meeting. We explore your space, preferences, and performance goals to craft the ideal audio solution.",
     href: "/services/consultation",
   },
   {
     title: "Design",
     summary:
-      "European-inspired acoustic studies that conceal equipment in architecture while preserving warmth, detail, and coverage.",
+      "Using layouts and advanced 3D audio simulation software, we design and simulate how sound disperses in your space. This ensures optimal coverage, clarity, and seamless integration with your interior.",
     href: "/services/design",
   },
   {
     title: "Installation and Automation",
     summary:
-      "Logistics, commissioning, and DSP tuning end-to-end, followed by documentation and concierge-style aftercare.",
+      "From laying cables and installing speakers to fine-tuning the system, we deliver a complete customized solution, including a single app to intuitively control all audio functions tailored to your space.",
     href: "/services/installation",
   },
 ] as const;

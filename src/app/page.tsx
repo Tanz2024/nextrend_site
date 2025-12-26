@@ -53,7 +53,7 @@ const serviceHighlights = [
     imageClass: "scale-[1.1] object-[65%_10%]"
   },
   {
-    title: "Installation",
+    title: "Installation and Automation",
     description:
       "From laying cables and installing speakers to fine-tuning the system, we deliver a complete customized solution, including a single app to intuitively control all audio functions tailored to your space.",
     image: buildGeneralImageUrl("Installation.jpg"),

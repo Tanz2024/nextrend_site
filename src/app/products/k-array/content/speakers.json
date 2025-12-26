@@ -705,7 +705,7 @@
     "headline": "Compact flat-panel line-array column",
     "description": "Vyper-KV25 II is a slim aluminium column with a flat front grille, designed to disappear alongside architectural lines.",
     "story": "Where the wall detail is razor-sharp, KV25 II hugs stone, glass or timber and throws a controlled sound field down the room.",
-    "definition": "Compact flat-panel passive line-array loudspeaker.",
+    "definition": "The Vyper-KV25 II is an ultra-flat passive loudspeaker comprised of four 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis, with a new frameless chassis designed for very elegant discreet installations, perfect for a clean bracketless application on any flat surface. The four closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "Flat Aluminium Column",
@@ -743,24 +743,70 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Slim, flat aluminium profile"
+            "label": "Type",
+            "value": "Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "High directivity line-array behaviour"
+            "label": "Transducers",
+            "value": "4 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Multiple colour options to match interiors"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Mounts flush to walls and columns"
+            "label": "Max SPL",
+            "value": "108 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Pairs with K-array subwoofers"
+            "label": "Rated Power",
+            "value": "75 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 25° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2PIN euroblock connector (included)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "8 Ω / 32 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "40 x 260 x 22 mm  (1.56 x 10.24 x 0.85 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.4 kg (0.88 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }
@@ -771,8 +817,8 @@
     "name": "K-array Vyper-KV25R II",
     "headline": "Curved-ready flat-panel column",
     "description": "The Vyper-KV25R II adds a mechanically flexible rear plate to follow gentle curves in fa\u00c3\u00a7ades and interiors.",
-    "story": "Architectural lines are rarely perfectly straight; KV25R II bends visually with features while keeping its acoustic performance intact.",
-    "definition": "Flexible flat-panel line-array for gently curved mounting surfaces.",
+    "story": "The Vyper-KV25R II is an ultra-flat passive loudspeaker comprised of four 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis, designed for in-wall recessed installations.The four closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
+    "definition": "The Vyper-KV25R II is an ultra-flat passive loudspeaker comprised of four 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis, designed for in-wall recessed installations.The four closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "Flexible Flat Column",
@@ -810,24 +856,70 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Flexible backing for gentle curves"
+            "label": "Type",
+            "value": "Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Flat perforated metal front"
+            "label": "Transducers",
+            "value": "4 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Line-array directivity with slim form"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Compatible with K-array wall hardware"
+            "label": "Max SPL",
+            "value": "108 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Designed to pair with compact subs"
+            "label": "Rated Power",
+            "value": "75 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 25° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2PIN euroblock connector (included)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "8 Ω / 32 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "50 x 270 x 37 mm  (1.95 x 10.63 x 1.45 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.4 kg (0.88 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }
@@ -838,8 +930,8 @@
     "name": "K-array Vyper-KV25W I",
     "headline": "White flat-panel column for wall mounting",
     "description": "Vyper-KV25W I offers the compact KV25 column in a white finish for seamless blending into light interiors.",
-    "story": "From galleries to residential living rooms, KV25W I takes the visual weight out of the sound system.",
-    "definition": "Compact white flat-panel column for discreet wall reinforcement.",
+    "story": "The Vyper-KV25W I is a 26-cm-long passive line array comprised of four 1” neodymium magnet transducers housed in an elegant and resistant aluminum chassis. The Vyper-KV25W I features two different values of impedance (8Ω – 32Ω), with the benefit of joining up to 8 units powered from a single amplifier channel at the 32Ω, being the perfect solution for small to medium venues. The Vyper is able to reproduce the whole vocal frequency range with high intelligibility and unparalleled directivity.",
+    "definition": "The Vyper-KV25W I is a 26-cm-long passive line array comprised of four 1” neodymium magnet transducers housed in an elegant and resistant aluminum chassis. The Vyper-KV25W I features two different values of impedance (8Ω – 32Ω), with the benefit of joining up to 8 units powered from a single amplifier channel at the 32Ω, being the perfect solution for small to medium venues. The Vyper is able to reproduce the whole vocal frequency range with high intelligibility and unparalleled directivity.",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "White Flat Column",
@@ -865,24 +957,78 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "White-finished flat-panel enclosure"
+            "label": "Type",
+            "value": "Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Line-array directivity in compact form"
+            "label": "Transducers",
+            "value": "4 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Wall-mount hardware for vertical installs"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Ideal for speech and background music"
+            "label": "Max SPL",
+            "value": "108 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Matches white d\u00c3\u00a9cor and trim details"
+            "label": "Rated Power",
+            "value": "75 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 25° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2PIN euroblock connector (included)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "8 Ω / 32 Ω selectable"
+          },
+          {
+            "label": "Disclaimer",
+            "value": "Passive loudspeakers requires dedicated preset loaded on board of K-array amplifiers."
+          },
+          {
+            "label": "Disclaimer",
+            "value": "New materials and design are introduced into existing products without previous notice."
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "40 x 260 x 22 mm  (1.6 x 10.2 x 0.9 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.4 kg (0.88 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "White"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished, Brushed"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }
@@ -894,7 +1040,7 @@
     "headline": "Medium flat-panel line-array column",
     "description": "Vyper-KV52 II is a taller flat-panel column for more output and throw while preserving the razor-slim profile.",
     "story": "Ideal for hospitality and showrooms where you need punch and projection but refuse to compromise on the architecture.",
-    "definition": "Medium-height flat-panel line-array loudspeaker.",
+    "definition": "Vyper-KV52 II is an ultra-flat passive loudspeaker comprised of eight 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis, with a new frameless chassis designed for very elegant discreet installations, perfect for a clean bracketless application on any flat surface.",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "Flat Aluminium Column",
@@ -932,24 +1078,70 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Medium-height flat aluminium enclosure"
+            "label": "Type",
+            "value": "Passive line array loudspeaker"
           },
           {
-            "label": "Spec 2",
-            "value": "Highly controlled vertical directivity"
+            "label": "Transducers",
+            "value": "8 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Multiple rigging and wall-mount options"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Compatible with K-array DSP amplifiers"
+            "label": "Max SPL",
+            "value": "114 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Pairs with subs for full-range systems"
+            "label": "Rated Power",
+            "value": "150 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 10° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2x Euroblock 2,5/ 2-ST-5,08"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω / 64 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "40 x 500 x 22 mm  (1.6 x 19.7 x 0.9 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.8 kg (1.54 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }
@@ -961,7 +1153,7 @@
     "headline": "Flush-mount flat-panel column",
     "description": "Vyper-KV52F II is a flush-mountable version of KV52 II for in-wall or in-panel integration.",
     "story": "For interiors where the speaker must sit flush with cladding or joinery, KV52F II frames the column into the surface.",
-    "definition": "Flush-mount medium flat-panel line-array loudspeaker.",
+    "definition": "Vyper-KV52F II is an ultra-flat passive loudspeaker comprised of eight 1” neodymium magnet transducers each, characterized by a wide sound emission pattern both in the horizontal and vertical directions. The new frameless chassis of the Vyper-KV52F II suites now a clean bracketless installation on any flat surface. The eight closely-spaced cone drivers are fed with electronically processed signals that widen the sound emission of the loudspeaker. The Vyper-KV52F II and Vyper-KV52FR II are elegant wide-dispersion loudspeakers with a slim form factor tailoring the applications where wide coverage is required.",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "Flush Column",
@@ -999,24 +1191,70 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Flush-mount frame and hardware"
+            "label": "Type",
+            "value": "Point Source"
           },
           {
-            "label": "Spec 2",
-            "value": "Flat perforated front grille"
+            "label": "Transducers",
+            "value": "8 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Controlled vertical beam"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Compatible with K-array amps and DSP"
+            "label": "Max SPL",
+            "value": "114 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Designed for integration into panels"
+            "label": "Rated Power",
+            "value": "150 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 60° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2x Euroblock 2,5/ 2-ST-5,08"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω - 64 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "40 x 500 x 22 mm  (1.6 x 19.7 x 0.9 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.8 kg (1.54 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }
@@ -1028,7 +1266,7 @@
     "headline": "Flush-mount column for curved fa\u00c3\u00a7ades",
     "description": "Vyper-KV52FR II adds flexible mounting to the flush KV52F format for subtle curves and complex surfaces.",
     "story": "Fa\u00c3\u00a7ades and feature walls rarely stay flat; KV52FR II gives designers freedom to follow those lines with a continuous sound source.",
-    "definition": "Flexible flush-mount flat-panel column loudspeaker.",
+    "definition": "Vyper-KV52FR II is a ultra-flat passive loudspeakers comprised of eight 1” neodymium magnet transducers each, characterized by a wider sound emission pattern if compared to Vyper- KV52 II and Vyper- KV52R II. The eight closely-spaced cone drivers are fed with electronically processed signals that widen the overall sound emission of the loudspeaker. ",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "Flexible Flush Column",
@@ -1066,24 +1304,70 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Flexible frame for gentle curves"
+            "label": "Type",
+            "value": "Passive loudspeaker"
           },
           {
-            "label": "Spec 2",
-            "value": "Flush-mount hardware kit"
+            "label": "Transducers",
+            "value": "8 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Line-array vertical directivity"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Compatible with K-array system presets"
+            "label": "Max SPL",
+            "value": "114 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Available in multiple finishes"
+            "label": "Rated Power",
+            "value": "150 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 60° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2PIN euroblock connector (included)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω - 64 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "40 x 500 x 22 mm  (1.6 x 19.7 x 0.9 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.8 kg (1.54 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }
@@ -1094,8 +1378,8 @@
     "name": "K-array Vyper-KV52R II",
     "headline": "Flexible flat-panel column",
     "description": "Vyper-KV52R II is the flexible variant of KV52 II for surface-mount applications along gently curved structures.",
-    "story": "Handrail, balcony, contour wall \u00e2\u20ac\u201c KV52R II follows them gracefully, keeping the column visually continuous.",
-    "definition": "Flexible surface-mount flat-panel column loudspeaker.",
+    "story": "The Vyper-KV52RII is an ultra-flat passive loudspeaker comprised of eight 1” neodymium magnet transducers, housed in an elegant yet sturdy aluminum chassis designed for in-wall recessed installations. The eight closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
+    "definition": "The Vyper-KV52RII is an ultra-flat passive loudspeaker comprised of eight 1” neodymium magnet transducers, housed in an elegant yet sturdy aluminum chassis designed for in-wall recessed installations. The eight closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "Flexible Column",
@@ -1133,24 +1417,70 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Flexible rear chassis for gentle curvature"
+            "label": "Type",
+            "value": " Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Slim flat front grille"
+            "label": "Transducers",
+            "value": "8 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Narrow vertical dispersion"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Works with K-array subwoofers and amps"
+            "label": "Max SPL",
+            "value": "114 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Multiple colour options available"
+            "label": "Rated Power",
+            "value": "150 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 10° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2PIN euroblock connector (included)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "16 Ω - 64 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "50 x 510 x 37 mm  (1.95 x 20.08 x 1.45 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "0.8 kg (1.76 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }
@@ -1159,10 +1489,10 @@
   {
     "slug": "vyper-kv102-ii",
     "name": "K-array Vyper-KV102 II",
-    "headline": "Full-height flat-panel line-array column",
+    "headline": "The Vyper-KV102 II is an ultra-flat passive loudspeaker comprised of sixteen 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis, with a new frameless chassis designed for very elegant discreet installations, perfect for a clean bracketless application on any flat surface. The sixteen closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
     "description": "Vyper-KV102 II is a tall flat-panel column that maximises line-array behaviour for large and reverberant spaces.",
-    "story": "KV102 II is the go-to when you need high intelligibility and coverage in grand lobbies and halls without heavy loudspeaker profiles.",
-    "definition": "Full-height flat-panel line-array loudspeaker for demanding installations.",
+    "story": "The Vyper-KV102 II is an ultra-flat passive loudspeaker comprised of sixteen 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis, with a new frameless chassis designed for very elegant discreet installations, perfect for a clean bracketless application on any flat surface. The sixteen closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
+    "definition": "The Vyper-KV102 II is an ultra-flat passive loudspeaker comprised of sixteen 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis, with a new frameless chassis designed for very elegant discreet installations, perfect for a clean bracketless application on any flat surface. The sixteen closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "Flat Aluminium Column",
@@ -1200,24 +1530,70 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Tall flat aluminium enclosure"
+            "label": "Type",
+            "value": " Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Very narrow vertical beam"
+            "label": "Transducers",
+            "value": "16 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Enhanced throw for reflective spaces"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Wall, pole and flown mounting options"
+            "label": "Max SPL",
+            "value": "120 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "System presets with K-array amplifiers"
+            "label": "Rated Power",
+            "value": "300 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 7° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2PIN euroblock connector (included)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "8 Ω - 32 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "40 x 1000 x 22 mm  (1.6 x 39.3 x 0.9 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "1.8 kg (3.96 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }
@@ -1228,8 +1604,8 @@
     "name": "K-array Vyper-KV102R II",
     "headline": "Flexible full-height flat-panel column",
     "description": "Vyper-KV102R II combines full-height output with a flexible chassis for curved or non-linear architectural features.",
-    "story": "For long, flowing lines of audio, KV102R II tracks the building geometry while maintaining a continuous column.",
-    "definition": "Flexible full-height flat-panel line-array loudspeaker.",
+    "story": "The Vyper-KV102R II is an ultra-flat passive loudspeaker comprised of sixteen 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis designed for in-wall recessed installations. The sixteen closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
+    "definition": "The Vyper-KV102R II is an ultra-flat passive loudspeaker comprised of sixteen 1” neodymium magnet transducers each, housed in an elegant yet sturdy aluminum chassis designed for in-wall recessed installations. The sixteen closely-spaced cone drivers provide true line array characteristics: phase coherence, low distortion and focused listening in both the near field and at a distance from the speaker.",
     "series": "Vyper",
     "category": "Speakers",
     "finish": "Flexible Column",
@@ -1267,24 +1643,70 @@
         "title": "General",
         "items": [
           {
-            "label": "Spec 1",
-            "value": "Full-height flexible chassis"
+            "label": "Type",
+            "value": " Line array"
           },
           {
-            "label": "Spec 2",
-            "value": "Flat front grille to follow curves"
+            "label": "Transducers",
+            "value": "16 x 1\" neodymium magnet woofer"
           },
           {
-            "label": "Spec 3",
-            "value": "Narrow vertical dispersion, wide horizontal"
+            "label": "Frequency Response",
+            "value": "150 Hz - 18 kHz (-6 dB)"
           },
           {
-            "label": "Spec 4",
-            "value": "Compatible with K-array processing"
+            "label": "Max SPL",
+            "value": "120 dB (peak)"
           },
           {
-            "label": "Spec 5",
-            "value": "Available in standard and custom finishes"
+            "label": "Rated Power",
+            "value": "300 W"
+          },
+          {
+            "label": "Coverage",
+            "value": "V. 7° | H. 140°"
+          },
+          {
+            "label": "Connectors",
+            "value": "2PIN euroblock connector (included)"
+          },
+          {
+            "label": "Nominal Impedance",
+            "value": "8 Ω - 32 Ω selectable"
+          }
+        ]
+      },
+      {
+        "title": "Handling and Finishes",
+        "items": [
+          {
+            "label": "Dimensions (W x H x D)",
+            "value": "50 x 1010 x 37 mm  (1.95 x 39.76 x 1.45 in)"
+          },
+          {
+            "label": "Weight",
+            "value": "1.8 kg (3.96 lb)"
+          },
+          {
+            "label": "Material",
+            "value": "Aluminum"
+          },
+          {
+            "label": "Colors",
+            "value": "Black, White, Custom RAL"
+          },
+          {
+            "label": "Finishes",
+            "value": "24K Gold, Polished"
+          }
+        ]
+      },
+      {
+        "title": "Regulations",
+        "items": [
+          {
+            "label": "IP Rating",
+            "value": "IP65"
           }
         ]
       }

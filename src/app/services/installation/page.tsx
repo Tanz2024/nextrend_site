@@ -92,7 +92,7 @@ export default function InstallationClient() {
                     text-[2rem] leading-tight text-[#f7efe3]
                     sm:text-[2.4rem] md:text-[2.8rem] lg:text-[3.1rem]`}
                 >
-                  {"Installation".split(" ").map((word, i) => (
+                  {"Installation and Automation".split(" ").map((word, i) => (
                     <motion.span
                       key={i}
                       variants={wordVariant}
